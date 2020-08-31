@@ -6,8 +6,7 @@ import NavbarComp from './NavbarComp'
 const App = () => {
   return (
     <>
-    <Route path='/' component={NavbarComp} />
-      <h1>hello world</h1>
+      <Route path='/' component={NavbarComp} />
     </>
   )
 }
