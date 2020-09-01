@@ -20,11 +20,6 @@ const NavbarComp = () => {
           <Nav className="ml-auto">
             <Nav.Link href="#home">Home</Nav.Link>
 
-            <NavDropdown title="About Us" id="collasible-nav-dropdown">
-              <NavDropdown.Item href="#action/2.1">What we are about</NavDropdown.Item>
-              <NavDropdown.Item href="#action/2.2">Where &apos;Salhouse&apos; comes from</NavDropdown.Item>
-            </NavDropdown>
-
             <NavDropdown title="Our Goldens" id="collasible-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Phoenix</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2">Kula</NavDropdown.Item>
@@ -40,6 +35,13 @@ const NavbarComp = () => {
               <NavDropdown.Divider />
               <NavDropdown.Item href="#action/4.2">Grooming Service</NavDropdown.Item>
               <NavDropdown.Item href="#action/4.3">Testimonials and photos</NavDropdown.Item>
+            </NavDropdown>
+
+            <Nav.Link href="#mylifewithanimals">My Life With Animals</Nav.Link>
+
+            <NavDropdown title="About Us" id="collasible-nav-dropdown">
+              <NavDropdown.Item href="#action/2.1">What we are about</NavDropdown.Item>
+              <NavDropdown.Item href="#action/2.2">Where &apos;Salhouse&apos; comes from</NavDropdown.Item>
             </NavDropdown>
 
             <Nav.Link href="#links">Links</Nav.Link>

@@ -50,20 +50,6 @@ exports[`Navbar component to match snapshot 1`] = `
             id="collasible-nav-dropdown"
             role="button"
           >
-            About Us
-          </a>
-        </div>
-        <div
-          class="dropdown nav-item"
-        >
-          <a
-            aria-expanded="false"
-            aria-haspopup="true"
-            class="dropdown-toggle nav-link"
-            href="#"
-            id="collasible-nav-dropdown"
-            role="button"
-          >
             Our Goldens
           </a>
         </div>
@@ -79,6 +65,27 @@ exports[`Navbar component to match snapshot 1`] = `
             role="button"
           >
             Grooming Your Golden
+          </a>
+        </div>
+        <a
+          class="nav-link"
+          data-rb-event-key="#mylifewithanimals"
+          href="#mylifewithanimals"
+        >
+          My Life With Animals
+        </a>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            About Us
           </a>
         </div>
         <a
