@@ -147,19 +147,22 @@ function ControlledCarousel() {
     onSelect: handleSelect
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_bootstrap_Carousel__WEBPACK_IMPORTED_MODULE_2__["default"].Item, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
     className: "d-block w-100",
-    src: "holder.js/800x400?text=First slide&bg=373940",
+    src: "images/09.jpg",
     alt: "First slide"
-  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_bootstrap_Carousel__WEBPACK_IMPORTED_MODULE_2__["default"].Caption, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h3", null, "First slide label"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", null, "Nulla vitae elit libero, a pharetra augue mollis interdum."))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_bootstrap_Carousel__WEBPACK_IMPORTED_MODULE_2__["default"].Item, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_bootstrap_Carousel__WEBPACK_IMPORTED_MODULE_2__["default"].Caption, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h3", null, "First slide label, do you want this?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", null, "Do you want to add further comments below the label?"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_bootstrap_Carousel__WEBPACK_IMPORTED_MODULE_2__["default"].Item, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
     className: "d-block w-100",
-    src: "holder.js/800x400?text=Second slide&bg=282c34",
+    src: "images/04.jpg",
     alt: "Second slide"
-  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_bootstrap_Carousel__WEBPACK_IMPORTED_MODULE_2__["default"].Caption, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h3", null, "Second slide label"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", null, "Lorem ipsum dolor sit amet, consectetur adipiscing elit."))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_bootstrap_Carousel__WEBPACK_IMPORTED_MODULE_2__["default"].Item, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_bootstrap_Carousel__WEBPACK_IMPORTED_MODULE_2__["default"].Caption, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h3", null, "Second slide label, do you want this?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", null, "Do you want to add further comments below the label?"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_bootstrap_Carousel__WEBPACK_IMPORTED_MODULE_2__["default"].Item, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
     className: "d-block w-100",
-    src: "holder.js/800x400?text=Third slide&bg=20232a",
+    src: "images/12.jpg",
     alt: "Third slide"
-  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_bootstrap_Carousel__WEBPACK_IMPORTED_MODULE_2__["default"].Caption, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h3", null, "Third slide label"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", null, "Praesent commodo cursus magna, vel scelerisque nisl consectetur."))));
-} // render(<ControlledCarousel />)
-
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_bootstrap_Carousel__WEBPACK_IMPORTED_MODULE_2__["default"].Caption, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h3", null, "Third slide label, do you want this?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", null, "Do you want to add further comments below the label?"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_bootstrap_Carousel__WEBPACK_IMPORTED_MODULE_2__["default"].Item, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
+    className: "d-block w-100",
+    src: "images/11.jpg",
+    alt: "Third slide"
+  })));
+}
 
 /* harmony default export */ __webpack_exports__["default"] = (ControlledCarousel);
 

@@ -14,44 +14,52 @@ function ControlledCarousel () {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=First slide&bg=373940"
+          src="images/09.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>First slide label</h3>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h3>First slide label, do you want this?</h3>
+          <p>Do you want to add further comments below the label?</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=Second slide&bg=282c34"
+          src="images/04.jpg"
           alt="Second slide"
         />
 
         <Carousel.Caption>
-          <h3>Second slide label</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <h3>Second slide label, do you want this?</h3>
+          <p>Do you want to add further comments below the label?</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=Third slide&bg=20232a"
+          src="images/12.jpg"
           alt="Third slide"
         />
 
         <Carousel.Caption>
-          <h3>Third slide label</h3>
-          <p>
-              Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-          </p>
+          <h3>Third slide label, do you want this?</h3>
+          <p>Do you want to add further comments below the label?</p>
         </Carousel.Caption>
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="images/11.jpg"
+          alt="Third slide"
+        />
+
+        {/* <Carousel.Caption>
+          <h3>Third slide label, do you want this?</h3>
+          <p>Do you want to add further comments below the label?</p>
+        </Carousel.Caption> */}
       </Carousel.Item>
     </Carousel>
   )
 }
-
-// render(<ControlledCarousel />)
 
 export default ControlledCarousel
