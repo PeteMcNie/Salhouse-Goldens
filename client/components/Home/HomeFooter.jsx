@@ -8,7 +8,7 @@ function HomeFooter () {
         Using images from this website
       </p>
       <p>
-        All photos on this website are copyright © by me. They are creative-commons licensed, you may use them 
+        All photos on this website are copyright © by me. They are creative-commons licensed, you may use them
         under these non-commercial terms.
       </p>
       <p>

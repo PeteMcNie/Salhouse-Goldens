@@ -241,6 +241,7 @@ exports[`App component displays correct components 1`] = `
     </p>
   </div>
   <div>
+    <hr />
     <p>
       Using images from this website
     </p>

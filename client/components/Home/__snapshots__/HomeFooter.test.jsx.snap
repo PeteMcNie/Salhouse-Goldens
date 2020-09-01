@@ -241,6 +241,7 @@ exports[`HomeFooter component to match snapshot 1`] = `
     </p>
   </div>
   <div>
+    <hr />
     <p>
       Using images from this website
     </p>

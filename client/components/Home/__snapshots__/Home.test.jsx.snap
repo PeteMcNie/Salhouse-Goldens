@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`HomeBody component to match snapshot 1`] = `
+exports[`Home component to match snapshot 1`] = `
 <div>
   <nav
     class="navbar navbar-expand-lg navbar-dark bg-dark"
@@ -241,6 +241,7 @@ exports[`HomeBody component to match snapshot 1`] = `
     </p>
   </div>
   <div>
+    <hr />
     <p>
       Using images from this website
     </p>
