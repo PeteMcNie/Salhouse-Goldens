@@ -98,7 +98,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router-dom/esm/react-router-dom.js");
-/* harmony import */ var _Home__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Home */ "./client/components/Home.jsx");
+/* harmony import */ var _Home_Home__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Home/Home */ "./client/components/Home/Home.jsx");
 
 
 
@@ -106,7 +106,7 @@ __webpack_require__.r(__webpack_exports__);
 var App = function App() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Route"], {
     path: "/",
-    component: _Home__WEBPACK_IMPORTED_MODULE_2__["default"]
+    component: _Home_Home__WEBPACK_IMPORTED_MODULE_2__["default"]
   }));
 };
 
@@ -114,10 +114,10 @@ var App = function App() {
 
 /***/ }),
 
-/***/ "./client/components/Carousel.jsx":
-/*!****************************************!*\
-  !*** ./client/components/Carousel.jsx ***!
-  \****************************************/
+/***/ "./client/components/Home/Carousel.jsx":
+/*!*********************************************!*\
+  !*** ./client/components/Home/Carousel.jsx ***!
+  \*********************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -168,10 +168,10 @@ function ControlledCarousel() {
 
 /***/ }),
 
-/***/ "./client/components/Home.jsx":
-/*!************************************!*\
-  !*** ./client/components/Home.jsx ***!
-  \************************************/
+/***/ "./client/components/Home/Home.jsx":
+/*!*****************************************!*\
+  !*** ./client/components/Home/Home.jsx ***!
+  \*****************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -179,10 +179,10 @@ function ControlledCarousel() {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _NavbarComp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./NavbarComp */ "./client/components/NavbarComp.jsx");
-/* harmony import */ var _Carousel__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Carousel */ "./client/components/Carousel.jsx");
-/* harmony import */ var _HomeBody__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./HomeBody */ "./client/components/HomeBody.jsx");
-/* harmony import */ var _HomeFooter__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./HomeFooter */ "./client/components/HomeFooter.jsx");
+/* harmony import */ var _NavbarComp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./NavbarComp */ "./client/components/Home/NavbarComp.jsx");
+/* harmony import */ var _Carousel__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Carousel */ "./client/components/Home/Carousel.jsx");
+/* harmony import */ var _HomeBody__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./HomeBody */ "./client/components/Home/HomeBody.jsx");
+/* harmony import */ var _HomeFooter__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./HomeFooter */ "./client/components/Home/HomeFooter.jsx");
 
 
 
@@ -190,17 +190,17 @@ __webpack_require__.r(__webpack_exports__);
 
 
 var Home = function Home() {
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_NavbarComp__WEBPACK_IMPORTED_MODULE_1__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Carousel__WEBPACK_IMPORTED_MODULE_2__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_HomeBody__WEBPACK_IMPORTED_MODULE_3__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_HomeFooter__WEBPACK_IMPORTED_MODULE_5__["default"], null));
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_NavbarComp__WEBPACK_IMPORTED_MODULE_1__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Carousel__WEBPACK_IMPORTED_MODULE_2__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_HomeBody__WEBPACK_IMPORTED_MODULE_3__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_HomeFooter__WEBPACK_IMPORTED_MODULE_4__["default"], null));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Home);
 
 /***/ }),
 
-/***/ "./client/components/HomeBody.jsx":
-/*!****************************************!*\
-  !*** ./client/components/HomeBody.jsx ***!
-  \****************************************/
+/***/ "./client/components/Home/HomeBody.jsx":
+/*!*********************************************!*\
+  !*** ./client/components/Home/HomeBody.jsx ***!
+  \*********************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -218,10 +218,10 @@ function HomeBody() {
 
 /***/ }),
 
-/***/ "./client/components/HomeFooter.jsx":
-/*!******************************************!*\
-  !*** ./client/components/HomeFooter.jsx ***!
-  \******************************************/
+/***/ "./client/components/Home/HomeFooter.jsx":
+/*!***********************************************!*\
+  !*** ./client/components/Home/HomeFooter.jsx ***!
+  \***********************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -241,10 +241,10 @@ function HomeFooter() {
 
 /***/ }),
 
-/***/ "./client/components/NavbarComp.jsx":
-/*!******************************************!*\
-  !*** ./client/components/NavbarComp.jsx ***!
-  \******************************************/
+/***/ "./client/components/Home/NavbarComp.jsx":
+/*!***********************************************!*\
+  !*** ./client/components/Home/NavbarComp.jsx ***!
+  \***********************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
