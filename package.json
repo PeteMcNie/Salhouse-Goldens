@@ -34,9 +34,6 @@
     "testPathIgnorePatterns": [
       "/node_modules/",
       "/tests/cypress/"
-    ],
-    "setupFiles": [
-      "<rootDir>/client/testing/setup.js"
     ]
   },
   "dependencies": {
