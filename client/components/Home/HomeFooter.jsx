@@ -3,6 +3,7 @@ import React from 'react'
 function HomeFooter () {
   return (
     <div>
+      <hr />
       <p>
         Using images from this website
       </p>
