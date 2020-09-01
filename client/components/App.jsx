@@ -1,12 +1,12 @@
 import React from 'react'
 import { Route } from 'react-router-dom'
 
-import NavbarComp from './NavbarComp'
+import Home from './Home'
 
 const App = () => {
   return (
     <>
-      <Route path='/' component={NavbarComp} />
+      <Route path='/' component={Home} />
     </>
   )
 }
