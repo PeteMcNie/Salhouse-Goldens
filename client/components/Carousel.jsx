@@ -50,7 +50,7 @@ function ControlledCarousel () {
         <img
           className="d-block w-100"
           src="images/11.jpg"
-          alt="Third slide"
+          alt="Forth slide"
         />
 
         {/* <Carousel.Caption>
