@@ -240,5 +240,19 @@ exports[`App component displays correct components 1`] = `
       This website has lots of lovely photos of goldens and some other animals that I have owned, I hope you enjoy looking round it. Click on each photo if you want to see it enlarged.
     </p>
   </div>
+  <div>
+    <p>
+      Using images from this website
+    </p>
+    <p>
+      All photos on this website are copyright © by me. They are creative-commons licensed, you may use them under these non-commercial terms.
+    </p>
+    <p>
+      If you want to use them under different terms, please contact me.
+    </p>
+    <img
+      src="images/nocc.png"
+    />
+  </div>
 </div>
 `;
