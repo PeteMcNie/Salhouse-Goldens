@@ -86,6 +86,29 @@
 /************************************************************************/
 /******/ ({
 
+/***/ "./client/components/About Us/AboutUs.jsx":
+/*!************************************************!*\
+  !*** ./client/components/About Us/AboutUs.jsx ***!
+  \************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _NavbarComp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../NavbarComp */ "./client/components/NavbarComp.jsx");
+
+ // import AboutUsBody from './AboutUsBody'
+
+var AboutUs = function AboutUs() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_NavbarComp__WEBPACK_IMPORTED_MODULE_1__["default"], null));
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (AboutUs);
+
+/***/ }),
+
 /***/ "./client/components/App.jsx":
 /*!***********************************!*\
   !*** ./client/components/App.jsx ***!
@@ -99,6 +122,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router-dom/esm/react-router-dom.js");
 /* harmony import */ var _Home_Home__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Home/Home */ "./client/components/Home/Home.jsx");
+/* harmony import */ var _About_Us_AboutUs_jsx__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./About Us/AboutUs.jsx */ "./client/components/About Us/AboutUs.jsx");
+
 
 
 
@@ -107,6 +132,9 @@ var App = function App() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Route"], {
     path: "/",
     component: _Home_Home__WEBPACK_IMPORTED_MODULE_2__["default"]
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Route"], {
+    path: "/aboutus",
+    component: _About_Us_AboutUs_jsx__WEBPACK_IMPORTED_MODULE_3__["default"]
   }));
 };
 
@@ -179,7 +207,7 @@ function ControlledCarousel() {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _NavbarComp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./NavbarComp */ "./client/components/Home/NavbarComp.jsx");
+/* harmony import */ var _NavbarComp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../NavbarComp */ "./client/components/NavbarComp.jsx");
 /* harmony import */ var _Carousel__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Carousel */ "./client/components/Home/Carousel.jsx");
 /* harmony import */ var _HomeBody__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./HomeBody */ "./client/components/Home/HomeBody.jsx");
 /* harmony import */ var _HomeFooter__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./HomeFooter */ "./client/components/Home/HomeFooter.jsx");
@@ -241,10 +269,10 @@ function HomeFooter() {
 
 /***/ }),
 
-/***/ "./client/components/Home/NavbarComp.jsx":
-/*!***********************************************!*\
-  !*** ./client/components/Home/NavbarComp.jsx ***!
-  \***********************************************/
+/***/ "./client/components/NavbarComp.jsx":
+/*!******************************************!*\
+  !*** ./client/components/NavbarComp.jsx ***!
+  \******************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -308,7 +336,7 @@ var NavbarComp = function NavbarComp() {
     title: "About Us",
     id: "collasible-nav-dropdown"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["NavDropdown"].Item, {
-    href: "#action/2.1"
+    href: "#AboutUs"
   }, "What we are about"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["NavDropdown"].Item, {
     href: "#action/2.2"
   }, "Where 'Salhouse' comes from")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Nav"].Link, {

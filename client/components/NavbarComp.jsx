@@ -40,7 +40,7 @@ const NavbarComp = () => {
             <Nav.Link href="#mylifewithanimals">My Life With Animals</Nav.Link>
 
             <NavDropdown title="About Us" id="collasible-nav-dropdown">
-              <NavDropdown.Item href="#action/2.1">What we are about</NavDropdown.Item>
+              <NavDropdown.Item href="#AboutUs">What we are about</NavDropdown.Item>
               <NavDropdown.Item href="#action/2.2">Where &apos;Salhouse&apos; comes from</NavDropdown.Item>
             </NavDropdown>
 
