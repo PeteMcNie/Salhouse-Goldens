@@ -3,7 +3,7 @@
 exports[`Carousel component to match snapshot 1`] = `
 <div>
   <div
-    class="carousel slide"
+    class="belowNavbar carousel slide"
   >
     <ol
       class="carousel-indicators"
@@ -23,8 +23,8 @@ exports[`Carousel component to match snapshot 1`] = `
       >
         <img
           alt="First slide"
-          class="d-block w-100"
-          src="images/09-fixed.jpg"
+          class="d-block w-100;"
+          src="images/lassie.jpg"
         />
         <div
           class="carousel-caption"
@@ -43,7 +43,7 @@ exports[`Carousel component to match snapshot 1`] = `
         <img
           alt="Second slide"
           class="d-block w-100"
-          src="images/04-fixed.jpg"
+          src="images/maddie.jpg"
         />
         <div
           class="carousel-caption"
@@ -62,7 +62,7 @@ exports[`Carousel component to match snapshot 1`] = `
         <img
           alt="Third slide"
           class="d-block w-100"
-          src="images/12-fixed.jpg"
+          src="images/munch.jpg"
         />
         <div
           class="carousel-caption"

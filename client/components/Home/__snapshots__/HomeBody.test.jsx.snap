@@ -3,14 +3,14 @@
 exports[`HomeBody component to match snapshot 1`] = `
 <div>
   <nav
-    class="navbar navbar-expand-lg navbar-dark bg-dark"
+    class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top"
   >
     <a
       class="navbar-brand"
-      href="#home"
+      href="/"
     >
       <img
-        alt="Salhouse Goldens logo, pheonix and kulu laying down in the bushes looking at camera"
+        alt="Salhouse Goldens logo, phoenix and kula laying down in the bushes looking at camera"
         class="shlogo d-inline-block align-top"
         src="images/logo.jpeg"
       />
@@ -34,8 +34,8 @@ exports[`HomeBody component to match snapshot 1`] = `
       >
         <a
           class="nav-link"
-          data-rb-event-key="#home"
-          href="#home"
+          data-rb-event-key="/"
+          href="/"
         >
           Home
         </a>
@@ -106,7 +106,7 @@ exports[`HomeBody component to match snapshot 1`] = `
     </div>
   </nav>
   <div
-    class="carousel slide"
+    class="belowNavbar carousel slide"
   >
     <ol
       class="carousel-indicators"
@@ -126,8 +126,8 @@ exports[`HomeBody component to match snapshot 1`] = `
       >
         <img
           alt="First slide"
-          class="d-block w-100"
-          src="images/09-fixed.jpg"
+          class="d-block w-100;"
+          src="images/lassie.jpg"
         />
         <div
           class="carousel-caption"
@@ -146,7 +146,7 @@ exports[`HomeBody component to match snapshot 1`] = `
         <img
           alt="Second slide"
           class="d-block w-100"
-          src="images/04-fixed.jpg"
+          src="images/maddie.jpg"
         />
         <div
           class="carousel-caption"
@@ -165,7 +165,7 @@ exports[`HomeBody component to match snapshot 1`] = `
         <img
           alt="Third slide"
           class="d-block w-100"
-          src="images/12-fixed.jpg"
+          src="images/munch.jpg"
         />
         <div
           class="carousel-caption"
