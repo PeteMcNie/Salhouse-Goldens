@@ -202,7 +202,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router-dom/esm/react-router-dom.js");
 /* harmony import */ var _Home_Home__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Home/Home */ "./client/components/Home/Home.jsx");
 /* harmony import */ var _About_Us_AboutUs_jsx__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./About Us/AboutUs.jsx */ "./client/components/About Us/AboutUs.jsx");
-/* harmony import */ var _MLWA_MyLifeWithAnimals__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./MLWA/MyLifeWithAnimals */ "./client/components/MLWA/MyLifeWithAnimals.jsx");
+/* harmony import */ var _MLWA_MyLifeWithAnimals__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./MLWA/MyLifeWithAnimals */ "./client/components/MLWA/MyLifeWithAnimals.jsx");
 
 
 
@@ -219,7 +219,7 @@ var App = function App() {
     component: _About_Us_AboutUs_jsx__WEBPACK_IMPORTED_MODULE_3__["default"]
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Route"], {
     path: "/mylifewithanimals",
-    component: _MLWA_MyLifeWithAnimals__WEBPACK_IMPORTED_MODULE_5__["default"]
+    component: _MLWA_MyLifeWithAnimals__WEBPACK_IMPORTED_MODULE_4__["default"]
   }));
 };
 
