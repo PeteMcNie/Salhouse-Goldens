@@ -1,16 +1,16 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Home component to match snapshot 1`] = `
+exports[`Navbar component to match snapshot 1`] = `
 <div>
   <nav
-    class="navbar navbar-expand-lg navbar-dark bg-dark"
+    class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top"
   >
     <a
       class="navbar-brand"
-      href="#home"
+      href="/"
     >
       <img
-        alt="Salhouse Goldens logo, pheonix and kulu laying down in the bushes looking at camera"
+        alt="Salhouse Goldens logo, phoenix and kula laying down in the bushes looking at camera"
         class="shlogo d-inline-block align-top"
         src="images/logo.jpeg"
       />
@@ -34,25 +34,11 @@ exports[`Home component to match snapshot 1`] = `
       >
         <a
           class="nav-link"
-          data-rb-event-key="#home"
-          href="#home"
+          data-rb-event-key="/"
+          href="/"
         >
           Home
         </a>
-        <div
-          class="dropdown nav-item"
-        >
-          <a
-            aria-expanded="false"
-            aria-haspopup="true"
-            class="dropdown-toggle nav-link"
-            href="#"
-            id="collasible-nav-dropdown"
-            role="button"
-          >
-            About Us
-          </a>
-        </div>
         <div
           class="dropdown nav-item"
         >
@@ -79,6 +65,27 @@ exports[`Home component to match snapshot 1`] = `
             role="button"
           >
             Grooming Your Golden
+          </a>
+        </div>
+        <a
+          class="nav-link"
+          data-rb-event-key="mylifewithanimals"
+          href="mylifewithanimals"
+        >
+          My Life With Animals
+        </a>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            About Us
           </a>
         </div>
         <a

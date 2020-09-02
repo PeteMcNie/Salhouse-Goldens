@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AboutUs component to match snapshot 1`] = `
+<div>
+  <div>
+    <h3>
+      Photos
+    </h3>
+    <div
+      class="container"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="col-md-4 col-6"
+        >
+          <img
+            class="img-fluid img-thumbnail"
+            src="images/au1.jpg"
+          />
+          <p>
+            Phoenix poking her tongue out.
+          </p>
+        </div>
+        <div
+          class="col-md-4 col-6"
+        >
+          <img
+            class="img-fluid img-thumbnail"
+            src="images/au2.jpg"
+          />
+          <p>
+            Kula putting Shadow's leg to the taste test!
+          </p>
+        </div>
+        <div
+          class="col-md-4 col-6"
+        >
+          <img
+            class="img-fluid img-thumbnail"
+            src="images/au3.jpg"
+          />
+          <p>
+            Shadow in her favourite “car crash“ position!
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
