@@ -7,7 +7,7 @@ import AboutUs from './About Us/AboutUs.jsx'
 const App = () => {
   return (
     <>
-      <Route path='/' component={Home} />
+      <Route exact path='/' component={Home} />
       <Route path='/aboutus' component={AboutUs} />
     </>
   )

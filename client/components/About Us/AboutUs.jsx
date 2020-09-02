@@ -1,13 +1,13 @@
 import React from 'react'
 
 import NavbarComp from '../NavbarComp'
-// import AboutUsBody from './AboutUsBody'
+import AboutUsBody from './AboutUsBody'
 
 const AboutUs = () => {
   return (
     <>
       <NavbarComp />
-     {/* <AboutUsBody /> */}
+      <AboutUsBody />
     </>
   )
 }

@@ -5,10 +5,10 @@ import { Navbar, Nav, NavDropdown } from 'react-bootstrap'
 const NavbarComp = () => {
   return (
     <>
-      <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
-        <Navbar.Brand href="#home">
+      <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" fixed='top'>
+        <Navbar.Brand href="/">
           <img
-            alt="Salhouse Goldens logo, pheonix and kulu laying down in the bushes looking at camera"
+            alt="Salhouse Goldens logo, phoenix and kula laying down in the bushes looking at camera"
             src="images/logo.jpeg"
             className="shlogo d-inline-block align-top"
           />
@@ -18,7 +18,7 @@ const NavbarComp = () => {
 
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ml-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
+            <Nav.Link href="/">Home</Nav.Link>
 
             <NavDropdown title="Our Goldens" id="collasible-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Phoenix</NavDropdown.Item>
@@ -40,8 +40,8 @@ const NavbarComp = () => {
             <Nav.Link href="#mylifewithanimals">My Life With Animals</Nav.Link>
 
             <NavDropdown title="About Us" id="collasible-nav-dropdown">
-              <NavDropdown.Item href="#AboutUs">What we are about</NavDropdown.Item>
-              <NavDropdown.Item href="#action/2.2">Where &apos;Salhouse&apos; comes from</NavDropdown.Item>
+              <NavDropdown.Item href="/aboutus">What we are about</NavDropdown.Item>
+              <NavDropdown.Item href="/aboutus">Where &apos;Salhouse&apos; comes from</NavDropdown.Item>
             </NavDropdown>
 
             <Nav.Link href="#links">Links</Nav.Link>
