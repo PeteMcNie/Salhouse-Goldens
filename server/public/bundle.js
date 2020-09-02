@@ -355,6 +355,73 @@ function HomeFooter() {
 
 /***/ }),
 
+/***/ "./client/components/MLWA/BMP.jsx":
+/*!****************************************!*\
+  !*** ./client/components/MLWA/BMP.jsx ***!
+  \****************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-bootstrap/Image */ "./node_modules/react-bootstrap/esm/Image.js");
+
+
+
+function BMP() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "Budgie"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Of course, I have had some good office jobs over the years, but in reality, none are as rewarding as working with animals. I had been to New Zealand a couple of times and met a man that I was to marry, Rob. We got married in England and stayed there for about three years before coming to New Zealand to live. I was pregnant with my first child, Nigel, when we left England. We stayed with my brother briefly before getting ourselves a flat. I wanted to have a pet of my own still, but we were not allowed pets in the flat. However, we did a really naughty thing and purchased a budgie, called Budgie! He was with us for a while but ended up with some kind of problem where he lost all his feathers and died."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("hr", null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "Maddie"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "At this stage we had two babies and were looking for a house of our own. We found one and moved in. I was so excited to at long last have a house of my own where I could have pets if I wanted that on the day that we moved in, once the main move was completed, we made a dash into Wellington to the SPCA to get a kitten. We found a lovely little chocolate-coloured tortoiseshell kitten and took her home with us."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "We called her Maddie and she was a cutie. She grew up with our kids and was never any trouble. She was always at the gate waiting for us to come home. She did spend the days in or outdoors, whatever she wanted, but I always left her outside at night. I don\u2019t know that I knew a lot about cats and I thought they were night hunters and would like to be outside at night. In hindsight, I feel a bit sorry now that I shut her out most nights (although not all) as I see other cats that are happy to be curled up snug and warm at night. Also I wouldn\u2019t let her in the whole house. She was allowed in the kitchen, dining, conservatory and lounge, but not the bedrooms."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    src: "images/maddie.jpg",
+    fluid: true
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Maddie lived to be 15 years old and never had anything wrong with her.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "When she was a kitten, we had the three vaccinations done but then nothing after that. She was always healthy and as she never went into a cattery, I didn\u2019t think she needed vaccinating. However, when she was 15 I started to think (and I wish I didn\u2019t think so much) that it might be a good idea to have her vaccinated as she was getting older. She was the sort of cat that didn\u2019t really show her age. She looked the same at 15 as she did at one. She didn\u2019t have any grey hairs and she always only ever weighed two kilos, not a big cat. So I got her vaccinated. Three months later she was dead. I can\u2019t help thinking that if I had not had her vaccinated she would have been alright. Its probably ok to vaccinate if you have vaccinated them all their life, but for me to have got her done when she hadn\u2019t had a vaccination since a kitten was probably too much for her. One evening, Nigel was sitting next to me on the couch and we were watching t.v. together. He was 17 years old. Maddie jumped up on his lap and curled up to sleep. Then all of a sudden she made a strange noise like the sucking in of breath quite loudly and she moved, then was still. Nigel thought she had just sneezed but I thought there was something wrong and touched her. I said I thought she was dead - and sure enough she was. She had just jumped up on his lap, curled up to sleep and died. Poor Nigel was gutted but I believe and have always told him that it was an honour for him as she chose him to be the last place to live."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    src: "images/maddie1.jpg",
+    fluid: true
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("hr", null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "Pepper"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "We had three boys by this time and when I was at home I decided that it would be good to finally have a dog. I wanted a Golden Retriever but was probably very na\xEFve and didn\u2019t know about contacting breeders etc. I thought you just looked in pet shops for dogs. So I started to look but there were never any Goldens. The dogs were all cross-breeds and one day I went into the pet centre and found a puppy that I thought was quite cute. I took Rob along to have a look and he, being the easy-going fellow that he is, was quite happy to purchase this dog."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "So it was that Pepper came into our lives. She was a real cross-breed, probably German Shepherd/Labrador mostly, but the speed that she had made the vet think that she possibly had some greyhound in her too. I remember the day I brought her home from the shop - she was this little pot-bellied puppy. But then she had a pooh, and I couldn\u2019t believe my eyes \u2013 it was full of worms \u2013 ugh. So of course we got that fixed pretty quickly and she wasn\u2019t such a pot-bellied puppy after that."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    src: "images/pepper.jpg",
+    fluid: true
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "This was my first experience of owning my own dog and I made some mistakes and I did some things that I now regret.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Rob was a farmer\u2019s son and so having dogs at the farm meant that they were housed outside. Pepper was kept in the kitchen as a puppy, but as she grew up we made a kennel for her and she was kept outside. She would have the run of the whole garden when we were at home, but when we were out we chained her to the kennel as we didn\u2019t have any way of preventing her going to the front gate. We didn\u2019t have a lot of money, three young children to keep and most things were pretty basic. Pepper seemed to be a happy dog but didn\u2019t tolerate children too well. If they went to touch her she would occasionally nip them. This made taking her out to the park to watch soccer every week a bit difficult because kids would want to come and stroke her and I would have to have one eye on the soccer and one eye on Pepper to make sure that no-one came to her. She didn\u2019t ever nip someone else\u2019s kids as I was so vigilant."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    src: "images/pepperwithboys.jpg",
+    fluid: true
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Pepper was only allowed in our house in the evening and then she had to lay on a rug in the lounge. I wouldn\u2019t let her anywhere else in the house. She used to go back outside for the night. However, as time went on I started to feel guilty about keeping this dog outside. I began to think about the fact that Lassie had been an indoor dog. I persuaded Rob to let me let Pepper inside if it was really bad weather or cold. She would sleep on a blanket outside our bedroom door and I had to say that compared with my Goldens, she was the quietest thing. My Goldens snore, dream and grunt when they thunk down heavily. Pepper wasn\u2019t like that at all."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "I used to walk her for miles. She was an exceedingly fast and energetic dog."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "In the end, to wear her out Rob would drop me and my bike and Pepper at Moonshine Park in Upper Hutt and I would bike down by the river all the way back home with Pepper running alongside. When we got home, Pepper would still be full of running and I would be knackered! However, it did mean that she was a bit quieter for a couple of days after that. I became fixated with walking this dog. I used to love to take her out. There is nothing more special than going for a walk in the bush or even just round a park and having this creature running with joy in front, behind, beside you, picking up any messages that other dogs have left and generally enjoying themselves. It is very therapeutic."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    src: "images/happyPepper.jpg",
+    fluid: true
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("hr", null)));
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (BMP);
+
+/***/ }),
+
+/***/ "./client/components/MLWA/HorseGreyhounds.jsx":
+/*!****************************************************!*\
+  !*** ./client/components/MLWA/HorseGreyhounds.jsx ***!
+  \****************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-bootstrap/Image */ "./node_modules/react-bootstrap/esm/Image.js");
+
+
+
+function HorseGreyhounds() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "Horses"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "In the meantime, when I wasn't walking Lassie, I was always up the local stables riding the horses, mucking out and as I got older, teaching other people to ride. I broke my arm while riding on the South Downs one day. We were in a field near Cissbury Ring - the furthest away from the stables that this particular 1 hour ride would go, on a Saturday afternoon. While we were walking through the field some idiots let off a gun to shoot at the pheasants. Well, the whole ride took off at a flat out gallop. I was only 9 years old at the time and I was riding the fastest pony that we had. His name was Dr Zhivago and he was very strong. The horses were all galloping on the very hard ground as it was middle of summer. The Downs are made of chalk and it is not very pleasant to land on. Zhivago was going flat out and I dropped one rein and pulled his head round and even put my fingers through the ring of the bit but I couldn't slow him down. We were coming to a very sharp bend in the track and at the speed we were going I thought he was going to go down and probably fall on top of me and so I made the decision to get off at full speed gallop. Of course, in hindsight I should perhaps have stayed with him, but then worse could have happened if he did fall at the corner. I took my feet out of the stirrups as I didn't want to be caught up in them and then got off - no easy feat when the horse is going so fast. I hit the ground and I remember putting my head up and hearing the thunder of feet, so I put my head down again while another horse galloped on past me (remember that there were probably 20 horses bolting as fast as they could at this stage). Then everything went quiet and I waited. I got up and suddenly realised that my watch on my left arm was in the middle of a very big dip in my wrist. I had broken it. I also had a small stone lodged in the corner of one of my eyes, probably when my head hit the ground. I started to walk back to the stables with one of the other ladies who had stopped her horse and was picked up by a farmer part way down the track and bounced very uncomfortably down the track to his house where he called my parents. Apart from that one accident, working with horses was great fun and allowed me to be around animals even more which was all I wanted."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    src: "images/topper.jpg",
+    fluid: true
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("hr", null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "Greyhounds"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Once I finished school I started work at a racing greyhound kennel in the Sussex countryside. My Dad got me the job, so although he hadn't seemed to actively promote my love of animals, he was responsible for helping me start my working life with them. This was probably more because he was a betting man and loved to go to horse racing at Fontwell Park and the greyhound racing at Brighton. This gave him an excuse to go to lots of greyhound meetings because he would have to come and pick me up at the kennels after a race night, so he and Mum used to come to the meetings when I was working. Not only that, but he became friendly with the trainer I worked with, George Curtis, and George would give him a tip for a bet each night."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "I used to work one or two nights a week. On work days I would start out from home at 6am and walk to the station, catch the train to Portslade, wait on the corner of the road for a van to come and pick me up along with all the other kennel hands and then drive to the kennels for work at around 8am. On a day when I was working the evening race meeting, we would stay at the kennels after 4pm which was our usual finish time and wait until it was time to load up all those dogs that were going to be racing and then get in the back of the lorry with the dogs and travel to the stadium. We would then have to unload all the dogs, walk them round to get a urine test, weigh them in and put them in their kennel. Then we would have a meal and then start the evening's racing. We would have to get each dog out of the kennel for its race, have it identified, put a jacket on it and then see it off to the race. Some nights I would work as a walker, walking the dogs on the track in front of the crowd and then putting my runner in the trap ready for the race. Then we would have to run to the other side of the track where the finish was and catch our dog. On days where I worked the evening race meeting, we wouldn't finish until about 11.30pm and by the time we drove home it would be past midnight. Quite hard if I was working again the next day and had to be up before 6am."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    src: "images/clountieComment.jpg",
+    fluid: true
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Pictured left is me with one of the greyhounds, a female whose racing name was Clountie Comment. I can't recall her kennel name.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Those were good, fun days. I learned to love greyhounds as much as any other dog. They don\u2019t look that cuddly, but in fact they can be. I used to sit in the kennels with them sometimes when we were waiting for something to happen. They all had their own personalities and most loved contact with people. They make lovely pets. I had a particular favourite called Deneholme Deluxe. His kennel name was Sam. He was a cheeky dog and obviously just to my liking as I had a special bond with him. However, he wasn\u2019t the best racing dog and his owners knew I liked him and I can recall some suggestion that I might like him as a pet. But I couldn\u2019t do that as my Dad wouldn\u2019t let me so he was sent to Portsmouth to run there. I don\u2019t know what happened to him in the end. I hope that he finished his racing career and found someone to give him a lovely home for the rest of his life."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "I had a couple of stints of working with the greyhounds, but eventually I had to give it up as I got such bad hayfever that my doctor warned that I might start to get asthma if I continued working with them. The kennels were in the middle of the Sussex countryside and in June and July I could hardly breathe every day. I would sneeze my way through the day and twice my Dad had to come and pick me up and take me home because I had collapsed. So I gave up the dogs and started the boring and unsatisfying career of working in offices."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("hr", null)));
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (HorseGreyhounds);
+
+/***/ }),
+
 /***/ "./client/components/MLWA/Lassie.jsx":
 /*!*******************************************!*\
   !*** ./client/components/MLWA/Lassie.jsx ***!
@@ -381,6 +448,38 @@ function Lassie() {
 
 /***/ }),
 
+/***/ "./client/components/MLWA/MrSlattery.jsx":
+/*!***********************************************!*\
+  !*** ./client/components/MLWA/MrSlattery.jsx ***!
+  \***********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-bootstrap/Image */ "./node_modules/react-bootstrap/esm/Image.js");
+
+
+
+function MrSlattery() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "Mr Slattery"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "While I had Pepper and Maddie and my boys were young I also got some other animals. I think my lack of having them when I was a child set me up for just wanting to surround myself with them when I grew up. We had some guinea pigs, a beautiful grey dwarf rabbit called Munch and some canaries. In particular, my first canary was a boy called Mr Slattery. He lived to be about 12 or more. He couldn\u2019t really fly towards the end but we put perches near the floor of the cage that he could jump onto and he seemed quite happy. We also let him out of the cage and he used to like to potter about on the carpet and sit in the sun. Later on I got some finches too.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    src: "images/mrslattery.jpg",
+    fluid: true
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Mr Slattery taking a bath")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    src: "images/mrslatterysun.jpg",
+    fluid: true
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Mr Slattery loves the sun!")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    src: "images/phoenixandmrslattery.jpg",
+    fluid: true
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Phoenix would like to say \u201CHello\u201C to Mr Slattery in person!")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("hr", null));
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (MrSlattery);
+
+/***/ }),
+
 /***/ "./client/components/MLWA/MyLifeWithAnimals.jsx":
 /*!******************************************************!*\
   !*** ./client/components/MLWA/MyLifeWithAnimals.jsx ***!
@@ -393,18 +492,47 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _NavbarComp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../NavbarComp */ "./client/components/NavbarComp.jsx");
-/* harmony import */ var _Lassie__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Lassie */ "./client/components/MLWA/Lassie.jsx");
+/* harmony import */ var _StartingText__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./StartingText */ "./client/components/MLWA/StartingText.jsx");
+/* harmony import */ var _Lassie__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Lassie */ "./client/components/MLWA/Lassie.jsx");
+/* harmony import */ var _HorseGreyhounds__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./HorseGreyhounds */ "./client/components/MLWA/HorseGreyhounds.jsx");
+/* harmony import */ var _BMP__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./BMP */ "./client/components/MLWA/BMP.jsx");
+/* harmony import */ var _MrSlattery__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./MrSlattery */ "./client/components/MLWA/MrSlattery.jsx");
+
+
+
+
 
 
 
 
 function MyLifeWithAnimals() {
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_NavbarComp__WEBPACK_IMPORTED_MODULE_1__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "belowNavbar"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "My Life With Animals"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "My love of animals started when I was growing up in England. My Dad was not really receptive to having animals in the house. However, I presume that at some stage my Mum persuaded him that it would be good for me to have a furry creature as I remember I had a hamster called Jingle Bells, and a rabbit called Sandy. Dear Jingle Bells did a disappearing act one day \u2013 bending apart the bars of his cage and escaping. The suspicion was that he was aided by either my eldest brother or my Dad, but neither owned up and this will remain a mystery for all time now. Sandy, on the other hand, I believe, made his own escape. He was housed in a run in the garden. He had all the creature comforts that a bunny could want but one day (or night) he dug under the wire of the run and escaped too. I can remember searching the streets for Sandy and searching every cupboard and nook and cranny in the house for Jingle Bells, but we never saw either of them again. So I can say that my first foray into keeping animals wasn\u2019t all that successful.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Lassie__WEBPACK_IMPORTED_MODULE_2__["default"], null));
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_NavbarComp__WEBPACK_IMPORTED_MODULE_1__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StartingText__WEBPACK_IMPORTED_MODULE_2__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Lassie__WEBPACK_IMPORTED_MODULE_3__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_HorseGreyhounds__WEBPACK_IMPORTED_MODULE_4__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_BMP__WEBPACK_IMPORTED_MODULE_5__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_MrSlattery__WEBPACK_IMPORTED_MODULE_6__["default"], null));
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (MyLifeWithAnimals);
+
+/***/ }),
+
+/***/ "./client/components/MLWA/StartingText.jsx":
+/*!*************************************************!*\
+  !*** ./client/components/MLWA/StartingText.jsx ***!
+  \*************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+
+
+function StartingText() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "belowNavbar"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "My Life With Animals"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "My love of animals started when I was growing up in England. My Dad was not really receptive to having animals in the house. However, I presume that at some stage my Mum persuaded him that it would be good for me to have a furry creature as I remember I had a hamster called Jingle Bells, and a rabbit called Sandy. Dear Jingle Bells did a disappearing act one day \u2013 bending apart the bars of his cage and escaping. The suspicion was that he was aided by either my eldest brother or my Dad, but neither owned up and this will remain a mystery for all time now. Sandy, on the other hand, I believe, made his own escape. He was housed in a run in the garden. He had all the creature comforts that a bunny could want but one day (or night) he dug under the wire of the run and escaped too. I can remember searching the streets for Sandy and searching every cupboard and nook and cranny in the house for Jingle Bells, but we never saw either of them again. So I can say that my first foray into keeping animals wasn\u2019t all that successful.")));
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (StartingText);
 
 /***/ }),
 
