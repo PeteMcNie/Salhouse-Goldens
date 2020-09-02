@@ -99,14 +99,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _NavbarComp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../NavbarComp */ "./client/components/NavbarComp.jsx");
 /* harmony import */ var _AboutUsBody__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./AboutUsBody */ "./client/components/About Us/AboutUsBody.jsx");
-/* harmony import */ var _AboutUsImages__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./AboutUsImages */ "./client/components/About Us/AboutUsImages.jsx");
+/* harmony import */ var _AboutUsImages__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./AboutUsImages */ "./client/components/About Us/AboutUsImages.jsx");
 
 
 
 
 
 var AboutUs = function AboutUs() {
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_NavbarComp__WEBPACK_IMPORTED_MODULE_1__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_AboutUsBody__WEBPACK_IMPORTED_MODULE_2__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_AboutUsImages__WEBPACK_IMPORTED_MODULE_4__["default"], null));
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_NavbarComp__WEBPACK_IMPORTED_MODULE_1__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_AboutUsBody__WEBPACK_IMPORTED_MODULE_2__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_AboutUsImages__WEBPACK_IMPORTED_MODULE_3__["default"], null));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (AboutUs);
@@ -202,6 +202,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router-dom/esm/react-router-dom.js");
 /* harmony import */ var _Home_Home__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Home/Home */ "./client/components/Home/Home.jsx");
 /* harmony import */ var _About_Us_AboutUs_jsx__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./About Us/AboutUs.jsx */ "./client/components/About Us/AboutUs.jsx");
+/* harmony import */ var _MLWA_MyLifeWithAnimals__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./MLWA/MyLifeWithAnimals */ "./client/components/MLWA/MyLifeWithAnimals.jsx");
+
 
 
 
@@ -215,6 +217,9 @@ var App = function App() {
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Route"], {
     path: "/aboutus",
     component: _About_Us_AboutUs_jsx__WEBPACK_IMPORTED_MODULE_3__["default"]
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Route"], {
+    path: "/mylifewithanimals",
+    component: _MLWA_MyLifeWithAnimals__WEBPACK_IMPORTED_MODULE_5__["default"]
   }));
 };
 
@@ -350,6 +355,27 @@ function HomeFooter() {
 
 /***/ }),
 
+/***/ "./client/components/MLWA/MyLifeWithAnimals.jsx":
+/*!******************************************************!*\
+  !*** ./client/components/MLWA/MyLifeWithAnimals.jsx ***!
+  \******************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+
+
+function MyLifeWithAnimals() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "MLWA"));
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (MyLifeWithAnimals);
+
+/***/ }),
+
 /***/ "./client/components/NavbarComp.jsx":
 /*!******************************************!*\
   !*** ./client/components/NavbarComp.jsx ***!
@@ -413,7 +439,7 @@ var NavbarComp = function NavbarComp() {
   }, "Grooming Service"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["NavDropdown"].Item, {
     href: "#action/4.3"
   }, "Testimonials and photos")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Nav"].Link, {
-    href: "#mylifewithanimals"
+    href: "mylifewithanimals"
   }, "My Life With Animals"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["NavDropdown"], {
     title: "About Us",
     id: "collasible-nav-dropdown"
