@@ -8,6 +8,9 @@ import BMP from './BMP'
 import MrSlattery from './MrSlattery'
 import MunchMo from './MunchMo'
 import WorstNightmare from './WorstNightmare'
+import FirstGoldenRetriever from './FirstGoldenRetriever'
+import Kula from './Kula'
+import Thanks from './Thanks'
 
 function MyLifeWithAnimals () {
   return (
@@ -20,6 +23,9 @@ function MyLifeWithAnimals () {
       <MrSlattery />
       <MunchMo />
       <WorstNightmare />
+      <FirstGoldenRetriever />
+      <Kula />
+      <Thanks />
     </>
   )
 }
