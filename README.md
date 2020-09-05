@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was started for my parents as they are animal lovers and golden retriever breeders.
+This project was started for my parents as they are animal lovers and golden retriever breeders in need of a new webpage.
 
 ## To check it out prior to release
 
