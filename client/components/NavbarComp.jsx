@@ -21,7 +21,7 @@ const NavbarComp = () => {
             <Nav.Link href="/">Home</Nav.Link>
 
             <NavDropdown title="Our Goldens" id="collasible-nav-dropdown">
-              <NavDropdown.Item href="/ourgoldens/phoenix">Phoenix</NavDropdown.Item>
+              <NavDropdown.Item href="/phoenix">Phoenix</NavDropdown.Item>
               <NavDropdown.Item href="#ourgoldens/kula">Kula</NavDropdown.Item>
               <NavDropdown.Item href="#ourgoldens/shadow">Shadow</NavDropdown.Item>
               <NavDropdown.Item href="#ourgoldens/sherry">Sherry</NavDropdown.Item>
@@ -39,7 +39,7 @@ const NavbarComp = () => {
 
             <Nav.Link href="mylifewithanimals">My Life With Animals</Nav.Link>
 
-            <NavDropdown title="About Us" id="collasible-nav-dropdown">
+            <NavDropdown alignRight title="About Us" id="collasible-nav-dropdown">
               <NavDropdown.Item href="/aboutus">What we are about</NavDropdown.Item>
               <NavDropdown.Item href="/aboutus">Where &apos;Salhouse&apos; comes from</NavDropdown.Item>
             </NavDropdown>

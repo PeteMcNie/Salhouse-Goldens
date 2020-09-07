@@ -4,8 +4,7 @@ import { Route } from 'react-router-dom'
 import Home from './Home/Home'
 import AboutUs from './About Us/AboutUs'
 import MyLifeWithAnimals from './MLWA/MyLifeWithAnimals'
-import OurGoldens from './Our Goldens/OurGoldens'
-// import Phoenix from './Our Goldens/Phoenix'
+import Phoenix from './Our Goldens/Phoenix'
 
 const App = () => {
   return (
@@ -13,7 +12,7 @@ const App = () => {
       <Route exact path='/' component={Home} />
       <Route path='/aboutus' component={AboutUs} />
       <Route path='/mylifewithanimals' component={MyLifeWithAnimals} />
-      <Route path='/ourgoldens' component={OurGoldens} />
+      <Route path='/phoenix' component={Phoenix} />
     </>
   )
 }

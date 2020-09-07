@@ -203,13 +203,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Home_Home__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Home/Home */ "./client/components/Home/Home.jsx");
 /* harmony import */ var _About_Us_AboutUs__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./About Us/AboutUs */ "./client/components/About Us/AboutUs.jsx");
 /* harmony import */ var _MLWA_MyLifeWithAnimals__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./MLWA/MyLifeWithAnimals */ "./client/components/MLWA/MyLifeWithAnimals.jsx");
-/* harmony import */ var _Our_Goldens_OurGoldens__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./Our Goldens/OurGoldens */ "./client/components/Our Goldens/OurGoldens.jsx");
+/* harmony import */ var _Our_Goldens_Phoenix__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./Our Goldens/Phoenix */ "./client/components/Our Goldens/Phoenix.jsx");
 
 
 
 
 
- // import Phoenix from './Our Goldens/Phoenix'
+
 
 var App = function App() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Route"], {
@@ -223,8 +223,8 @@ var App = function App() {
     path: "/mylifewithanimals",
     component: _MLWA_MyLifeWithAnimals__WEBPACK_IMPORTED_MODULE_4__["default"]
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Route"], {
-    path: "/ourgoldens",
-    component: _Our_Goldens_OurGoldens__WEBPACK_IMPORTED_MODULE_5__["default"]
+    path: "/phoenix",
+    component: _Our_Goldens_Phoenix__WEBPACK_IMPORTED_MODULE_5__["default"]
   }));
 };
 
@@ -749,7 +749,7 @@ var NavbarComp = function NavbarComp() {
     title: "Our Goldens",
     id: "collasible-nav-dropdown"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["NavDropdown"].Item, {
-    href: "/ourgoldens/phoenix"
+    href: "/phoenix"
   }, "Phoenix"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["NavDropdown"].Item, {
     href: "#ourgoldens/kula"
   }, "Kula"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["NavDropdown"].Item, {
@@ -774,6 +774,7 @@ var NavbarComp = function NavbarComp() {
   }, "Testimonials and photos")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Nav"].Link, {
     href: "mylifewithanimals"
   }, "My Life With Animals"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["NavDropdown"], {
+    alignRight: true,
     title: "About Us",
     id: "collasible-nav-dropdown"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["NavDropdown"].Item, {
@@ -791,10 +792,10 @@ var NavbarComp = function NavbarComp() {
 
 /***/ }),
 
-/***/ "./client/components/Our Goldens/OurGoldens.jsx":
-/*!******************************************************!*\
-  !*** ./client/components/Our Goldens/OurGoldens.jsx ***!
-  \******************************************************/
+/***/ "./client/components/Our Goldens/Phoenix.jsx":
+/*!***************************************************!*\
+  !*** ./client/components/Our Goldens/Phoenix.jsx ***!
+  \***************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -802,15 +803,17 @@ var NavbarComp = function NavbarComp() {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
- // import NavbarComp from '../NavbarComp'
+/* harmony import */ var _NavbarComp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../NavbarComp */ "./client/components/NavbarComp.jsx");
 
-function OurGoldens() {
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+
+
+function Phoenix() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_NavbarComp__WEBPACK_IMPORTED_MODULE_1__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "belowNavbar"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "vjfhgalkjgljsglskjnlj")));
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Phoenix")));
 }
 
-/* harmony default export */ __webpack_exports__["default"] = (OurGoldens);
+/* harmony default export */ __webpack_exports__["default"] = (Phoenix);
 
 /***/ }),
 
