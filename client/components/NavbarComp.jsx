@@ -1,8 +1,14 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
-import { Navbar, Nav, NavDropdown } from 'react-bootstrap'
+import { Navbar, Nav, NavDropdown, SplitButton } from 'react-bootstrap'
 
-const NavbarComp = () => {
+function NavbarComp () {
+  const handleClick = (evt) => {
+    console.log(evt.target)
+    evt.target
+  }
+
   return (
     <>
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" fixed='top'>
@@ -20,7 +26,7 @@ const NavbarComp = () => {
           <Nav className="ml-auto">
             <Nav.Link href="/">Home</Nav.Link>
 
-            <NavDropdown title="Our Goldens" id="collasible-nav-dropdown">
+            <NavDropdown onClick={(evt) => handleClick(evt)} href="/ourgoldens" title="Our Goldens" id="collasible-nav-dropdown">
               <NavDropdown.Item href="/phoenix">Phoenix</NavDropdown.Item>
               <NavDropdown.Item href="#ourgoldens/kula">Kula</NavDropdown.Item>
               <NavDropdown.Item href="#ourgoldens/shadow">Shadow</NavDropdown.Item>
