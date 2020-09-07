@@ -8,7 +8,7 @@ const NavbarComp = () => {
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" fixed='top'>
         <Navbar.Brand href="/">
           <img
-            alt="Salhouse Goldens logo, phoenix and kula laying down in the bushes looking at camera"
+            alt="Goldens retrievers, phoenix and kula"
             src="images/logo.jpeg"
             className="shlogo d-inline-block align-top"
           />
@@ -21,7 +21,7 @@ const NavbarComp = () => {
             <Nav.Link href="/">Home</Nav.Link>
 
             <NavDropdown title="Our Goldens" id="collasible-nav-dropdown">
-              <NavDropdown.Item href="ourgoldens/phoenix">Phoenix</NavDropdown.Item>
+              <NavDropdown.Item href="/ourgoldens/phoenix">Phoenix</NavDropdown.Item>
               <NavDropdown.Item href="#ourgoldens/kula">Kula</NavDropdown.Item>
               <NavDropdown.Item href="#ourgoldens/shadow">Shadow</NavDropdown.Item>
               <NavDropdown.Item href="#ourgoldens/sherry">Sherry</NavDropdown.Item>

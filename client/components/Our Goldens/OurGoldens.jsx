@@ -1,11 +1,16 @@
 import React from 'react'
 
+// import NavbarComp from '../NavbarComp'
+
 function OurGoldens () {
-    return (
-        <div>
-            <p>vjfhgalkjgljsglskjnlj</p>
-        </div>
-    )
+  return (
+    <>
+      {/* <NavbarComp /> */}
+      <div className='belowNavbar'>
+        <p>vjfhgalkjgljsglskjnlj</p>
+      </div>
+    </>
+  )
 }
 
 export default OurGoldens

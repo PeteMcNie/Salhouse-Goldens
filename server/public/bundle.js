@@ -201,7 +201,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router-dom/esm/react-router-dom.js");
 /* harmony import */ var _Home_Home__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Home/Home */ "./client/components/Home/Home.jsx");
-/* harmony import */ var _About_Us_AboutUs_jsx__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./About Us/AboutUs.jsx */ "./client/components/About Us/AboutUs.jsx");
+/* harmony import */ var _About_Us_AboutUs__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./About Us/AboutUs */ "./client/components/About Us/AboutUs.jsx");
 /* harmony import */ var _MLWA_MyLifeWithAnimals__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./MLWA/MyLifeWithAnimals */ "./client/components/MLWA/MyLifeWithAnimals.jsx");
 /* harmony import */ var _Our_Goldens_OurGoldens__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./Our Goldens/OurGoldens */ "./client/components/Our Goldens/OurGoldens.jsx");
 
@@ -209,7 +209,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-
+ // import Phoenix from './Our Goldens/Phoenix'
 
 var App = function App() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Route"], {
@@ -218,7 +218,7 @@ var App = function App() {
     component: _Home_Home__WEBPACK_IMPORTED_MODULE_2__["default"]
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Route"], {
     path: "/aboutus",
-    component: _About_Us_AboutUs_jsx__WEBPACK_IMPORTED_MODULE_3__["default"]
+    component: _About_Us_AboutUs__WEBPACK_IMPORTED_MODULE_3__["default"]
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Route"], {
     path: "/mylifewithanimals",
     component: _MLWA_MyLifeWithAnimals__WEBPACK_IMPORTED_MODULE_4__["default"]
@@ -734,7 +734,7 @@ var NavbarComp = function NavbarComp() {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Navbar"].Brand, {
     href: "/"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    alt: "Salhouse Goldens logo, phoenix and kula laying down in the bushes looking at camera",
+    alt: "Goldens retrievers, phoenix and kula",
     src: "images/logo.jpeg",
     className: "shlogo d-inline-block align-top"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Navbar"].Toggle, {
@@ -749,7 +749,7 @@ var NavbarComp = function NavbarComp() {
     title: "Our Goldens",
     id: "collasible-nav-dropdown"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["NavDropdown"].Item, {
-    href: "ourgoldens/phoenix"
+    href: "/ourgoldens/phoenix"
   }, "Phoenix"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["NavDropdown"].Item, {
     href: "#ourgoldens/kula"
   }, "Kula"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["NavDropdown"].Item, {
@@ -802,10 +802,12 @@ var NavbarComp = function NavbarComp() {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-
+ // import NavbarComp from '../NavbarComp'
 
 function OurGoldens() {
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "vjfhgalkjgljsglskjnlj"));
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "belowNavbar"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "vjfhgalkjgljsglskjnlj")));
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (OurGoldens);
