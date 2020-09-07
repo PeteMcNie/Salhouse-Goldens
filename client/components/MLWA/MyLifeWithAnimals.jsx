@@ -6,6 +6,11 @@ import Lassie from './Lassie'
 import HorseGreyhounds from './HorseGreyhounds'
 import BMP from './BMP'
 import MrSlattery from './MrSlattery'
+import MunchMo from './MunchMo'
+import WorstNightmare from './WorstNightmare'
+import FirstGoldenRetriever from './FirstGoldenRetriever'
+import Kula from './Kula'
+import Thanks from './Thanks'
 
 function MyLifeWithAnimals () {
   return (
@@ -16,6 +21,11 @@ function MyLifeWithAnimals () {
       <HorseGreyhounds />
       <BMP />
       <MrSlattery />
+      <MunchMo />
+      <WorstNightmare />
+      <FirstGoldenRetriever />
+      <Kula />
+      <Thanks />
     </>
   )
 }
