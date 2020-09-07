@@ -10,7 +10,7 @@ exports[`HomeFooter component to match snapshot 1`] = `
       href="/"
     >
       <img
-        alt="Salhouse Goldens logo, phoenix and kula laying down in the bushes looking at camera"
+        alt="Goldens retrievers, phoenix and kula"
         class="shlogo d-inline-block align-top"
         src="images/logo.jpeg"
       />
