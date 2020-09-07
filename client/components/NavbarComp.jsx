@@ -21,13 +21,13 @@ const NavbarComp = () => {
             <Nav.Link href="/">Home</Nav.Link>
 
             <NavDropdown title="Our Goldens" id="collasible-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">Phoenix</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">Kula</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.3">Shadow</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.4">Sherry</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.5">Autumn</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.6">Tuppence</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.7">Siren</NavDropdown.Item>
+              <NavDropdown.Item href="ourgoldens/phoenix">Phoenix</NavDropdown.Item>
+              <NavDropdown.Item href="#ourgoldens/kula">Kula</NavDropdown.Item>
+              <NavDropdown.Item href="#ourgoldens/shadow">Shadow</NavDropdown.Item>
+              <NavDropdown.Item href="#ourgoldens/sherry">Sherry</NavDropdown.Item>
+              <NavDropdown.Item href="#ourgoldens/autumn">Autumn</NavDropdown.Item>
+              <NavDropdown.Item href="#ourgoldens/tuppence">Tuppence</NavDropdown.Item>
+              <NavDropdown.Item href="#ourgoldens/siren">Siren</NavDropdown.Item>
             </NavDropdown>
 
             <NavDropdown title="Grooming Your Golden" id="collasible-nav-dropdown">
