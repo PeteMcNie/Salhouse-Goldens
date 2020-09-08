@@ -732,10 +732,11 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function NavbarComp() {
-  var handleClick = function handleClick(evt) {
-    console.log(evt.target);
-    evt.target;
-  };
+  var history = Object(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["useHistory"])();
+
+  function handleClick() {
+    history.push('/ourgoldens');
+  }
 
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Navbar"], {
     collapseOnSelect: true,
@@ -758,12 +759,12 @@ function NavbarComp() {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Nav"].Link, {
     href: "/"
   }, "Home"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["NavDropdown"], {
-    onClick: function onClick(evt) {
-      return handleClick(evt);
+    onClick: function onClick() {
+      return handleClick();
     },
-    href: "/ourgoldens",
     title: "Our Goldens",
-    id: "collasible-nav-dropdown"
+    id: "collasible-nav-dropdown",
+    href: "/ourgoldens"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["NavDropdown"].Item, {
     href: "/phoenix"
   }, "Phoenix"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["NavDropdown"].Item, {
