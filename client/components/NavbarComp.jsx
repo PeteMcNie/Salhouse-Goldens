@@ -27,7 +27,7 @@ function NavbarComp () {
           <Nav className="ml-auto">
             <Nav.Link href="/">Home</Nav.Link>
 
-            <NavDropdown onClick={handleClick} title="Our Goldens" id="collasible-nav-dropdown" href="/ourgoldens">
+            <NavDropdown onClick={handleClick} title="Our Goldens" id="collasible-nav-dropdown">
               <NavDropdown.Item href="/phoenix">Phoenix</NavDropdown.Item>
               <NavDropdown.Item href="#ourgoldens/kula">Kula</NavDropdown.Item>
               <NavDropdown.Item href="#ourgoldens/shadow">Shadow</NavDropdown.Item>

@@ -1,0 +1,167 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OurGoldens component to match snapshot 1`] = `
+<div>
+  <nav
+    class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top"
+  >
+    <a
+      class="navbar-brand"
+      href="/"
+    >
+      <img
+        alt="Goldens retrievers, phoenix and kula"
+        class="shlogo d-inline-block align-top"
+        src="images/logo.jpeg"
+      />
+    </a>
+    <button
+      aria-controls="responsive-navbar-nav"
+      aria-label="Toggle navigation"
+      class="navbar-toggler collapsed"
+      type="button"
+    >
+      <span
+        class="navbar-toggler-icon"
+      />
+    </button>
+    <div
+      class="navbar-collapse collapse"
+      id="responsive-navbar-nav"
+    >
+      <div
+        class="ml-auto navbar-nav"
+      >
+        <a
+          class="nav-link"
+          data-rb-event-key="/"
+          href="/"
+        >
+          Home
+        </a>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            Our Goldens
+          </a>
+        </div>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            Grooming Your Golden
+          </a>
+        </div>
+        <a
+          class="nav-link"
+          data-rb-event-key="mylifewithanimals"
+          href="mylifewithanimals"
+        >
+          My Life With Animals
+        </a>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            About Us
+          </a>
+        </div>
+        <a
+          class="nav-link"
+          data-rb-event-key="#links"
+          href="#links"
+        >
+          Links
+        </a>
+        <a
+          class="nav-link"
+          data-rb-event-key="#contact"
+          href="#contact"
+        >
+          Contact
+        </a>
+      </div>
+    </div>
+  </nav>
+  <div
+    class="belowNavbar"
+  >
+    <h1>
+      Our Goldens
+    </h1>
+  </div>
+  <div>
+    <p>
+      We have the privilege to have owned six beautiful golden retrievers - Phoenix (RIP), Kula, Shadow, Sherry, Autumn and Tuppence. They are our life and totally part of our family. I have competed in breed showing, obedience and agility, but am not overly driven to succeed in the ring and just do those things in order to have a bit more fun with my dogs.
+    </p>
+    <p>
+      Each of our dogs has its own page with lots of photos, so do visit their pages to get a little insight into their personalities.
+    </p>
+    <hr />
+    <p>
+      Below are a few photos of the girls together and with relatives:
+    </p>
+    <div>
+      <img
+        class="img-fluid"
+        src="images/rob3.jpg"
+      />
+      <img
+        class="img-fluid"
+        src="images/3dogs.jpg"
+      />
+      <p>
+        Enjoying the bush!
+      </p>
+    </div>
+    <div>
+      <img
+        class="img-fluid"
+        src="images/christmasSitting.jpg"
+      />
+      <img
+        class="img-fluid"
+        src="images/christmasTwoSittingOneLaying.jpg"
+      />
+      <p>
+        Christmas dogs!
+      </p>
+    </div>
+    <div>
+      <img
+        class="img-fluid"
+        src="images/wolfpack.jpg"
+      />
+      <img
+        class="img-fluid"
+        src="images/fishTank.jpg"
+      />
+      <p>
+        Fun with relatives.
+      </p>
+    </div>
+  </div>
+</div>
+`;
