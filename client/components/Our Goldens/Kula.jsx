@@ -41,7 +41,7 @@ function Kula () {
         <p>
             Kula is my only dog to have clicked with the retrieve &ldquo;thing&ldquo;. She caught on at an early age that if she
             brought back the stick or the ball to my feet, she would have the fun of another chase - an achievement that sadly
-            Phoenix and Shadow seem to have missed out on. Kula is now going to try to do a bit of obedience. I think she has
+            kula and Shadow seem to have missed out on. Kula is now going to try to do a bit of obedience. I think she has
             potential but we probably should have started a few years ago. However, she is pretty clever at picking things up and
             we can have some fun along the way.
         </p>
@@ -98,29 +98,22 @@ function Kula () {
       <hr />
       <div>
         <p>Photos:</p>
-        <Image src="images/phoenix2.jpg" fluid />
-        <p>Puppy Phoenix used to be a doorstop!</p>
-        <Image src="images/phoenix3.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix4.jpg" fluid />
-        <Image src="images/phoenix5.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix6.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix7.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix8.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix9.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix10.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix11.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix12.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix13.jpg" fluid />
-        <p></p>
+        <Image src="images/kula2.jpg" fluid />
+        <p>Kula likes to snooze in the bean bag!</p>
+        <Image src="images/kula3.jpg" fluid />
+        <p>Kula posing.</p>
+        <Image src="images/kula4.jpg" fluid />
+        <p>Posing again, but upside down this time!</p>
+        <Image src="images/kula5.jpg" fluid />
+        <p>Kula after a swim at Lake Taupo.</p>
+        <Image src="images/kula6.jpg" fluid />
+        <p>Such a hot day, the only thing for it was to swim up the river.</p>
+        <Image src="images/kula7.jpg" fluid />
+        <p>Kula (right) and Shadow enjoy time in the sun.</p>
+        <Image src="images/kula8.jpg" fluid />
+        <p>Kula ready for a walk!</p>
+        <Image src="images/kula9.jpg" fluid />
+        <p>Kula&apos;s Mum - Teah.</p>
       </div>
     </>
   )
