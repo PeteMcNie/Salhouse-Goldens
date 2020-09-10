@@ -50,12 +50,10 @@ function Kula () {
         </p>
       </div>
       <div>
-        <Table responsive="sm">
+        <Table bordered size='sm' responsive="sm">
           <thead>
             <tr>
-              <th rowSpan='3'>Pedigree of Sanastasia Sth'n Star Chara</th>
-              <th></th>
-              <th></th>
+              <th colSpan='3'>Pedigree of Sanastasia Sth&apos;n Star Chara</th>
             </tr>
           </thead>
           <tbody>
@@ -70,41 +68,30 @@ function Kula () {
               <td>Eng. CH Paudell Easter Plantagenet at Kerrien (UK)</td>
             </tr>
             <tr>
-              {/* <td></td>
-              <td></td> */}
               <td>CH McIlroy Interlude</td>
             </tr>
             <tr>
-                {/* <td></td> */}
-                <td rowSpan='2'>Seacove Bireme</td>
-                <td>GR & Aust. CH Caldicot Swift</td>
+              <td rowSpan='2'>Seacove Bireme</td>
+              <td>GR & Aust. CH Caldicot Swift</td>
             </tr>
             <tr>
-                {/* <td></td>
-                <td></td> */}
-                <td>Goldriver Amber-Sunrise QC CDX</td>
-            </tr>
-            {/* <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+              <td>Goldriver Amber-Sunrise QC CDX</td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+              <td rowSpan='4'>Dam: Sanastasia Treasured Teah CDX</td>
+              <td rowSpan='2'>OB GR CH Speyside Fidgety Feet CDX</td>
+              <td>GR CH Graveleigh Soaring High QC CDX</td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+              <td>Speyside Shades of Gold CDX</td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr> */}
-            
+              <td rowSpan='2'>Sanastasia Special Lady CDX</td>
+              <td>Sanastasia Gold Falkor</td>
+            </tr>
+            <tr>
+              <td>Speyside Silver Lining CDX</td>
+            </tr>
           </tbody>
         </Table>
       </div>
