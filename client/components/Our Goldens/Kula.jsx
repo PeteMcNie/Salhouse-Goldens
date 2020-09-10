@@ -12,43 +12,44 @@ function Kula () {
         <h2>Kula</h2>
       </div>
       <div>
-        <h3>Sanastasia Sth'n Star Chara (Kula)</h3>
+        <h3>Sanastasia Sth&apos;n Star Chara (Kula)</h3>
         <p>Sire: CH Seacove Southern Cross</p>
         <p>Dam: Sanastasia Treasured Teah</p>
         <p>5 June 2003 to 21 October 2019</p>
-        <p></p>
+        <p>Hips: 7:8  Elbows: B:B  Eyes: Clear Eye Certificate 20/5/12</p>
         <div>
-          <Image src="images/phoenix1.jpg" fluid />
+          <Image src="images/kula1.jpg" fluid />
         </div>
       </div>
       <div>
+        <h4>Achievements:</h4>
         <p>
-            Phoenix was my first golden and is a beautiful pet. I have dabbled in agility and a tiny bit of obedience with her but
-            really she is mainly a pet who lives with us and enjoys herself, mostly. She does have one or two phobias, e.g. she
-            doesn&apos;t like thunder and tends to be a bit claustrophobic. But other than that, she is a lovely pet. She is very gentle
-            and light on her feet and loves nothing more than to have a tug of war with whoever might be around to play, be it
-            human or dog!
+            Kula&apos;s greatest achievement was to have a lovely litter of puppies in 2006. She had a difficult pregnancy - for me
+            anyway, as almost from the moment she got pregnant she wouldn&apos;t eat anything that had the word &ldquo;petfood&ldquo; on it. I can
+            only guess that she had morning sickness throughout this pregnancy and it was a real challenge to find things for her
+            to eat. If I found that she would eat fresh fish one day, I would buy in lots of it only to find that after about three
+            days, she no longer wanted to eat that. So we would go on to something else - steak, sausages cooked on the barbecue,
+            chicken, leftover food from our meals, eggs, cheese etc - only to find that in each occasion, after one or two days
+            she would no longer eat that food. And its not as if we could go back to the same food a week or two later. It seemed
+            that once she had eat a type of food it was then marked as &ldquo;never to touch again while I am pregnant&ldquo;. She drove me
+            almost to despair when, at the end of her pregnancy she stopped eating totally for three days. I couldn&apos;t get her
+            tempted at all and we watched the puppies seeming to get larger and Kula to get smaller. When she finally had the litter
+            they were very healthy puppies and Kula, who was absolutely skin and bone by then, started to eat immediately, initially
+            with half a pot of honey while she was in labour and then eating everything possible from then onwards. What a relief!
         </p>
         <p>
-            About three years ago she was diagnosed with cataracts forming in her eyes. Then a year ago we discovered that she also
-            had retinal degeneration. She is 8 years old now and is partially blind. We may decide to have the cataracts operated
-            on some time this year, but there is no cure for the retinal degeneration which will eventually make her totally blind.
-            So it will be interesting to see how she gets on over the next couple of years. At the moment, even though her eyesight
-            is generally poor, when we go for walks in the bush, even at night, she is far better finding her way along the path
-            than I am. I who have to have a torch and fall off the path if I am not careful. Dogs obviously work on other senses
-            than eyesight to guide them. We will have to help her though and it will be a challenge but one that we will face together.
-            Phoenix was spayed when she was young so we will not be passing this particular problem on to others.
+            Kula is my only dog to have clicked with the retrieve &ldquo;thing&ldquo;. She caught on at an early age that if she
+            brought back the stick or the ball to my feet, she would have the fun of another chase - an achievement that sadly
+            Phoenix and Shadow seem to have missed out on. Kula is now going to try to do a bit of obedience. I think she has
+            potential but we probably should have started a few years ago. However, she is pretty clever at picking things up and
+            we can have some fun along the way.
         </p>
         <p>
-            To find out more about how Phoenix came into our lives, go to the My Life with Animals page.
+            To find out more about how Kula came into our lives, go to the My Life with Animals page.
         </p>
-        <p>
-            Phoenix finally passed away on 14 September 2016. That was a very sad day. No, I can&apos;t just say that... that was a
-            devastating day. We did it all in the best way we could for her and for that I am forever thankful. However, it was
-            still too soon. I wanted to hold her forever and keep her, but for her sake it was kindest to let her go. She took a
-            piece of our hearts with her and we will never forget her. Our lasting message for our beautiful Phoenix was &ldquo;Thank you
-            for sharing your life with us.&ldquo; I miss you so very much my beautiful girl! xx
-        </p>
+      </div>
+      <div>
+
       </div>
       <hr />
       <div>
