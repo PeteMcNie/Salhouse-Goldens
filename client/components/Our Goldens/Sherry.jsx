@@ -1,6 +1,7 @@
 import React from 'react'
 
 import Image from 'react-bootstrap/Image'
+import Table from 'react-bootstrap/Table'
 
 import NavbarComp from '../NavbarComp'
 
@@ -49,6 +50,52 @@ function Phoenix () {
             piece of our hearts with her and we will never forget her. Our lasting message for our beautiful Phoenix was &ldquo;Thank you
             for sharing your life with us.&ldquo; I miss you so very much my beautiful girl! xx
         </p>
+      </div>
+      <div>
+        <Table bordered size='sm' responsive="sm">
+          <thead>
+            <tr>
+              <th colSpan='3'>Pedigree of Sanastasia Sth&apos;n Star Chara</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Parents</td>
+              <td>Grandparents</td>
+              <td>Great Grandparents</td>
+            </tr>
+            <tr>
+              <td rowSpan='4'>Sire: CH Seacove Southern Cross</td>
+              <td rowSpan='2'>CH Glentreve Frozen-Asset</td>
+              <td>Eng. CH Paudell Easter Plantagenet at Kerrien (UK)</td>
+            </tr>
+            <tr>
+              <td>CH McIlroy Interlude</td>
+            </tr>
+            <tr>
+              <td rowSpan='2'>Seacove Bireme</td>
+              <td>GR & Aust. CH Caldicot Swift</td>
+            </tr>
+            <tr>
+              <td>Goldriver Amber-Sunrise QC CDX</td>
+            </tr>
+            <tr>
+              <td rowSpan='4'>Dam: Sanastasia Treasured Teah CDX</td>
+              <td rowSpan='2'>OB GR CH Speyside Fidgety Feet CDX</td>
+              <td>GR CH Graveleigh Soaring High QC CDX</td>
+            </tr>
+            <tr>
+              <td>Speyside Shades of Gold CDX</td>
+            </tr>
+            <tr>
+              <td rowSpan='2'>Sanastasia Special Lady CDX</td>
+              <td>Sanastasia Gold Falkor</td>
+            </tr>
+            <tr>
+              <td>Speyside Silver Lining CDX</td>
+            </tr>
+          </tbody>
+        </Table>
       </div>
       <hr />
       <div>
