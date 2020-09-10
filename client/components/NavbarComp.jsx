@@ -30,7 +30,7 @@ function NavbarComp () {
             <NavDropdown onClick={handleClick} title="Our Goldens" id="collasible-nav-dropdown">
               <NavDropdown.Item href="/phoenix">Phoenix</NavDropdown.Item>
               <NavDropdown.Item href="/kula">Kula</NavDropdown.Item>
-              <NavDropdown.Item href="#ourgoldens/shadow">Shadow</NavDropdown.Item>
+              <NavDropdown.Item href="/shadow">Shadow</NavDropdown.Item>
               <NavDropdown.Item href="#ourgoldens/sherry">Sherry</NavDropdown.Item>
               <NavDropdown.Item href="#ourgoldens/autumn">Autumn</NavDropdown.Item>
               <NavDropdown.Item href="#ourgoldens/tuppence">Tuppence</NavDropdown.Item>

@@ -5,12 +5,12 @@ import Table from 'react-bootstrap/Table'
 
 import NavbarComp from '../NavbarComp'
 
-function Phoenix () {
+function Shadow () {
   return (
     <>
       <NavbarComp />
       <div className='belowNavbar'>
-        <h2>Phoenix</h2>
+        <h2>Shadow</h2>
       </div>
       <div>
         <h3></h3>
@@ -24,7 +24,7 @@ function Phoenix () {
       </div>
       <div>
         <p>
-            Phoenix was my first golden and is a beautiful pet. I have dabbled in agility and a tiny bit of obedience with her but
+            Shadow was my first golden and is a beautiful pet. I have dabbled in agility and a tiny bit of obedience with her but
             really she is mainly a pet who lives with us and enjoys herself, mostly. She does have one or two phobias, e.g. she
             doesn&apos;t like thunder and tends to be a bit claustrophobic. But other than that, she is a lovely pet. She is very gentle
             and light on her feet and loves nothing more than to have a tug of war with whoever might be around to play, be it
@@ -38,16 +38,16 @@ function Phoenix () {
             is generally poor, when we go for walks in the bush, even at night, she is far better finding her way along the path
             than I am. I who have to have a torch and fall off the path if I am not careful. Dogs obviously work on other senses
             than eyesight to guide them. We will have to help her though and it will be a challenge but one that we will face together.
-            Phoenix was spayed when she was young so we will not be passing this particular problem on to others.
+            Shadow was spayed when she was young so we will not be passing this particular problem on to others.
         </p>
         <p>
-            To find out more about how Phoenix came into our lives, go to the My Life with Animals page.
+            To find out more about how Shadow came into our lives, go to the My Life with Animals page.
         </p>
         <p>
-            Phoenix finally passed away on 14 September 2016. That was a very sad day. No, I can&apos;t just say that... that was a
+            Shadow finally passed away on 14 September 2016. That was a very sad day. No, I can&apos;t just say that... that was a
             devastating day. We did it all in the best way we could for her and for that I am forever thankful. However, it was
             still too soon. I wanted to hold her forever and keep her, but for her sake it was kindest to let her go. She took a
-            piece of our hearts with her and we will never forget her. Our lasting message for our beautiful Phoenix was &ldquo;Thank you
+            piece of our hearts with her and we will never forget her. Our lasting message for our beautiful Shadow was &ldquo;Thank you
             for sharing your life with us.&ldquo; I miss you so very much my beautiful girl! xx
         </p>
       </div>
@@ -101,7 +101,7 @@ function Phoenix () {
       <div>
         <p>Photos:</p>
         <Image src="images/phoenix2.jpg" fluid />
-        <p>Puppy Phoenix used to be a doorstop!</p>
+        <p>Puppy Shadow used to be a doorstop!</p>
         <Image src="images/phoenix3.jpg" fluid />
         <p></p>
         <Image src="images/phoenix4.jpg" fluid />
@@ -128,4 +128,4 @@ function Phoenix () {
   )
 }
 
-export default Phoenix
+export default Shadow
