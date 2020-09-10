@@ -54,26 +54,26 @@ function Phoenix () {
         <Image src="images/phoenix2.jpg" fluid />
         <p>Puppy Phoenix used to be a doorstop!</p>
         <Image src="images/phoenix3.jpg" fluid />
-        <p></p>
+        <p>We are not amused at bath time!</p>
         <Image src="images/phoenix4.jpg" fluid />
+        <p>We do, however, love watching fish!</p>
         <Image src="images/phoenix5.jpg" fluid />
-        <p></p>
+        <p>And playing tug of war with anyone - even Shadow!</p>
         <Image src="images/phoenix6.jpg" fluid />
-        <p></p>
         <Image src="images/phoenix7.jpg" fluid />
-        <p></p>
+        <p>And we love opening Christmas presents!</p>
         <Image src="images/phoenix8.jpg" fluid />
-        <p></p>
+        <p>Phoenix can also do the serious stuff too - 1st prize in elementary agility!</p>
         <Image src="images/phoenix9.jpg" fluid />
-        <p></p>
+        <p>Jumping through the tyre.</p>
         <Image src="images/phoenix10.jpg" fluid />
-        <p></p>
+        <p>Phoenix posing.</p>
         <Image src="images/phoenix11.jpg" fluid />
-        <p></p>
+        <p>Phoenix meets a friend.</p>
         <Image src="images/phoenix12.jpg" fluid />
-        <p></p>
+        <p>Phoenix at The Pinnacles!</p>
         <Image src="images/phoenix13.jpg" fluid />
-        <p></p>
+        <p>Lady muck, posing again!</p>
       </div>
     </>
   )
