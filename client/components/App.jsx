@@ -12,7 +12,6 @@ import Sherry from './Our Goldens/Sherry'
 import Autumn from './Our Goldens/Autumn'
 import Tuppence from './Our Goldens/Tuppence'
 
-
 const App = () => {
   return (
     <>

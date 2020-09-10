@@ -24,14 +24,14 @@ function Tuppence () {
       <div>
         <h4>Achievements:</h4>
         <p>
-            At the time of writing this Tuppence is just 20 months old. She is not a show dog but a beautiful, happy family dog. 
-            She is a supporter at shows to her sister, mum and grandma who still occasionally shows at 11 years of age. Tuppence 
-            is the smartest dog I have ever owned. She has got heaps of enthusiasm and picks up new tricks really easily. Her 
-            biggest drawback is the ability of her trainer, me! In February 2017 I took her to a trick workshop one Saturday. 
-            The other dogs that went had been trained at the facility previously. The only training Tuppence had done was the 
-            training that I have done with her throughout her life. It is extensive training but doing in on your own makes it 
-            quite interesting as you&apos;re never quite sure how well you&apos;re doing. Anyway, we had to achieve 15 points doing up to 
-            15 tricks to gain a certificate and a ribbon at this workshop. Tuppence flew through the tricks. That&apos;s how smart 
+            At the time of writing this Tuppence is just 20 months old. She is not a show dog but a beautiful, happy family dog.
+            She is a supporter at shows to her sister, mum and grandma who still occasionally shows at 11 years of age. Tuppence
+            is the smartest dog I have ever owned. She has got heaps of enthusiasm and picks up new tricks really easily. Her
+            biggest drawback is the ability of her trainer, me! In February 2017 I took her to a trick workshop one Saturday.
+            The other dogs that went had been trained at the facility previously. The only training Tuppence had done was the
+            training that I have done with her throughout her life. It is extensive training but doing in on your own makes it
+            quite interesting as you&apos;re never quite sure how well you&apos;re doing. Anyway, we had to achieve 15 points doing up to
+            15 tricks to gain a certificate and a ribbon at this workshop. Tuppence flew through the tricks. That&apos;s how smart
             this little dog is. She has the most beautiful smile and is such an enthusiastic puppy.
         </p>
       </div>
