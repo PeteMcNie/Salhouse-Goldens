@@ -6,6 +6,7 @@ import AboutUs from './About Us/AboutUs'
 import MyLifeWithAnimals from './MLWA/MyLifeWithAnimals'
 import OurGoldens from './Our Goldens/OurGoldens'
 import Phoenix from './Our Goldens/Phoenix'
+import Kula from './Our Goldens/Kula'
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Route path='/mylifewithanimals' component={MyLifeWithAnimals} />
       <Route path='/ourgoldens' component={OurGoldens} />
       <Route path='/phoenix' component={Phoenix} />
+      <Route path='/kula' component={Kula} />
     </>
   )
 }

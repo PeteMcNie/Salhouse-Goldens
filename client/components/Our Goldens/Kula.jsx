@@ -4,14 +4,15 @@ import Image from 'react-bootstrap/Image'
 
 import NavbarComp from '../NavbarComp'
 
-function Phoenix () {
+function Kula () {
   return (
     <>
       <NavbarComp />
       <div className='belowNavbar'>
-        <h2>Phoenix</h2>
+        <h2>Kula</h2>
       </div>
       <div>
+        <h3></h3>
         <p>Sire: Braeview the Kingmaker</p>
         <p>Dam: Honey of Frandale</p>
         <p>10 January 2002 - 14 September 2016</p>
@@ -79,4 +80,4 @@ function Phoenix () {
   )
 }
 
-export default Phoenix
+export default Kula

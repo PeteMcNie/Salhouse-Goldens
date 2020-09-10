@@ -108,9 +108,9 @@ exports[`OurGoldens component to match snapshot 1`] = `
   <div
     class="belowNavbar"
   >
-    <h1>
+    <h2>
       Our Goldens
-    </h1>
+    </h2>
   </div>
   <div>
     <p>
