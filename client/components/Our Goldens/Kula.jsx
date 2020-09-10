@@ -1,6 +1,7 @@
 import React from 'react'
 
 import Image from 'react-bootstrap/Image'
+import Table from 'react-bootstrap/Table'
 
 import NavbarComp from '../NavbarComp'
 
@@ -49,7 +50,63 @@ function Kula () {
         </p>
       </div>
       <div>
-
+        <Table responsive="sm">
+          <thead>
+            <tr>
+              <th rowSpan='3'>Pedigree of Sanastasia Sth'n Star Chara</th>
+              <th></th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Parents</td>
+              <td>Grandparents</td>
+              <td>Great Grandparents</td>
+            </tr>
+            <tr>
+              <td rowSpan='4'>Sire: CH Seacove Southern Cross</td>
+              <td rowSpan='2'>CH Glentreve Frozen-Asset</td>
+              <td>Eng. CH Paudell Easter Plantagenet at Kerrien (UK)</td>
+            </tr>
+            <tr>
+              {/* <td></td>
+              <td></td> */}
+              <td>CH McIlroy Interlude</td>
+            </tr>
+            <tr>
+                {/* <td></td> */}
+                <td rowSpan='2'>Seacove Bireme</td>
+                <td>GR & Aust. CH Caldicot Swift</td>
+            </tr>
+            <tr>
+                {/* <td></td>
+                <td></td> */}
+                <td>Goldriver Amber-Sunrise QC CDX</td>
+            </tr>
+            {/* <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr> */}
+            
+          </tbody>
+        </Table>
       </div>
       <hr />
       <div>
