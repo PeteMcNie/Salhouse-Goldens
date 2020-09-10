@@ -8,8 +8,10 @@ import OurGoldens from './Our Goldens/OurGoldens'
 import Phoenix from './Our Goldens/Phoenix'
 import Kula from './Our Goldens/Kula'
 import Shadow from './Our Goldens/Shadow'
-import Autumn from './Our Goldens/Autumn'
 import Sherry from './Our Goldens/Sherry'
+import Autumn from './Our Goldens/Autumn'
+import Tuppence from './Our Goldens/Tuppence'
+
 
 const App = () => {
   return (
@@ -21,8 +23,9 @@ const App = () => {
       <Route path='/phoenix' component={Phoenix} />
       <Route path='/kula' component={Kula} />
       <Route path='/shadow' component={Shadow} />
-      <Route path='/autumn' component={Autumn} />
       <Route path='/sherry' component={Sherry} />
+      <Route path='/autumn' component={Autumn} />
+      <Route path='/tuppence' component={Tuppence} />
     </>
   )
 }
