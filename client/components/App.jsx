@@ -9,6 +9,7 @@ import Phoenix from './Our Goldens/Phoenix'
 import Kula from './Our Goldens/Kula'
 import Shadow from './Our Goldens/Shadow'
 import Autumn from './Our Goldens/Autumn'
+import Sherry from './Our Goldens/Sherry'
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
       <Route path='/kula' component={Kula} />
       <Route path='/shadow' component={Shadow} />
       <Route path='/autumn' component={Autumn} />
+      <Route path='/sherry' component={Sherry} />
     </>
   )
 }

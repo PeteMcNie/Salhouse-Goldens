@@ -31,7 +31,7 @@ function NavbarComp () {
               <NavDropdown.Item href="/phoenix">Phoenix</NavDropdown.Item>
               <NavDropdown.Item href="/kula">Kula</NavDropdown.Item>
               <NavDropdown.Item href="/shadow">Shadow</NavDropdown.Item>
-              <NavDropdown.Item href="#ourgoldens/sherry">Sherry</NavDropdown.Item>
+              <NavDropdown.Item href="/sherry">Sherry</NavDropdown.Item>
               <NavDropdown.Item href="/autumn">Autumn</NavDropdown.Item>
               <NavDropdown.Item href="#ourgoldens/tuppence">Tuppence</NavDropdown.Item>
               <NavDropdown.Item href="#ourgoldens/siren">Siren</NavDropdown.Item>
