@@ -23,6 +23,7 @@ function Phoenix () {
         </div>
       </div>
       <div>
+      <h4>Achievements:</h4>
         <p>
             Phoenix was my first golden and is a beautiful pet. I have dabbled in agility and a tiny bit of obedience with her but
             really she is mainly a pet who lives with us and enjoys herself, mostly. She does have one or two phobias, e.g. she
