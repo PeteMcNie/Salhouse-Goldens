@@ -9,7 +9,7 @@ function OurGoldens () {
     <>
       <NavbarComp />
       <div className='belowNavbar'>
-        <h1>Our Goldens</h1>
+        <h2>Our Goldens</h2>
       </div>
       <div>
         <p>
