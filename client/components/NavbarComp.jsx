@@ -34,7 +34,7 @@ function NavbarComp () {
               <NavDropdown.Item href="/sherry">Sherry</NavDropdown.Item>
               <NavDropdown.Item href="/autumn">Autumn</NavDropdown.Item>
               <NavDropdown.Item href="/tuppence">Tuppence</NavDropdown.Item>
-              <NavDropdown.Item href="#ourgoldens/siren">Siren</NavDropdown.Item>
+              <NavDropdown.Item href="/siren">Siren</NavDropdown.Item>
             </NavDropdown>
 
             <NavDropdown title="Grooming Your Golden" id="collasible-nav-dropdown">
