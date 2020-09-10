@@ -5,58 +5,52 @@ import Table from 'react-bootstrap/Table'
 
 import NavbarComp from '../NavbarComp'
 
-function Phoenix () {
+function Autumn () {
   return (
     <>
       <NavbarComp />
       <div className='belowNavbar'>
-        <h2>Phoenix</h2>
+        <h2>Autumn</h2>
       </div>
       <div>
-        <h3></h3>
-        <p>Sire: Braeview the Kingmaker</p>
-        <p>Dam: Honey of Frandale</p>
-        <p>10 January 2002 - 14 September 2016</p>
-        <p></p>
+        <h3>CH Autumn Light at Salhouse (Autumn)</h3>
+        <p>Sire: CH Sandlewood Bowl-Me-Over</p>
+        <p>Dam: CH Golden Light at Salhouse CDX</p>
+        <p>Whelped: 16 June 2015</p>
+        <p>Hips: 6:6  Elbows: 0:0 Clear eye cert: 9 Jan 2019</p>
         <div>
-          <Image src="images/phoenix1.jpg" fluid />
+          <Image src="images/autumn1.jpg" fluid />
         </div>
       </div>
       <div>
-      <h4>Achievements:</h4>
+        <h4>Achievements:</h4>
         <p>
-            Phoenix was my first golden and is a beautiful pet. I have dabbled in agility and a tiny bit of obedience with her but
-            really she is mainly a pet who lives with us and enjoys herself, mostly. She does have one or two phobias, e.g. she
-            doesn&apos;t like thunder and tends to be a bit claustrophobic. But other than that, she is a lovely pet. She is very gentle
-            and light on her feet and loves nothing more than to have a tug of war with whoever might be around to play, be it
-            human or dog!
+            At the time of writing this Autumn is just 20 months old. She has already achieved Champion status in the show ring
+            at the age of 14 months. Autumn is a clown and goes by lots of other names including Doofus, Nut Job, Goof Ball and
+            Awesome! She is a full on dog with heaps of enthusiasm and wants to be in on absolutely everything that is going on.
+            She gets very upset when I train her sister, Tuppence, and not her and also if I get the hose out but have shut the
+            dogs indoors. She loves water. She is a very powerful swimmer and swims along the beach and river while I am walking.
+            If she comes out of the water it is with a shower (or more like a downpour) of water flying off her in all directions
+            as she runs as fast as she can to catch up or go ahead. She doesn&apos;t shake herself off until she has run quite a way
+            and comes to a stop. Then it is only a brief stop before racing back into the water again where she seems to be the
+            most happy.
         </p>
         <p>
-            About three years ago she was diagnosed with cataracts forming in her eyes. Then a year ago we discovered that she also
-            had retinal degeneration. She is 8 years old now and is partially blind. We may decide to have the cataracts operated
-            on some time this year, but there is no cure for the retinal degeneration which will eventually make her totally blind.
-            So it will be interesting to see how she gets on over the next couple of years. At the moment, even though her eyesight
-            is generally poor, when we go for walks in the bush, even at night, she is far better finding her way along the path
-            than I am. I who have to have a torch and fall off the path if I am not careful. Dogs obviously work on other senses
-            than eyesight to guide them. We will have to help her though and it will be a challenge but one that we will face together.
-            Phoenix was spayed when she was young so we will not be passing this particular problem on to others.
+            Autumn has become a really good retriever. She loves to retrieve balls from the river or sea, but also races around
+            on land to get the ball. She is full on energy when she is out and about. However, at home, she is laid back and calm,
+            except she is a guard dog when someone comes to the door or is over at the park opposite. She likes to bark and let
+            us know they are there.
         </p>
         <p>
-            To find out more about how Phoenix came into our lives, go to the My Life with Animals page.
-        </p>
-        <p>
-            Phoenix finally passed away on 14 September 2016. That was a very sad day. No, I can&apos;t just say that... that was a
-            devastating day. We did it all in the best way we could for her and for that I am forever thankful. However, it was
-            still too soon. I wanted to hold her forever and keep her, but for her sake it was kindest to let her go. She took a
-            piece of our hearts with her and we will never forget her. Our lasting message for our beautiful Phoenix was &ldquo;Thank you
-            for sharing your life with us.&ldquo; I miss you so very much my beautiful girl! xx
+            In March 2019, Autumn had a litter of seven beautiful puppies. Six puppies found themselves lovely homes to go to,
+            and one naughty one stayed with us here at Salhouse. Her name is Siren and she has her own page on this website.
         </p>
       </div>
       <div>
         <Table bordered size='sm' responsive="sm">
           <thead>
             <tr>
-              <th colSpan='3'>Pedigree of Sanastasia Sth&apos;n Star Chara</th>
+              <th colSpan='3'>Pedigree of Autumn Light at Salhouse</th>
             </tr>
           </thead>
           <tbody>
@@ -66,34 +60,34 @@ function Phoenix () {
               <td>Great Grandparents</td>
             </tr>
             <tr>
-              <td rowSpan='4'>Sire: CH Seacove Southern Cross</td>
-              <td rowSpan='2'>CH Glentreve Frozen-Asset</td>
-              <td>Eng. CH Paudell Easter Plantagenet at Kerrien (UK)</td>
+              <td rowSpan='4'>Sire: CH Sandlewood Bowl-Me-Over</td>
+              <td rowSpan='2'>NZ CH & Aust Grand CH Karparla Wicket Keeper (Imp-Aust)</td>
+              <td>Grand CH Tulzean Autumn Tango</td>
             </tr>
             <tr>
-              <td>CH McIlroy Interlude</td>
+              <td>Xanthos Are You Talking to Me (Imp UK)</td>
             </tr>
             <tr>
-              <td rowSpan='2'>Seacove Bireme</td>
-              <td>GR & Aust. CH Caldicot Swift</td>
+              <td rowSpan='2'>CH Kavandale Angeleyes</td>
+              <td>Dream Max Grandmother&apos;s Prospect (Imp-SWE) to Aust</td>
             </tr>
             <tr>
-              <td>Goldriver Amber-Sunrise QC CDX</td>
+              <td>CH Hawkwood Iduna</td>
             </tr>
             <tr>
-              <td rowSpan='4'>Dam: Sanastasia Treasured Teah CDX</td>
-              <td rowSpan='2'>OB GR CH Speyside Fidgety Feet CDX</td>
-              <td>GR CH Graveleigh Soaring High QC CDX</td>
+              <td rowSpan='4'>Dam: CH Golden Light at Salhouse CDX</td>
+              <td rowSpan='2'>CH Sandlewood Gamble-With-Gold</td>
+              <td>Goldfleece Go For Gold At Sandlewood (Imp-Aust)</td>
             </tr>
             <tr>
-              <td>Speyside Shades of Gold CDX</td>
+              <td>CH Sandlewood Charlies-Angel</td>
             </tr>
             <tr>
-              <td rowSpan='2'>Sanastasia Special Lady CDX</td>
-              <td>Sanastasia Gold Falkor</td>
+              <td rowSpan='2'>CH Salhouse Sunchaser</td>
+              <td>NZ CH Santamaria The Patriot (Imp-Aust)</td>
             </tr>
             <tr>
-              <td>Speyside Silver Lining CDX</td>
+              <td>Sanastasia Sth&apos;n Star Chara</td>
             </tr>
           </tbody>
         </Table>
@@ -101,32 +95,31 @@ function Phoenix () {
       <hr />
       <div>
         <p>Photos:</p>
-        <Image src="images/phoenix2.jpg" fluid />
-        <p>Puppy Phoenix used to be a doorstop!</p>
-        <Image src="images/phoenix3.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix4.jpg" fluid />
-        <Image src="images/phoenix5.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix6.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix7.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix8.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix9.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix10.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix11.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix12.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix13.jpg" fluid />
-        <p></p>
+        <Image src="images/autumn2.jpg" fluid />
+        <p>Autumn and her March 2019 puppies at eight weeks of age</p>
+        <Image src="images/autumn3.jpg" fluid />
+        <p>Autumn with puppies aged one day</p>
+        <Image src="images/autumn4.jpg" fluid />
+        <p>Another ribbon for Autumn - Junior of Group</p>
+        <Image src="images/autumn5.jpg" fluid />
+        <p>Ribbon for Autumn</p>
+        <Image src="images/autumn6.jpg" fluid />
+        <p>Autumn in her element in the mud!</p>
+        <Image src="images/autumn7.jpg" fluid />
+        <p>Another challenge certificate for Autumn</p>
+        <Image src="images/autumn8.jpg" fluid />
+        <p>Trying to hide in the grasses with her ribbons - in the South Island.</p>
+        <Image src="images/autumn9.jpg" fluid />
+        <p>Autumn on the right at Nelson.</p>
+        <Image src="images/autumn10.jpg" fluid />
+        <p>Pretty Autumn</p>
+        <Image src="images/autumn11.jpg" fluid />
+        <p>Autumn and Tuppence - Autumn definitely a tad bigger!</p>
+        <Image src="images/autumn12.jpg" fluid />
+        <p>Autumn (left) and Tuppence</p>
       </div>
     </>
   )
 }
 
-export default Phoenix
+export default Autumn
