@@ -16,6 +16,7 @@ function Phoenix () {
         <p>Sire: Braeview the Kingmaker</p>
         <p>Dam: Honey of Frandale</p>
         <p>10 January 2002 - 14 September 2016</p>
+        <p></p>
         <div>
           <Image src="images/phoenix1.jpg" fluid />
         </div>

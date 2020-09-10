@@ -113,6 +113,9 @@ exports[`Phoenix component matches snapshot 1`] = `
     </h2>
   </div>
   <div>
+    <h3>
+      Phoenix
+    </h3>
     <p>
       Sire: Braeview the Kingmaker
     </p>

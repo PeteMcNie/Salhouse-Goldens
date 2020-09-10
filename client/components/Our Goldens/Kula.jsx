@@ -12,10 +12,11 @@ function Kula () {
         <h2>Kula</h2>
       </div>
       <div>
-        <h3></h3>
-        <p>Sire: Braeview the Kingmaker</p>
-        <p>Dam: Honey of Frandale</p>
-        <p>10 January 2002 - 14 September 2016</p>
+        <h3>Sanastasia Sth'n Star Chara (Kula)</h3>
+        <p>Sire: CH Seacove Southern Cross</p>
+        <p>Dam: Sanastasia Treasured Teah</p>
+        <p>5 June 2003 to 21 October 2019</p>
+        <p></p>
         <div>
           <Image src="images/phoenix1.jpg" fluid />
         </div>
