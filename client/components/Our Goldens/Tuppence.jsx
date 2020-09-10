@@ -13,11 +13,10 @@ function Tuppence () {
         <h2>Tuppence</h2>
       </div>
       <div>
-        <h3></h3>
-        <p>Sire: Braeview the Kingmaker</p>
-        <p>Dam: Honey of Frandale</p>
-        <p>10 January 2002 - 14 September 2016</p>
-        <p></p>
+        <h3>Tuppenny Nudger at Salhouse (Tuppence)</h3>
+        <p>Sire: Sandlewood Bowl-Me-Over</p>
+        <p>Dam: CH Golden Light at Salhouse CDX</p>
+        <p>Whelped: 16 June 2015</p>
         <div>
           <Image src="images/tuppence1.jpg" fluid />
         </div>
@@ -25,38 +24,22 @@ function Tuppence () {
       <div>
         <h4>Achievements:</h4>
         <p>
-            Tuppence was my first golden and is a beautiful pet. I have dabbled in agility and a tiny bit of obedience with her but
-            really she is mainly a pet who lives with us and enjoys herself, mostly. She does have one or two phobias, e.g. she
-            doesn&apos;t like thunder and tends to be a bit claustrophobic. But other than that, she is a lovely pet. She is very gentle
-            and light on her feet and loves nothing more than to have a tug of war with whoever might be around to play, be it
-            human or dog!
-        </p>
-        <p>
-            About three years ago she was diagnosed with cataracts forming in her eyes. Then a year ago we discovered that she also
-            had retinal degeneration. She is 8 years old now and is partially blind. We may decide to have the cataracts operated
-            on some time this year, but there is no cure for the retinal degeneration which will eventually make her totally blind.
-            So it will be interesting to see how she gets on over the next couple of years. At the moment, even though her eyesight
-            is generally poor, when we go for walks in the bush, even at night, she is far better finding her way along the path
-            than I am. I who have to have a torch and fall off the path if I am not careful. Dogs obviously work on other senses
-            than eyesight to guide them. We will have to help her though and it will be a challenge but one that we will face together.
-            Tuppence was spayed when she was young so we will not be passing this particular problem on to others.
-        </p>
-        <p>
-            To find out more about how Tuppence came into our lives, go to the My Life with Animals page.
-        </p>
-        <p>
-            Tuppence finally passed away on 14 September 2016. That was a very sad day. No, I can&apos;t just say that... that was a
-            devastating day. We did it all in the best way we could for her and for that I am forever thankful. However, it was
-            still too soon. I wanted to hold her forever and keep her, but for her sake it was kindest to let her go. She took a
-            piece of our hearts with her and we will never forget her. Our lasting message for our beautiful Tuppence was &ldquo;Thank you
-            for sharing your life with us.&ldquo; I miss you so very much my beautiful girl! xx
+            At the time of writing this Tuppence is just 20 months old. She is not a show dog but a beautiful, happy family dog. 
+            She is a supporter at shows to her sister, mum and grandma who still occasionally shows at 11 years of age. Tuppence 
+            is the smartest dog I have ever owned. She has got heaps of enthusiasm and picks up new tricks really easily. Her 
+            biggest drawback is the ability of her trainer, me! In February 2017 I took her to a trick workshop one Saturday. 
+            The other dogs that went had been trained at the facility previously. The only training Tuppence had done was the 
+            training that I have done with her throughout her life. It is extensive training but doing in on your own makes it 
+            quite interesting as you&apos;re never quite sure how well you&apos;re doing. Anyway, we had to achieve 15 points doing up to 
+            15 tricks to gain a certificate and a ribbon at this workshop. Tuppence flew through the tricks. That&apos;s how smart 
+            this little dog is. She has the most beautiful smile and is such an enthusiastic puppy.
         </p>
       </div>
       <div>
         <Table bordered size='sm' responsive="sm">
           <thead>
             <tr>
-              <th colSpan='3'>Pedigree of Sanastasia Sth&apos;n Star Chara</th>
+              <th colSpan='3'>Pedigree of Tuppenny Nudger at Salhouse</th>
             </tr>
           </thead>
           <tbody>
@@ -66,34 +49,34 @@ function Tuppence () {
               <td>Great Grandparents</td>
             </tr>
             <tr>
-              <td rowSpan='4'>Sire: CH Seacove Southern Cross</td>
-              <td rowSpan='2'>CH Glentreve Frozen-Asset</td>
-              <td>Eng. CH Paudell Easter Plantagenet at Kerrien (UK)</td>
+              <td rowSpan='4'>Sire: Sandlewood Bowl-Me-Over</td>
+              <td rowSpan='2'>NZ CH & Aust Grand CH Karparla Wicket Keeper (Imp-Aust)</td>
+              <td>Grand CH Tulzean Autumn Tango</td>
             </tr>
             <tr>
-              <td>CH McIlroy Interlude</td>
+              <td>Xanthos Are You Talking to Me (Imp UK)</td>
             </tr>
             <tr>
-              <td rowSpan='2'>Seacove Bireme</td>
-              <td>GR & Aust. CH Caldicot Swift</td>
+              <td rowSpan='2'>Seacove CH Kavandale Angeleyes</td>
+              <td>Dream Max Grandmother&apos;s Prospect (Imp-SWE) to Aust</td>
             </tr>
             <tr>
-              <td>Goldriver Amber-Sunrise QC CDX</td>
+              <td>CH Hawkwood Iduna</td>
             </tr>
             <tr>
-              <td rowSpan='4'>Dam: Sanastasia Treasured Teah CDX</td>
-              <td rowSpan='2'>OB GR CH Speyside Fidgety Feet CDX</td>
-              <td>GR CH Graveleigh Soaring High QC CDX</td>
+              <td rowSpan='4'>Dam: CH Golden Light at Salhouse DDX</td>
+              <td rowSpan='2'>CH Sandlewood Gamble-With-Gold</td>
+              <td>Goldfleece Go For Gold At Sandlewood (Imp-Aust)</td>
             </tr>
             <tr>
-              <td>Speyside Shades of Gold CDX</td>
+              <td>CH Sandlewood Charlies-Angel</td>
             </tr>
             <tr>
-              <td rowSpan='2'>Sanastasia Special Lady CDX</td>
-              <td>Sanastasia Gold Falkor</td>
+              <td rowSpan='2'>CH Salhouse Sunchaser</td>
+              <td>NZ CH Santamaria The Patriot (Imp-Aust)</td>
             </tr>
             <tr>
-              <td>Speyside Silver Lining CDX</td>
+              <td>Sanastasia Sth&apos;n Star Chara</td>
             </tr>
           </tbody>
         </Table>
@@ -102,28 +85,21 @@ function Tuppence () {
       <div>
         <p>Photos:</p>
         <Image src="images/tuppence2.jpg" fluid />
-        <p>Puppy Tuppence used to be a doorstop!</p>
+        <p>Tuppence enjoys chewing things.</p>
         <Image src="images/tuppence3.jpg" fluid />
-        <p></p>
+        <p>It was windy at the top of the hill. Tuppence (right) with her sister Autumn.</p>
         <Image src="images/tuppence4.jpg" fluid />
+        <p>Sitting and waiting for the next command.</p>
         <Image src="images/tuppence5.jpg" fluid />
-        <p></p>
+        <p>It must be Christmas!</p>
         <Image src="images/tuppence6.jpg" fluid />
-        <p></p>
+        <p>Such a cutie Tuppence.</p>
         <Image src="images/tuppence7.jpg" fluid />
-        <p></p>
+        <p>Puppy Tuppence in the beanbag with a piece of paper - little things amuse her.</p>
         <Image src="images/tuppence8.jpg" fluid />
-        <p></p>
+        <p>Little Tuppence with her big sister, Autumn.</p>
         <Image src="images/tuppence9.jpg" fluid />
-        <p></p>
-        <Image src="images/tuppence10.jpg" fluid />
-        <p></p>
-        <Image src="images/tuppence11.jpg" fluid />
-        <p></p>
-        <Image src="images/tuppence12.jpg" fluid />
-        <p></p>
-        <Image src="images/tuppence13.jpg" fluid />
-        <p></p>
+        <p>The two girls, Tuppence on the right.</p>
       </div>
     </>
   )
