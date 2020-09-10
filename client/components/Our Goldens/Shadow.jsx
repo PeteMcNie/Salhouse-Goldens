@@ -13,49 +13,74 @@ function Shadow () {
         <h2>Shadow</h2>
       </div>
       <div>
-        <h3></h3>
-        <p>Sire: Braeview the Kingmaker</p>
-        <p>Dam: Honey of Frandale</p>
-        <p>10 January 2002 - 14 September 2016</p>
-        <p></p>
+        <h3>CH Salhouse Sunchaser (Shadow)</h3>
+        <p>Sire: NZ CH Santamaria The Patriot</p>
+        <p>Dam: Sanastasia Sth&apos;n Star Chara</p>
+        <p>Whelped: 21 February 2006</p>
+        <p>Hips: 11:10  Elbows: B:1a  Eyes: Clear Eye Certificate 9/5/10</p>
         <div>
-          <Image src="images/phoenix1.jpg" fluid />
+          <Image src="images/shadow1.jpg" fluid />
         </div>
       </div>
       <div>
+        <h4>Achievements:</h4>
         <p>
-            Shadow was my first golden and is a beautiful pet. I have dabbled in agility and a tiny bit of obedience with her but
-            really she is mainly a pet who lives with us and enjoys herself, mostly. She does have one or two phobias, e.g. she
-            doesn&apos;t like thunder and tends to be a bit claustrophobic. But other than that, she is a lovely pet. She is very gentle
-            and light on her feet and loves nothing more than to have a tug of war with whoever might be around to play, be it
-            human or dog!
+            Shadow&apos;s greatest achievement to date was to select us as her keepers. When she was a puppy, along with the six
+            other littermates, we used to visit the puppies outside in the garden but then come in through either the conservatory
+            door or through the gate at the side. Invariably one puppy used to be on our side of the door/gate once we had closed
+            it and we began to realise that it was always the same one that slipped through. This same puppy used to follow my
+            husband around as well and consequently she became the beautiful girl that we kept and she was named &ldquo;Shadow&ldquo;
+            because my husband considered she shadowed him all the time.
         </p>
         <p>
-            About three years ago she was diagnosed with cataracts forming in her eyes. Then a year ago we discovered that she also
-            had retinal degeneration. She is 8 years old now and is partially blind. We may decide to have the cataracts operated
-            on some time this year, but there is no cure for the retinal degeneration which will eventually make her totally blind.
-            So it will be interesting to see how she gets on over the next couple of years. At the moment, even though her eyesight
-            is generally poor, when we go for walks in the bush, even at night, she is far better finding her way along the path
-            than I am. I who have to have a torch and fall off the path if I am not careful. Dogs obviously work on other senses
-            than eyesight to guide them. We will have to help her though and it will be a challenge but one that we will face together.
-            Shadow was spayed when she was young so we will not be passing this particular problem on to others.
+            Shadow has the most wonderful personality. She plays hide and seek, is always mischievous in a nice way, and she
+            talks to us. She can be quite vocal when greeting people she knows, not barking, but almost squealing her delight
+            at the meeting. She also is the most wonderful cuddler in the world. I have never known a dog to cuddle the way
+            she does. She knows just how to get in the right place and hold on to you in such a lovely way. You cannot sit or
+            lay on the floor in our house without Shadow comandeering a cuddle. Kula is also a cuddler, but she doesn&apos;t stand
+            much of a chance with Shadow around as Shadow will always get in between her Mum and whichever human is on the floor.
         </p>
         <p>
-            To find out more about how Shadow came into our lives, go to the My Life with Animals page.
+            Shadow whelped a litter of 7 puppies on 7 April 2010. For some of the drama involved in this whelping, see the News page.
+            There is also a page called Shadow&apos;s litter 2010 where there are photos of this lovely litter of four male and three
+            female puppies. We have kept one of the female puppies from this litter and have named her Sherry. You can find out
+            more about her on her own page.
         </p>
         <p>
-            Shadow finally passed away on 14 September 2016. That was a very sad day. No, I can&apos;t just say that... that was a
-            devastating day. We did it all in the best way we could for her and for that I am forever thankful. However, it was
-            still too soon. I wanted to hold her forever and keep her, but for her sake it was kindest to let her go. She took a
-            piece of our hearts with her and we will never forget her. Our lasting message for our beautiful Shadow was &ldquo;Thank you
-            for sharing your life with us.&ldquo; I miss you so very much my beautiful girl! xx
+            Shadow has a second great achievement now - she won a CC at Hastings on 11 December 2010 (see News item dated 12 December 2010, Shadow&apos;s first CC).
+        </p>
+        <p>
+            Who would have thought that a visit to Wanganui (Wangavegas) would be a really amazingly exciting event! However,
+            Wangavegas will go down in history for us as the scene our greatest achievement so far. On 14 March 2014, we set out
+            from Lower Hutt to attend four dog shows that weekend. We had Shadow sitting on six challenge certificates and Sherry
+            sitting on seven challenge certificates (not literally sitting, you know what I mean!). A dog needs eight challenge
+            certificates to be able to be called a Champion. We have been showing Shadow for around five and a half years. We
+            don&apos;t go to shows every weekend but we have trundled around the country, even around the South Island, and picked
+            up challenges here and there.
+        </p>
+        <p>
+            On Saturday 15 March 2014, we went into the ring for the first show late morning. Blow me down if I didn&apos;t get both
+            Shadow and Sherry in the line up for the first challenge - which means they both won their classes and are then put
+            up to be assessed against all the other bitches who have won their classes. Whoever wins that line up wins the bitch
+            challenge. Well, dear Shadow won that challenge. That made our weekend already and we went back to our camp spot
+            quite happy.
+        </p>
+        <p>
+            Next up was the gun dog show in the afternoon. We set off to the ringside again and entered the ring for a run around.
+            Well blow me down if we didn&apos;t get them both into the line up yet again. So I had two dogs in the ring who could
+            possibly become Champions. We waited for the judge to look them over and ran them around. And then... SHADOW you did
+            it again to become Salhouse&apos;s very first official Champion! Woo hoo... so happy. What a weekend. Just to show that
+            it wasn&apos;t a fluke, Shadow picked up the first challenge of the day on Sunday too. Way to go my girl.
+        </p>
+        <p>
+            To find out more about how Shadow came into our lives, go to Kula&apos;s litter 2006 page.
         </p>
       </div>
       <div>
         <Table bordered size='sm' responsive="sm">
           <thead>
             <tr>
-              <th colSpan='3'>Pedigree of Sanastasia Sth&apos;n Star Chara</th>
+              <th colSpan='3'>Pedigree of CH Salhouse Sunchaser</th>
             </tr>
           </thead>
           <tbody>
@@ -65,34 +90,34 @@ function Shadow () {
               <td>Great Grandparents</td>
             </tr>
             <tr>
-              <td rowSpan='4'>Sire: CH Seacove Southern Cross</td>
-              <td rowSpan='2'>CH Glentreve Frozen-Asset</td>
-              <td>Eng. CH Paudell Easter Plantagenet at Kerrien (UK)</td>
+              <td rowSpan='4'>Sire: NZ CH Santamaria The Patriot (IMP-AUST)</td>
+              <td rowSpan='2'>AUST CH Strathraer Nordic Star</td>
+              <td>FNL & SWD CH & FNL FT CH Trewater Macoy (IMP-UK)</td>
             </tr>
             <tr>
-              <td>CH McIlroy Interlude</td>
+              <td>Haamorin Mesimarja (IMP-FNL)</td>
             </tr>
             <tr>
-              <td rowSpan='2'>Seacove Bireme</td>
-              <td>GR & Aust. CH Caldicot Swift</td>
+              <td rowSpan='2'>AUST CH Santamaria Anna Leise</td>
+              <td>AUST CH Goldtreve Dukes Son</td>
             </tr>
             <tr>
-              <td>Goldriver Amber-Sunrise QC CDX</td>
+              <td>AUST CH Santamaria Liason</td>
             </tr>
             <tr>
-              <td rowSpan='4'>Dam: Sanastasia Treasured Teah CDX</td>
-              <td rowSpan='2'>OB GR CH Speyside Fidgety Feet CDX</td>
-              <td>GR CH Graveleigh Soaring High QC CDX</td>
+              <td rowSpan='4'>Dam: Sanastasia Sth’n Star Chara</td>
+              <td rowSpan='2'>CH Seacove Southern Cross</td>
+              <td>CH Glentreve Frozen-Asset</td>
             </tr>
             <tr>
-              <td>Speyside Shades of Gold CDX</td>
+              <td>Seacove Bireme</td>
             </tr>
             <tr>
-              <td rowSpan='2'>Sanastasia Special Lady CDX</td>
-              <td>Sanastasia Gold Falkor</td>
+              <td rowSpan='2'>Sanastasia Treasured Teah CDX</td>
+              <td>OB.GR.CH. Speyside Fidgety Feet CDX</td>
             </tr>
             <tr>
-              <td>Speyside Silver Lining CDX</td>
+              <td>Sanastasia Special Lady CDX</td>
             </tr>
           </tbody>
         </Table>
@@ -100,29 +125,36 @@ function Shadow () {
       <hr />
       <div>
         <p>Photos:</p>
-        <Image src="images/phoenix2.jpg" fluid />
-        <p>Puppy Shadow used to be a doorstop!</p>
-        <Image src="images/phoenix3.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix4.jpg" fluid />
-        <Image src="images/phoenix5.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix6.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix7.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix8.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix9.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix10.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix11.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix12.jpg" fluid />
-        <p></p>
-        <Image src="images/phoenix13.jpg" fluid />
-        <p></p>
+        <Image src="images/shadow2.jpg" fluid />
+        <p>Shadow with her champion certificate, March 2014</p>
+        <Image src="images/shadow3.jpg" fluid />
+        <p>Shadow with her first CC - Hastings, 11 Dec 2010</p>
+        <Image src="images/shadow4.jpg" fluid />
+        <Image src="images/shadow5.jpg" fluid />
+        <Image src="images/shadow6.jpg" fluid />
+        <p>Shadow the tree climber!</p>
+        <Image src="images/shadow7.jpg" fluid />
+        <p>Baby Shadow and &ldquo;friend&ldquo;.</p>
+        <Image src="images/shadow8.jpg" fluid />
+        <p>Early puppy photo of Shadow.</p>
+        <Image src="images/shadow9.jpg" fluid />
+        <p>Puppy Shadow with a chewy (or is it a cigar?)!</p>
+        <Image src="images/shadow10.jpg" fluid />
+        <p>Surprised Shadow!</p>
+        <Image src="images/shadow11.jpg" fluid />
+        <p>Keep splashing Shadow, you won&apos;t drown! Shadow absolutely loves swimming.</p>
+        <Image src="images/shadow12.jpg" fluid />
+        <p>Shadow on guard!</p>
+        <Image src="images/shadow13.jpg" fluid />
+        <p>Shadow at her first ever show.</p>
+        <Image src="images/shadow14.jpg" fluid />
+        <p>Shadow wins the prettiest dog in show.</p>
+        <Image src="images/shadow15.jpg" fluid />
+        <p>Shadow sneaking off with her Christmas pressie.</p>
+        <Image src="images/shadow16.jpg" fluid />
+        <p>Shadow with her favourite cuddly toy.</p>
+        <Image src="images/shadow17.jpg" fluid />
+        <p>Shadow with Sherry at 13 weeks of age.</p>
       </div>
     </>
   )
