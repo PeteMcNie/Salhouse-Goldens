@@ -1,0 +1,720 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shadown component matches snapshot 1`] = `
+<div>
+  <nav
+    class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top"
+  >
+    <a
+      class="navbar-brand"
+      href="/"
+    >
+      <img
+        alt="Goldens retrievers, phoenix and kula"
+        class="shlogo d-inline-block align-top"
+        src="images/logo.jpeg"
+      />
+    </a>
+    <button
+      aria-controls="responsive-navbar-nav"
+      aria-label="Toggle navigation"
+      class="navbar-toggler collapsed"
+      type="button"
+    >
+      <span
+        class="navbar-toggler-icon"
+      />
+    </button>
+    <div
+      class="navbar-collapse collapse"
+      id="responsive-navbar-nav"
+    >
+      <div
+        class="ml-auto navbar-nav"
+      >
+        <a
+          class="nav-link"
+          data-rb-event-key="/"
+          href="/"
+        >
+          Home
+        </a>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            Our Goldens
+          </a>
+        </div>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            Grooming Your Golden
+          </a>
+        </div>
+        <a
+          class="nav-link"
+          data-rb-event-key="mylifewithanimals"
+          href="mylifewithanimals"
+        >
+          My Life With Animals
+        </a>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            About Us
+          </a>
+        </div>
+        <a
+          class="nav-link"
+          data-rb-event-key="#links"
+          href="#links"
+        >
+          Links
+        </a>
+        <a
+          class="nav-link"
+          data-rb-event-key="#contact"
+          href="#contact"
+        >
+          Contact
+        </a>
+      </div>
+    </div>
+  </nav>
+  <nav
+    class="belowNavbar nav nav-tabs"
+    role="tablist"
+  >
+    <a
+      aria-controls="controlled-tab-example-tabpane-shadowHome"
+      aria-selected="true"
+      class="nav-item nav-link active"
+      data-rb-event-key="shadowHome"
+      href="#"
+      id="controlled-tab-example-tab-shadowHome"
+      role="tab"
+    >
+      Shadow
+    </a>
+    <a
+      aria-controls="controlled-tab-example-tabpane-shadowLitter"
+      aria-selected="false"
+      class="nav-item nav-link"
+      data-rb-event-key="shadowLitter"
+      href="#"
+      id="controlled-tab-example-tab-shadowLitter"
+      role="tab"
+      tabindex="-1"
+    >
+      Shadow's Litter
+    </a>
+    <a
+      aria-controls="controlled-tab-example-tabpane-breedShowAchievements"
+      aria-selected="false"
+      class="nav-item nav-link"
+      data-rb-event-key="breedShowAchievements"
+      href="#"
+      id="controlled-tab-example-tab-breedShowAchievements"
+      role="tab"
+      tabindex="-1"
+    >
+      Breed Show Achievements
+    </a>
+  </nav>
+  <div
+    class="tab-content"
+  >
+    <div
+      aria-hidden="false"
+      aria-labelledby="controlled-tab-example-tab-shadowHome"
+      class="fade tab-pane active show"
+      id="controlled-tab-example-tabpane-shadowHome"
+      role="tabpanel"
+    >
+      <div>
+        <h2>
+          Shadow
+        </h2>
+      </div>
+      <div>
+        <h3>
+          CH Salhouse Sunchaser (Shadow)
+        </h3>
+        <p>
+          Sire: NZ CH Santamaria The Patriot
+        </p>
+        <p>
+          Dam: Sanastasia Sth'n Star Chara
+        </p>
+        <p>
+          Whelped: 21 February 2006
+        </p>
+        <p>
+          Hips: 11:10  Elbows: B:1a  Eyes: Clear Eye Certificate 9/5/10
+        </p>
+        <div>
+          <img
+            class="img-fluid"
+            src="images/shadow1.jpg"
+          />
+        </div>
+      </div>
+      <div>
+        <h4>
+          Achievements:
+        </h4>
+        <p>
+          Shadow's greatest achievement to date was to select us as her keepers. When she was a puppy, along with the six other littermates, we used to visit the puppies outside in the garden but then come in through either the conservatory door or through the gate at the side. Invariably one puppy used to be on our side of the door/gate once we had closed it and we began to realise that it was always the same one that slipped through. This same puppy used to follow my husband around as well and consequently she became the beautiful girl that we kept and she was named “Shadow“ because my husband considered she shadowed him all the time.
+        </p>
+        <p>
+          Shadow has the most wonderful personality. She plays hide and seek, is always mischievous in a nice way, and she talks to us. She can be quite vocal when greeting people she knows, not barking, but almost squealing her delight at the meeting. She also is the most wonderful cuddler in the world. I have never known a dog to cuddle the way she does. She knows just how to get in the right place and hold on to you in such a lovely way. You cannot sit or lay on the floor in our house without Shadow comandeering a cuddle. Kula is also a cuddler, but she doesn't stand much of a chance with Shadow around as Shadow will always get in between her Mum and whichever human is on the floor.
+        </p>
+        <p>
+          Shadow whelped a litter of 7 puppies on 7 April 2010. For some of the drama involved in this whelping, see the News page. There is also a page called Shadow's litter 2010 where there are photos of this lovely litter of four male and three female puppies. We have kept one of the female puppies from this litter and have named her Sherry. You can find out more about her on her own page.
+        </p>
+        <p>
+          Shadow has a second great achievement now - she won a CC at Hastings on 11 December 2010 (see News item dated 12 December 2010, Shadow's first CC).
+        </p>
+        <p>
+          Who would have thought that a visit to Wanganui (Wangavegas) would be a really amazingly exciting event! However, Wangavegas will go down in history for us as the scene our greatest achievement so far. On 14 March 2014, we set out from Lower Hutt to attend four dog shows that weekend. We had Shadow sitting on six challenge certificates and Sherry sitting on seven challenge certificates (not literally sitting, you know what I mean!). A dog needs eight challenge certificates to be able to be called a Champion. We have been showing Shadow for around five and a half years. We don't go to shows every weekend but we have trundled around the country, even around the South Island, and picked up challenges here and there.
+        </p>
+        <p>
+          On Saturday 15 March 2014, we went into the ring for the first show late morning. Blow me down if I didn't get both Shadow and Sherry in the line up for the first challenge - which means they both won their classes and are then put up to be assessed against all the other bitches who have won their classes. Whoever wins that line up wins the bitch challenge. Well, dear Shadow won that challenge. That made our weekend already and we went back to our camp spot quite happy.
+        </p>
+        <p>
+          Next up was the gun dog show in the afternoon. We set off to the ringside again and entered the ring for a run around. Well blow me down if we didn't get them both into the line up yet again. So I had two dogs in the ring who could possibly become Champions. We waited for the judge to look them over and ran them around. And then... SHADOW you did it again to become Salhouse's very first official Champion! Woo hoo... so happy. What a weekend. Just to show that it wasn't a fluke, Shadow picked up the first challenge of the day on Sunday too. Way to go my girl.
+        </p>
+        <p>
+          To find out more about how Shadow came into our lives, go to Kula's litter 2006 page.
+        </p>
+      </div>
+      <div>
+        <div
+          class="table-responsive-sm"
+        >
+          <table
+            class="table table-sm table-bordered"
+          >
+            <thead>
+              <tr>
+                <th
+                  colspan="3"
+                >
+                  Pedigree of CH Salhouse Sunchaser
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  Parents
+                </td>
+                <td>
+                  Grandparents
+                </td>
+                <td>
+                  Great Grandparents
+                </td>
+              </tr>
+              <tr>
+                <td
+                  rowspan="4"
+                >
+                  Sire: NZ CH Santamaria The Patriot (IMP-AUST)
+                </td>
+                <td
+                  rowspan="2"
+                >
+                  AUST CH Strathraer Nordic Star
+                </td>
+                <td>
+                  FNL & SWD CH & FNL FT CH Trewater Macoy (IMP-UK)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Haamorin Mesimarja (IMP-FNL)
+                </td>
+              </tr>
+              <tr>
+                <td
+                  rowspan="2"
+                >
+                  AUST CH Santamaria Anna Leise
+                </td>
+                <td>
+                  AUST CH Goldtreve Dukes Son
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  AUST CH Santamaria Liason
+                </td>
+              </tr>
+              <tr>
+                <td
+                  rowspan="4"
+                >
+                  Dam: Sanastasia Sth’n Star Chara
+                </td>
+                <td
+                  rowspan="2"
+                >
+                  CH Seacove Southern Cross
+                </td>
+                <td>
+                  CH Glentreve Frozen-Asset
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Seacove Bireme
+                </td>
+              </tr>
+              <tr>
+                <td
+                  rowspan="2"
+                >
+                  Sanastasia Treasured Teah CDX
+                </td>
+                <td>
+                  OB.GR.CH. Speyside Fidgety Feet CDX
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Sanastasia Special Lady CDX
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <hr />
+      <div>
+        <p>
+          Photos:
+        </p>
+        <img
+          class="img-fluid"
+          src="images/shadow2.jpg"
+        />
+        <p>
+          Shadow with her champion certificate, March 2014
+        </p>
+        <img
+          class="img-fluid"
+          src="images/shadow3.jpg"
+        />
+        <p>
+          Shadow with her first CC - Hastings, 11 Dec 2010
+        </p>
+        <img
+          class="img-fluid"
+          src="images/shadow4.jpg"
+        />
+        <img
+          class="img-fluid"
+          src="images/shadow5.jpg"
+        />
+        <img
+          class="img-fluid"
+          src="images/shadow6.jpg"
+        />
+        <p>
+          Shadow the tree climber!
+        </p>
+        <img
+          class="img-fluid"
+          src="images/shadow7.jpg"
+        />
+        <p>
+          Baby Shadow and “friend“.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/shadow8.jpg"
+        />
+        <p>
+          Early puppy photo of Shadow.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/shadow9.jpg"
+        />
+        <p>
+          Puppy Shadow with a chewy (or is it a cigar?)!
+        </p>
+        <img
+          class="img-fluid"
+          src="images/shadow10.jpg"
+        />
+        <p>
+          Surprised Shadow!
+        </p>
+        <img
+          class="img-fluid"
+          src="images/shadow11.jpg"
+        />
+        <p>
+          Keep splashing Shadow, you won't drown! Shadow absolutely loves swimming.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/shadow12.jpg"
+        />
+        <p>
+          Shadow on guard!
+        </p>
+        <img
+          class="img-fluid"
+          src="images/shadow13.jpg"
+        />
+        <p>
+          Shadow at her first ever show.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/shadow14.jpg"
+        />
+        <p>
+          Shadow wins the prettiest dog in show.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/shadow15.jpg"
+        />
+        <p>
+          Shadow sneaking off with her Christmas pressie.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/shadow16.jpg"
+        />
+        <p>
+          Shadow with her favourite cuddly toy.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/shadow17.jpg"
+        />
+        <p>
+          Shadow with Sherry at 13 weeks of age.
+        </p>
+      </div>
+    </div>
+    <div
+      aria-hidden="true"
+      aria-labelledby="controlled-tab-example-tab-shadowLitter"
+      class="fade tab-pane"
+      id="controlled-tab-example-tabpane-shadowLitter"
+      role="tabpanel"
+    >
+      <div>
+        <h2>
+          Shadow's litter 2010
+        </h2>
+      </div>
+      <div>
+        <p>
+          My thanks go to Gaye who kindly allowed me to use the lovely Gambler as sire for this litter and also to Sandy for her invaluable help with the whelping of the litter.
+        </p>
+        <p>
+          On 6 and 7 April 2010 Shadow had a litter of 7 beautiful puppies, 4 males and 3 females. She also had another female but unfortunately that was stillborn.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/sl1.jpg"
+        />
+        <p>
+          Salhouse Sunchaser - Shadow (pictured above left)
+        </p>
+        <img
+          class="img-fluid"
+          src="images/sl2.jpg"
+        />
+        <p>
+          NZ CH Sandlewood Gamble-with-Gold - Gambler (pictured below left).
+        </p>
+      </div>
+      <hr />
+      <div>
+        <p>
+          Photos:
+        </p>
+        <img
+          class="img-fluid"
+          src="images/sl3.jpg"
+        />
+        <img
+          class="img-fluid"
+          src="images/sl4.jpg"
+        />
+        <img
+          class="img-fluid"
+          src="images/sl5.jpg"
+        />
+        <img
+          class="img-fluid"
+          src="images/sl6.jpg"
+        />
+        <hr />
+        <p>
+          Introducing:
+        </p>
+        <img
+          class="img-fluid"
+          src="images/sl7.jpg"
+        />
+        <img
+          class="img-fluid"
+          src="images/sl8.jpg"
+        />
+        <img
+          class="img-fluid"
+          src="images/sl9.jpg"
+        />
+        <p>
+          1 Male - tip of tail - temporary name, Xerxes; final name Lachie
+        </p>
+        <p>
+          2 Male - base of tail - temporary name, Spartacus; final name, Murphy
+        </p>
+        <p>
+          3 Female - neck - temporary name, Trinity; final name, Kylo
+        </p>
+        <img
+          class="img-fluid"
+          src="images/sl10.jpg"
+        />
+        <img
+          class="img-fluid"
+          src="images/sl11.jpg"
+        />
+        <img
+          class="img-fluid"
+          src="images/sl12.jpg"
+        />
+        <p>
+          4 Male - middle of back - temporary name, Thumper; final name, Marco
+        </p>
+        <p>
+          5 Female - base of tail - temporary name, Flotsam; final name, Sherry
+        </p>
+        <p>
+          6 Male - neck - temporary name, Maximus; final name, Max
+        </p>
+        <img
+          class="img-fluid"
+          src="images/sl13.jpg"
+        />
+        <p>
+          7 Female - tip of tail - temporary name, Tiny; final name, Amber
+        </p>
+        <img
+          class="img-fluid"
+          src="images/sl14.jpg"
+        />
+        <p>
+          Sleeping puppies nearly 3 weeks old.
+        </p>
+      </div>
+    </div>
+    <div
+      aria-hidden="true"
+      aria-labelledby="controlled-tab-example-tab-breedShowAchievements"
+      class="fade tab-pane"
+      id="controlled-tab-example-tabpane-breedShowAchievements"
+      role="tabpanel"
+    >
+      <div>
+        <h2>
+          Show achievements
+        </h2>
+        <p>
+          This page will document Shadow's achievements - CH Salhouse Sunchaser.
+        </p>
+      </div>
+      <div>
+        <div
+          class="table-responsive-sm"
+        >
+          <table
+            class="table table-sm table-bordered"
+          >
+            <thead>
+              <tr>
+                <th
+                  colspan="3"
+                >
+                  Challenge Certificates Awarded
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  Date
+                </td>
+                <td>
+                  Show
+                </td>
+                <td>
+                  Judge
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  11 December 2010
+                </td>
+                <td>
+                  East Coast Ladies Kennel Association
+                </td>
+                <td>
+                  C Stuart (NSW)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  29 January 2011
+                </td>
+                <td>
+                  Tasman Districts Gundog Society
+                </td>
+                <td>
+                  B Balaam (Queensland)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  15 October 2011
+                </td>
+                <td>
+                  Ruahine Kennel Association
+                </td>
+                <td>
+                  S McMahon (NSW)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  29 October 2011
+                </td>
+                <td>
+                  West Coast Kennel Association
+                </td>
+                <td>
+                  Sue Gray (Tasmania)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  14 July 2013
+                </td>
+                <td>
+                  Otago Kennel Association
+                </td>
+                <td>
+                  Lyn Brand (NSW)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  16 November 2013
+                </td>
+                <td>
+                  Wairarapa Kennel Association
+                </td>
+                <td>
+                  Valma Morrow (NSW)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  15 March 2014
+                </td>
+                <td>
+                  Wanganui Kennel Society
+                </td>
+                <td>
+                  J Camac (VIC)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  15 March 2014
+                </td>
+                <td>
+                  Wanganui & District Gundog Society
+                </td>
+                <td>
+                  L Parekowhai (NZ)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  16 March 2014
+                </td>
+                <td>
+                  Wanganui Kennel Society
+                </td>
+                <td>
+                  E Blake-Watts (NZ)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  30 March 2014
+                </td>
+                <td>
+                  Napier Kennel Centre
+                </td>
+                <td>
+                  Susan Tringham (QLD)
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <hr />
+      <div>
+        <img
+          class="img-fluid"
+          src="images/shadow3.jpg"
+        />
+        <p>
+          Shadow won her first CC at East Coast Ladies Kennel Association in Hawke's Bay, 11 December 2010.
+        </p>
+        <p>
+          There are no photos of Shadow's next CC win, which was at the Tasman District Open Gundog show on 29 January 2011.  However, below is a short video of Shadow in the ring for a show on the same day (Nelson District Kennel Assocation), at which she got Reserve Bitch CC.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

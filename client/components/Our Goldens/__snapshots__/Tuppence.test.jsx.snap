@@ -1,0 +1,308 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tuppence component matches snapshot 1`] = `
+<div>
+  <nav
+    class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top"
+  >
+    <a
+      class="navbar-brand"
+      href="/"
+    >
+      <img
+        alt="Goldens retrievers, phoenix and kula"
+        class="shlogo d-inline-block align-top"
+        src="images/logo.jpeg"
+      />
+    </a>
+    <button
+      aria-controls="responsive-navbar-nav"
+      aria-label="Toggle navigation"
+      class="navbar-toggler collapsed"
+      type="button"
+    >
+      <span
+        class="navbar-toggler-icon"
+      />
+    </button>
+    <div
+      class="navbar-collapse collapse"
+      id="responsive-navbar-nav"
+    >
+      <div
+        class="ml-auto navbar-nav"
+      >
+        <a
+          class="nav-link"
+          data-rb-event-key="/"
+          href="/"
+        >
+          Home
+        </a>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            Our Goldens
+          </a>
+        </div>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            Grooming Your Golden
+          </a>
+        </div>
+        <a
+          class="nav-link"
+          data-rb-event-key="mylifewithanimals"
+          href="mylifewithanimals"
+        >
+          My Life With Animals
+        </a>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            About Us
+          </a>
+        </div>
+        <a
+          class="nav-link"
+          data-rb-event-key="#links"
+          href="#links"
+        >
+          Links
+        </a>
+        <a
+          class="nav-link"
+          data-rb-event-key="#contact"
+          href="#contact"
+        >
+          Contact
+        </a>
+      </div>
+    </div>
+  </nav>
+  <div
+    class="belowNavbar"
+  >
+    <h2>
+      Tuppence
+    </h2>
+  </div>
+  <div>
+    <h3>
+      Tuppenny Nudger at Salhouse (Tuppence)
+    </h3>
+    <p>
+      Sire: Sandlewood Bowl-Me-Over
+    </p>
+    <p>
+      Dam: CH Golden Light at Salhouse CDX
+    </p>
+    <p>
+      Whelped: 16 June 2015
+    </p>
+    <div>
+      <img
+        class="img-fluid"
+        src="images/tuppence1.jpg"
+      />
+    </div>
+  </div>
+  <div>
+    <h4>
+      Achievements:
+    </h4>
+    <p>
+      At the time of writing this Tuppence is just 20 months old. She is not a show dog but a beautiful, happy family dog. She is a supporter at shows to her sister, mum and grandma who still occasionally shows at 11 years of age. Tuppence is the smartest dog I have ever owned. She has got heaps of enthusiasm and picks up new tricks really easily. Her biggest drawback is the ability of her trainer, me! In February 2017 I took her to a trick workshop one Saturday. The other dogs that went had been trained at the facility previously. The only training Tuppence had done was the training that I have done with her throughout her life. It is extensive training but doing in on your own makes it quite interesting as you're never quite sure how well you're doing. Anyway, we had to achieve 15 points doing up to 15 tricks to gain a certificate and a ribbon at this workshop. Tuppence flew through the tricks. That's how smart this little dog is. She has the most beautiful smile and is such an enthusiastic puppy.
+    </p>
+  </div>
+  <div>
+    <div
+      class="table-responsive-sm"
+    >
+      <table
+        class="table table-sm table-bordered"
+      >
+        <thead>
+          <tr>
+            <th
+              colspan="3"
+            >
+              Pedigree of Tuppenny Nudger at Salhouse
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              Parents
+            </td>
+            <td>
+              Grandparents
+            </td>
+            <td>
+              Great Grandparents
+            </td>
+          </tr>
+          <tr>
+            <td
+              rowspan="4"
+            >
+              Sire: Sandlewood Bowl-Me-Over
+            </td>
+            <td
+              rowspan="2"
+            >
+              NZ CH & Aust Grand CH Karparla Wicket Keeper (Imp-Aust)
+            </td>
+            <td>
+              Grand CH Tulzean Autumn Tango
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Xanthos Are You Talking to Me (Imp UK)
+            </td>
+          </tr>
+          <tr>
+            <td
+              rowspan="2"
+            >
+              Seacove CH Kavandale Angeleyes
+            </td>
+            <td>
+              Dream Max Grandmother's Prospect (Imp-SWE) to Aust
+            </td>
+          </tr>
+          <tr>
+            <td>
+              CH Hawkwood Iduna
+            </td>
+          </tr>
+          <tr>
+            <td
+              rowspan="4"
+            >
+              Dam: CH Golden Light at Salhouse DDX
+            </td>
+            <td
+              rowspan="2"
+            >
+              CH Sandlewood Gamble-With-Gold
+            </td>
+            <td>
+              Goldfleece Go For Gold At Sandlewood (Imp-Aust)
+            </td>
+          </tr>
+          <tr>
+            <td>
+              CH Sandlewood Charlies-Angel
+            </td>
+          </tr>
+          <tr>
+            <td
+              rowspan="2"
+            >
+              CH Salhouse Sunchaser
+            </td>
+            <td>
+              NZ CH Santamaria The Patriot (Imp-Aust)
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Sanastasia Sth'n Star Chara
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <hr />
+  <div>
+    <p>
+      Photos:
+    </p>
+    <img
+      class="img-fluid"
+      src="images/tuppence2.jpg"
+    />
+    <p>
+      Tuppence enjoys chewing things.
+    </p>
+    <img
+      class="img-fluid"
+      src="images/tuppence3.jpg"
+    />
+    <p>
+      It was windy at the top of the hill. Tuppence (right) with her sister Autumn.
+    </p>
+    <img
+      class="img-fluid"
+      src="images/tuppence4.jpg"
+    />
+    <p>
+      Sitting and waiting for the next command.
+    </p>
+    <img
+      class="img-fluid"
+      src="images/tuppence5.jpg"
+    />
+    <p>
+      It must be Christmas!
+    </p>
+    <img
+      class="img-fluid"
+      src="images/tuppence6.jpg"
+    />
+    <p>
+      Such a cutie Tuppence.
+    </p>
+    <img
+      class="img-fluid"
+      src="images/tuppence7.jpg"
+    />
+    <p>
+      Puppy Tuppence in the beanbag with a piece of paper - little things amuse her.
+    </p>
+    <img
+      class="img-fluid"
+      src="images/tuppence8.jpg"
+    />
+    <p>
+      Little Tuppence with her big sister, Autumn.
+    </p>
+    <img
+      class="img-fluid"
+      src="images/tuppence9.jpg"
+    />
+    <p>
+      The two girls, Tuppence on the right.
+    </p>
+  </div>
+</div>
+`;
