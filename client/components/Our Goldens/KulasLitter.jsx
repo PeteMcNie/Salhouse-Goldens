@@ -17,29 +17,29 @@ function KulasLitter () {
       <hr />
       <div>
         <p>Photos:</p>
-        <Image src="images/kl2.jpg" fluid />
-        <p></p>
-        <Image src="images/kl2.jpg" fluid />
-        <p></p>
-        <Image src="images/kl2.jpg" fluid />
-        <p></p>
-        <Image src="images/kl2.jpg" fluid />
-        <p></p>
-        <Image src="images/kl2.jpg" fluid />
-        <p></p>
-        <Image src="images/kl2.jpg" fluid />
-        <p></p>
-        <Image src="images/kl2.jpg" fluid />
-        <p></p>
-        <Image src="images/kl2.jpg" fluid />
-        <p></p>
-        <Image src="images/kl2.jpg" fluid />
-        <p></p>
-        <Image src="images/kl2.jpg" fluid />
-        <p></p>
+        <Image src="images/kl3.jpg" fluid />
+        <p>Kula 8 weeks pregnant (like a beached whale!).</p>
+        <Image src="images/kl4.jpg" fluid />
+        <p>Our first ever puppy born!</p>
+        <Image src="images/kl5.jpg" fluid />
+        <p>We had a lot of fun with these puppies and of course kept the lovely Shadow.</p>
+        <p>The puppies all had wonderful homes to go to and are still currently enjoying their life to the full.</p>
+        <Image src="images/kl6.jpg" fluid />
+        <p>Kula wonders what is moving under the blanket!</p>
+        <Image src="images/kl7.jpg" fluid />
+        <p>Pileup of puppies!</p>
+        <Image src="images/kl8.jpg" fluid />
+        <p>Puppies feeding.</p>
+        <Image src="images/kl9.jpg" fluid />
+        <p>Asleep under the barbecue.</p>
+        <Image src="images/kl10.jpg" fluid />
+        <p>All on Jeff!</p>
+        <Image src="images/kl11.jpg" fluid />
+        <p>Let&apos;s try out the pool.</p>
+        <Image src="images/kl12.jpg" fluid />
+        <p>1st birthday - all except the second female here.</p>
       </div>
     </>
-
   )
 }
 
