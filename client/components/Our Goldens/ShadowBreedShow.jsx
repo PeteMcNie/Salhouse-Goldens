@@ -24,24 +24,49 @@ function ShadowBreedShow () {
               <td>Judge</td>
             </tr>
             <tr>
-              <td></td>
-              <td></td>
+              <td>29 January 2011</td>
+              <td>Nelson District Kennel Association</td>
+              <td>C Butler (NSW)</td>
+            </tr>
+            <tr>
+              <td>30 January 2011</td>
+              <td>Nelson District Kennel Association</td>
+              <td>L Butler (NSW)</td>
+            </tr>
+            <tr>
+              <td>5 November 2011</td>
+              <td>Southland Kennel Association</td>
+              <td>Justine Blyth (Tasmania)</td>
+            </tr>
+            <tr>
+              <td>6 November 2011</td>
+              <td>Otago-Southland Gundog Society</td>
+              <td>J Ellem (NSW)</td>
+            </tr>
+            <tr>
+              <td>1 April 2012</td>
+              <td>Napier Kennel Centre</td>
               <td></td>
             </tr>
             <tr>
-              <td></td>
-              <td></td>
-              <td></td>
+              <td>16 February 2013</td>
+              <td>Horowhenua Kennel Association</td>
+              <td>Honey Glendinning (Canada)</td>
             </tr>
             <tr>
-              <td></td>
-              <td></td>
-              <td></td>
+              <td>13 July 2013</td>
+              <td>Otago Kennel Association</td>
+              <td>Lynette Brown (NSW)</td>
             </tr>
             <tr>
-              <td></td>
-              <td></td>
-              <td></td>
+              <td>29 March 2014</td>
+              <td>Wairoa Kennel Association</td>
+              <td>Max Martin (ACT)</td>
+            </tr>
+            <tr>
+              <td>30 March 2014</td>
+              <td>Napier Kennel Centre</td>
+              <td>Lena Stalhandske (NSW)</td>
             </tr>
           </tbody>
         </Table>
