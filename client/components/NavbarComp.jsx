@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { useHistory } from 'react-router-dom'
 
 import { Navbar, Nav, NavDropdown } from 'react-bootstrap'
@@ -8,6 +8,16 @@ function NavbarComp () {
 
   function handleClick () {
     history.push('/ourgoldens')
+  }
+
+  const [show, setShow] = useState(false)
+
+  function showDropdown () {
+    setShow(!show)
+  }
+
+  function hideDropdown () {
+    setShow(false)
   }
 
   return (
@@ -27,7 +37,13 @@ function NavbarComp () {
           <Nav className="ml-auto">
             <Nav.Link href="/">Home</Nav.Link>
 
-            <NavDropdown onClick={handleClick} title="Our Goldens" id="collasible-nav-dropdown">
+            <NavDropdown show={show}
+              onMouseEnter={showDropdown}
+              onMouseLeave={hideDropdown}
+              onClick={handleClick}
+              title="Our Goldens"
+              id="collasible-nav-dropdown">
+
               <NavDropdown.Item href="/phoenix">Phoenix</NavDropdown.Item>
               <NavDropdown.Item href="/kula">Kula</NavDropdown.Item>
               <NavDropdown.Item href="/shadow">Shadow</NavDropdown.Item>
