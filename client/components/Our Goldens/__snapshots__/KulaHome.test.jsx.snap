@@ -1,0 +1,466 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Kula component matches snapshot 1`] = `
+<div>
+  <nav
+    class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top"
+  >
+    <a
+      class="navbar-brand"
+      href="/"
+    >
+      <img
+        alt="Goldens retrievers, phoenix and kula"
+        class="shlogo d-inline-block align-top"
+        src="images/logo.jpeg"
+      />
+    </a>
+    <button
+      aria-controls="responsive-navbar-nav"
+      aria-label="Toggle navigation"
+      class="navbar-toggler collapsed"
+      type="button"
+    >
+      <span
+        class="navbar-toggler-icon"
+      />
+    </button>
+    <div
+      class="navbar-collapse collapse"
+      id="responsive-navbar-nav"
+    >
+      <div
+        class="ml-auto navbar-nav"
+      >
+        <a
+          class="nav-link"
+          data-rb-event-key="/"
+          href="/"
+        >
+          Home
+        </a>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            Our Goldens
+          </a>
+        </div>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            Grooming Your Golden
+          </a>
+        </div>
+        <a
+          class="nav-link"
+          data-rb-event-key="mylifewithanimals"
+          href="mylifewithanimals"
+        >
+          My Life With Animals
+        </a>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            About Us
+          </a>
+        </div>
+        <a
+          class="nav-link"
+          data-rb-event-key="#links"
+          href="#links"
+        >
+          Links
+        </a>
+        <a
+          class="nav-link"
+          data-rb-event-key="#contact"
+          href="#contact"
+        >
+          Contact
+        </a>
+      </div>
+    </div>
+  </nav>
+  <nav
+    class="belowNavbar nav nav-tabs"
+    role="tablist"
+  >
+    <a
+      aria-controls="controlled-tab-example-tabpane-kulaHome"
+      aria-selected="true"
+      class="nav-item nav-link active"
+      data-rb-event-key="kulaHome"
+      href="#"
+      id="controlled-tab-example-tab-kulaHome"
+      role="tab"
+    >
+      Kula
+    </a>
+    <a
+      aria-controls="controlled-tab-example-tabpane-KulaLitter"
+      aria-selected="false"
+      class="nav-item nav-link"
+      data-rb-event-key="KulaLitter"
+      href="#"
+      id="controlled-tab-example-tab-KulaLitter"
+      role="tab"
+      tabindex="-1"
+    >
+      Kula's Litter
+    </a>
+  </nav>
+  <div
+    class="tab-content"
+  >
+    <div
+      aria-hidden="false"
+      aria-labelledby="controlled-tab-example-tab-kulaHome"
+      class="fade tab-pane active show"
+      id="controlled-tab-example-tabpane-kulaHome"
+      role="tabpanel"
+    >
+      <div>
+        <h2>
+          Kula
+        </h2>
+      </div>
+      <div>
+        <h3>
+          Sanastasia Sth'n Star Chara (Kula)
+        </h3>
+        <p>
+          Sire: CH Seacove Southern Cross
+        </p>
+        <p>
+          Dam: Sanastasia Treasured Teah
+        </p>
+        <p>
+          5 June 2003 to 21 October 2019
+        </p>
+        <p>
+          Hips: 7:8  Elbows: B:B  Eyes: Clear Eye Certificate 20/5/12
+        </p>
+        <div>
+          <img
+            class="img-fluid"
+            src="images/kula1.jpg"
+          />
+        </div>
+      </div>
+      <div>
+        <h4>
+          Achievements:
+        </h4>
+        <p>
+          Kula's greatest achievement was to have a lovely litter of puppies in 2006. She had a difficult pregnancy - for me anyway, as almost from the moment she got pregnant she wouldn't eat anything that had the word “petfood“ on it. I can only guess that she had morning sickness throughout this pregnancy and it was a real challenge to find things for her to eat. If I found that she would eat fresh fish one day, I would buy in lots of it only to find that after about three days, she no longer wanted to eat that. So we would go on to something else - steak, sausages cooked on the barbecue, chicken, leftover food from our meals, eggs, cheese etc - only to find that in each occasion, after one or two days she would no longer eat that food. And its not as if we could go back to the same food a week or two later. It seemed that once she had eat a type of food it was then marked as “never to touch again while I am pregnant“. She drove me almost to despair when, at the end of her pregnancy she stopped eating totally for three days. I couldn't get her tempted at all and we watched the puppies seeming to get larger and Kula to get smaller. When she finally had the litter they were very healthy puppies and Kula, who was absolutely skin and bone by then, started to eat immediately, initially with half a pot of honey while she was in labour and then eating everything possible from then onwards. What a relief!
+        </p>
+        <p>
+          Kula is my only dog to have clicked with the retrieve “thing“. She caught on at an early age that if she brought back the stick or the ball to my feet, she would have the fun of another chase - an achievement that sadly kula and Shadow seem to have missed out on. Kula is now going to try to do a bit of obedience. I think she has potential but we probably should have started a few years ago. However, she is pretty clever at picking things up and we can have some fun along the way.
+        </p>
+        <p>
+          To find out more about how Kula came into our lives, go to the My Life with Animals page.
+        </p>
+        <p>
+          Kula's Litter 2006.
+        </p>
+      </div>
+      <div>
+        <div
+          class="table-responsive-sm"
+        >
+          <table
+            class="table table-sm table-bordered"
+          >
+            <thead>
+              <tr>
+                <th
+                  colspan="3"
+                >
+                  Pedigree of Sanastasia Sth'n Star Chara
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  Parents
+                </td>
+                <td>
+                  Grandparents
+                </td>
+                <td>
+                  Great Grandparents
+                </td>
+              </tr>
+              <tr>
+                <td
+                  rowspan="4"
+                >
+                  Sire: CH Seacove Southern Cross
+                </td>
+                <td
+                  rowspan="2"
+                >
+                  CH Glentreve Frozen-Asset
+                </td>
+                <td>
+                  Eng. CH Paudell Easter Plantagenet at Kerrien (UK)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  CH McIlroy Interlude
+                </td>
+              </tr>
+              <tr>
+                <td
+                  rowspan="2"
+                >
+                  Seacove Bireme
+                </td>
+                <td>
+                  GR & Aust. CH Caldicot Swift
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Goldriver Amber-Sunrise QC CDX
+                </td>
+              </tr>
+              <tr>
+                <td
+                  rowspan="4"
+                >
+                  Dam: Sanastasia Treasured Teah CDX
+                </td>
+                <td
+                  rowspan="2"
+                >
+                  OB GR CH Speyside Fidgety Feet CDX
+                </td>
+                <td>
+                  GR CH Graveleigh Soaring High QC CDX
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Speyside Shades of Gold CDX
+                </td>
+              </tr>
+              <tr>
+                <td
+                  rowspan="2"
+                >
+                  Sanastasia Special Lady CDX
+                </td>
+                <td>
+                  Sanastasia Gold Falkor
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Speyside Silver Lining CDX
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <hr />
+      <div>
+        <p>
+          Photos:
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kula2.jpg"
+        />
+        <p>
+          Kula likes to snooze in the bean bag!
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kula3.jpg"
+        />
+        <p>
+          Kula posing.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kula4.jpg"
+        />
+        <p>
+          Posing again, but upside down this time!
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kula5.jpg"
+        />
+        <p>
+          Kula after a swim at Lake Taupo.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kula6.jpg"
+        />
+        <p>
+          Such a hot day, the only thing for it was to swim up the river.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kula7.jpg"
+        />
+        <p>
+          Kula (right) and Shadow enjoy time in the sun.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kula8.jpg"
+        />
+        <p>
+          Kula ready for a walk!
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kula9.jpg"
+        />
+        <p>
+          Kula's Mum - Teah.
+        </p>
+      </div>
+    </div>
+    <div
+      aria-hidden="true"
+      aria-labelledby="controlled-tab-example-tab-KulaLitter"
+      class="fade tab-pane"
+      id="controlled-tab-example-tabpane-KulaLitter"
+      role="tabpanel"
+    >
+      <div>
+        <h2>
+          Kula's Litter 2006
+        </h2>
+      </div>
+      <div>
+        <img
+          class="img-fluid"
+          src="images/kl1.jpg"
+        />
+        <p>
+          On 21 February 2006, Kula (pictured left top) had a litter of 7 beautiful puppies, 5 boys and 2 girls.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kl2.jpg"
+        />
+        <p>
+          The father of these puppies is Jordan (NZ CH Santamaria The Patriot) (pictured left bottom).
+        </p>
+      </div>
+      <hr />
+      <div>
+        <p>
+          Photos:
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kl3.jpg"
+        />
+        <p>
+          Kula 8 weeks pregnant (like a beached whale!).
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kl4.jpg"
+        />
+        <p>
+          Our first ever puppy born!
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kl5.jpg"
+        />
+        <p>
+          We had a lot of fun with these puppies and of course kept the lovely Shadow.
+        </p>
+        <p>
+          The puppies all had wonderful homes to go to and are still currently enjoying their life to the full.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kl6.jpg"
+        />
+        <p>
+          Kula wonders what is moving under the blanket!
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kl7.jpg"
+        />
+        <p>
+          Pileup of puppies!
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kl8.jpg"
+        />
+        <p>
+          Puppies feeding.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kl9.jpg"
+        />
+        <p>
+          Asleep under the barbecue.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kl10.jpg"
+        />
+        <p>
+          All on Jeff!
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kl11.jpg"
+        />
+        <p>
+          Let's try out the pool.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/kl12.jpg"
+        />
+        <p>
+          1st birthday - all except the second female here.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
