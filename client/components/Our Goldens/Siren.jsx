@@ -13,11 +13,10 @@ function Siren () {
         <h2>Siren</h2>
       </div>
       <div>
-        <h3></h3>
-        <p>Sire: Braeview the Kingmaker</p>
-        <p>Dam: Honey of Frandale</p>
-        <p>10 January 2002 - 14 September 2016</p>
-        <p></p>
+        <h3>Salhouse Siren of Hearts (Siren)</h3>
+        <p>Sire: CH Speyside Bon Chance CGC B</p>
+        <p>Dam: CH Autumn Light at Salhouse</p>
+        <p>Whelped: 26 March 2019</p>
         <div>
           <Image src="images/siren1.jpg" fluid />
         </div>
@@ -25,38 +24,25 @@ function Siren () {
       <div>
         <h4>Achievements:</h4>
         <p>
-            Siren was my first golden and is a beautiful pet. I have dabbled in agility and a tiny bit of obedience with her but
-            really she is mainly a pet who lives with us and enjoys herself, mostly. She does have one or two phobias, e.g. she
-            doesn&apos;t like thunder and tends to be a bit claustrophobic. But other than that, she is a lovely pet. She is very gentle
-            and light on her feet and loves nothing more than to have a tug of war with whoever might be around to play, be it
-            human or dog!
+            Meet the beautiful Siren, who also has the nickname Naughty Pants. She came into our lives in March 2019 being the
+            second puppy born to Autumn. Right from the start I did not want this puppy. She screamed for the first two days of
+            her life, hence the name, and she is the wrong colour for me. I prefer the more golden ones. But throughout the eight
+            weeks that we had the litter at home starting their lives, Siren kept on standing out by either doing something or
+            glowing or standing out from the crowd. She was a bit of a loner. In the last couple of weeks when we had the puppies,
+            when we called them to us, they would all come rushing over... all except one, Siren. She would just sit back and watch,
+            not wanting to be in the melee of the other puppies.
         </p>
         <p>
-            About three years ago she was diagnosed with cataracts forming in her eyes. Then a year ago we discovered that she also
-            had retinal degeneration. She is 8 years old now and is partially blind. We may decide to have the cataracts operated
-            on some time this year, but there is no cure for the retinal degeneration which will eventually make her totally blind.
-            So it will be interesting to see how she gets on over the next couple of years. At the moment, even though her eyesight
-            is generally poor, when we go for walks in the bush, even at night, she is far better finding her way along the path
-            than I am. I who have to have a torch and fall off the path if I am not careful. Dogs obviously work on other senses
-            than eyesight to guide them. We will have to help her though and it will be a challenge but one that we will face together.
-            Siren was spayed when she was young so we will not be passing this particular problem on to others.
-        </p>
-        <p>
-            To find out more about how Siren came into our lives, go to the My Life with Animals page.
-        </p>
-        <p>
-            Siren finally passed away on 14 September 2016. That was a very sad day. No, I can&apos;t just say that... that was a
-            devastating day. We did it all in the best way we could for her and for that I am forever thankful. However, it was
-            still too soon. I wanted to hold her forever and keep her, but for her sake it was kindest to let her go. She took a
-            piece of our hearts with her and we will never forget her. Our lasting message for our beautiful Siren was &ldquo;Thank you
-            for sharing your life with us.&ldquo; I miss you so very much my beautiful girl! xx
+            Siren has had a good start to her show career, being lightly shown in her first year. She has achieved a couple of
+            group wins, and in her last show before the Covid-19 lockdown, she achieved a Best Puppy In Show award. Absolutely
+            brilliant!
         </p>
       </div>
       <div>
         <Table bordered size='sm' responsive="sm">
           <thead>
             <tr>
-              <th colSpan='3'>Pedigree of Sanastasia Sth&apos;n Star Chara</th>
+              <th colSpan='3'>Pedigree of Salhouse Siren of Hearts</th>
             </tr>
           </thead>
           <tbody>
@@ -66,34 +52,34 @@ function Siren () {
               <td>Great Grandparents</td>
             </tr>
             <tr>
-              <td rowSpan='4'>Sire: CH Seacove Southern Cross</td>
-              <td rowSpan='2'>CH Glentreve Frozen-Asset</td>
-              <td>Eng. CH Paudell Easter Plantagenet at Kerrien (UK)</td>
+              <td rowSpan='4'>Sire: CH Speyside Bon Chance</td>
+              <td rowSpan='2'>CH Speyside Double Scotch</td>
+              <td>NZ & AUST CH Dykinta Grand Slam (Imp-Aust)</td>
             </tr>
             <tr>
-              <td>CH McIlroy Interlude</td>
+              <td>CH Speyside Under Cover Lover</td>
             </tr>
             <tr>
-              <td rowSpan='2'>Seacove Bireme</td>
-              <td>GR & Aust. CH Caldicot Swift</td>
+              <td rowSpan='2'>Larena Its Meant To Be (Imp UK)</td>
+              <td>Larena Harlequin</td>
             </tr>
             <tr>
-              <td>Goldriver Amber-Sunrise QC CDX</td>
+              <td>Islavale Cassie of the Spey via Larena</td>
             </tr>
             <tr>
-              <td rowSpan='4'>Dam: Sanastasia Treasured Teah CDX</td>
-              <td rowSpan='2'>OB GR CH Speyside Fidgety Feet CDX</td>
-              <td>GR CH Graveleigh Soaring High QC CDX</td>
+              <td rowSpan='4'>Dam: CH Autumn Light at Salhouse</td>
+              <td rowSpan='2'>CH Sandlewood Bowl-Me-Over</td>
+              <td>NZ CH & Aust Grand CH Karparla Wicket Keeper (Imp-Aust)</td>
             </tr>
             <tr>
-              <td>Speyside Shades of Gold CDX</td>
+              <td>CH Kavandale Angeleyes</td>
             </tr>
             <tr>
-              <td rowSpan='2'>Sanastasia Special Lady CDX</td>
-              <td>Sanastasia Gold Falkor</td>
+              <td rowSpan='2'>CH Golden Light at Salhouse CDX</td>
+              <td>CH Sandlewood Gamble-With-Gold</td>
             </tr>
             <tr>
-              <td>Speyside Silver Lining CDX</td>
+              <td>CH Salhouse Sunchaser</td>
             </tr>
           </tbody>
         </Table>
@@ -102,28 +88,7 @@ function Siren () {
       <div>
         <p>Photos:</p>
         <Image src="images/siren2.jpg" fluid />
-        <p>Puppy Siren used to be a doorstop!</p>
-        <Image src="images/siren3.jpg" fluid />
-        <p></p>
-        <Image src="images/siren4.jpg" fluid />
-        <Image src="images/siren5.jpg" fluid />
-        <p></p>
-        <Image src="images/siren6.jpg" fluid />
-        <p></p>
-        <Image src="images/siren7.jpg" fluid />
-        <p></p>
-        <Image src="images/siren8.jpg" fluid />
-        <p></p>
-        <Image src="images/siren9.jpg" fluid />
-        <p></p>
-        <Image src="images/siren10.jpg" fluid />
-        <p></p>
-        <Image src="images/siren11.jpg" fluid />
-        <p></p>
-        <Image src="images/siren12.jpg" fluid />
-        <p></p>
-        <Image src="images/siren13.jpg" fluid />
-        <p></p>
+        <p>Siren wins Best Puppy In Show!</p>
       </div>
     </>
   )
