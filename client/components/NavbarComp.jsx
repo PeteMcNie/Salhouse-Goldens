@@ -11,13 +11,27 @@ function NavbarComp () {
   }
 
   const [show, setShow] = useState(false)
-
   function showDropdown () {
     setShow(!show)
   }
-
   function hideDropdown () {
     setShow(false)
+  }
+
+  const [showGyg, setShowGyg] = useState(false)
+  function showDropdownGyg () {
+    setShowGyg(!showGyg)
+  }
+  function hideDropdownGyg () {
+    setShowGyg(false)
+  }
+
+  const [showAu, setShowAu] = useState(false)
+  function showDropdownAu () {
+    setShowAu(!showAu)
+  }
+  function hideDropdownAu () {
+    setShowAu(false)
   }
 
   return (
@@ -53,7 +67,12 @@ function NavbarComp () {
               <NavDropdown.Item href="/siren">Siren</NavDropdown.Item>
             </NavDropdown>
 
-            <NavDropdown title="Grooming Your Golden" id="collasible-nav-dropdown">
+            <NavDropdown show={showGyg}
+              onMouseEnter={showDropdownGyg}
+              onMouseLeave={hideDropdownGyg}
+              title="Grooming Your Golden"
+              id="collasible-nav-dropdown">
+
               <NavDropdown.Item href="#action/4.1">Basic Gromming Tips</NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="#action/4.2">Grooming Service</NavDropdown.Item>
@@ -62,7 +81,13 @@ function NavbarComp () {
 
             <Nav.Link href="mylifewithanimals">My Life With Animals</Nav.Link>
 
-            <NavDropdown alignRight title="About Us" id="collasible-nav-dropdown">
+            <NavDropdown show={showAu}
+              onMouseEnter={showDropdownAu}
+              onMouseLeave={hideDropdownAu}
+              title="About Us"
+              id="collasible-nav-dropdown"
+              alignRight >
+
               <NavDropdown.Item href="/aboutus">What we are about</NavDropdown.Item>
               <NavDropdown.Item href="/aboutus">Where &apos;Salhouse&apos; comes from</NavDropdown.Item>
             </NavDropdown>
