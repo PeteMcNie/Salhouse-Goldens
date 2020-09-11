@@ -6,6 +6,7 @@ import Tab from 'react-bootstrap/Tab'
 import NavbarComp from '../NavbarComp'
 import ShadowMain from './ShadowMain'
 import ShadowLitter from './ShadowLitter'
+import ShadowBreedShow from './ShadowBreedShow'
 
 function ShadowHome () {
   const [key, setKey] = useState('shadowHome')
@@ -22,8 +23,11 @@ function ShadowHome () {
         <Tab eventKey="shadowHome" title="Shadow">
           <ShadowMain />
         </Tab>
-        <Tab eventKey="ShadowLitter" title="Shadow's Litter">
+        <Tab eventKey="shadowLitter" title="Shadow's Litter">
           <ShadowLitter />
+        </Tab>
+        <Tab eventKey="breedShowAchievements" title="Breed Show Achievementsr">
+          <ShadowBreedShow />
         </Tab>
       </Tabs>
     </>
