@@ -20,10 +20,10 @@ function SherryHome () {
         onSelect={(k) => setKey(k)}
         className='belowNavbar'
       >
-        <Tab eventKey="shadowHome" title="Shadow">
+        <Tab eventKey="shadowHome" title="Sherry">
           <SherryMain />
         </Tab>
-        <Tab eventKey="ShadowLitter" title="Shadow's Litter" disabled>
+        <Tab eventKey="ShadowLitter" title="Sherry's Litter" disabled>
           <SherryLitter />
         </Tab>
         <Tab eventKey="breedShowAchievements" title="Breed Show Achievementsr">

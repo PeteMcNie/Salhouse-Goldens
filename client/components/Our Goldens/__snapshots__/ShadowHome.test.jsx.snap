@@ -121,16 +121,28 @@ exports[`Shadown component matches snapshot 1`] = `
       Shadow
     </a>
     <a
-      aria-controls="controlled-tab-example-tabpane-ShadowLitter"
+      aria-controls="controlled-tab-example-tabpane-shadowLitter"
       aria-selected="false"
       class="nav-item nav-link"
-      data-rb-event-key="ShadowLitter"
+      data-rb-event-key="shadowLitter"
       href="#"
-      id="controlled-tab-example-tab-ShadowLitter"
+      id="controlled-tab-example-tab-shadowLitter"
       role="tab"
       tabindex="-1"
     >
       Shadow's Litter
+    </a>
+    <a
+      aria-controls="controlled-tab-example-tabpane-breedShowAchievements"
+      aria-selected="false"
+      class="nav-item nav-link"
+      data-rb-event-key="breedShowAchievements"
+      href="#"
+      id="controlled-tab-example-tab-breedShowAchievements"
+      role="tab"
+      tabindex="-1"
+    >
+      Breed Show Achievements
     </a>
   </nav>
   <div
@@ -417,9 +429,9 @@ exports[`Shadown component matches snapshot 1`] = `
     </div>
     <div
       aria-hidden="true"
-      aria-labelledby="controlled-tab-example-tab-ShadowLitter"
+      aria-labelledby="controlled-tab-example-tab-shadowLitter"
       class="fade tab-pane"
-      id="controlled-tab-example-tabpane-ShadowLitter"
+      id="controlled-tab-example-tabpane-shadowLitter"
       role="tabpanel"
     >
       <div>
@@ -529,6 +541,164 @@ exports[`Shadown component matches snapshot 1`] = `
         />
         <p>
           Sleeping puppies nearly 3 weeks old.
+        </p>
+      </div>
+    </div>
+    <div
+      aria-hidden="true"
+      aria-labelledby="controlled-tab-example-tab-breedShowAchievements"
+      class="fade tab-pane"
+      id="controlled-tab-example-tabpane-breedShowAchievements"
+      role="tabpanel"
+    >
+      <div>
+        <h2>
+          Show achievements
+        </h2>
+        <p>
+          This page will document Shadow's achievements - CH Salhouse Sunchaser.
+        </p>
+      </div>
+      <div>
+        <div
+          class="table-responsive-sm"
+        >
+          <table
+            class="table table-sm table-bordered"
+          >
+            <thead>
+              <tr>
+                <th
+                  colspan="3"
+                >
+                  Challenge Certificates Awarded
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  Date
+                </td>
+                <td>
+                  Show
+                </td>
+                <td>
+                  Judge
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  29 January 2011
+                </td>
+                <td>
+                  Nelson District Kennel Association
+                </td>
+                <td>
+                  C Butler (NSW)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  30 January 2011
+                </td>
+                <td>
+                  Nelson District Kennel Association
+                </td>
+                <td>
+                  L Butler (NSW)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  5 November 2011
+                </td>
+                <td>
+                  Southland Kennel Association
+                </td>
+                <td>
+                  Justine Blyth (Tasmania)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  6 November 2011
+                </td>
+                <td>
+                  Otago-Southland Gundog Society
+                </td>
+                <td>
+                  J Ellem (NSW)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  1 April 2012
+                </td>
+                <td>
+                  Napier Kennel Centre
+                </td>
+                <td />
+              </tr>
+              <tr>
+                <td>
+                  16 February 2013
+                </td>
+                <td>
+                  Horowhenua Kennel Association
+                </td>
+                <td>
+                  Honey Glendinning (Canada)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  13 July 2013
+                </td>
+                <td>
+                  Otago Kennel Association
+                </td>
+                <td>
+                  Lynette Brown (NSW)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  29 March 2014
+                </td>
+                <td>
+                  Wairoa Kennel Association
+                </td>
+                <td>
+                  Max Martin (ACT)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  30 March 2014
+                </td>
+                <td>
+                  Napier Kennel Centre
+                </td>
+                <td>
+                  Lena Stalhandske (NSW)
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <hr />
+      <div>
+        <img
+          class="img-fluid"
+          src="images/shadow3.jpg"
+        />
+        <p>
+          Shadow won her first CC at East Coast Ladies Kennel Association in Hawke's Bay, 11 December 2010.
+        </p>
+        <p>
+          There are no photos of Shadow's next CC win, which was at the Tasman District Open Gundog show on 29 January 2011.  However, below is a short video of Shadow in the ring for a show on the same day (Nelson District Kennel Assocation), at which she got Reserve Bitch CC.
         </p>
       </div>
     </div>
