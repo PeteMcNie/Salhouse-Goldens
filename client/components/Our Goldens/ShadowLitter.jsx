@@ -14,7 +14,7 @@ function ShadowLitter () {
           and also to Sandy for her invaluable help with the whelping of the litter.
         </p>
         <p>
-          On 6 and 7 April 2010 Shadow had a litter of 7 beautiful puppies, 4 males and 3 females. She 
+          On 6 and 7 April 2010 Shadow had a litter of 7 beautiful puppies, 4 males and 3 females. She
           also had another female but unfortunately that was stillborn.
         </p>
         <Image src="images/sl1.jpg" fluid />

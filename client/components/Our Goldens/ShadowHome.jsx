@@ -26,7 +26,7 @@ function ShadowHome () {
         <Tab eventKey="shadowLitter" title="Shadow's Litter">
           <ShadowLitter />
         </Tab>
-        <Tab eventKey="breedShowAchievements" title="Breed Show Achievementsr">
+        <Tab eventKey="breedShowAchievements" title="Breed Show Achievements">
           <ShadowBreedShow />
         </Tab>
       </Tabs>
