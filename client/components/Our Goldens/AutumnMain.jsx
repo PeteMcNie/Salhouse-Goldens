@@ -3,13 +3,10 @@ import React from 'react'
 import Image from 'react-bootstrap/Image'
 import Table from 'react-bootstrap/Table'
 
-import NavbarComp from '../NavbarComp'
-
-function Autumn () {
+function AutumnMain () {
   return (
     <>
-      <NavbarComp />
-      <div className='belowNavbar'>
+      <div>
         <h2>Autumn</h2>
       </div>
       <div>
@@ -122,4 +119,4 @@ function Autumn () {
   )
 }
 
-export default Autumn
+export default AutumnMain

@@ -145,6 +145,18 @@ exports[`Sherry component matches snapshot 1`] = `
     >
       Breed Show Achievements
     </a>
+    <a
+      aria-controls="controlled-tab-example-tabpane-obedienceShowAchievements"
+      aria-selected="false"
+      class="nav-item nav-link"
+      data-rb-event-key="obedienceShowAchievements"
+      href="#"
+      id="controlled-tab-example-tab-obedienceShowAchievements"
+      role="tab"
+      tabindex="-1"
+    >
+      Obedience Show Achievements
+    </a>
   </nav>
   <div
     class="tab-content"
@@ -646,6 +658,154 @@ exports[`Sherry component matches snapshot 1`] = `
         <p>
           Sherry with her Baby Puppy in Show awards from Auckland in August 2010.
         </p>
+      </div>
+    </div>
+    <div
+      aria-hidden="true"
+      aria-labelledby="controlled-tab-example-tab-obedienceShowAchievements"
+      class="fade tab-pane"
+      id="controlled-tab-example-tabpane-obedienceShowAchievements"
+      role="tabpanel"
+    >
+      <div>
+        <h2>
+          Obedience show achievements
+        </h2>
+      </div>
+      <div>
+        <div>
+          <div
+            class="table-responsive-sm"
+          >
+            <table
+              class="table table-sm table-borderless"
+            >
+              <thead>
+                <tr>
+                  <th
+                    colspan="2"
+                  >
+                    Obedience show achievements
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>
+                    Date
+                  </td>
+                  <td>
+                    Show Details
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    25 February 2012
+                  </td>
+                  <td>
+                    <p>
+                      Sherry competed in her first Championship obedience test in Special Beginners and achieved 2nd place on 72 points. Very proud of her.
+                    </p>
+                    <img
+                      class="img-fluid"
+                      src="images/so1.jpg"
+                    />
+                    <img
+                      class="img-fluid"
+                      src="images/so2.jpg"
+                    />
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    26 February 2012
+                  </td>
+                  <td>
+                    <p>
+                      Sherry got 2nd place with 69 points.
+                    </p>
+                    <img
+                      class="img-fluid"
+                      src="images/so3.jpg"
+                    />
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    10 March 2012
+                  </td>
+                  <td>
+                    4th place - 70.5 points, Waikanae
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    11 March 2012
+                  </td>
+                  <td>
+                    2nd place - 71 points, Waikanae
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    8 September 2013
+                  </td>
+                  <td>
+                    <p>
+                      1st place - 72 points, Hawke's Bay - (won out of Special Beginners)
+                    </p>
+                    <img
+                      class="img-fluid"
+                      src="images/so4.jpg"
+                    />
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    3 May 2014
+                  </td>
+                  <td>
+                    Sherry gained her CDX title gaining 161.5 points out of 170! Wanganui
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    21 February 2015
+                  </td>
+                  <td>
+                    <p>
+                      Photo below shows Sherry winning her first Novice after nearly a year in that class. She scored 99.5 out of 100, Horowhenua Obedience, Levin
+                    </p>
+                    <p>
+                      One more win in Novice and then she has to go up to Test A.
+                    </p>
+                    <img
+                      class="img-fluid"
+                      src="images/so5.jpg"
+                    />
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    21 February 2015
+                  </td>
+                  <td>
+                    <p>
+                      Photo below shows Sherry winning her second Novice competition scoring 97 points, Kapiti Obedience, Waikanae 
+                    </p>
+                    <p>
+                      This qualifies her to compete in Test A competitions now.
+                    </p>
+                    <img
+                      class="img-fluid"
+                      src="images/so6.jpg"
+                    />
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
       </div>
     </div>
   </div>

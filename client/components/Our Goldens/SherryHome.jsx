@@ -7,6 +7,7 @@ import NavbarComp from '../NavbarComp'
 import SherryMain from './SherryMain'
 import SherryLitter from './SherryLitter'
 import SherryBreedShow from './SherryBreedShow'
+import SherryObedience from './SherryObedience'
 
 function SherryHome () {
   const [key, setKey] = useState('shadowHome')
@@ -28,6 +29,9 @@ function SherryHome () {
         </Tab>
         <Tab eventKey="breedShowAchievements" title="Breed Show Achievements">
           <SherryBreedShow />
+        </Tab>
+        <Tab eventKey="obedienceShowAchievements" title="Obedience Show Achievements">
+          <SherryObedience />
         </Tab>
       </Tabs>
     </>

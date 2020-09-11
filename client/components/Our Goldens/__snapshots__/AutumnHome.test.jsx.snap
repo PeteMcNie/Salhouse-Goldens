@@ -1,0 +1,393 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Autumn component matches snapshot 1`] = `
+<div>
+  <nav
+    class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top"
+  >
+    <a
+      class="navbar-brand"
+      href="/"
+    >
+      <img
+        alt="Goldens retrievers, phoenix and kula"
+        class="shlogo d-inline-block align-top"
+        src="images/logo.jpeg"
+      />
+    </a>
+    <button
+      aria-controls="responsive-navbar-nav"
+      aria-label="Toggle navigation"
+      class="navbar-toggler collapsed"
+      type="button"
+    >
+      <span
+        class="navbar-toggler-icon"
+      />
+    </button>
+    <div
+      class="navbar-collapse collapse"
+      id="responsive-navbar-nav"
+    >
+      <div
+        class="ml-auto navbar-nav"
+      >
+        <a
+          class="nav-link"
+          data-rb-event-key="/"
+          href="/"
+        >
+          Home
+        </a>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            Our Goldens
+          </a>
+        </div>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            Grooming Your Golden
+          </a>
+        </div>
+        <a
+          class="nav-link"
+          data-rb-event-key="mylifewithanimals"
+          href="mylifewithanimals"
+        >
+          My Life With Animals
+        </a>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            About Us
+          </a>
+        </div>
+        <a
+          class="nav-link"
+          data-rb-event-key="#links"
+          href="#links"
+        >
+          Links
+        </a>
+        <a
+          class="nav-link"
+          data-rb-event-key="#contact"
+          href="#contact"
+        >
+          Contact
+        </a>
+      </div>
+    </div>
+  </nav>
+  <nav
+    class="belowNavbar nav nav-tabs"
+    role="tablist"
+  >
+    <a
+      aria-controls="controlled-tab-example-tabpane-autumnHome"
+      aria-selected="true"
+      class="nav-item nav-link active"
+      data-rb-event-key="autumnHome"
+      href="#"
+      id="controlled-tab-example-tab-autumnHome"
+      role="tab"
+    >
+      Autumn
+    </a>
+    <a
+      aria-controls="controlled-tab-example-tabpane-autumnLitter"
+      aria-disabled="true"
+      aria-selected="false"
+      class="nav-item nav-link disabled"
+      data-rb-event-key="autumnLitter"
+      href="#"
+      id="controlled-tab-example-tab-autumnLitter"
+      role="tab"
+      tabindex="-1"
+    >
+      Autumn's Litter
+    </a>
+  </nav>
+  <div
+    class="tab-content"
+  >
+    <div
+      aria-hidden="false"
+      aria-labelledby="controlled-tab-example-tab-autumnHome"
+      class="fade tab-pane active show"
+      id="controlled-tab-example-tabpane-autumnHome"
+      role="tabpanel"
+    >
+      <div>
+        <h2>
+          Autumn
+        </h2>
+      </div>
+      <div>
+        <h3>
+          CH Autumn Light at Salhouse (Autumn)
+        </h3>
+        <p>
+          Sire: CH Sandlewood Bowl-Me-Over
+        </p>
+        <p>
+          Dam: CH Golden Light at Salhouse CDX
+        </p>
+        <p>
+          Whelped: 16 June 2015
+        </p>
+        <p>
+          Hips: 6:6  Elbows: 0:0 Clear eye cert: 9 Jan 2019
+        </p>
+        <div>
+          <img
+            class="img-fluid"
+            src="images/autumn1.jpg"
+          />
+        </div>
+      </div>
+      <div>
+        <h4>
+          Achievements:
+        </h4>
+        <p>
+          At the time of writing this Autumn is just 20 months old. She has already achieved Champion status in the show ring at the age of 14 months. Autumn is a clown and goes by lots of other names including Doofus, Nut Job, Goof Ball and Awesome! She is a full on dog with heaps of enthusiasm and wants to be in on absolutely everything that is going on. She gets very upset when I train her sister, Tuppence, and not her and also if I get the hose out but have shut the dogs indoors. She loves water. She is a very powerful swimmer and swims along the beach and river while I am walking. If she comes out of the water it is with a shower (or more like a downpour) of water flying off her in all directions as she runs as fast as she can to catch up or go ahead. She doesn't shake herself off until she has run quite a way and comes to a stop. Then it is only a brief stop before racing back into the water again where she seems to be the most happy.
+        </p>
+        <p>
+          Autumn has become a really good retriever. She loves to retrieve balls from the river or sea, but also races around on land to get the ball. She is full on energy when she is out and about. However, at home, she is laid back and calm, except she is a guard dog when someone comes to the door or is over at the park opposite. She likes to bark and let us know they are there.
+        </p>
+        <p>
+          In March 2019, Autumn had a litter of seven beautiful puppies. Six puppies found themselves lovely homes to go to, and one naughty one stayed with us here at Salhouse. Her name is Siren and she has her own page on this website.
+        </p>
+      </div>
+      <div>
+        <div
+          class="table-responsive-sm"
+        >
+          <table
+            class="table table-sm table-bordered"
+          >
+            <thead>
+              <tr>
+                <th
+                  colspan="3"
+                >
+                  Pedigree of Autumn Light at Salhouse
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  Parents
+                </td>
+                <td>
+                  Grandparents
+                </td>
+                <td>
+                  Great Grandparents
+                </td>
+              </tr>
+              <tr>
+                <td
+                  rowspan="4"
+                >
+                  Sire: CH Sandlewood Bowl-Me-Over
+                </td>
+                <td
+                  rowspan="2"
+                >
+                  NZ CH & Aust Grand CH Karparla Wicket Keeper (Imp-Aust)
+                </td>
+                <td>
+                  Grand CH Tulzean Autumn Tango
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Xanthos Are You Talking to Me (Imp UK)
+                </td>
+              </tr>
+              <tr>
+                <td
+                  rowspan="2"
+                >
+                  CH Kavandale Angeleyes
+                </td>
+                <td>
+                  Dream Max Grandmother's Prospect (Imp-SWE) to Aust
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  CH Hawkwood Iduna
+                </td>
+              </tr>
+              <tr>
+                <td
+                  rowspan="4"
+                >
+                  Dam: CH Golden Light at Salhouse CDX
+                </td>
+                <td
+                  rowspan="2"
+                >
+                  CH Sandlewood Gamble-With-Gold
+                </td>
+                <td>
+                  Goldfleece Go For Gold At Sandlewood (Imp-Aust)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  CH Sandlewood Charlies-Angel
+                </td>
+              </tr>
+              <tr>
+                <td
+                  rowspan="2"
+                >
+                  CH Salhouse Sunchaser
+                </td>
+                <td>
+                  NZ CH Santamaria The Patriot (Imp-Aust)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Sanastasia Sth'n Star Chara
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <hr />
+      <div>
+        <p>
+          Photos:
+        </p>
+        <img
+          class="img-fluid"
+          src="images/autumn2.jpg"
+        />
+        <p>
+          Autumn and her March 2019 puppies at eight weeks of age
+        </p>
+        <img
+          class="img-fluid"
+          src="images/autumn3.jpg"
+        />
+        <p>
+          Autumn with puppies aged one day
+        </p>
+        <img
+          class="img-fluid"
+          src="images/autumn4.jpg"
+        />
+        <p>
+          Another ribbon for Autumn - Junior of Group
+        </p>
+        <img
+          class="img-fluid"
+          src="images/autumn5.jpg"
+        />
+        <p>
+          Ribbon for Autumn
+        </p>
+        <img
+          class="img-fluid"
+          src="images/autumn6.jpg"
+        />
+        <p>
+          Autumn in her element in the mud!
+        </p>
+        <img
+          class="img-fluid"
+          src="images/autumn7.jpg"
+        />
+        <p>
+          Another challenge certificate for Autumn
+        </p>
+        <img
+          class="img-fluid"
+          src="images/autumn8.jpg"
+        />
+        <p>
+          Trying to hide in the grasses with her ribbons - in the South Island.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/autumn9.jpg"
+        />
+        <p>
+          Autumn on the right at Nelson.
+        </p>
+        <img
+          class="img-fluid"
+          src="images/autumn10.jpg"
+        />
+        <p>
+          Pretty Autumn
+        </p>
+        <img
+          class="img-fluid"
+          src="images/autumn11.jpg"
+        />
+        <p>
+          Autumn and Tuppence - Autumn definitely a tad bigger!
+        </p>
+        <img
+          class="img-fluid"
+          src="images/autumn12.jpg"
+        />
+        <p>
+          Autumn (left) and Tuppence
+        </p>
+      </div>
+    </div>
+    <div
+      aria-hidden="true"
+      aria-labelledby="controlled-tab-example-tab-autumnLitter"
+      class="fade tab-pane"
+      id="controlled-tab-example-tabpane-autumnLitter"
+      role="tabpanel"
+    >
+      <div>
+        <h2>
+          Autumn's Litter 2006
+        </h2>
+        <h3>
+          Coming soon...
+        </h3>
+      </div>
+    </div>
+  </div>
+</div>
+`;
