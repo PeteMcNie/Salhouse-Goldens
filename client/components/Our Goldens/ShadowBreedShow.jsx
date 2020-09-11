@@ -24,49 +24,54 @@ function ShadowBreedShow () {
               <td>Judge</td>
             </tr>
             <tr>
+              <td>11 December 2010</td>
+              <td>East Coast Ladies Kennel Association</td>
+              <td>C Stuart (NSW)</td>
+            </tr>
+            <tr>
               <td>29 January 2011</td>
-              <td>Nelson District Kennel Association</td>
-              <td>C Butler (NSW)</td>
+              <td>Tasman Districts Gundog Society</td>
+              <td>B Balaam (Queensland)</td>
             </tr>
             <tr>
-              <td>30 January 2011</td>
-              <td>Nelson District Kennel Association</td>
-              <td>L Butler (NSW)</td>
+              <td>15 October 2011</td>
+              <td>Ruahine Kennel Association</td>
+              <td>S McMahon (NSW)</td>
             </tr>
             <tr>
-              <td>5 November 2011</td>
-              <td>Southland Kennel Association</td>
-              <td>Justine Blyth (Tasmania)</td>
+              <td>29 October 2011</td>
+              <td>West Coast Kennel Association</td>
+              <td>Sue Gray (Tasmania)</td>
             </tr>
             <tr>
-              <td>6 November 2011</td>
-              <td>Otago-Southland Gundog Society</td>
-              <td>J Ellem (NSW)</td>
-            </tr>
-            <tr>
-              <td>1 April 2012</td>
-              <td>Napier Kennel Centre</td>
-              <td></td>
-            </tr>
-            <tr>
-              <td>16 February 2013</td>
-              <td>Horowhenua Kennel Association</td>
-              <td>Honey Glendinning (Canada)</td>
-            </tr>
-            <tr>
-              <td>13 July 2013</td>
+              <td>14 July 2013</td>
               <td>Otago Kennel Association</td>
-              <td>Lynette Brown (NSW)</td>
+              <td>Lyn Brand (NSW)</td>
             </tr>
             <tr>
-              <td>29 March 2014</td>
-              <td>Wairoa Kennel Association</td>
-              <td>Max Martin (ACT)</td>
+              <td>16 November 2013</td>
+              <td>Wairarapa Kennel Association</td>
+              <td>Valma Morrow (NSW)</td>
+            </tr>
+            <tr>
+              <td>15 March 2014</td>
+              <td>Wanganui Kennel Society</td>
+              <td>J Camac (VIC)</td>
+            </tr>
+            <tr>
+              <td>15 March 2014</td>
+              <td>Wanganui & District Gundog Society</td>
+              <td>L Parekowhai (NZ)</td>
+            </tr>
+            <tr>
+              <td>16 March 2014</td>
+              <td>Wanganui Kennel Society</td>
+              <td>E Blake-Watts (NZ)</td>
             </tr>
             <tr>
               <td>30 March 2014</td>
               <td>Napier Kennel Centre</td>
-              <td>Lena Stalhandske (NSW)</td>
+              <td>Susan Tringham (QLD)</td>
             </tr>
           </tbody>
         </Table>

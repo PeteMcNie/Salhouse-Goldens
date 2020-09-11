@@ -26,7 +26,7 @@ function SherryHome () {
         <Tab eventKey="ShadowLitter" title="Sherry's Litter" disabled>
           <SherryLitter />
         </Tab>
-        <Tab eventKey="breedShowAchievements" title="Breed Show Achievementsr">
+        <Tab eventKey="breedShowAchievements" title="Breed Show Achievements">
           <SherryBreedShow />
         </Tab>
       </Tabs>
