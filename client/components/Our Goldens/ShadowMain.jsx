@@ -3,13 +3,10 @@ import React from 'react'
 import Image from 'react-bootstrap/Image'
 import Table from 'react-bootstrap/Table'
 
-import NavbarComp from '../NavbarComp'
-
-function Shadow () {
+function ShadowMain () {
   return (
     <>
-      <NavbarComp />
-      <div className='belowNavbar'>
+      <div>
         <h2>Shadow</h2>
       </div>
       <div>
@@ -160,4 +157,5 @@ function Shadow () {
   )
 }
 
-export default Shadow
+export default ShadowMain
+

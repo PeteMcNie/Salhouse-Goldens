@@ -7,7 +7,7 @@ import MyLifeWithAnimals from './MLWA/MyLifeWithAnimals'
 import OurGoldens from './Our Goldens/OurGoldens'
 import Phoenix from './Our Goldens/Phoenix'
 import KulaHome from './Our Goldens/KulaHome'
-import Shadow from './Our Goldens/Shadow'
+import ShadowHome from './Our Goldens/ShadowHome'
 import Sherry from './Our Goldens/Sherry'
 import Autumn from './Our Goldens/Autumn'
 import Tuppence from './Our Goldens/Tuppence'
@@ -22,7 +22,7 @@ const App = () => {
       <Route path='/ourgoldens' component={OurGoldens} />
       <Route path='/phoenix' component={Phoenix} />
       <Route path='/kula' component={KulaHome} />
-      <Route path='/shadow' component={Shadow} />
+      <Route path='/shadow' component={ShadowHome} />
       <Route path='/sherry' component={Sherry} />
       <Route path='/autumn' component={Autumn} />
       <Route path='/tuppence' component={Tuppence} />

@@ -2,46 +2,54 @@ import React from 'react'
 
 import Image from 'react-bootstrap/Image'
 
-function KulasLitter () {
+function ShadowLitter () {
   return (
     <>
       <div>
-        <h2>Kula&apos;s Litter 2006</h2>
+        <h2>Shadow&apos;s litter 2010</h2>
       </div>
       <div>
-        <Image src="images/kl1.jpg" fluid />
-        <p>On 21 February 2006, Kula (pictured left top) had a litter of 7 beautiful puppies, 5 boys and 2 girls.</p>
-        <Image src="images/kl2.jpg" fluid />
-        <p>The father of these puppies is Jordan (NZ CH Santamaria The Patriot) (pictured left bottom).</p>
+        <p>
+          My thanks go to Gaye who kindly allowed me to use the lovely Gambler as sire for this litter
+          and also to Sandy for her invaluable help with the whelping of the litter.
+        </p>
+        <p>
+          On 6 and 7 April 2010 Shadow had a litter of 7 beautiful puppies, 4 males and 3 females. She 
+          also had another female but unfortunately that was stillborn.
+        </p>
+        <Image src="images/sl1.jpg" fluid />
+        <p>Salhouse Sunchaser - Shadow (pictured above left)</p>
+        <Image src="images/sl2.jpg" fluid />
+        <p>NZ CH Sandlewood Gamble-with-Gold - Gambler (pictured below left).</p>
       </div>
       <hr />
       <div>
         <p>Photos:</p>
-        <Image src="images/kl3.jpg" fluid />
-        <p>Kula 8 weeks pregnant (like a beached whale!).</p>
-        <Image src="images/kl4.jpg" fluid />
-        <p>Our first ever puppy born!</p>
-        <Image src="images/kl5.jpg" fluid />
-        <p>We had a lot of fun with these puppies and of course kept the lovely Shadow.</p>
-        <p>The puppies all had wonderful homes to go to and are still currently enjoying their life to the full.</p>
-        <Image src="images/kl6.jpg" fluid />
-        <p>Kula wonders what is moving under the blanket!</p>
-        <Image src="images/kl7.jpg" fluid />
-        <p>Pileup of puppies!</p>
-        <Image src="images/kl8.jpg" fluid />
-        <p>Puppies feeding.</p>
-        <Image src="images/kl9.jpg" fluid />
-        <p>Asleep under the barbecue.</p>
-        <Image src="images/kl10.jpg" fluid />
-        <p>All on Jeff!</p>
-        <Image src="images/kl11.jpg" fluid />
-        <p>Let&apos;s try out the pool.</p>
-        <Image src="images/kl12.jpg" fluid />
-        <p>1st birthday - all except the second female here.</p>
+        <Image src="images/sl3.jpg" fluid />
+        <Image src="images/sl4.jpg" fluid />
+        <Image src="images/sl5.jpg" fluid />
+        <Image src="images/sl6.jpg" fluid />
+        <hr />
+        <p>Introducing:</p>
+        <Image src="images/sl7.jpg" fluid />
+        <Image src="images/sl8.jpg" fluid />
+        <Image src="images/sl9.jpg" fluid />
+        <p>1 Male - tip of tail - temporary name, Xerxes; final name Lachie</p>
+        <p>2 Male - base of tail - temporary name, Spartacus; final name, Murphy</p>
+        <p>3 Female - neck - temporary name, Trinity; final name, Kylo</p>
+        <Image src="images/sl10.jpg" fluid />
+        <Image src="images/sl11.jpg" fluid />
+        <Image src="images/sl12.jpg" fluid />
+        <p>4 Male - middle of back - temporary name, Thumper; final name, Marco</p>
+        <p>5 Female - base of tail - temporary name, Flotsam; final name, Sherry</p>
+        <p>6 Male - neck - temporary name, Maximus; final name, Max</p>
+        <Image src="images/sl13.jpg" fluid />
+        <p>7 Female - tip of tail - temporary name, Tiny; final name, Amber</p>
+        <Image src="images/sl14.jpg" fluid />
+        <p>Sleeping puppies nearly 3 weeks old.</p>
       </div>
     </>
-
   )
 }
 
-export default KulasLitter
+export default ShadowLitter
