@@ -12,6 +12,7 @@ import SherryHome from './Our Goldens/SherryHome'
 import AutumnHome from './Our Goldens/AutumnHome'
 import Tuppence from './Our Goldens/Tuppence'
 import Siren from './Our Goldens/Siren'
+import Links from './Links'
 
 const App = () => {
   return (
@@ -27,6 +28,8 @@ const App = () => {
       <Route path='/autumn' component={AutumnHome} />
       <Route path='/tuppence' component={Tuppence} />
       <Route path='/siren' component={Siren} />
+      <Route path='/links' component={Links} />
+      {/* <Route path='/contact' component={Contact} /> */}
     </>
   )
 }

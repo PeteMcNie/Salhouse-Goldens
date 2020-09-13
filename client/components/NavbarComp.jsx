@@ -92,7 +92,7 @@ function NavbarComp () {
               <NavDropdown.Item href="/aboutus">Where &apos;Salhouse&apos; comes from</NavDropdown.Item>
             </NavDropdown>
 
-            <Nav.Link href="#links">Links</Nav.Link>
+            <Nav.Link href="/links">Links</Nav.Link>
             <Nav.Link href="#contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
