@@ -93,7 +93,7 @@ function NavbarComp () {
             </NavDropdown>
 
             <Nav.Link href="/links">Links</Nav.Link>
-            <Nav.Link href="#contact">Contact</Nav.Link>
+            <Nav.Link href="/contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
