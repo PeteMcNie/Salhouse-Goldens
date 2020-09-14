@@ -12,7 +12,7 @@ import SherryHome from './Our Goldens/SherryHome'
 import AutumnHome from './Our Goldens/AutumnHome'
 import Tuppence from './Our Goldens/Tuppence'
 import Siren from './Our Goldens/Siren'
-import Links from './Links'
+import Links from './Links/Links'
 
 const App = () => {
   return (
