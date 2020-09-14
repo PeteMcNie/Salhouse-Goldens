@@ -1,10 +1,14 @@
 import React from 'react'
 
+import Navbar from '../NavbarComp'
+import GYGStart from './GYGStart'
+
 function GYG () {
   return (
-    <div>
-      <p>GYG</p>
-    </div>
+    <>
+      <Navbar />
+      <GYGStart />
+    </>
   )
 }
 
