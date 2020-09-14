@@ -13,6 +13,7 @@ import AutumnHome from './Our Goldens/AutumnHome'
 import Tuppence from './Our Goldens/Tuppence'
 import Siren from './Our Goldens/Siren'
 import Links from './Links/Links'
+import Contact from './Contact/Contact'
 
 const App = () => {
   return (
@@ -29,7 +30,7 @@ const App = () => {
       <Route path='/tuppence' component={Tuppence} />
       <Route path='/siren' component={Siren} />
       <Route path='/links' component={Links} />
-      {/* <Route path='/contact' component={Contact} /> */}
+      <Route path='/contact' component={Contact} />
     </>
   )
 }
