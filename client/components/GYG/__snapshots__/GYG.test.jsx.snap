@@ -1,0 +1,316 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GYG component matches snapshot 1`] = `
+<div>
+  <nav
+    class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top"
+  >
+    <a
+      class="navbar-brand"
+      href="/"
+    >
+      <img
+        alt="Goldens retrievers, phoenix and kula"
+        class="shlogo d-inline-block align-top"
+        src="images/logo.jpeg"
+      />
+    </a>
+    <button
+      aria-controls="responsive-navbar-nav"
+      aria-label="Toggle navigation"
+      class="navbar-toggler collapsed"
+      type="button"
+    >
+      <span
+        class="navbar-toggler-icon"
+      />
+    </button>
+    <div
+      class="navbar-collapse collapse"
+      id="responsive-navbar-nav"
+    >
+      <div
+        class="ml-auto navbar-nav"
+      >
+        <a
+          class="nav-link"
+          data-rb-event-key="/"
+          href="/"
+        >
+          Home
+        </a>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            Our Goldens
+          </a>
+        </div>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            Grooming Your Golden
+          </a>
+        </div>
+        <a
+          class="nav-link"
+          data-rb-event-key="mylifewithanimals"
+          href="mylifewithanimals"
+        >
+          My Life With Animals
+        </a>
+        <div
+          class="dropdown nav-item"
+        >
+          <a
+            aria-expanded="false"
+            aria-haspopup="true"
+            class="dropdown-toggle nav-link"
+            href="#"
+            id="collasible-nav-dropdown"
+            role="button"
+          >
+            About Us
+          </a>
+        </div>
+        <a
+          class="nav-link"
+          data-rb-event-key="/links"
+          href="/links"
+        >
+          Links
+        </a>
+        <a
+          class="nav-link"
+          data-rb-event-key="/contact"
+          href="/contact"
+        >
+          Contact
+        </a>
+      </div>
+    </div>
+  </nav>
+  <div
+    class="belowNavbar"
+  >
+    <h2>
+      Grooming Your Golden
+    </h2>
+    <img
+      class="img-fluid"
+      src="images/gyg1.jpg"
+    />
+    <p>
+      Contact Carole on 04 566 0561 or email cmcnie@xtra.co.nz if you are in the Wellington region (I'm actually in Lower Hutt) and would like your Golden groomed.
+    </p>
+    <p>
+      Your Golden Retriever is a beautiful creature at any time of the day or night, but when kept groomed properly they can be an even lovelier sight and will feel great. They definitely need some attention to their coats. A brush once or twice a week, taking specific care and attention around neck right by the ears, the long coat of the chest and the feathers of the back legs and tail. These areas are all particularly prone to getting dirt and little twigs etc in and then form knots that can be hard to get out if they are left a long time to embed themselves.
+    </p>
+    <hr />
+  </div>
+  <div>
+    <h3>
+      Basic Grooming Tips
+    </h3>
+    <p>
+      It's good to learn how to clean their ears out, or at least look in their ears regularly as they can get build up of gluggy wax and ear infections. The inside of the ear flap should be pink but not red and hot. If it is then it's possible your Golden has a little yeast infection deeper in the ear and this needs veterinary attention. Sometimes they may shake their heads a lot and/or scratch their ear. This again could be the result of an uncomfy feeling in the ear that needs attention. Always good to look for these things. If you are confident then you can get ear wipes from the pet shop and clean the ears out yourself. Put your finger with the wipe on into the ear and clean around the beginning of the ear canal. If it comes up with a lot of brown or black wax, use a clean part of the wipe and keep going until you've got it cleaned out. Sometimes they can get a lot of ear wax but not actually have an infection. It's just good to keep them clean in these instances.
+    </p>
+    <p>
+      If you find that your Golden's coat gets too thick with lots of undercoat that you can't get out and he/she seems to be moulting all the time, it can be useful to learn how to strip their coat out yourself. You can use a dog rake as below. The rake is an easy implement to use.  Make sure you comb the rake through the neck and the feathers of the front and back legs as well as the body of your Golden. You can also use a slicker brush (pictured below) which will get undercoat out and can be easier to brush through the feathers of the legs, especially if there are some small knots. Make sure if you are pulling on a knot, hold the fur with your other hand halfway down the length to the skin to prevent it from pulling. If knots are too big, cut them out gently, being careful to make sure your Golden is still and not likely to move at this time.
+    </p>
+  </div>
+  <div>
+    <img
+      class=""
+      src="images/gyg2.jpg"
+    />
+    <p>
+      Rake
+    </p>
+  </div>
+  <div>
+    <img
+      class=""
+      src="images/gyg3.jpg"
+    />
+    <p>
+      Slicker brush
+    </p>
+  </div>
+  <div>
+    <p>
+      Nails are another thing that need attention. Walking on pavements doesn't provide enough trimming for most Goldens' nails. Over time they grow longer and longer until they start to touch the ground and turn the toes slightly to one side. You can imagine that if you have your toe slightly pushed to the side all the time there will be an ache that gradually becomes more uncomfortable and then there is a reluctance to continue to walk much. If the nails are kept trimmed then the bones of the toe can just sit in their normal position and your Golden won't even notice them.
+    </p>
+    <hr />
+  </div>
+  <div>
+    <h3>
+      Grooming Service
+    </h3>
+    <p>
+      I provide a grooming service for Golden Retrievers. A full groom includes a trim of your Golden's neck, ears, feet and tail and sometimes the length underneath the body if it's too long. I also remove some of the undercoat and any loose fur and knots. I do not shave Golden Retrievers. They have a double coat for a reason, and partly it's an air conditioning unit. The best way to relieve a Golden that you think is feeling the heat is to get the undercoat removed. If your dog is shaved, the sun and heat has more access to the body of the dog but you haven't actually stripped out any of the undercoat. All that has been done is to make the thick coat less long instead of actually thinning out the coat which will work much better.  If shaved, the undercoat will grow back first and not provide the protection that the coarser top coat does. The dog will feel hotter and the undercoat will get wet when swimming and take a long time to dry which can cause skin issues. Most dogs feel the heat in the summer anyway, but with a correct groom there will be the correct protection for your dog without ruining the coat.
+    </p>
+    <p>
+      I am not a professionally trained groomer, but I have had years of grooming Goldens for the show ring and love grooming this breed.
+    </p>
+    <hr />
+  </div>
+  <div>
+    <h3>
+      Testimonials and Photos
+    </h3>
+  </div>
+  <div>
+    <img
+      class="img-fluid"
+      src="images/gyg4.jpg"
+    />
+    <p>
+      Missy after groom:
+    </p>
+    <p>
+      It was so lovely meeting you and thank you so much for grooming her today! She looks so amazing thanks to you! This is probably the best she's ever looked after a groom so I'm really thankful for your great service. I think she really enjoyed it also, and meeting your lovely goldens too! Thank you so much for the photos! It's evident that she really enjoyed being groomed by you. She looks so cute! Definitely having her groomed with you again if you would be happy to have her again sometime next year. I really appreciate your wonderful work. - Celina
+    </p>
+  </div>
+  <div>
+    <img
+      class="img-fluid"
+      src="images/gyg5.jpg"
+    />
+    <img
+      class="img-fluid"
+      src="images/gyg6.jpg"
+    />
+    <p>
+      Missy before and after groom
+    </p>
+  </div>
+  <div>
+    <img
+      class="img-fluid"
+      src="images/gyg7.jpg"
+    />
+    <img
+      class="img-fluid"
+      src="images/gyg8.jpg"
+    />
+    <p>
+      Baxter before and after groom
+    </p>
+  </div>
+  <div>
+    <img
+      class="img-fluid"
+      src="images/gyg9.jpg"
+    />
+    <img
+      class="img-fluid"
+      src="images/gyg10.jpg"
+    />
+    <p>
+      Billie before and after groom:
+    </p>
+    <p>
+      Thank you for grooming Billie you have done a fantastic job and he looks very handsome. I hope he behaved himself. We will be in contact next time we want a groom. - Debbie
+    </p>
+  </div>
+  <div>
+    <img
+      class="img-fluid"
+      src="images/gyg11.jpg"
+    />
+    <img
+      class="img-fluid"
+      src="images/gyg12.jpg"
+    />
+    <p>
+      Rafa before and after groom
+    </p>
+  </div>
+  <div>
+    <img
+      class="img-fluid"
+      src="images/gyg13.jpg"
+    />
+    <p>
+      Rafa front view
+    </p>
+  </div>
+  <div>
+    <img
+      class="img-fluid"
+      src="images/gyg14.jpg"
+    />
+    <img
+      class="img-fluid"
+      src="images/gyg15.jpg"
+    />
+    <p>
+      Cody before and after groom
+    </p>
+  </div>
+  <div>
+    <img
+      class="img-fluid"
+      src="images/gyg16.jpg"
+    />
+    <img
+      class="img-fluid"
+      src="images/gyg17.jpg"
+    />
+    <p>
+      Zach before and after groom
+    </p>
+  </div>
+  <div>
+    <img
+      class="img-fluid"
+      src="images/gyg18.jpg"
+    />
+    <img
+      class="img-fluid"
+      src="images/gyg19.jpg"
+    />
+    <p>
+      Jax before and after groom
+    </p>
+  </div>
+  <div>
+    <img
+      class="img-fluid"
+      src="images/gyg20.jpg"
+    />
+    <img
+      class="img-fluid"
+      src="images/gyg21.jpg"
+    />
+    <p>
+      Tawnee before and after groom
+    </p>
+  </div>
+  <div>
+    <img
+      class="img-fluid"
+      src="images/gyg22.jpg"
+    />
+    <p>
+      Tawnee front view
+    </p>
+  </div>
+</div>
+`;
