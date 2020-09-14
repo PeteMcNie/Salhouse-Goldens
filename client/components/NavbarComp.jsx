@@ -6,7 +6,7 @@ import { Navbar, Nav, NavDropdown } from 'react-bootstrap'
 function NavbarComp () {
   const history = useHistory()
 
-  function handleClick () {
+  function handleOurGoldens () {
     history.push('/ourgoldens')
   }
 
@@ -18,12 +18,20 @@ function NavbarComp () {
     setShow(false)
   }
 
+  function handleGYG () {
+    history.push('/gyg')
+  }
+
   const [showGyg, setShowGyg] = useState(false)
   function showDropdownGyg () {
     setShowGyg(!showGyg)
   }
   function hideDropdownGyg () {
     setShowGyg(false)
+  }
+
+  function handleAu () {
+    history.push('/aboutus')
   }
 
   const [showAu, setShowAu] = useState(false)
@@ -54,7 +62,7 @@ function NavbarComp () {
             <NavDropdown show={show}
               onMouseEnter={showDropdown}
               onMouseLeave={hideDropdown}
-              onClick={handleClick}
+              onClick={handleOurGoldens}
               title="Our Goldens"
               id="collasible-nav-dropdown">
 
@@ -70,6 +78,7 @@ function NavbarComp () {
             <NavDropdown show={showGyg}
               onMouseEnter={showDropdownGyg}
               onMouseLeave={hideDropdownGyg}
+              onClick={handleGYG}
               title="Grooming Your Golden"
               id="collasible-nav-dropdown">
 
@@ -84,6 +93,7 @@ function NavbarComp () {
             <NavDropdown show={showAu}
               onMouseEnter={showDropdownAu}
               onMouseLeave={hideDropdownAu}
+              onClick={handleAu}
               title="About Us"
               id="collasible-nav-dropdown"
               alignRight >
