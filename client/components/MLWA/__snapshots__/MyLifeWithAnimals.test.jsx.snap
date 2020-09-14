@@ -90,15 +90,15 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
         </div>
         <a
           class="nav-link"
-          data-rb-event-key="#links"
-          href="#links"
+          data-rb-event-key="/links"
+          href="/links"
         >
           Links
         </a>
         <a
           class="nav-link"
-          data-rb-event-key="#contact"
-          href="#contact"
+          data-rb-event-key="/contact"
+          href="/contact"
         >
           Contact
         </a>
