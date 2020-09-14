@@ -4,6 +4,7 @@ import Navbar from '../NavbarComp'
 import GYGStart from './GYGStart'
 import BasicGroomingTips from './BasicGroomingTips'
 import GroomingService from './GroomingService'
+import TestimonialsAndPhotos from './TestimonialsAndPhotos'
 
 function GYG () {
   return (
@@ -12,6 +13,7 @@ function GYG () {
       <GYGStart />
       <BasicGroomingTips />
       <GroomingService />
+      <TestimonialsAndPhotos />
     </>
   )
 }
