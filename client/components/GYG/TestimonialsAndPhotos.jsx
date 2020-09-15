@@ -6,7 +6,7 @@ function TestimonialsAndPhotos () {
   return (
     <>
       <div>
-        <h3>Testimonials and Photos</h3>
+        <h3 id='t&p' className='belowNavbar'>Testimonials and Photos</h3>
       </div>
       <div>
         <Image src='images/gyg4.jpg' fluid/>
@@ -30,8 +30,8 @@ function TestimonialsAndPhotos () {
         <p>Baxter before and after groom</p>
       </div>
       <div>
-        <Image src='images/gyg9.jpg' fluid/>
-        <Image src='images/gyg10.jpg' fluid/>
+        <Image src='images/gyg9.png' fluid/>
+        <Image src='images/gyg10.png' fluid/>
         <p>Billie before and after groom:</p>
         <p>Thank you for grooming Billie you have done a fantastic job and he looks very handsome. I hope he behaved himself. We will be in contact next time we want a groom. - Debbie</p>
       </div>

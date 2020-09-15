@@ -82,13 +82,13 @@ function NavbarComp () {
               title="Grooming Your Golden"
               id="collasible-nav-dropdown">
 
-              <NavDropdown.Item href="/GYG/4.1">Basic Gromming Tips</NavDropdown.Item>
+              <NavDropdown.Item href="#basicGroomingTips">Basic Grooming Tips</NavDropdown.Item>
               <NavDropdown.Divider />
-              <NavDropdown.Item href="/GYG/4.2">Grooming Service</NavDropdown.Item>
-              <NavDropdown.Item href="/GYG/4.3">Testimonials and photos</NavDropdown.Item>
+              <NavDropdown.Item href="#groomingService">Grooming Service</NavDropdown.Item>
+              <NavDropdown.Item href="#t&p">Testimonials and photos</NavDropdown.Item>
             </NavDropdown>
 
-            <Nav.Link href="mylifewithanimals">My Life With Animals</Nav.Link>
+            <Nav.Link href="/mylifewithanimals">My Life With Animals</Nav.Link>
 
             <NavDropdown show={showAu}
               onMouseEnter={showDropdownAu}

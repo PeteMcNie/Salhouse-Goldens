@@ -4,7 +4,7 @@ function GroomingService () {
   return (
     <>
       <div>
-        <h3>Grooming Service</h3>
+        <h3 id='groomingService' className='belowNavbar'>Grooming Service</h3>
         <p>
             I provide a grooming service for Golden Retrievers. A full groom includes a trim of your Golden&apos;s neck, ears, feet and
             tail and sometimes the length underneath the body if it&apos;s too long. I also remove some of the undercoat and any loose
