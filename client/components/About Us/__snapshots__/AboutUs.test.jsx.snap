@@ -69,8 +69,8 @@ exports[`AboutUs component to match snapshot 1`] = `
         </div>
         <a
           class="nav-link"
-          data-rb-event-key="mylifewithanimals"
-          href="mylifewithanimals"
+          data-rb-event-key="/mylifewithanimals"
+          href="/mylifewithanimals"
         >
           My Life With Animals
         </a>
@@ -124,7 +124,10 @@ exports[`AboutUs component to match snapshot 1`] = `
       You will see from some of the lovely photos on this website, we spend a lot of time walking our dogs. We like to explore different walks near to home or far away and are lucky enough to have access to many walking tracks.
     </p>
     <hr />
-    <h3>
+    <h3
+      class="belowNavbar"
+      id="salhouse"
+    >
       Where 'Salhouse' comes from
     </h3>
     <p>

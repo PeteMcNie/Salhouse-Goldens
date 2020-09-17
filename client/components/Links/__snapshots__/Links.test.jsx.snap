@@ -69,8 +69,8 @@ exports[`Links component matches snapshot 1`] = `
         </div>
         <a
           class="nav-link"
-          data-rb-event-key="mylifewithanimals"
-          href="mylifewithanimals"
+          data-rb-event-key="/mylifewithanimals"
+          href="/mylifewithanimals"
         >
           My Life With Animals
         </a>
