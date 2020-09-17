@@ -115,7 +115,12 @@ exports[`Contact component to match snapshot 1`] = `
       Phone: +64 4 566 0561
     </p>
     <p>
-      Email: cmcnie@xtra.co.nz
+      Email: 
+      <a
+        href="mailto:cmcnie@xtra.co.nz"
+      >
+        cmcnie@xtra.co.nz
+      </a>
     </p>
     <p>
       Lower Hutt, New Zealand

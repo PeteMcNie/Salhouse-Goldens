@@ -8,7 +8,7 @@ function ContactBody () {
       <div className='belowNavbar'>
         <h2>Contact Us</h2>
         <p>Phone: +64 4 566 0561</p>
-        <p>Email: cmcnie@xtra.co.nz</p>
+        <p>Email: <a href='mailto:cmcnie@xtra.co.nz'>cmcnie@xtra.co.nz</a></p>
         <p>Lower Hutt, New Zealand</p>
       </div>
       <div>
