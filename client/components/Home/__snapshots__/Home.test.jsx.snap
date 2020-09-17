@@ -308,7 +308,7 @@ exports[`Home component to match snapshot 1`] = `
       <a
         href="mailto:cmcnie@xtra.co.nz?subject=Enquiry regarding using photos from your Webpage"
       >
-        cmcnie@xtra.co.nz
+         cmcnie@xtra.co.nz
       </a>
     </p>
     <a
