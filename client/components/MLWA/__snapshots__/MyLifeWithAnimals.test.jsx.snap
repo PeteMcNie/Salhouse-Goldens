@@ -10,7 +10,7 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
       href="/"
     >
       <img
-        alt="Salhouse Goldens logo, phoenix and kula laying down in the bushes looking at camera"
+        alt="Goldens retrievers, phoenix and kula"
         class="shlogo d-inline-block align-top"
         src="images/logo.jpeg"
       />
@@ -69,8 +69,8 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
         </div>
         <a
           class="nav-link"
-          data-rb-event-key="mylifewithanimals"
-          href="mylifewithanimals"
+          data-rb-event-key="/mylifewithanimals"
+          href="/mylifewithanimals"
         >
           My Life With Animals
         </a>
@@ -90,15 +90,15 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
         </div>
         <a
           class="nav-link"
-          data-rb-event-key="#links"
-          href="#links"
+          data-rb-event-key="/links"
+          href="/links"
         >
           Links
         </a>
         <a
           class="nav-link"
-          data-rb-event-key="#contact"
-          href="#contact"
+          data-rb-event-key="/contact"
+          href="/contact"
         >
           Contact
         </a>

@@ -25,7 +25,7 @@ function AboutUsBody () {
           walks near to home or far away and are lucky enough to have access to many walking tracks.
       </p>
       <hr />
-      <h3>Where &apos;Salhouse&apos; comes from</h3>
+      <h3 id='salhouse' className='belowNavbar'>Where &apos;Salhouse&apos; comes from</h3>
       <p>
           When I was a child we used to go for boating holidays on the Norfolk Broads in Norfolk, England. These were happy days and
           there was one Broad called Salhouse Broad that I can remember we had great fun at. It was a beautiful Broad and we moored
