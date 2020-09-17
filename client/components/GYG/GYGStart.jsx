@@ -9,7 +9,7 @@ function GYGStart () {
         <h2>Grooming Your Golden</h2>
         <Image src='images/gyg1.jpg' fluid />
         <p>
-            Contact Carole on 04 566 0561 or email cmcnie@xtra.co.nz if you are in the Wellington region (I&apos;m
+            Contact Carole on 04 566 0561 or email <a href='mailto:cmcnie@xtra.co.nz?subject=Enquiry regarding Golden Retriever grooming'>cmcnie@xtra.co.nz</a> if you are in the Wellington region (I&apos;m
             actually in Lower Hutt) and would like your Golden groomed.
         </p>
         <p>

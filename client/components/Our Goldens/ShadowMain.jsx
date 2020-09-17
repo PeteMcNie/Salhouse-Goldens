@@ -39,8 +39,8 @@ function ShadowMain () {
         </p>
         <p>
             Shadow whelped a litter of 7 puppies on 7 April 2010. For some of the drama involved in this whelping, see the News page.
-            There is also a page called Shadow&apos;s litter 2010 where there are photos of this lovely litter of four male and three
-            female puppies. We have kept one of the female puppies from this litter and have named her Sherry. You can find out
+            There is also a link above called Shadow&apos;s litter where there are photos of this lovely litter of four male and three
+            female puppies. We have kept one of the female puppies from this litter and have named her <a href='/sherry'>Sherry</a>. You can find out
             more about her on her own page.
         </p>
         <p>
@@ -70,7 +70,7 @@ function ShadowMain () {
             it wasn&apos;t a fluke, Shadow picked up the first challenge of the day on Sunday too. Way to go my girl.
         </p>
         <p>
-            To find out more about how Shadow came into our lives, go to Kula&apos;s litter 2006 page.
+            To find out more about how Shadow came into our lives, go to <a href='/kula'>Kula&apos;s litter</a>.
         </p>
       </div>
       <div>

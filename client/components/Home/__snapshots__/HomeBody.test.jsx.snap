@@ -3,7 +3,7 @@
 exports[`HomeBody component to match snapshot 1`] = `
 <div>
   <nav
-    class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top"
+    class="navbar navbar-expand-lg navbar-light bg-light fixed-top"
   >
     <a
       class="navbar-brand"
@@ -12,7 +12,7 @@ exports[`HomeBody component to match snapshot 1`] = `
       <img
         alt="Goldens retrievers, phoenix and kula"
         class="shlogo d-inline-block align-top"
-        src="images/logo.jpeg"
+        src="images/logo2.png"
       />
     </a>
     <button
@@ -127,7 +127,7 @@ exports[`HomeBody component to match snapshot 1`] = `
         <img
           alt="First slide"
           class="d-block w-100;"
-          src="images/lassie.jpg"
+          src="http://place-puppy.com/1000x600"
         />
         <div
           class="carousel-caption"
@@ -146,7 +146,7 @@ exports[`HomeBody component to match snapshot 1`] = `
         <img
           alt="Second slide"
           class="d-block w-100"
-          src="images/maddie.jpg"
+          src="http://place-puppy.com/1000x600"
         />
         <div
           class="carousel-caption"
@@ -165,7 +165,7 @@ exports[`HomeBody component to match snapshot 1`] = `
         <img
           alt="Third slide"
           class="d-block w-100"
-          src="images/munch.jpg"
+          src="http://place-puppy.com/1000x600"
         />
         <div
           class="carousel-caption"
@@ -184,7 +184,7 @@ exports[`HomeBody component to match snapshot 1`] = `
         <img
           alt="Forth slide"
           class="d-block w-100"
-          src="images/11.jpg"
+          src="http://place-puppy.com/1000x600"
         />
       </div>
     </div>
@@ -226,10 +226,52 @@ exports[`HomeBody component to match snapshot 1`] = `
   </div>
   <div>
     <p>
-      I am a dog lover who fell in love with this beautiful breed when I was a child in England. If you would like to read the story of the animals in my life please go to the My Life with Animals page.
+      I am a dog lover who fell in love with this beautiful breed when I was a child in England. If you would like to read the story of the animals in my life please go to the 
+      <a
+        href="/mylifewithanimals"
+      >
+        My Life with Animals
+      </a>
+       page.
     </p>
     <p>
-      The golden retrievers in the above photograph are Tuppence, Shadow, Kula, Sherry and Autumn, with Phoenix laying down in front. Unfortunately our dear sweet Phoenix passed over the Rainbow Bridge in September 2016 at the ripe old age of 14 years, 8 months. However, she is still very much in our hearts and minds and it is very hard to think about the fact that she is no longer with us. My website will still tell the story of Phoenix because she was the most beautiful first golden for me to own and was the reason I wanted to have more of them. I can't thank her enough for the lessons she taught me and the loyalty only a dog can give even when the human is less than perfect.
+      The golden retrievers in the above photograph are 
+      <a
+        href="/tuppence"
+      >
+        Tuppence
+      </a>
+      , 
+      <a
+        href="/shadow"
+      >
+        Shadow
+      </a>
+      ,
+      <a
+        href="/kula"
+      >
+        Kula
+      </a>
+      , 
+      <a
+        href="/sherry"
+      >
+        Sherry
+      </a>
+       and 
+      <a
+        href="/autumn"
+      >
+        Autumn
+      </a>
+      , with 
+      <a
+        href="/phoenix"
+      >
+        Phoenix
+      </a>
+       laying down in front. Unfortunately our dear sweet Phoenix passed over the Rainbow Bridge in September 2016 at the ripe old age of 14 years, 8 months. However, she is still very much in our hearts and minds and it is very hard to think about the fact that she is no longer with us. My website will still tell the story of Phoenix because she was the most beautiful first golden for me to own and was the reason I wanted to have more of them. I can't thank her enough for the lessons she taught me and the loyalty only a dog can give even when the human is less than perfect.
     </p>
     <p>
       Kula was born in 2003 and is a really loving dog who is my only real retriever at the moment (due either to the other four's obstinance or my bad training). She loves nothing more than to swim in the river or sea fetching as many sticks as I can throw for her. In 2007, Kula had a beautiful litter of puppies and we kept one female who we named Shadow. She is a real character and is such fun to be with. She is so enthusiastic about her people and yet she has the loveliest nature. Shadow had a litter of 7 puppies in April 2010 and we have kept one of those, Sherry. We added an item to the News page each day from the day the puppies were born to the time they left us. There are loads of photos and videos of these puppies and some stories of them growing up. Go to the News page to see these stories and more. Sherry gave birth to two female puppies on 16 June 2015 - Autumn and Tuppence. Only having two in the litter made it impossible for us to part with one, so, although we had only wanted to keep one, we found ourselves with the two naughties! And then on from that episode, Autumn had a litter of seven puppies in March 2019, of which we kept one who we called Siren.
@@ -253,14 +295,29 @@ exports[`HomeBody component to match snapshot 1`] = `
       Using images from this website
     </p>
     <p>
-      All photos on this website are copyright © by me. They are creative-commons licensed, you may use them under these non-commercial terms.
+      All photos on this website are copyright © by me. They are creative-commons licensed, you may use them under 
+      <a
+        href="https://creativecommons.org/licenses/by-nc-nd/3.0/nz/"
+      >
+        these non-commercial terms
+      </a>
+      .
     </p>
     <p>
-      If you want to use them under different terms, please contact me.
+      If you want to use them under different terms, please contact me at
+      <a
+        href="mailto:cmcnie@xtra.co.nz?subject=Enquiry regarding using photos from your Webpage"
+      >
+        cmcnie@xtra.co.nz
+      </a>
     </p>
-    <img
-      src="images/nocc.png"
-    />
+    <a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/nz/"
+    >
+      <img
+        src="images/nocc.png"
+      />
+    </a>
   </div>
 </div>
 `;

@@ -14,7 +14,7 @@ function ControlledCarousel () {
       <Carousel.Item>
         <img
           className="d-block w-100;"
-          src="images/lassie.jpg"
+          src="http://place-puppy.com/1000x600"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -25,7 +25,7 @@ function ControlledCarousel () {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="images/maddie.jpg"
+          src="http://place-puppy.com/1000x600"
           alt="Second slide"
         />
 
@@ -37,7 +37,7 @@ function ControlledCarousel () {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="images/munch.jpg"
+          src="http://place-puppy.com/1000x600"
           alt="Third slide"
         />
 
@@ -49,7 +49,7 @@ function ControlledCarousel () {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="images/11.jpg"
+          src="http://place-puppy.com/1000x600"
           alt="Forth slide"
         />
 

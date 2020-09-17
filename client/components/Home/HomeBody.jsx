@@ -9,10 +9,11 @@ function HomeBody () {
       <div>
         <p>
             I am a dog lover who fell in love with this beautiful breed when I was a child in England.
-            If you would like to read the story of the animals in my life please go to the My Life with Animals page.
+            If you would like to read the story of the animals in my life please go to the <a href='/mylifewithanimals'>My Life with Animals</a> page.
         </p>
         <p>
-            The golden retrievers in the above photograph are Tuppence, Shadow, Kula, Sherry and Autumn, with Phoenix laying
+            The golden retrievers in the above photograph are <a href='/tuppence'>Tuppence</a>, <a href='/shadow'>Shadow</a>,
+          <a href='/kula'>Kula</a>, <a href='/sherry'>Sherry</a> and <a href='/autumn'>Autumn</a>, with <a href='/phoenix'>Phoenix</a> laying
             down in front. Unfortunately our dear sweet Phoenix passed over the Rainbow Bridge in September 2016 at the ripe
             old age of 14 years, 8 months. However, she is still very much in our hearts and minds and it is very hard to think
             about the fact that she is no longer with us. My website will still tell the story of Phoenix because she was the

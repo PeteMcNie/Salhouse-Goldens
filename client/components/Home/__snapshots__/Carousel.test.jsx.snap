@@ -24,7 +24,7 @@ exports[`Carousel component to match snapshot 1`] = `
         <img
           alt="First slide"
           class="d-block w-100;"
-          src="images/lassie.jpg"
+          src="http://place-puppy.com/1000x600"
         />
         <div
           class="carousel-caption"
@@ -43,7 +43,7 @@ exports[`Carousel component to match snapshot 1`] = `
         <img
           alt="Second slide"
           class="d-block w-100"
-          src="images/maddie.jpg"
+          src="http://place-puppy.com/1000x600"
         />
         <div
           class="carousel-caption"
@@ -62,7 +62,7 @@ exports[`Carousel component to match snapshot 1`] = `
         <img
           alt="Third slide"
           class="d-block w-100"
-          src="images/munch.jpg"
+          src="http://place-puppy.com/1000x600"
         />
         <div
           class="carousel-caption"
@@ -81,7 +81,7 @@ exports[`Carousel component to match snapshot 1`] = `
         <img
           alt="Forth slide"
           class="d-block w-100"
-          src="images/11.jpg"
+          src="http://place-puppy.com/1000x600"
         />
       </div>
     </div>
