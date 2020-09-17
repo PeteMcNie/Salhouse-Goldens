@@ -30,11 +30,11 @@ function NavbarComp () {
 
   return (
     <>
-      <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" fixed='top'>
+      <Navbar collapseOnSelect expand="lg" bg="light" variant="light" fixed='top'>
         <Navbar.Brand href="/">
           <img
             alt="Goldens retrievers, phoenix and kula"
-            src="images/logo.jpeg"
+            src="images/logo2.png"
             className="shlogo d-inline-block align-top"
           />
         </Navbar.Brand>
