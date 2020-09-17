@@ -407,7 +407,12 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
   <hr />
   <div>
     <h3>
-      First Golden Retriever - Phoenix
+      First Golden Retriever - 
+      <a
+        href="/phoenix"
+      >
+        Phoenix
+      </a>
     </h3>
     <p>
       Over the next couple of weeks Rob and I went for our usual weekend walks, but they weren’t the same. There was no bundle of joy running ahead and in and out of the bushes. No-one to throw sticks in the river for, although we did throw some in after she died as we imagined Pepper’s spirit would be there, swimming after them and bringing them back. Even now I occasionally throw a stick in the river for Pepper. But walking wasn’t such fun now. We decided that we wanted another dog and this time I was determined to try and find a Golden Retriever as that was what I had really wanted all along. I still didn’t know anything about contacting a Golden Retriever Club. I didn’t even know they existed, so relied on scanning the papers. I started to buy Trade and Exchange, which I had never heard of but someone said I might find a dog in there, and almost straight away I saw an advert for Golden Retriever puppies. My heart was racing when I phoned up to ask if there were any left and how much. Yes, there was one bitch left but I would have to go over the hill and select it and pay a deposit as soon as possible.
@@ -468,7 +473,11 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
   </div>
   <div>
     <h3>
-      Kula
+      <a
+        href="/kula"
+      >
+        Kula
+      </a>
     </h3>
     <p>
       Sandy wasn’t having any puppies at that time but said she would take my number and contact me in the future. Well, time went by and in fact I passed Sandy one day while I was walking Phoenix down the river. I only recognised her by the fact she had three Goldens as I had never met her up close. We had a little chat and she remembered talking to me on the phone. One of her dogs was pregnant but was having a few problems. So I kept that in my mind and I can’t remember whether I phoned Sandy or whether she phoned me later on, but anyway, we were in contact about a week after her bitch had had the puppies. She still had a puppy available to a good home as there were ten puppies in the litter and she had thought that I was a suitable owner for one. I was so excited about this. Another puppy to play with Phoenix. Yeah.
@@ -482,7 +491,7 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
     <div>
       <img
         class="img-fluid"
-        src="images/fourFemalesPuppies.jpg"
+        src="images/fourFemalePuppies.jpg"
       />
       <p>
         The four female puppies in the litter - one is Kula!
@@ -506,16 +515,34 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
       src="images/lastJumpAgility.jpg"
     />
     <p>
-      We had a litter of seven puppies in February 2003, had great fun caring for them until they were old enough to go to homes and kept one, Shadow. Shadow has been the most beautiful family dog ever. She is a singer - singing for joy when she greets us in the morning or after we've been out and then singing when she meets people she knows. We have to try and tone her down sometimes as she is so vocal.  I got into breed showing with Shadow - many thanks to Jan Cook who helped me with guidance and support with this.
+      We had a litter of seven puppies in February 2003, had great fun caring for them until they were old enough to go to homes and kept one, 
+      <a
+        href="/shadow"
+      >
+        Shadow
+      </a>
+      . Shadow has been the most beautiful family dog ever. She is a singer - singing for joy when she greets us in the morning or after we've been out and then singing when she meets people she knows. We have to try and tone her down sometimes as she is so vocal.  I got into breed showing with Shadow - many thanks to Jan Cook who helped me with guidance and support with this.
     </p>
     <p>
-      In April 2010 Shadow had a litter of puppies out of which we kept another beautiful female who we called Sherry. Sherry is an absolutely wonderful personality - she is busy and interactive and a fun dog. She is such a communicator and loves to stalk the family and the other dogs.
+      In April 2010 Shadow had a litter of puppies out of which we kept another beautiful female who we called 
+      <a
+        href="/sherry"
+      >
+        Sherry
+      </a>
+      . Sherry is an absolutely wonderful personality - she is busy and interactive and a fun dog. She is such a communicator and loves to stalk the family and the other dogs.
     </p>
     <p>
       We are so lucky to have these four lovely dogs at this stage in our life. I can't imagine being without them although I am aware that Phoenix and Kula are getting on a bit now. Phoenix in particular struggles with being nearly blind now and also nearly deaf. She still loves her daily walks, although I am often found running off in another direction to go and get her when she has 'lost' us. She doesn't swim any more but loves to bathe in the shallows and roll in the grass.
     </p>
     <p>
-      We have these beautiful creatures for far too short a time. I am currently reading about the psychology of dogs and I believe we owe it to them to try and understand them better. I am interested in the science, what they have proved is the right way to live with and train a dog, not the myths of domination and punishment that has been promoted previously. I think dog training will alter dramatically in the next few years to the benefit of both human and canines. If you are interested in reading a book on the science of how dogs learn etc, have a look at this video by John Bradshaw and I would recommend you pick up a copy of the book In Defence of Dogs. https://www.youtube.com/watch?v=-R14Hsd1RtI
+      We have these beautiful creatures for far too short a time. I am currently reading about the psychology of dogs and I believe we owe it to them to try and understand them better. I am interested in the science, what they have proved is the right way to live with and train a dog, not the myths of domination and punishment that has been promoted previously. I think dog training will alter dramatically in the next few years to the benefit of both human and canines. If you are interested in reading a book on the science of how dogs learn etc, have a look at
+      <a
+        href="https://www.youtube.com/watch?v=-R14Hsd1RtI"
+      >
+         this video
+      </a>
+       by John Bradshaw and I would recommend you pick up a copy of the book In Defence of Dogs.
     </p>
   </div>
   <hr />
