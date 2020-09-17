@@ -743,7 +743,17 @@ exports[`Sherry component matches snapshot 1`] = `
                     11 March 2012
                   </td>
                   <td>
-                    2nd place - 71 points, Waikanae
+                    <p>
+                      2nd place - 71 points, Waikanae
+                    </p>
+                    <iframe
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowfullscreen=""
+                      frameborder="0"
+                      height="355"
+                      src="https://www.youtube.com/embed/QL6PinJ3p64"
+                      width="425"
+                    />
                   </td>
                 </tr>
                 <tr>

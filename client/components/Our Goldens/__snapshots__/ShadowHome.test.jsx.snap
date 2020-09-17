@@ -726,6 +726,16 @@ exports[`Shadown component matches snapshot 1`] = `
           There are no photos of Shadow's next CC win, which was at the Tasman District Open Gundog show on 29 January 2011.  However, below is a short video of Shadow in the ring for a show on the same day (Nelson District Kennel Assocation), at which she got Reserve Bitch CC.
         </p>
       </div>
+      <div>
+        <iframe
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen=""
+          frameborder="0"
+          height="355"
+          src="https://www.youtube.com/embed/ghk6ci2rf0w"
+          width="425"
+        />
+      </div>
     </div>
   </div>
 </div>

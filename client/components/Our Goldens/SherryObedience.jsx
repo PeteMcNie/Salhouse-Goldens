@@ -43,7 +43,15 @@ function SherryObedience () {
               </tr>
               <tr>
                 <td>11 March 2012</td>
-                <td>2nd place - 71 points, Waikanae</td>
+                <td>
+                  <p>2nd place - 71 points, Waikanae</p>
+                  <iframe src="https://www.youtube.com/embed/QL6PinJ3p64"
+                    width="425" height="355"
+                    frameBorder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen>
+                  </iframe>
+                </td>
               </tr>
               <tr>
                 <td>8 September 2013</td>

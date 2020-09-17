@@ -12,7 +12,7 @@ function KulasLitter () {
         <Image src="images/kl1.jpg" fluid />
         <p>On 21 February 2006, Kula (pictured left top) had a litter of 7 beautiful puppies, 5 boys and 2 girls.</p>
         <Image src="images/kl2.jpg" fluid />
-        <p>The father of these puppies is Jordan (NZ CH Santamaria The Patriot) (pictured left bottom).</p>
+        <p>The father of these puppies is Jordan <a href='https://www.mistymoorgoldens.com/'>(NZ CH Santamaria The Patriot)</a> (pictured left bottom).</p>
       </div>
       <hr />
       <div>
