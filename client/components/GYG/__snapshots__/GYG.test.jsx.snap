@@ -3,7 +3,7 @@
 exports[`GYG component matches snapshot 1`] = `
 <div>
   <nav
-    class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top"
+    class="navbar navbar-expand-lg navbar-light bg-light fixed-top"
   >
     <a
       class="navbar-brand"
@@ -12,7 +12,7 @@ exports[`GYG component matches snapshot 1`] = `
       <img
         alt="Goldens retrievers, phoenix and kula"
         class="shlogo d-inline-block align-top"
-        src="images/logo.jpeg"
+        src="images/logo2.png"
       />
     </a>
     <button
@@ -69,8 +69,8 @@ exports[`GYG component matches snapshot 1`] = `
         </div>
         <a
           class="nav-link"
-          data-rb-event-key="mylifewithanimals"
-          href="mylifewithanimals"
+          data-rb-event-key="/mylifewithanimals"
+          href="/mylifewithanimals"
         >
           My Life With Animals
         </a>
@@ -107,6 +107,7 @@ exports[`GYG component matches snapshot 1`] = `
   </nav>
   <div
     class="belowNavbar"
+    id="gyg"
   >
     <h2>
       Grooming Your Golden
@@ -116,7 +117,13 @@ exports[`GYG component matches snapshot 1`] = `
       src="images/gyg1.jpg"
     />
     <p>
-      Contact Carole on 04 566 0561 or email cmcnie@xtra.co.nz if you are in the Wellington region (I'm actually in Lower Hutt) and would like your Golden groomed.
+      Contact Carole on 04 566 0561 or email 
+      <a
+        href="mailto:cmcnie@xtra.co.nz?subject=Enquiry regarding Golden Retriever grooming"
+      >
+        cmcnie@xtra.co.nz
+      </a>
+       if you are in the Wellington region (I'm actually in Lower Hutt) and would like your Golden groomed.
     </p>
     <p>
       Your Golden Retriever is a beautiful creature at any time of the day or night, but when kept groomed properly they can be an even lovelier sight and will feel great. They definitely need some attention to their coats. A brush once or twice a week, taking specific care and attention around neck right by the ears, the long coat of the chest and the feathers of the back legs and tail. These areas are all particularly prone to getting dirt and little twigs etc in and then form knots that can be hard to get out if they are left a long time to embed themselves.
@@ -124,7 +131,9 @@ exports[`GYG component matches snapshot 1`] = `
     <hr />
   </div>
   <div>
-    <h3>
+    <h3
+      id="basicGroomingTips"
+    >
       Basic Grooming Tips
     </h3>
     <p>
@@ -159,7 +168,10 @@ exports[`GYG component matches snapshot 1`] = `
     <hr />
   </div>
   <div>
-    <h3>
+    <h3
+      class="belowNavbar"
+      id="groomingService"
+    >
       Grooming Service
     </h3>
     <p>
@@ -171,7 +183,10 @@ exports[`GYG component matches snapshot 1`] = `
     <hr />
   </div>
   <div>
-    <h3>
+    <h3
+      class="belowNavbar"
+      id="t&p"
+    >
       Testimonials and Photos
     </h3>
   </div>
@@ -216,11 +231,11 @@ exports[`GYG component matches snapshot 1`] = `
   <div>
     <img
       class="img-fluid"
-      src="images/gyg9.jpg"
+      src="images/gyg9.png"
     />
     <img
       class="img-fluid"
-      src="images/gyg10.jpg"
+      src="images/gyg10.png"
     />
     <p>
       Billie before and after groom:

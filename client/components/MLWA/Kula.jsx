@@ -6,7 +6,7 @@ function Kula () {
   return (
     <>
       <div>
-        <h3>Kula</h3>
+        <h3><a href='/kula'>Kula</a></h3>
         <p>
             Sandy wasn’t having any puppies at that time but said she would take my number and contact me in the future. Well,
             time went by and in fact I passed Sandy one day while I was walking Phoenix down the river. I only recognised her
@@ -34,7 +34,7 @@ function Kula () {
             “the golden one” in Hawaiian. That seemed perfect, Kula it was.
         </p>
         <div>
-          <Image src="images/fourFemalesPuppies.jpg" fluid />
+          <Image src="images/fourFemalePuppies.jpg" fluid />
           <p>The four female puppies in the litter - one is Kula!</p>
         </div>
         <p>
@@ -65,13 +65,13 @@ function Kula () {
         <Image src="images/lastJumpAgility.jpg" fluid />
         <p>
             We had a litter of seven puppies in February 2003, had great fun caring for them until they were old enough to go to
-            homes and kept one, Shadow. Shadow has been the most beautiful family dog ever. She is a singer - singing for joy
+            homes and kept one, <a href='/shadow'>Shadow</a>. Shadow has been the most beautiful family dog ever. She is a singer - singing for joy
             when she greets us in the morning or after we&apos;ve been out and then singing when she meets people she knows. We have
             to try and tone her down sometimes as she is so vocal.  I got into breed showing with Shadow - many thanks to Jan
             Cook who helped me with guidance and support with this.
         </p>
         <p>
-            In April 2010 Shadow had a litter of puppies out of which we kept another beautiful female who we called Sherry.
+            In April 2010 Shadow had a litter of puppies out of which we kept another beautiful female who we called <a href='/sherry'>Sherry</a>.
             Sherry is an absolutely wonderful personality - she is busy and interactive and a fun dog. She is such a communicator
             and loves to stalk the family and the other dogs.
         </p>
@@ -87,9 +87,9 @@ function Kula () {
             I believe we owe it to them to try and understand them better. I am interested in the science, what they have proved
             is the right way to live with and train a dog, not the myths of domination and punishment that has been promoted
             previously. I think dog training will alter dramatically in the next few years to the benefit of both human and
-            canines. If you are interested in reading a book on the science of how dogs learn etc, have a look at this video
-            by John Bradshaw and I would recommend you pick up a copy of the book In Defence of Dogs.
-            https://www.youtube.com/watch?v=-R14Hsd1RtI
+            canines. If you are interested in reading a book on the science of how dogs learn etc, have a look at
+          <a href='https://www.youtube.com/watch?v=-R14Hsd1RtI'> this video</a> by John Bradshaw and I would recommend you pick
+            up a copy of the book In Defence of Dogs.
         </p>
       </div>
       <hr />

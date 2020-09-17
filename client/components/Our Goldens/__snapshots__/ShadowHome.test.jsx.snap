@@ -3,7 +3,7 @@
 exports[`Shadown component matches snapshot 1`] = `
 <div>
   <nav
-    class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top"
+    class="navbar navbar-expand-lg navbar-light bg-light fixed-top"
   >
     <a
       class="navbar-brand"
@@ -12,7 +12,7 @@ exports[`Shadown component matches snapshot 1`] = `
       <img
         alt="Goldens retrievers, phoenix and kula"
         class="shlogo d-inline-block align-top"
-        src="images/logo.jpeg"
+        src="images/logo2.png"
       />
     </a>
     <button
@@ -69,8 +69,8 @@ exports[`Shadown component matches snapshot 1`] = `
         </div>
         <a
           class="nav-link"
-          data-rb-event-key="mylifewithanimals"
-          href="mylifewithanimals"
+          data-rb-event-key="/mylifewithanimals"
+          href="/mylifewithanimals"
         >
           My Life With Animals
         </a>
@@ -194,7 +194,13 @@ exports[`Shadown component matches snapshot 1`] = `
           Shadow has the most wonderful personality. She plays hide and seek, is always mischievous in a nice way, and she talks to us. She can be quite vocal when greeting people she knows, not barking, but almost squealing her delight at the meeting. She also is the most wonderful cuddler in the world. I have never known a dog to cuddle the way she does. She knows just how to get in the right place and hold on to you in such a lovely way. You cannot sit or lay on the floor in our house without Shadow comandeering a cuddle. Kula is also a cuddler, but she doesn't stand much of a chance with Shadow around as Shadow will always get in between her Mum and whichever human is on the floor.
         </p>
         <p>
-          Shadow whelped a litter of 7 puppies on 7 April 2010. For some of the drama involved in this whelping, see the News page. There is also a page called Shadow's litter 2010 where there are photos of this lovely litter of four male and three female puppies. We have kept one of the female puppies from this litter and have named her Sherry. You can find out more about her on her own page.
+          Shadow whelped a litter of 7 puppies on 7 April 2010. For some of the drama involved in this whelping, see the News page. There is also a link above called Shadow's litter where there are photos of this lovely litter of four male and three female puppies. We have kept one of the female puppies from this litter and have named her 
+          <a
+            href="/sherry"
+          >
+            Sherry
+          </a>
+          . You can find out more about her on her own page.
         </p>
         <p>
           Shadow has a second great achievement now - she won a CC at Hastings on 11 December 2010 (see News item dated 12 December 2010, Shadow's first CC).
@@ -209,7 +215,13 @@ exports[`Shadown component matches snapshot 1`] = `
           Next up was the gun dog show in the afternoon. We set off to the ringside again and entered the ring for a run around. Well blow me down if we didn't get them both into the line up yet again. So I had two dogs in the ring who could possibly become Champions. We waited for the judge to look them over and ran them around. And then... SHADOW you did it again to become Salhouse's very first official Champion! Woo hoo... so happy. What a weekend. Just to show that it wasn't a fluke, Shadow picked up the first challenge of the day on Sunday too. Way to go my girl.
         </p>
         <p>
-          To find out more about how Shadow came into our lives, go to Kula's litter 2006 page.
+          To find out more about how Shadow came into our lives, go to 
+          <a
+            href="/kula"
+          >
+            Kula's litter
+          </a>
+          .
         </p>
       </div>
       <div>
@@ -713,6 +725,16 @@ exports[`Shadown component matches snapshot 1`] = `
         <p>
           There are no photos of Shadow's next CC win, which was at the Tasman District Open Gundog show on 29 January 2011.  However, below is a short video of Shadow in the ring for a show on the same day (Nelson District Kennel Assocation), at which she got Reserve Bitch CC.
         </p>
+      </div>
+      <div>
+        <iframe
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen=""
+          frameborder="0"
+          height="355"
+          src="https://www.youtube.com/embed/ghk6ci2rf0w"
+          width="425"
+        />
       </div>
     </div>
   </div>

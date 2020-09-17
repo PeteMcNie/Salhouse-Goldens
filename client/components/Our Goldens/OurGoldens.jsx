@@ -13,8 +13,9 @@ function OurGoldens () {
       </div>
       <div>
         <p>
-            We have the privilege to have owned six beautiful golden retrievers - Phoenix (RIP), Kula, Shadow, Sherry, Autumn
-            and Tuppence. They are our life and totally part of our family. I have competed in breed showing, obedience and
+            We have the privilege to have owned seven beautiful golden retrievers - <a href='/phoenix'>Phoenix</a> (RIP),
+          <a href='/kula'> Kula</a> (RIP), <a href='/shadow'>Shadow</a>, <a href='/sherry'>Sherry</a>, <a href='/autumn'>Autumn</a>,
+          <a href='/tuppence'> Tuppence</a> and <a href='/siren'>Siren</a>. They are our life and totally part of our family. I have competed in breed showing, obedience and
             agility, but am not overly driven to succeed in the ring and just do those things in order to have a bit more fun
             with my dogs.
         </p>

@@ -3,7 +3,7 @@
 exports[`Kula component matches snapshot 1`] = `
 <div>
   <nav
-    class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top"
+    class="navbar navbar-expand-lg navbar-light bg-light fixed-top"
   >
     <a
       class="navbar-brand"
@@ -12,7 +12,7 @@ exports[`Kula component matches snapshot 1`] = `
       <img
         alt="Goldens retrievers, phoenix and kula"
         class="shlogo d-inline-block align-top"
-        src="images/logo.jpeg"
+        src="images/logo2.png"
       />
     </a>
     <button
@@ -69,8 +69,8 @@ exports[`Kula component matches snapshot 1`] = `
         </div>
         <a
           class="nav-link"
-          data-rb-event-key="mylifewithanimals"
-          href="mylifewithanimals"
+          data-rb-event-key="/mylifewithanimals"
+          href="/mylifewithanimals"
         >
           My Life With Animals
         </a>
@@ -182,7 +182,13 @@ exports[`Kula component matches snapshot 1`] = `
           Kula is my only dog to have clicked with the retrieve “thing“. She caught on at an early age that if she brought back the stick or the ball to my feet, she would have the fun of another chase - an achievement that sadly kula and Shadow seem to have missed out on. Kula is now going to try to do a bit of obedience. I think she has potential but we probably should have started a few years ago. However, she is pretty clever at picking things up and we can have some fun along the way.
         </p>
         <p>
-          To find out more about how Kula came into our lives, go to the My Life with Animals page.
+          To find out more about how Kula came into our lives, go to the 
+          <a
+            href="/mylifewithanimals"
+          >
+            My Life with Animals
+          </a>
+           page.
         </p>
         <p>
           Kula's Litter 2006.
@@ -378,7 +384,13 @@ exports[`Kula component matches snapshot 1`] = `
           src="images/kl2.jpg"
         />
         <p>
-          The father of these puppies is Jordan (NZ CH Santamaria The Patriot) (pictured left bottom).
+          The father of these puppies is Jordan 
+          <a
+            href="https://www.mistymoorgoldens.com/"
+          >
+            (NZ CH Santamaria The Patriot)
+          </a>
+           (pictured left bottom).
         </p>
       </div>
       <hr />

@@ -39,7 +39,7 @@ function Phoenix () {
             Phoenix was spayed when she was young so we will not be passing this particular problem on to others.
         </p>
         <p>
-            To find out more about how Phoenix came into our lives, go to the My Life with Animals page.
+            To find out more about how Phoenix came into our lives, go to the <a href='/mylifewithanimals'>My Life with Animals</a> page.
         </p>
         <p>
             Phoenix finally passed away on 14 September 2016. That was a very sad day. No, I can&apos;t just say that... that was a
