@@ -69,8 +69,8 @@ exports[`GYG component matches snapshot 1`] = `
         </div>
         <a
           class="nav-link"
-          data-rb-event-key="mylifewithanimals"
-          href="mylifewithanimals"
+          data-rb-event-key="/mylifewithanimals"
+          href="/mylifewithanimals"
         >
           My Life With Animals
         </a>
@@ -107,6 +107,7 @@ exports[`GYG component matches snapshot 1`] = `
   </nav>
   <div
     class="belowNavbar"
+    id="gyg"
   >
     <h2>
       Grooming Your Golden
@@ -124,7 +125,9 @@ exports[`GYG component matches snapshot 1`] = `
     <hr />
   </div>
   <div>
-    <h3>
+    <h3
+      id="basicGroomingTips"
+    >
       Basic Grooming Tips
     </h3>
     <p>
@@ -159,7 +162,10 @@ exports[`GYG component matches snapshot 1`] = `
     <hr />
   </div>
   <div>
-    <h3>
+    <h3
+      class="belowNavbar"
+      id="groomingService"
+    >
       Grooming Service
     </h3>
     <p>
@@ -171,7 +177,10 @@ exports[`GYG component matches snapshot 1`] = `
     <hr />
   </div>
   <div>
-    <h3>
+    <h3
+      class="belowNavbar"
+      id="t&p"
+    >
       Testimonials and Photos
     </h3>
   </div>
@@ -216,11 +225,11 @@ exports[`GYG component matches snapshot 1`] = `
   <div>
     <img
       class="img-fluid"
-      src="images/gyg9.jpg"
+      src="images/gyg9.png"
     />
     <img
       class="img-fluid"
-      src="images/gyg10.jpg"
+      src="images/gyg10.png"
     />
     <p>
       Billie before and after groom:

@@ -1,11 +1,8 @@
 import React, { useState } from 'react'
-import { useHistory } from 'react-router-dom'
 
 import { Navbar, Nav, NavDropdown } from 'react-bootstrap'
 
 function NavbarComp () {
-  const history = useHistory()
-
   const [show, setShow] = useState(false)
   function showDropdown () {
     setShow(!show)
