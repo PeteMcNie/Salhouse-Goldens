@@ -182,7 +182,13 @@ exports[`Kula component matches snapshot 1`] = `
           Kula is my only dog to have clicked with the retrieve “thing“. She caught on at an early age that if she brought back the stick or the ball to my feet, she would have the fun of another chase - an achievement that sadly kula and Shadow seem to have missed out on. Kula is now going to try to do a bit of obedience. I think she has potential but we probably should have started a few years ago. However, she is pretty clever at picking things up and we can have some fun along the way.
         </p>
         <p>
-          To find out more about how Kula came into our lives, go to the My Life with Animals page.
+          To find out more about how Kula came into our lives, go to the 
+          <a
+            href="/mylifewithanimals"
+          >
+            My Life with Animals
+          </a>
+           page.
         </p>
         <p>
           Kula's Litter 2006.

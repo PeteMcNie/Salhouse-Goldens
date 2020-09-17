@@ -43,7 +43,7 @@ function KulaMain () {
             we can have some fun along the way.
         </p>
         <p>
-            To find out more about how Kula came into our lives, go to the My Life with Animals page.
+            To find out more about how Kula came into our lives, go to the <a href='/mylifewithanimals'>My Life with Animals</a> page.
         </p>
         <p>
             Kula&apos;s Litter 2006.
