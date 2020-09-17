@@ -15,3 +15,17 @@ body {
 .belowNavbar {
     padding-top: 85px;
 }
+
+#phoenixj {
+    background-image: url('images/phoenix1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 85px;
+    padding: 250px;
+}
+
+.jumbotronTitle {
+    color: rgb(119, 119, 119);
+    margin-left: -150px;
+    font-size: 4rem;
+}

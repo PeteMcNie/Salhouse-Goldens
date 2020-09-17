@@ -1,6 +1,7 @@
 import React from 'react'
 
 import Image from 'react-bootstrap/Image'
+import Jumbotron from 'react-bootstrap/Jumbotron'
 
 import NavbarComp from '../NavbarComp'
 
@@ -8,17 +9,16 @@ function Phoenix () {
   return (
     <>
       <NavbarComp />
-      <div className='belowNavbar'>
+      <Jumbotron id='phoenixj' fluid>
+        <h1 className='jumbotronTitle'>Phoenix</h1>
+      </Jumbotron>
+      <div >
         <h2>Phoenix</h2>
       </div>
       <div>
-        <h3>Phoenix</h3>
         <p>Sire: Braeview the Kingmaker</p>
         <p>Dam: Honey of Frandale</p>
         <p>10 January 2002 - 14 September 2016</p>
-        <div>
-          <Image src="images/phoenix1.jpg" fluid />
-        </div>
       </div>
       <div>
         <p>
