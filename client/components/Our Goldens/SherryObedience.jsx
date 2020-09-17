@@ -2,6 +2,7 @@ import React from 'react'
 
 import Image from 'react-bootstrap/Image'
 import Table from 'react-bootstrap/Table'
+import ResponsiveEmbed from 'react-bootstrap/ResponsiveEmbed'
 
 function SherryObedience () {
   return (
@@ -45,12 +46,11 @@ function SherryObedience () {
                 <td>11 March 2012</td>
                 <td>
                   <p>2nd place - 71 points, Waikanae</p>
-                  <iframe src="https://www.youtube.com/embed/QL6PinJ3p64"
-                    width="425" height="355"
-                    frameBorder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowFullScreen>
-                  </iframe>
+                  <div>
+                    <ResponsiveEmbed aspectRatio="16by9">
+                      <embed src="https://www.youtube.com/embed/QL6PinJ3p64" />
+                    </ResponsiveEmbed>
+                  </div>
                 </td>
               </tr>
               <tr>
