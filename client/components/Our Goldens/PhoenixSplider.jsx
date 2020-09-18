@@ -34,7 +34,7 @@ class PhoenixSplider extends React.Component {
       width: 800,
       gap: '1rem',
       pagination: false,
-      fixedWidth: 120,
+      fixedWidth: 110,
       fixedHeight: 80,
       cover: true,
       focus: 'center',
@@ -78,7 +78,7 @@ class PhoenixSplider extends React.Component {
           </SplideSlide>
         </Splide>
 
-        <Splide options={ secondaryOptions } ref={ this.secondaryRef }>
+        <Splide options={ secondaryOptions } ref={ this.secondaryRef } className='splideNav'>
           <SplideSlide>
             <Image src="images/phoenix3.jpg" />
           </SplideSlide>

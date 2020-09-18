@@ -13,8 +13,8 @@ p {
 }
 
 .shlogo {
- width: 60px;
- height: 60px;
+ width: 80px;
+ height: auto;
 }
 
 .belowNavbar {
@@ -26,7 +26,8 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 85px;
-    padding: 250px;
+    padding: 300px;
+    margin-bottom: 0px;
 }
 
 .jumbotronTitle {
@@ -35,15 +36,31 @@ p {
     font-size: 4rem;
 }
 
-.splideContainer {
+.mainBody {
+    background-color: burlywood;
+    padding-top: 2rem;
+}
+
+.row {
     /* border: 1px solid red; */
+    margin-left: -50px;
+}
+
+.leftCol {
+    padding: 0px 30px 0px 10px;
+}
+
+.splideContainer {
+    /* border: 1px solid blue; */
     margin: 30px 0px;
-    padding-top: 0px;
 }
 
 .splideImage {
-    width: 500px;
+    width: 555px;
     height: auto;
-    padding: 1vh 5vw 0vh 6vw;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+hr {
+    width: 85%;
 }
