@@ -727,14 +727,14 @@ exports[`Shadown component matches snapshot 1`] = `
         </p>
       </div>
       <div>
-        <iframe
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen=""
-          frameborder="0"
-          height="355"
-          src="https://www.youtube.com/embed/ghk6ci2rf0w"
-          width="425"
-        />
+        <div
+          class="embed-responsive embed-responsive-16by9"
+        >
+          <embed
+            class="embed-responsive-item"
+            src="https://www.youtube.com/embed/ghk6ci2rf0w"
+          />
+        </div>
       </div>
     </div>
   </div>
