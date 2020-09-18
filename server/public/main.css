@@ -34,3 +34,16 @@ p {
     margin-left: -150px;
     font-size: 4rem;
 }
+
+.splideContainer {
+    border: 1px solid red;
+    margin-top: 30px;
+    padding-top: 0px;
+}
+
+.splideImage {
+    width: 500px;
+    height: auto;
+    padding: 1vh 5vw 0vh 0vw;
+    margin-bottom: 10px;
+}
