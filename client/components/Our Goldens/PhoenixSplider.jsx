@@ -20,13 +20,12 @@ class PhoenixSplider extends React.Component {
   render () {
     const primaryOptions = {
       type: 'loop',
-      //   width: 800,
+      width: 800,
       perPage: 1,
       perMove: 1,
       gap: '1rem',
       pagination: false,
-      // fixedHeight: '30rem',
-      fixedWidth: '30rem'
+      arrows: false
     }
 
     const secondaryOptions = {
@@ -35,95 +34,93 @@ class PhoenixSplider extends React.Component {
       width: 800,
       gap: '1rem',
       pagination: false,
-      fixedWidth: 110,
-      fixedHeight: 70,
+      fixedWidth: 120,
+      fixedHeight: 80,
       cover: true,
       focus: 'center',
       isNavigation: true,
-      updateOnMove: true
+      updateOnMove: true,
+      arrows: false
     }
 
     return (
-      <div>
+      <div className='splideContainer'>
         <Splide options={ primaryOptions } ref={ this.primaryRef }>
+          {/* <SplideSlide>
+            <Image src="images/phoenix2.jpg" className='splideImage' />
+          </SplideSlide> */}
           <SplideSlide>
-            <Image src="images/phoenix2.jpg" />
+            <Image src="images/phoenix3.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/phoenix3.jpg" fluid />
+            <Image src="images/phoenix4.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/phoenix4.jpg" fluid />
+            <Image src="images/phoenix5.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/phoenix5.jpg" fluid />
+            <Image src="images/phoenix6.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/phoenix6.jpg" />
+            <Image src="images/phoenix7.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/phoenix7.jpg" fluid />
+            <Image src="images/phoenix8.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/phoenix8.jpg" fluid />
+            <Image src="images/phoenix9.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/phoenix9.jpg" fluid />
+            <Image src="images/phoenix10.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/phoenix10.jpg" />
+            <Image src="images/phoenix11.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/phoenix11.jpg" fluid />
+            <Image src="images/phoenix12.jpg" className='splideImage'/>
           </SplideSlide>
-          <SplideSlide>
-            <Image src="images/phoenix12.jpg" fluid />
-          </SplideSlide>
-          <SplideSlide>
-            <Image src="images/phoenix13.jpg" fluid />
-          </SplideSlide>
+          {/* <SplideSlide>
+            <Image src="images/phoenix13.jpg" className='splideImage'/>
+          </SplideSlide> */}
         </Splide>
 
         <Splide options={ secondaryOptions } ref={ this.secondaryRef }>
-          <SplideSlide>
+          {/* <SplideSlide>
             <Image src="images/phoenix2.jpg" />
+          </SplideSlide> */}
+          <SplideSlide>
+            <Image src="images/phoenix3.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/phoenix3.jpg" fluid />
+            <Image src="images/phoenix4.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/phoenix4.jpg" fluid />
-          </SplideSlide>
-          <SplideSlide>
-            <Image src="images/phoenix5.jpg" fluid />
-          </SplideSlide>
-          <SplideSlide>
-            <Image src="images/phoenix5.jpg" fluid />
+            <Image src="images/phoenix5.jpg" />
           </SplideSlide>
           <SplideSlide>
             <Image src="images/phoenix6.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/phoenix7.jpg" fluid />
+            <Image src="images/phoenix7.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/phoenix8.jpg" fluid />
+            <Image src="images/phoenix8.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/phoenix9.jpg" fluid />
+            <Image src="images/phoenix9.jpg" />
           </SplideSlide>
           <SplideSlide>
             <Image src="images/phoenix10.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/phoenix11.jpg" fluid />
+            <Image src="images/phoenix11.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/phoenix12.jpg" fluid />
+            <Image src="images/phoenix12.jpg" />
           </SplideSlide>
-          <SplideSlide>
-            <Image src="images/phoenix13.jpg" fluid />
-          </SplideSlide>
+          {/* <SplideSlide>
+            <Image src="images/phoenix13.jpg" />
+          </SplideSlide> */}
         </Splide>
       </div>
     )

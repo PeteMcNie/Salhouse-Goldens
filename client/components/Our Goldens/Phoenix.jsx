@@ -23,13 +23,6 @@ function Phoenix () {
             <p>Sire: Braeview the Kingmaker</p>
             <p>Dam: Honey of Frandale</p>
             <p>10 January 2002 - 14 September 2016</p>
-          </Col>
-          <Col>
-            <PhoenixSplider />
-          </Col>
-        </Row>
-        <Row>
-          <Col>
             <p>
               Phoenix was my first golden and is a beautiful pet. I have dabbled in agility and a tiny bit of obedience with her but
               really she is mainly a pet who lives with us and enjoys herself, mostly. She does have one or two phobias, e.g. she
@@ -37,6 +30,14 @@ function Phoenix () {
               and light on her feet and loves nothing more than to have a tug of war with whoever might be around to play, be it
               human or dog!
             </p>
+          </Col>
+          <Col>
+            <PhoenixSplider />
+          </Col>
+        </Row>
+        <Row>
+          <Col>
+       
           </Col>
         </Row>
         <Row>
