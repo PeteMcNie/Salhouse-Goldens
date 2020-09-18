@@ -46,9 +46,6 @@ class PhoenixSplider extends React.Component {
     return (
       <div className='splideContainer'>
         <Splide options={ primaryOptions } ref={ this.primaryRef }>
-          {/* <SplideSlide>
-            <Image src="images/phoenix2.jpg" className='splideImage' />
-          </SplideSlide> */}
           <SplideSlide>
             <Image src="images/phoenix3.jpg" className='splideImage'/>
           </SplideSlide>
@@ -79,15 +76,9 @@ class PhoenixSplider extends React.Component {
           <SplideSlide>
             <Image src="images/phoenix12.jpg" className='splideImage'/>
           </SplideSlide>
-          {/* <SplideSlide>
-            <Image src="images/phoenix13.jpg" className='splideImage'/>
-          </SplideSlide> */}
         </Splide>
 
         <Splide options={ secondaryOptions } ref={ this.secondaryRef }>
-          {/* <SplideSlide>
-            <Image src="images/phoenix2.jpg" />
-          </SplideSlide> */}
           <SplideSlide>
             <Image src="images/phoenix3.jpg" />
           </SplideSlide>
@@ -118,9 +109,6 @@ class PhoenixSplider extends React.Component {
           <SplideSlide>
             <Image src="images/phoenix12.jpg" />
           </SplideSlide>
-          {/* <SplideSlide>
-            <Image src="images/phoenix13.jpg" />
-          </SplideSlide> */}
         </Splide>
       </div>
     )
