@@ -12,7 +12,18 @@ module.exports = {
       test: /\.jsx?$/,
       loader: 'babel-loader',
       exclude: /node_modules/
-    }]
+    },
+    { // this rule will only be used for any vendors
+      test: /\.css$/,
+      loaders: ['style-loader', 'css-loader'],
+      include: [/node_modules/]
+    }
+    // { MAYBE REQUIRED IF ERRORS APPEAR IN CSS
+    //   test: /\.css$/,
+    //   loaders: ['to-string-loader', 'css-loader'],
+    //   exclude: [/node_modules/] //add this line so we ignore css coming from node_modules
+    // }
+    ]
   },
   resolve: {
     extensions: ['.js', '.jsx']
