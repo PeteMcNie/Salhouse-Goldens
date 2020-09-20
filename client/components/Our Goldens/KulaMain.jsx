@@ -51,48 +51,48 @@ function KulaMain () {
           </Row>
           <Row>
             <Col>
-              <div>
-                <Table bordered size='sm' responsive="sm">
+              <div className='tableDiv'>
+                <Table bordered responsive="sm">
                   <thead>
                     <tr>
-                      <th colSpan='3'>Pedigree of Sanastasia Sth&apos;n Star Chara</th>
+                      <th colSpan='3' className='tableHead'>Pedigree of Sanastasia Sth&apos;n Star Chara</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td>Parents</td>
-                      <td>Grandparents</td>
-                      <td>Great Grandparents</td>
+                      <td className='subHeading'>Parents</td>
+                      <td className='subHeading'>Grandparents</td>
+                      <td className='subHeading'>Great Grandparents</td>
                     </tr>
                     <tr>
-                      <td rowSpan='4'>Sire: CH Seacove Southern Cross</td>
-                      <td rowSpan='2'>CH Glentreve Frozen-Asset</td>
-                      <td>Eng. CH Paudell Easter Plantagenet at Kerrien (UK)</td>
+                      <td rowSpan='4' className='parents'>Sire: CH Seacove Southern Cross</td>
+                      <td rowSpan='2' className='grandparents'>CH Glentreve Frozen-Asset</td>
+                      <td className='greatGrandparents'>Eng. CH Paudell Easter Plantagenet at Kerrien (UK)</td>
                     </tr>
                     <tr>
-                      <td>CH McIlroy Interlude</td>
+                      <td className='greatGrandparents'>CH McIlroy Interlude</td>
                     </tr>
                     <tr>
-                      <td rowSpan='2'>Seacove Bireme</td>
-                      <td>GR & Aust. CH Caldicot Swift</td>
+                      <td rowSpan='2' className='grandparents'>Seacove Bireme</td>
+                      <td className='greatGrandparents'>GR & Aust. CH Caldicot Swift</td>
                     </tr>
                     <tr>
-                      <td>Goldriver Amber-Sunrise QC CDX</td>
+                      <td className='greatGrandparents'>Goldriver Amber-Sunrise QC CDX</td>
                     </tr>
                     <tr>
-                      <td rowSpan='4'>Dam: Sanastasia Treasured Teah CDX</td>
-                      <td rowSpan='2'>OB GR CH Speyside Fidgety Feet CDX</td>
-                      <td>GR CH Graveleigh Soaring High QC CDX</td>
+                      <td rowSpan='4' className='parents'>Dam: Sanastasia Treasured Teah CDX</td>
+                      <td rowSpan='2' className='grandparents'>OB GR CH Speyside Fidgety Feet CDX</td>
+                      <td className='greatGrandparents'>GR CH Graveleigh Soaring High QC CDX</td>
                     </tr>
                     <tr>
-                      <td>Speyside Shades of Gold CDX</td>
+                      <td className='greatGrandparents'>Speyside Shades of Gold CDX</td>
                     </tr>
                     <tr>
-                      <td rowSpan='2'>Sanastasia Special Lady CDX</td>
-                      <td>Sanastasia Gold Falkor</td>
+                      <td rowSpan='2' className='grandparents'>Sanastasia Special Lady CDX</td>
+                      <td className='greatGrandparents'>Sanastasia Gold Falkor</td>
                     </tr>
                     <tr>
-                      <td>Speyside Silver Lining CDX</td>
+                      <td className='greatGrandparents'>Speyside Silver Lining CDX</td>
                     </tr>
                   </tbody>
                 </Table>
