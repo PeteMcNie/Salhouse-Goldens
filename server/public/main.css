@@ -48,13 +48,13 @@ p {
     }
 }
 
-/* @media screen and (max-width: 375px) {
+@media screen and (max-width: 375px) {
     #phoenixj {
-        padding: 200px;
+        padding: 100px;
     }
 }
 
-@media screen and (max-width: 320px) {
+/* @media screen and (max-width: 320px) {
     #phoenixj {
         padding: 200px;
     }
@@ -125,9 +125,18 @@ p {
 }
 
 .splideContainer {
-    /* border: 1px solid blue; */
+    border: 1px solid blue;
     margin: 30px 0px;
     /* padding-left: 30px; */
+}
+
+@media screen and (max-width: 425px) {
+    .splideContainer {
+        border: 1px solid blue;
+        margin: 30px 0px;
+        margin-left: -15px;
+        /* padding-left: 17px; */
+    }
 }
 
 .splideImage {
@@ -156,7 +165,21 @@ p {
 
 @media screen and (max-width: 425px) {
     .splideImage {
-        width: 360px;
+        width: 400px;
+        margin-left: 0px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .splideImage {
+        width: 350px;
+        margin-left: 0px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .splideImage {
+        width: 300px;
         margin-left: 0px;
     }
 }
