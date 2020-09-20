@@ -21,7 +21,7 @@ function Phoenix () {
       <div className='mainBody'>
         <Container>
           <Row className='row'>
-            <Col sm={6} className='leftCol'>
+            <Col lg={6} className='leftCol'>
               <h2 className='bodyTitle'>Phoenix</h2>
               <p>Sire: Braeview the Kingmaker</p>
               <p>Dam: Honey of Frandale</p>
@@ -54,7 +54,7 @@ function Phoenix () {
                 for sharing your life with us.&ldquo; I miss you so very much my beautiful girl! xx
               </p>
             </Col>
-            <Col sm={6}>
+            <Col lg={6}>
               <PhoenixSplider />
             </Col>
             <hr />

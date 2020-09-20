@@ -36,13 +36,13 @@ p {
     }
 }
 
-/* @media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
     #phoenixj {
-        padding: 200px;
+        padding: 180px;
     }
 }
 
-@media screen and (max-width: 425px) {
+/* @media screen and (max-width: 425px) {
     #phoenixj {
         padding: 200px;
     }
@@ -80,11 +80,11 @@ p {
     margin-right: 44vw;
 }
 
-/* @media screen and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
     .line {
-        margin-right: 44vw;
+        margin-right: 34vw;
     }
-} */
+}
 
 /* MAIN BODY OF DOGS COMPONENTS */
 .bodyTitle {
@@ -127,5 +127,17 @@ p {
 @media screen and (max-width: 1024px) {
     .splideImage {
         width: 450px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .splideImage {
+        width: 450px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .splideImage {
+        margin-left: 100px;
     }
 }
