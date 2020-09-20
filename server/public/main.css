@@ -67,14 +67,15 @@ p {
     margin-bottom: 0px;
 }
 
-
-
-
 .jumbotronTitle {
     color: rgb(134, 95, 95);
     margin-left: -10vw;
     font-size: 6rem;
     margin-bottom: 0px;
+}
+
+.jumbotronTitle.kula {
+    margin-left: -4vw;
 }
 
 @media screen and (max-width: 1024px) {

@@ -16,7 +16,7 @@ function KulaHome () {
       <NavbarComp />
       <Jumbotron id='kulaj' fluid>
         <div>
-          <h1 className='jumbotronTitle'>Kula</h1>
+          <h1 className='jumbotronTitle kula'>Kula</h1>
           <p className='line'></p>
         </div>
       </Jumbotron>
