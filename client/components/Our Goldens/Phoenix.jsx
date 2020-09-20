@@ -22,7 +22,7 @@ function Phoenix () {
         <Container>
           <Row className='row'>
             <Col sm={6} className='leftCol'>
-              <h2>Phoenix</h2>
+              <h2 className='bodyTitle'>Phoenix</h2>
               <p>Sire: Braeview the Kingmaker</p>
               <p>Dam: Honey of Frandale</p>
               <p>10 January 2002 - 14 September 2016</p>
