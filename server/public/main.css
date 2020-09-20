@@ -30,12 +30,29 @@ p {
     margin-bottom: 0px;
 }
 
-.jumbotronTitle {
-    color: rgb(119, 119, 119);
-    margin-left: -150px;
-    font-size: 4rem;
+@media screen and (max-width: 1024px) {
+#phoenixj {
+    padding: 300px;
+    margin-bottom: 0px;
+}
 }
 
+.jumbotronTitle {
+    color: rgb(134, 95, 95);
+    margin-left: -150px;
+    font-size: 6rem;
+    margin-bottom: 0px;
+}
+
+.line {
+    height: 1px;
+    border: 1px solid rgb(134, 95, 95);
+    margin-left: -200px;
+    margin-right: 630px;
+}
+
+
+/* MAIN BODY OF DOGS COMPONENTS */
 .mainBody {
     background-color: burlywood;
     padding-top: 2rem;
@@ -59,8 +76,4 @@ p {
     width: 555px;
     height: auto;
     margin-bottom: 20px;
-}
-
-hr {
-    width: 85%;
 }
