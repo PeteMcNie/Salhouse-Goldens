@@ -21,7 +21,7 @@ function KulaHome () {
         </div>
       </Jumbotron>
       <Tabs
-        id="controlled-tab-example"
+        id="tabs"
         activeKey={key}
         onSelect={(k) => setKey(k)}
       >
