@@ -2,6 +2,7 @@ import React from 'react'
 
 import Image from 'react-bootstrap/Image'
 import Table from 'react-bootstrap/Table'
+import ResponsiveEmbed from 'react-bootstrap/ResponsiveEmbed'
 
 function ShadowBreedShow () {
   return (
@@ -87,13 +88,9 @@ function ShadowBreedShow () {
         </p>
       </div>
       <div>
-        <iframe src="https://www.youtube.com/embed/ghk6ci2rf0w"
-          width="425"
-          height="355"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen>
-        </iframe>
+        <ResponsiveEmbed aspectRatio="16by9">
+          <embed src="https://www.youtube.com/embed/ghk6ci2rf0w" />
+        </ResponsiveEmbed>
       </div>
     </>
   )

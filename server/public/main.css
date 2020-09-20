@@ -3,15 +3,185 @@
 }
 
 body {
+    font-family: 'Forum', cursive;
     /* background-color: #ea9a96; */
     /* font-family: 'Quicksand', sans-serif; */
 }
 
+p {
+    font-size: 1.2rem;
+}
+
 .shlogo {
- width: 60px;
- height: 60px;
+ width: 80px;
+ height: auto;
 }
 
 .belowNavbar {
     padding-top: 85px;
+}
+
+#phoenixj {
+    background-image: url('images/phoenix1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 85px;
+    padding: 300px;
+    margin-bottom: 0px;
+}
+
+@media screen and (max-width: 1024px) {
+    #phoenixj {
+        padding: 220px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #phoenixj {
+        padding: 180px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    #phoenixj {
+        padding: 120px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    #phoenixj {
+        padding: 100px;
+    }
+}
+
+/* @media screen and (max-width: 320px) {
+    #phoenixj {
+        padding: 200px;
+    }
+} */
+
+.jumbotronTitle {
+    color: rgb(134, 95, 95);
+    margin-left: -10vw;
+    font-size: 6rem;
+    margin-bottom: 0px;
+}
+
+@media screen and (max-width: 1024px) {
+    .jumbotronTitle {
+        font-size: 4rem;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .jumbotronTitle {
+        visibility: hidden;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    .line {
+        height: 1px;
+        border: 1px solid rgb(134, 95, 95);
+        margin-left: -13vw;
+        margin-right: 44vw;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .line {
+        margin-right: 34vw;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .line {
+        visibility: hidden;
+    }
+}
+
+/* MAIN BODY OF DOGS COMPONENTS */
+.bodyTitle {
+    font-size: 2.5rem;
+}
+
+.mainBody {
+    background-color: burlywood;
+    padding-top: 2rem;
+}
+
+@media screen and (max-width: 1440px) {
+    .row {
+        margin-left: -50px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .row {
+        margin-left: auto;
+    }
+}
+
+.leftCol {
+    padding: 0px 30px 0px 10px;
+}
+
+.splideContainer {
+    /* border: 1px solid blue; */
+    margin: 30px 0px;
+    /* padding-left: 30px; */
+}
+
+@media screen and (max-width: 425px) {
+    .splideContainer {
+        border: 1px solid blue;
+        margin: 30px 0px;
+        margin-left: -15px;
+        /* padding-left: 17px; */
+    }
+}
+
+.splideImage {
+    width: 555px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 1024px) {
+    .splideImage {
+        width: 450px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .splideImage {
+        width: 450px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .splideImage {
+        margin-left: 100px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .splideImage {
+        width: 400px;
+        margin-left: 0px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .splideImage {
+        width: 350px;
+        margin-left: 0px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .splideImage {
+        width: 300px;
+        margin-left: 0px;
+    }
 }

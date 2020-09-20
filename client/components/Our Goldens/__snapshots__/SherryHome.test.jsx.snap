@@ -746,14 +746,16 @@ exports[`Sherry component matches snapshot 1`] = `
                     <p>
                       2nd place - 71 points, Waikanae
                     </p>
-                    <iframe
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                      allowfullscreen=""
-                      frameborder="0"
-                      height="355"
-                      src="https://www.youtube.com/embed/QL6PinJ3p64"
-                      width="425"
-                    />
+                    <div>
+                      <div
+                        class="embed-responsive embed-responsive-16by9"
+                      >
+                        <embed
+                          class="embed-responsive-item"
+                          src="https://www.youtube.com/embed/QL6PinJ3p64"
+                        />
+                      </div>
+                    </div>
                   </td>
                 </tr>
                 <tr>
