@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 
+import Jumbotron from 'react-bootstrap/Jumbotron'
 import Tabs from 'react-bootstrap/Tabs'
 import Tab from 'react-bootstrap/Tab'
 
@@ -13,11 +14,16 @@ function KulaHome () {
   return (
     <>
       <NavbarComp />
+      <Jumbotron id='kulaj' fluid>
+        <div>
+          <h1 className='jumbotronTitle kula'>Kula</h1>
+          <p className='line'></p>
+        </div>
+      </Jumbotron>
       <Tabs
-        id="controlled-tab-example"
+        id="tabs"
         activeKey={key}
         onSelect={(k) => setKey(k)}
-        className='belowNavbar'
       >
         <Tab eventKey="kulaHome" title="Kula">
           <KulaMain />

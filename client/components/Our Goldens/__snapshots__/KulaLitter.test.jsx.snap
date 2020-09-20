@@ -1,0 +1,215 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`KulasLitter component matches snapshot 1`] = `
+<div>
+  <div
+    class="mainBody"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="row row"
+      >
+        <div
+          class="col"
+        >
+          <h2
+            class="litterTitle"
+          >
+            Kula's Litter 2006
+          </h2>
+        </div>
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
+          <img
+            class="litterMainImage img-fluid"
+            src="images/kl1.jpg"
+          />
+          <p
+            class="litterMainText"
+          >
+            On 21 February 2006, Kula had a litter of 7 beautiful puppies, 5 boys and 2 girls.
+          </p>
+        </div>
+        <div
+          class="col-lg-6"
+        >
+          <img
+            class="litterMainImage img-fluid"
+            src="images/kl2.jpg"
+          />
+          <p
+            class="litterMainText"
+          >
+            The father of these puppies is Jordan 
+            <a
+              href="https://www.mistymoorgoldens.com/"
+            >
+              (NZ CH Santamaria The Patriot)
+            </a>
+          </p>
+        </div>
+      </div>
+      <hr
+        class="sectionSeparator"
+      />
+      <div
+        class="row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/kl3.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            Kula 8 weeks pregnant (like a beached whale!).
+          </p>
+        </div>
+        <div
+          class="col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/kl4.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            Our first ever puppy born!
+          </p>
+        </div>
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/kl5.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            We had a lot of fun with these puppies and of course kept the lovely Shadow.
+          </p>
+        </div>
+        <div
+          class="col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/kl6.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            Kula wonders what is moving under the blanket!
+          </p>
+        </div>
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/kl7.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            Pileup of puppies!
+          </p>
+        </div>
+        <div
+          class="col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/kl8.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            Puppies feeding.
+          </p>
+        </div>
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/kl9.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            Asleep under the barbecue.
+          </p>
+        </div>
+        <div
+          class="col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/kl10.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            All on Jeff!
+          </p>
+        </div>
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/kl11.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            Let's try out the pool.
+          </p>
+        </div>
+        <div
+          class="col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/kl12.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            1st birthday - all except the second female here.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

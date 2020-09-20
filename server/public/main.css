@@ -21,6 +21,7 @@ p {
     padding-top: 85px;
 }
 
+/* PHOENIX SPLIDER CSS */
 #phoenixj {
     background-image: url('images/phoenix1.jpg');
     background-repeat: no-repeat;
@@ -54,17 +55,27 @@ p {
     }
 }
 
-/* @media screen and (max-width: 320px) {
-    #phoenixj {
-        padding: 200px;
-    }
-} */
+
+
+/* KULA SPLIDER CSS */
+#kulaj {
+    background-image: url("images/kula1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 85px;
+    padding: 300px;
+    margin-bottom: 0px;
+}
 
 .jumbotronTitle {
     color: rgb(134, 95, 95);
     margin-left: -10vw;
     font-size: 6rem;
     margin-bottom: 0px;
+}
+
+.jumbotronTitle.kula {
+    margin-left: -4vw;
 }
 
 @media screen and (max-width: 1024px) {
@@ -99,6 +110,26 @@ p {
         visibility: hidden;
     }
 }
+
+/* TABS CSS */
+nav.nav.nav-tabs {
+    font-size: 2rem;
+    background-color: rgb(230, 215, 197);
+    border: none;
+}
+
+.nav-item.nav-link {
+    font-size: 2rem;
+    color: rgb(212, 212, 212);
+    margin: 0px 1.3vw;
+    padding: 1.5vh 20vw;
+    background-color: rgb(78, 78, 78);
+    cursor: pointer;
+}
+
+.nav-item.nav-link.active {
+    background-color: burlywood;
+} 
 
 /* MAIN BODY OF DOGS COMPONENTS */
 .bodyTitle {
@@ -184,4 +215,78 @@ p {
         width: 300px;
         margin-left: 0px;
     }
+}
+
+
+
+/* TABLE AT BUTTON OF DOGS COMPONENTS */
+.tableDiv {
+    /* border: solid 1px yellowgreen; */
+    margin-top: 1vh;
+}
+
+th.tableHead {
+    padding: 1rem;
+    font-size: 2rem;
+    background-color: rgb(226, 226, 226);
+    /* color: white; */
+}
+
+td.subHeading {
+    padding: 1rem;
+    font-size: 1.5rem;
+    background-color: rgb(243, 200, 120);
+}
+
+td.parents {
+    font-size: 1.2rem;
+    vertical-align: middle;
+    background-color: white;
+}
+
+td.grandparents {
+    font-size: 1.2rem;
+    vertical-align: middle;
+    background-color: white;
+}
+
+td.greatGrandparents {
+    background-color: white;
+}
+
+
+/* LITTER CSS */
+.litterTitle {
+    font-size: 2.5rem;
+    text-align: center;
+    padding-bottom: 3vh;
+}
+
+.litterMainText {
+    font-size: 1.5rem;
+}
+
+.litterMainImage {
+    width: 540px;
+    height: 410px;
+}
+
+.sectionSeparator {
+    border: solid rgb(110, 110, 110) 1px;
+    margin-bottom: 10vh;
+    margin-top: 5vh;
+}
+
+.litterImage {
+    /* border: solid 1px greenyellow; */
+    padding-left: 70px;
+    width: 500px;
+    height: 305px;
+    align-content: center;
+    align-items: center;
+}
+
+.litterText {
+    padding-left: 70px;
+    margin-bottom: 5vh;
 }
