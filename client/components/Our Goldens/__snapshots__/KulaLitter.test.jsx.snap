@@ -1,0 +1,112 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`KulasLitter component matches snapshot 1`] = `
+<div>
+  <div>
+    <h2>
+      Kula's Litter 2006
+    </h2>
+  </div>
+  <div>
+    <img
+      class="img-fluid"
+      src="images/kl1.jpg"
+    />
+    <p>
+      On 21 February 2006, Kula (pictured left top) had a litter of 7 beautiful puppies, 5 boys and 2 girls.
+    </p>
+    <img
+      class="img-fluid"
+      src="images/kl2.jpg"
+    />
+    <p>
+      The father of these puppies is Jordan 
+      <a
+        href="https://www.mistymoorgoldens.com/"
+      >
+        (NZ CH Santamaria The Patriot)
+      </a>
+       (pictured left bottom).
+    </p>
+  </div>
+  <hr />
+  <div>
+    <p>
+      Photos:
+    </p>
+    <img
+      class="img-fluid"
+      src="images/kl3.jpg"
+    />
+    <p>
+      Kula 8 weeks pregnant (like a beached whale!).
+    </p>
+    <img
+      class="img-fluid"
+      src="images/kl4.jpg"
+    />
+    <p>
+      Our first ever puppy born!
+    </p>
+    <img
+      class="img-fluid"
+      src="images/kl5.jpg"
+    />
+    <p>
+      We had a lot of fun with these puppies and of course kept the lovely Shadow.
+    </p>
+    <p>
+      The puppies all had wonderful homes to go to and are still currently enjoying their life to the full.
+    </p>
+    <img
+      class="img-fluid"
+      src="images/kl6.jpg"
+    />
+    <p>
+      Kula wonders what is moving under the blanket!
+    </p>
+    <img
+      class="img-fluid"
+      src="images/kl7.jpg"
+    />
+    <p>
+      Pileup of puppies!
+    </p>
+    <img
+      class="img-fluid"
+      src="images/kl8.jpg"
+    />
+    <p>
+      Puppies feeding.
+    </p>
+    <img
+      class="img-fluid"
+      src="images/kl9.jpg"
+    />
+    <p>
+      Asleep under the barbecue.
+    </p>
+    <img
+      class="img-fluid"
+      src="images/kl10.jpg"
+    />
+    <p>
+      All on Jeff!
+    </p>
+    <img
+      class="img-fluid"
+      src="images/kl11.jpg"
+    />
+    <p>
+      Let's try out the pool.
+    </p>
+    <img
+      class="img-fluid"
+      src="images/kl12.jpg"
+    />
+    <p>
+      1st birthday - all except the second female here.
+    </p>
+  </div>
+</div>
+`;

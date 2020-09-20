@@ -57,7 +57,6 @@ function Phoenix () {
             <Col lg={6}>
               <PhoenixSplider />
             </Col>
-            <hr />
           </Row>
         </Container>
       </div>
