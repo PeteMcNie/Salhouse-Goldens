@@ -252,3 +252,40 @@ td.grandparents {
 td.greatGrandparents {
     background-color: white;
 }
+
+
+/* LITTER CSS */
+.litterTitle {
+    font-size: 2.5rem;
+    text-align: center;
+    padding-bottom: 3vh;
+}
+
+.litterMainText {
+    font-size: 1.5rem;
+}
+
+.litterMainImage {
+    width: 540px;
+    height: 410px;
+}
+
+.sectionSeparator {
+    border: solid rgb(110, 110, 110) 1px;
+    margin-bottom: 10vh;
+    margin-top: 5vh;
+}
+
+.litterImage {
+    /* border: solid 1px greenyellow; */
+    padding-left: 70px;
+    width: 500px;
+    height: 305px;
+    align-content: center;
+    align-items: center;
+}
+
+.litterText {
+    padding-left: 70px;
+    margin-bottom: 5vh;
+}
