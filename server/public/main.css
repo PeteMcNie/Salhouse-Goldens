@@ -42,13 +42,13 @@ p {
     }
 }
 
-/* @media screen and (max-width: 425px) {
+@media screen and (max-width: 425px) {
     #phoenixj {
-        padding: 200px;
+        padding: 120px;
     }
 }
 
-@media screen and (max-width: 375px) {
+/* @media screen and (max-width: 375px) {
     #phoenixj {
         padding: 200px;
     }
@@ -73,6 +73,12 @@ p {
     }
 }
 
+@media screen and (max-width: 425px) {
+    .jumbotronTitle {
+        visibility: hidden;
+    }
+}
+
 .line {
     height: 1px;
     border: 1px solid rgb(134, 95, 95);
@@ -83,6 +89,12 @@ p {
 @media screen and (max-width: 768px) {
     .line {
         margin-right: 34vw;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .line {
+        visibility: hidden;
     }
 }
 
@@ -139,5 +151,12 @@ p {
 @media screen and (max-width: 768px) {
     .splideImage {
         margin-left: 100px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .splideImage {
+        width: 360px;
+        margin-left: 0px;
     }
 }
