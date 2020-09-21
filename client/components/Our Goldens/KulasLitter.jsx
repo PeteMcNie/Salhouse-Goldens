@@ -15,17 +15,15 @@ function KulasLitter () {
           </Col>
         </Row>
         <Row>
-          <Col lg={6} className='leftCol'>
+          <Col md={6} className='leftCol'>
             <Image src="images/kl1.jpg" fluid className='litterMainImage'/>
-            <p className='litterMainText'>On 21 February 2006, Kula had a litter of 7 beautiful puppies, 5 boys and 2 girls.</p>
-
+            <p className='litterMainText'>Kula</p>
           </Col>
-          <Col lg={6}>
+          <Col md={6}>
             <Image src="images/kl2.jpg" fluid className='litterMainImage'/>
-            <p className='litterMainText'>The father of these puppies is Jordan <a href='https://www.mistymoorgoldens.com/'>(NZ CH Santamaria The Patriot)</a></p>
+            <p className='litterMainText'>Jordan <a href='https://www.mistymoorgoldens.com/'>(NZ CH Santamaria The Patriot)</a></p>
           </Col>
         </Row>
-        {/* <KulaSplider /> */}
 
         <hr className='sectionSeparator' />
 

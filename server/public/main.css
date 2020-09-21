@@ -326,12 +326,53 @@ td.greatGrandparents {
 }
 
 .litterMainText {
-    font-size: 1.5rem;
+    font-size: 2rem;
+    text-align: center;
 }
 
 .litterMainImage {
     width: 540px;
     height: 410px;
+}
+
+@media screen and (max-width: 1024px) {
+    .litterMainImage {
+        width: 430px;
+        height: 325px;
+    }
+    .litterMainText {
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .litterMainImage {
+        width: 300px;
+        height: 225px;
+    }
+    .litterMainText {
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .litterMainImage {
+        margin-left: 35px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .litterMainImage {
+        margin-left: 12px;
+    }
+}
+
+@media screen and (max-width: 325px) {
+    .litterMainImage {
+        width: 265px;
+        height: 225px;
+        margin-left: 0px;
+    }
 }
 
 .sectionSeparator {
@@ -341,15 +382,63 @@ td.greatGrandparents {
 }
 
 .litterImage {
-    /* border: solid 1px greenyellow; */
     padding-left: 70px;
     width: 500px;
     height: 305px;
-    align-content: center;
-    align-items: center;
 }
 
 .litterText {
     padding-left: 70px;
     margin-bottom: 5vh;
+}
+
+@media screen and (max-width: 1024px) {
+    .litterImage {
+        padding-left: 0px;
+        width: 440px;
+        height: 300px;
+    }
+    .litterText {
+        padding-left: 0px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .litterImage {
+        margin-left: 100px;
+    }
+    .litterText {
+        padding-left: 100px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .litterImage {
+        margin-left: 35px;
+        width: 300px;
+        height: 225px;
+    }
+    .litterText {
+        padding-left: 35px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .litterImage {
+        margin-left: 12px;
+    }
+    .litterText {
+        padding-left: 12px;
+    }
+}
+
+@media screen and (max-width: 325px) {
+    .litterImage {
+        width: 265px;
+        height: 225px;
+        margin-left: 0px;
+    }
+    .litterText {
+        padding-left: 0px;
+    }
 }
