@@ -77,10 +77,6 @@ p {
     }
 }
 
-
-
-
-
 .jumbotronTitle {
     color: rgb(134, 95, 95);
     margin-left: -10vw;
@@ -95,6 +91,9 @@ p {
 @media screen and (max-width: 1024px) {
     .jumbotronTitle {
         font-size: 4rem;
+    }
+    .jumbotronTitle.kula {
+        margin-left: -5vw;
     }
 }
 
@@ -129,21 +128,62 @@ p {
 nav.nav.nav-tabs {
     font-size: 2rem;
     background-color: rgb(230, 215, 197);
-    border: none;
 }
 
 .nav-item.nav-link {
     font-size: 2rem;
+    text-align: center;
     color: rgb(212, 212, 212);
-    margin: 0px 1.3vw;
-    padding: 1.5vh 20vw;
+    width: 650px;
+    margin: 0px 2vw;
     background-color: rgb(78, 78, 78);
     cursor: pointer;
+    border: none;
 }
+
+@media screen and (max-width: 1024px) {
+    .nav-item.nav-link {
+        width: 470px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .nav-item.nav-link {
+        width: 350px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .nav-item.nav-link {
+        font-size: 1.5rem;
+        width: 190px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .nav-item.nav-link {
+        width: 170px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .nav-item.nav-link {
+        font-size: 1.3rem;
+        width: 140px;
+    }
+}
+
 
 .nav-item.nav-link.active {
     background-color: burlywood;
 } 
+
+
+
+
+
+
+
 
 /* MAIN BODY OF DOGS COMPONENTS */
 .bodyTitle {
