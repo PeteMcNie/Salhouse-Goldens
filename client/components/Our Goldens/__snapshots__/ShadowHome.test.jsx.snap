@@ -105,8 +105,23 @@ exports[`Shadown component matches snapshot 1`] = `
       </div>
     </div>
   </nav>
+  <div
+    class="jumbotron jumbotron-fluid"
+    id="shadowj"
+  >
+    <div>
+      <h1
+        class="jumbotronTitle shad"
+      >
+        Shadow
+      </h1>
+      <p
+        class="line shad"
+      />
+    </div>
+  </div>
   <nav
-    class="belowNavbar nav nav-tabs"
+    class="nav nav-tabs"
     role="tablist"
   >
     <a
@@ -176,12 +191,6 @@ exports[`Shadown component matches snapshot 1`] = `
         <p>
           Hips: 11:10  Elbows: B:1a  Eyes: Clear Eye Certificate 9/5/10
         </p>
-        <div>
-          <img
-            class="img-fluid"
-            src="images/shadow1.jpg"
-          />
-        </div>
       </div>
       <div>
         <h4>
