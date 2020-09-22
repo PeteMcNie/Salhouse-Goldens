@@ -15,7 +15,7 @@ function Phoenix () {
       <Jumbotron id='phoenixj' fluid>
         <div>
           <h1 className='jumbotronTitle'>Phoenix</h1>
-          <p className='line'></p>
+          <p className='line phoenix'></p>
         </div>
       </Jumbotron>
       <div className='mainBody'>

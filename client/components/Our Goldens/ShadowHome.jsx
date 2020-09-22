@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 
+import Jumbotron from 'react-bootstrap/Jumbotron'
 import Tabs from 'react-bootstrap/Tabs'
 import Tab from 'react-bootstrap/Tab'
 
@@ -14,11 +15,16 @@ function ShadowHome () {
   return (
     <>
       <NavbarComp />
+      <Jumbotron id='shadowj' fluid>
+        <div>
+          <h1 className='jumbotronTitle shad'>Shadow</h1>
+          <p className='line shad'></p>
+        </div>
+      </Jumbotron>
       <Tabs
         id="controlled-tab-example"
         activeKey={key}
         onSelect={(k) => setKey(k)}
-        className='belowNavbar'
       >
         <Tab eventKey="shadowHome" title="Shadow">
           <ShadowMain />

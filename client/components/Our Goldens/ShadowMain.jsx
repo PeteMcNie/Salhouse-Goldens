@@ -15,9 +15,6 @@ function ShadowMain () {
         <p>Dam: Sanastasia Sth&apos;n Star Chara</p>
         <p>Whelped: 21 February 2006</p>
         <p>Hips: 11:10  Elbows: B:1a  Eyes: Clear Eye Certificate 9/5/10</p>
-        <div>
-          <Image src="images/shadow1.jpg" fluid />
-        </div>
       </div>
       <div>
         <h4>Achievements:</h4>

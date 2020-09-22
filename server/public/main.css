@@ -27,13 +27,23 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 85px;
-    padding: 300px;
+    padding: 350px;
     margin-bottom: 0px;
 }
 
 /* KULA SPLIDER CSS */
 #kulaj {
     background-image: url("images/kula1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 85px;
+    padding: 350px;
+    margin-bottom: 0px;
+}
+
+/* SHADOW SPLIDER CSS */
+#shadowj {
+    background-image: url("images/shadow1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 85px;
@@ -48,6 +58,9 @@ p {
     #kulaj {
         padding: 220px;
     }
+    #shadowj {
+        padding: 220px;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -55,6 +68,9 @@ p {
         padding: 180px;
     }
     #kulaj {
+        padding: 180px;
+    }
+    #shadowj {
         padding: 180px;
     }
 }
@@ -66,6 +82,9 @@ p {
     #kulaj {
         padding: 120px;
     }
+    #shadowj {
+        padding: 120px;
+    }
 }
 
 @media screen and (max-width: 375px) {
@@ -73,6 +92,9 @@ p {
         padding: 100px;
     }
     #kulaj {
+        padding: 100px;
+    }
+    #shadowj {
         padding: 100px;
     }
 }
@@ -85,6 +107,10 @@ p {
 }
 
 .jumbotronTitle.kula {
+    margin-left: -9vw;
+}
+
+.jumbotronTitle.shad {
     margin-left: -9vw;
 }
 
@@ -103,7 +129,7 @@ p {
     }
 }
 
-@media screen and (max-width: 1440px) {
+/* @media screen and (max-width: 1440px) {
     .line {
         height: 1px;
         border: 1px solid rgb(134, 95, 95);
@@ -122,7 +148,7 @@ p {
     .line {
         visibility: hidden;
     }
-}
+} */
 
 /* TABS CSS */
 nav.nav.nav-tabs {
@@ -141,15 +167,54 @@ nav.nav.nav-tabs {
     border: none;
 }
 
+#controlled-tab-example-tab-shadowHome {
+    width: 420px;
+}
+
+#controlled-tab-example-tab-shadowLitter {
+    width: 420px;
+}
+
+#controlled-tab-example-tab-breedShowAchievements {
+    width: 420px;
+}
+
 @media screen and (max-width: 1024px) {
     .nav-item.nav-link {
         width: 470px;
+    }
+    #controlled-tab-example-tab-shadowHome {
+        width: 300px;
+    }
+    
+    #controlled-tab-example-tab-shadowLitter {
+        width: 300px;
+    }
+    
+    #controlled-tab-example-tab-breedShowAchievements {
+        width: 300px;
+        font-size: 1.5rem;
+        padding-top: 1.5vh;
     }
 }
 
 @media screen and (max-width: 768px) {
     .nav-item.nav-link {
         width: 350px;
+    }
+    #controlled-tab-example-tab-shadowHome {
+        width: 230px;
+    }   
+    #controlled-tab-example-tab-shadowLitter {
+        width: 230px;
+    }  
+    #controlled-tab-example-tab-breedShowAchievements {
+        width: 230px;
+        font-size: 1.5rem;
+        padding: 0vh 0vw;
+    }
+    .nav-item.nav-link {
+        margin: 0px 1.5vw;
     }
 }
 
@@ -158,11 +223,43 @@ nav.nav.nav-tabs {
         font-size: 1.5rem;
         width: 190px;
     }
+    #controlled-tab-example-tab-shadowHome {
+        width: 122px;
+        padding-top: 1.8vh
+    }
+    
+    #controlled-tab-example-tab-shadowLitter.nav-item.nav-link {
+        width: 122px;
+        font-size: 1.2rem;
+    }
+    
+    #controlled-tab-example-tab-breedShowAchievements {
+        width: 122px;
+        font-size: 1.1rem;
+        padding-top: 1.5vh
+    }
+    .nav-item.nav-link {
+        margin: 0px 2vw;
+    }
 }
 
 @media screen and (max-width: 375px) {
     .nav-item.nav-link {
         width: 170px;
+    }
+    #controlled-tab-example-tab-shadowHome {
+        width: 115px;
+    }
+    
+    #controlled-tab-example-tab-shadowLitter.nav-item.nav-link {
+        width: 115px;
+    }
+    
+    #controlled-tab-example-tab-breedShowAchievements {
+        width: 115px;
+    }
+    .nav-item.nav-link {
+        margin: 0px 1.3vw;
     }
 }
 
@@ -170,6 +267,27 @@ nav.nav.nav-tabs {
     .nav-item.nav-link {
         font-size: 1.3rem;
         width: 140px;
+    }
+    #controlled-tab-example-tab-shadowHome {
+        width: 310px;
+        font-size: 1.3rem;
+        padding-top: 1vh;
+    }
+    
+    #controlled-tab-example-tab-shadowLitter.nav-item.nav-link {
+        width: 310px;
+        font-size: 1.3rem;
+        padding-top: 1vh;
+    }
+    
+    #controlled-tab-example-tab-breedShowAchievements {
+        width: 310px;
+        font-size: 1.3rem;
+        padding-top: 1vh;
+        padding-bottom: 1vh;
+    }
+    .nav-item.nav-link {
+        margin: 0px 1vw;
     }
 }
 
