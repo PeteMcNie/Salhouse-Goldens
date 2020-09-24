@@ -81,7 +81,7 @@ function ShadowMain () {
               <Table bordered responsive="sm">
                 <thead>
                   <tr>
-                    <th colSpan='3' className='tableHead'>Pedigree of CH Salhouse Sunchaser</th>
+                    <th colSpan='3' className='tableHead'>Pedigree of CH Salhouse Sunchaser (Shadow)</th>
                   </tr>
                 </thead>
                 <tbody>

@@ -52,6 +52,14 @@ p {
 }
 
 /* ADD SHERRY JUMBOTRON CSS */
+#sherryj {
+    background-image: url("images/sherry1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 85px;
+    padding: 350px;
+    margin-bottom: 0px;
+}
 
 @media screen and (max-width: 1024px) {
     #phoenixj {

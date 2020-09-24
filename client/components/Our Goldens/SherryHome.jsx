@@ -18,7 +18,7 @@ function SherryHome () {
       <NavbarComp />
       <Jumbotron id='sherryj' fluid>
         <div>
-          <h1 className='jumbotronTitle sherry'>Kula</h1>
+          <h1 className='jumbotronTitle sherry'>Sherry</h1>
           <p className='line'></p>
         </div>
       </Jumbotron>
@@ -26,7 +26,6 @@ function SherryHome () {
         id="controlled-tab-example"
         activeKey={key}
         onSelect={(k) => setKey(k)}
-        className='belowNavbar'
       >
         <Tab eventKey="shadowHome" title="Sherry">
           <SherryMain />
