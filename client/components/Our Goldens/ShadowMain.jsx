@@ -5,6 +5,8 @@ import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import Table from 'react-bootstrap/Table'
 
+import ShadowSplider from './ShadowSplider'
+
 function ShadowMain () {
   return (
     <><div className='mainBody'>
@@ -70,7 +72,7 @@ function ShadowMain () {
             </p>
           </Col>
           <Col lg={6}>
-            {/* <ShadowSplider /> */}
+            <ShadowSplider />
           </Col>
         </Row>
         <Row>
@@ -125,40 +127,6 @@ function ShadowMain () {
         </Row>
       </Container>
     </div>
-
-    {/* <div>
-      <p>Photos:</p>
-      <Image src="images/shadow2.jpg" fluid />
-      <p>Shadow with her champion certificate, March 2014</p>
-      <Image src="images/shadow3.jpg" fluid />
-      <p>Shadow with her first CC - Hastings, 11 Dec 2010</p>
-      <Image src="images/shadow4.jpg" fluid />
-      <Image src="images/shadow5.jpg" fluid />
-      <Image src="images/shadow6.jpg" fluid />
-      <p>Shadow the tree climber!</p>
-      <Image src="images/shadow7.jpg" fluid />
-      <p>Baby Shadow and &ldquo;friend&ldquo;.</p>
-      <Image src="images/shadow8.jpg" fluid />
-      <p>Early puppy photo of Shadow.</p>
-      <Image src="images/shadow9.jpg" fluid />
-      <p>Puppy Shadow with a chewy (or is it a cigar?)!</p>
-      <Image src="images/shadow10.jpg" fluid />
-      <p>Surprised Shadow!</p>
-      <Image src="images/shadow11.jpg" fluid />
-      <p>Keep splashing Shadow, you won&apos;t drown! Shadow absolutely loves swimming.</p>
-      <Image src="images/shadow12.jpg" fluid />
-      <p>Shadow on guard!</p>
-      <Image src="images/shadow13.jpg" fluid />
-      <p>Shadow at her first ever show.</p>
-      <Image src="images/shadow14.jpg" fluid />
-      <p>Shadow wins the prettiest dog in show.</p>
-      <Image src="images/shadow15.jpg" fluid />
-      <p>Shadow sneaking off with her Christmas pressie.</p>
-      <Image src="images/shadow16.jpg" fluid />
-      <p>Shadow with her favourite cuddly toy.</p>
-      <Image src="images/shadow17.jpg" fluid />
-      <p>Shadow with Sherry at 13 weeks of age.</p>
-    </div> */}
     </>
   )
 }
