@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 
+import Jumbotron from 'react-bootstrap/Jumbotron'
 import Tabs from 'react-bootstrap/Tabs'
 import Tab from 'react-bootstrap/Tab'
 
@@ -15,6 +16,12 @@ function SherryHome () {
   return (
     <>
       <NavbarComp />
+      <Jumbotron id='sherryj' fluid>
+        <div>
+          <h1 className='jumbotronTitle sherry'>Kula</h1>
+          <p className='line'></p>
+        </div>
+      </Jumbotron>
       <Tabs
         id="controlled-tab-example"
         activeKey={key}

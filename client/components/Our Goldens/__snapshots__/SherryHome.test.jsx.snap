@@ -105,6 +105,21 @@ exports[`Sherry component matches snapshot 1`] = `
       </div>
     </div>
   </nav>
+  <div
+    class="jumbotron jumbotron-fluid"
+    id="sherryj"
+  >
+    <div>
+      <h1
+        class="jumbotronTitle sherry"
+      >
+        Kula
+      </h1>
+      <p
+        class="line"
+      />
+    </div>
+  </div>
   <nav
     class="belowNavbar nav nav-tabs"
     role="tablist"

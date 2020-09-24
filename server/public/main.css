@@ -21,7 +21,7 @@ p {
     padding-top: 85px;
 }
 
-/* PHOENIX SPLIDER CSS */
+/* PHOENIX JUMBOTRON CSS */
 #phoenixj {
     background-image: url('images/phoenix1.jpg');
     background-repeat: no-repeat;
@@ -31,7 +31,7 @@ p {
     margin-bottom: 0px;
 }
 
-/* KULA SPLIDER CSS */
+/* KULA JUMBOTRON CSS */
 #kulaj {
     background-image: url("images/kula1.jpg");
     background-repeat: no-repeat;
@@ -41,7 +41,7 @@ p {
     margin-bottom: 0px;
 }
 
-/* SHADOW SPLIDER CSS */
+/* SHADOW JUMBOTRON CSS */
 #shadowj {
     background-image: url("images/shadow1.jpg");
     background-repeat: no-repeat;
@@ -50,6 +50,8 @@ p {
     padding: 350px;
     margin-bottom: 0px;
 }
+
+/* ADD SHERRY JUMBOTRON CSS */
 
 @media screen and (max-width: 1024px) {
     #phoenixj {
