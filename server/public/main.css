@@ -71,6 +71,9 @@ p {
     #shadowj {
         padding: 220px;
     }
+    #sherryj {
+        padding: 220px;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -81,6 +84,9 @@ p {
         padding: 180px;
     }
     #shadowj {
+        padding: 180px;
+    }
+    #sherryj {
         padding: 180px;
     }
 }
@@ -105,6 +111,9 @@ p {
         padding: 100px;
     }
     #shadowj {
+        padding: 100px;
+    }
+    #sherryj {
         padding: 100px;
     }
 }

@@ -5,6 +5,8 @@ import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import Table from 'react-bootstrap/Table'
 
+import SherrySplider from './SherrySplider'
+
 function SherryMain () {
   return (
     <>
@@ -81,7 +83,7 @@ function SherryMain () {
               </p>
             </Col>
             <Col lg={6}>
-              {/* <SherrySplider /> */}
+              <SherrySplider />
             </Col>
           </Row>
           <Row>
@@ -136,50 +138,6 @@ function SherryMain () {
           </Row>
         </Container>
       </div>
-
-        {/* <div>
-          <p>Photos:</p>
-          <Image src="images/sherry2.jpg" fluid />
-          <p>Sherry winning her second Novice test at Kapiti March 2015</p>
-          <Image src="images/sherry3.jpg" fluid />
-          <p>Sherry winning her first Novice test at Levin Feb 2015</p>
-          <Image src="images/sherry4.jpg" fluid />
-          <Image src="images/sherry5.jpg" fluid />
-          <p>Cool dude Sherry (left). Put him down Sherry (right).</p>
-          <Image src="images/sherry6.jpg" fluid />
-          <Image src="images/sherry7.jpg" fluid />
-          <p>I didn&apos;t put my nose in the paint pot (left) or dig in the garden (right), honest!</p>
-          <Image src="images/sherry8.jpg" fluid />
-          <Image src="images/sherry9.jpg" fluid />
-          <Image src="images/sherry10.jpg" fluid />
-          <p>Sherry with various items in her mouth - apple (left); slipper (centre); toy (right).</p>
-          <Image src="images/sherry11.jpg" fluid />
-          <p>Sherry at 10 months</p>
-          <Image src="images/sherry12.jpg" fluid />
-          <p>Sherry at 8 months</p>
-          <Image src="images/sherry13.jpg" fluid />
-          <p>Sherry at 6 months</p>
-          <Image src="images/sherry14.jpg" fluid />
-          <p>Sherry with her winnings from the Golden Retriever Club Show held in Auckland in August 2010.</p>
-          <Image src="images/sherry15.jpg" fluid />
-          <p>Sherry sharing her mum&apos;s bed!</p>
-          <Image src="images/sherry16.jpg" fluid />
-          <p>Sherry enjoys chasing Kula at the beach (15 weeks).</p>
-          <Image src="images/sherry17.jpg" fluid />
-          <p>Jeff and Sherry at the top of Sugarloaf Rock (14 weeks)!</p>
-          <Image src="images/sherry18.jpg" fluid />
-          <p>Sherry at the beach at 12 weeks.</p>
-          <Image src="images/sherry19.jpg" fluid />
-          <p>Sherry with a toy at 9 weeks old.</p>
-          <Image src="images/sherry20.jpg" fluid />
-          <p>Sherry and Shadow cuddle up.</p>
-          <Image src="images/sherry21.jpg" fluid />
-          <p>Sherry enjoys a kip in the sun.</p>
-          <Image src="images/sherry22.jpg" fluid />
-          <p>Sherry at 12 days old, playing with a ball already!</p>
-          <Image src="images/sherry23.jpg" fluid />
-          <p>Sherry at 1 day old</p>
-        </div> */}
     </>
   )
 }
