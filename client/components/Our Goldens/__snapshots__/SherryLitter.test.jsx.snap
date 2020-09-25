@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sherry component matches snapshot 1`] = `
+<div>
+  <div>
+    <h2>
+      Sherry's Litter 2006
+    </h2>
+    <h1>
+      Copy Template from Kula'sLitter
+    </h1>
+  </div>
+</div>
+`;

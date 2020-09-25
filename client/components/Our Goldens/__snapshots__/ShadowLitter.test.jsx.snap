@@ -1,0 +1,251 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shadown component matches snapshot 1`] = `
+<div>
+  <div
+    class="mainBody"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="row row"
+      >
+        <div
+          class="col"
+        >
+          <h2
+            class="litterTitle"
+          >
+            Shadow's litter 2010
+          </h2>
+        </div>
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="leftCol col-md-6"
+        >
+          <img
+            class="litterMainImage img-fluid"
+            src="images/sl1.jpg"
+          />
+          <p
+            class="litterMainText"
+          >
+            Shadow
+          </p>
+        </div>
+        <div
+          class="col-md-6"
+        >
+          <img
+            class="litterMainImage img-fluid"
+            src="images/sl2.jpg"
+          />
+          <p
+            class="litterMainText"
+          >
+            Gambler
+            <a
+              href="https://www.mistymoorgoldens.com/"
+            >
+              (NZ CH Santamaria The Patriot)
+            </a>
+          </p>
+        </div>
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="col"
+        >
+          <p>
+            My thanks go to Gaye who kindly allowed me to use the lovely Gambler as sire for this litter and also to Sandy for her invaluable help with the whelping of the litter.
+          </p>
+          <p>
+            On 6 and 7 April 2010 Shadow had a litter of 7 beautiful puppies, 4 males and 3 females. She also had another female but unfortunately that was stillborn.
+          </p>
+        </div>
+      </div>
+      <hr
+        class="sectionSeparator"
+      />
+      <div
+        class="row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/sl3.jpg"
+          />
+          <p
+            class="litterText"
+          />
+        </div>
+        <div
+          class="col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/sl4.jpg"
+          />
+          <p
+            class="litterText"
+          />
+        </div>
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/sl5.jpg"
+          />
+          <p
+            class="litterText"
+          />
+        </div>
+        <div
+          class="col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/sl6.jpg"
+          />
+          <p
+            class="litterText"
+          />
+        </div>
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/sl7.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            1 Male - tip of tail - temporary name, Xerxes; final name Lachie
+          </p>
+        </div>
+        <div
+          class="col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/sl8.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            2 Male - base of tail - temporary name, Spartacus; final name, Murphy
+          </p>
+        </div>
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/sl9.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            3 Female - neck - temporary name, Trinity; final name, Kylo
+          </p>
+        </div>
+        <div
+          class="col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/sl10.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            4 Male - middle of back - temporary name, Thumper; final name, Marco
+          </p>
+        </div>
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/sl11.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            5 Female - base of tail - temporary name, Flotsam; final name, Sherry
+          </p>
+        </div>
+        <div
+          class="col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/sl12.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            6 Male - neck - temporary name, Maximus; final name, Max
+          </p>
+        </div>
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/sl13.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            7 Female - tip of tail - temporary name, Tiny; final name, Amber
+          </p>
+        </div>
+        <div
+          class="col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/sl14.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            Sleeping puppies nearly 3 weeks old.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
