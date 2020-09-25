@@ -11,7 +11,7 @@ import SherryBreedShow from './SherryBreedShow'
 import SherryObedience from './SherryObedience'
 
 function SherryHome () {
-  const [key, setKey] = useState('shadowHome')
+  const [key, setKey] = useState('sherryHome')
 
   return (
     <>
@@ -27,16 +27,16 @@ function SherryHome () {
         activeKey={key}
         onSelect={(k) => setKey(k)}
       >
-        <Tab eventKey="shadowHome" title="Sherry">
+        <Tab eventKey="sherryHome" title="Sherry">
           <SherryMain />
         </Tab>
-        <Tab eventKey="ShadowLitter" title="Sherry's Litter" disabled>
+        <Tab eventKey="sherryLitter" title="Sherry's Litter" disabled>
           <SherryLitter />
         </Tab>
-        <Tab eventKey="breedShowAchievements" title="Breed Show Achievements">
+        <Tab eventKey="sherryBreedShowAchievements" title="Breed Show Achievements">
           <SherryBreedShow />
         </Tab>
-        <Tab eventKey="obedienceShowAchievements" title="Obedience Show Achievements">
+        <Tab eventKey="sherryObedienceShowAchievements" title="Obedience Show Achievements">
           <SherryObedience />
         </Tab>
       </Tabs>

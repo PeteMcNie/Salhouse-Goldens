@@ -186,6 +186,8 @@ nav.nav.nav-tabs {
     border: none;
 }
 
+
+/* CSS FOR SHADOW NAVBAR */
 #controlled-tab-example-tab-shadowHome {
     width: 420px;
 }
@@ -197,6 +199,25 @@ nav.nav.nav-tabs {
 #controlled-tab-example-tab-breedShowAchievements {
     width: 420px;
 }
+
+/* CSS FOR SHERRY NAVBAR */
+#controlled-tab-example-tab-sherryHome {
+    width: 280px;
+}
+
+#controlled-tab-example-tab-sherryLitter {
+    width: 280px;
+}
+
+#controlled-tab-example-tab-sherryBreedShowAchievements {
+    width: 280px;
+}
+
+#controlled-tab-example-tab-sherryObedienceShowAchievements {
+    width: 280px;
+}
+
+
 
 @media screen and (max-width: 1024px) {
     .nav-item.nav-link {
@@ -215,6 +236,26 @@ nav.nav.nav-tabs {
         font-size: 1.5rem;
         padding-top: 1.5vh;
     }
+    #controlled-tab-example-tab-sherryHome {
+        width: 210px;
+    }
+    
+    #controlled-tab-example-tab-sherryLitter {
+        width: 210px;
+        font-size: 1.9rem;
+    }
+    
+    #controlled-tab-example-tab-sherryBreedShowAchievements {
+        width: 210px;
+        font-size: 1.5rem;
+        padding: 0vh 0vw;
+    }
+    
+    #controlled-tab-example-tab-sherryObedienceShowAchievements {
+        width: 210px;
+        font-size: 1.5rem;
+        padding: 0vh 0vw;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -232,6 +273,23 @@ nav.nav.nav-tabs {
         font-size: 1.5rem;
         padding: 0vh 0vw;
     }
+
+    #controlled-tab-example-tab-sherryHome {
+        width: 165px;
+    }
+    #controlled-tab-example-tab-sherryLitter {
+        width: 165px;
+        font-size: 1.9rem;
+    }
+    #controlled-tab-example-tab-sherryBreedShowAchievements {
+        width: 165px;
+        font-size: 1.5rem;
+    }
+    #controlled-tab-example-tab-sherryObedienceShowAchievements {
+        width: 165px;
+        font-size: 1.4rem;
+    }
+
     .nav-item.nav-link {
         margin: 0px 1.5vw;
     }
@@ -242,21 +300,39 @@ nav.nav.nav-tabs {
         font-size: 1.5rem;
         width: 190px;
     }
+
     #controlled-tab-example-tab-shadowHome {
         width: 122px;
         padding-top: 1.8vh
-    }
-    
+    } 
     #controlled-tab-example-tab-shadowLitter.nav-item.nav-link {
         width: 122px;
         font-size: 1.2rem;
     }
-    
     #controlled-tab-example-tab-breedShowAchievements {
         width: 122px;
         font-size: 1.1rem;
         padding-top: 1.5vh
     }
+
+    #controlled-tab-example-tab-sherryHome {
+        width: 425px;
+    }
+    #controlled-tab-example-tab-sherryLitter {
+        width: 425px;
+        font-size: 1.5rem;
+    }
+    #controlled-tab-example-tab-sherryBreedShowAchievements {
+        width: 425px;
+        font-size: 1.5rem;
+        padding: 8px 16px;
+    }
+    #controlled-tab-example-tab-sherryObedienceShowAchievements {
+        width: 425px;
+        font-size: 1.5rem;
+        padding: 8px 16px;
+    }
+
     .nav-item.nav-link {
         margin: 0px 2vw;
     }
