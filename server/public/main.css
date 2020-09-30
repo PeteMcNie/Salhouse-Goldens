@@ -71,6 +71,16 @@ p {
     margin-bottom: 0px;
 }
 
+/* ADD TUPPENCE JUMBOTRON CSS */
+#tuppencej {
+    background-image: url("images/tuppence1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 85px;
+    padding: 350px;
+    margin-bottom: 0px;
+}
+
 @media screen and (max-width: 1024px) {
     #phoenixj {
         padding: 220px;
