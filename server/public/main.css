@@ -21,6 +21,16 @@ p {
     padding-top: 85px;
 }
 
+/* OUR GOLDENS JUMBTRON CSS */
+#ourGoldensj {
+    background-image: url('images/3dogs.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 85px;
+    padding: 350px;
+    margin-bottom: 0px;
+}
+
 /* PHOENIX JUMBOTRON CSS */
 #phoenixj {
     background-image: url('images/phoenix1.jpg');
