@@ -16,7 +16,7 @@ function AutumnHome () {
       <NavbarComp />
       <Jumbotron id='autumnj' fluid>
         <div>
-          <h1 className='jumbotronTitle autumn'>Kula</h1>
+          <h1 className='jumbotronTitle autumn'>Autumn</h1>
           <p className='line'></p>
         </div>
       </Jumbotron>

@@ -61,6 +61,16 @@ p {
     margin-bottom: 0px;
 }
 
+/* ADD AUTUMN JUMBOTRON CSS */
+#autumnj {
+    background-image: url("images/autumn1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 85px;
+    padding: 350px;
+    margin-bottom: 0px;
+}
+
 @media screen and (max-width: 1024px) {
     #phoenixj {
         padding: 220px;
@@ -72,6 +82,9 @@ p {
         padding: 220px;
     }
     #sherryj {
+        padding: 220px;
+    }
+    #autumnj {
         padding: 220px;
     }
 }
@@ -89,6 +102,9 @@ p {
     #sherryj {
         padding: 180px;
     }
+    #autumnj {
+        padding: 180px;
+    }
 }
 
 @media screen and (max-width: 425px) {
@@ -99,6 +115,12 @@ p {
         padding: 120px;
     }
     #shadowj {
+        padding: 120px;
+    }
+    #sherryj {
+        padding: 120px;
+    }
+    #autumnj {
         padding: 120px;
     }
 }
@@ -114,6 +136,9 @@ p {
         padding: 100px;
     }
     #sherryj {
+        padding: 100px;
+    }
+    #autumnj {
         padding: 100px;
     }
 }
