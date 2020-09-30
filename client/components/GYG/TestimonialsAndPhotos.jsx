@@ -7,19 +7,18 @@ import Col from 'react-bootstrap/Col'
 
 function TestimonialsAndPhotos () {
   return (
-    <> 
+    <>
       <div className='mainBody'>
         <Container>
           <Row className='row'>
             <Col className='leftCol'>
               <h2 className='bodyTitle' >Testimonials and Photos</h2>
-{/* SPLIDER OF GROOMED DOG IMAGES HERE???? */}
+              {/* SPLIDER OF GROOMED DOG IMAGES HERE???? */}
             </Col>
           </Row>
           <hr className='sectionSeparator' id='t&p'/>
         </Container>
-    </div>
-
+      </div>
 
       <div>
         <h3 className='belowNavbar'></h3>
