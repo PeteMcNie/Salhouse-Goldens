@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1601425451135" clover="3.2.0">
+  <project timestamp="1601425451135" name="All files">
+    <metrics statements="102" coveredstatements="50" conditionals="3" coveredconditionals="3" methods="72" coveredmethods="39" elements="177" coveredelements="92" complexity="0" loc="102" ncloc="102" packages="10" files="54" classes="54"/>
+    <package name="components">
+      <metrics statements="12" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="2"/>
+      <file name="App.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/App.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+      </file>
+      <file name="NavbarComp.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/NavbarComp.jsx">
+        <metrics statements="10" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="1"/>
+        <line num="6" count="14" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="14" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="22" count="14" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="31" count="14" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.About Us">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="AboutUs.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/About Us/AboutUs.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="AboutUsBody.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/About Us/AboutUsBody.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+      <file name="AboutUsImages.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/About Us/AboutUsImages.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Contact">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Contact.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Contact/Contact.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+      <file name="ContactBody.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Contact/ContactBody.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.GYG">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="BasicGroomingTips.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/GYG/BasicGroomingTips.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="GYG.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/GYG/GYG.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="GYGStart.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/GYG/GYGStart.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="GroomingService.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/GYG/GroomingService.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="TestimonialsAndPhotos.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/GYG/TestimonialsAndPhotos.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Home">
+      <metrics statements="8" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="4"/>
+      <file name="Carousel.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Home/Carousel.jsx">
+        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+      </file>
+      <file name="Home.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Home/Home.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+      </file>
+      <file name="HomeBody.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Home/HomeBody.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="4" type="stmt"/>
+      </file>
+      <file name="HomeFooter.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Home/HomeFooter.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Links">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Links.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Links/Links.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+      <file name="LinksBody.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Links/LinksBody.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.MLWA">
+      <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="11"/>
+      <file name="BMP.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/MLWA/BMP.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="FirstGoldenRetriever.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/MLWA/FirstGoldenRetriever.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="HorseGreyhounds.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/MLWA/HorseGreyhounds.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="Kula.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/MLWA/Kula.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="Lassie.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/MLWA/Lassie.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="MrSlattery.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/MLWA/MrSlattery.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="MunchMo.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/MLWA/MunchMo.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="MyLifeWithAnimals.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/MLWA/MyLifeWithAnimals.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+      <file name="StartingText.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/MLWA/StartingText.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="Thanks.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/MLWA/Thanks.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="WorstNightmare.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/MLWA/WorstNightmare.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Our Goldens">
+      <metrics statements="55" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="35" coveredmethods="9"/>
+      <file name="AutumnHome.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/AutumnHome.jsx">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+      </file>
+      <file name="AutumnLitter.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/AutumnLitter.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="AutumnMain.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/AutumnMain.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+      <file name="KulaHome.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/KulaHome.jsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+      </file>
+      <file name="KulaMain.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/KulaMain.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="KulaSplider.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/KulaSplider.jsx">
+        <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+      </file>
+      <file name="KulasLitter.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/KulasLitter.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="OurGoldens.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/OurGoldens.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="Phoenix.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/Phoenix.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="12" count="0" type="stmt"/>
+      </file>
+      <file name="PhoenixSplider.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/PhoenixSplider.jsx">
+        <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+      </file>
+      <file name="ShadowBreedShow.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/ShadowBreedShow.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+      <file name="ShadowHome.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/ShadowHome.jsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+      </file>
+      <file name="ShadowLitter.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/ShadowLitter.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="ShadowMain.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/ShadowMain.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="ShadowSplider.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/ShadowSplider.jsx">
+        <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+      </file>
+      <file name="SherryBreedShow.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/SherryBreedShow.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="7" count="0" type="stmt"/>
+      </file>
+      <file name="SherryHome.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/SherryHome.jsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+      </file>
+      <file name="SherryLitter.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/SherryLitter.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="SherryMain.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/SherryMain.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="SherryObedience.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/SherryObedience.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+      <file name="SherrySplider.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/SherrySplider.jsx">
+        <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+      </file>
+      <file name="Siren.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/Siren.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="Tuppence.jsx" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/components/Our Goldens/Tuppence.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="reducers">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/reducers/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="testing">
+      <metrics statements="3" coveredstatements="3" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="utils.js" path="/Users/petemcnie/Code/personalcode/reactProjects/salhouse-goldens/client/testing/utils.js">
+        <metrics statements="3" coveredstatements="3" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
