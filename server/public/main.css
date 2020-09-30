@@ -102,6 +102,9 @@ p {
 }
 
 @media screen and (max-width: 1024px) {
+    #ourGoldensj {
+        padding: 220px;
+    }
     #phoenixj {
         padding: 220px;
     }
@@ -126,6 +129,9 @@ p {
 }
 
 @media screen and (max-width: 768px) {
+    #ourGoldensj {
+        padding: 180px;
+    }
     #phoenixj {
         padding: 180px;
     }
@@ -150,6 +156,9 @@ p {
 }
 
 @media screen and (max-width: 425px) {
+    #ourGoldensj {
+        padding: 120px;
+    }
     #phoenixj {
         padding: 120px;
     }
@@ -174,6 +183,9 @@ p {
 }
 
 @media screen and (max-width: 375px) {
+    #ourGoldensj {
+        padding: 100px;
+    }
     #phoenixj {
         padding: 100px;
     }

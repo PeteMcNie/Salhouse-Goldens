@@ -52,6 +52,7 @@ function OurGoldens () {
             </Col>
             <Col lg={6}>
               <Image src="images/christmasTwoSittingOneLaying.jpg" fluid className='litterImage' />
+              <p className='litterText'></p>
             </Col>
           </Row>
           <Row>

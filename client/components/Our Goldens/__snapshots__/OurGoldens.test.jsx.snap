@@ -106,103 +106,154 @@ exports[`OurGoldens component to match snapshot 1`] = `
     </div>
   </nav>
   <div
-    class="belowNavbar"
+    class="jumbotron jumbotron-fluid"
+    id="ourGoldensj"
   >
-    <h2>
-      Our Goldens
-    </h2>
+    <div>
+      <h1
+        class="jumbotronTitle oourgoldens"
+      >
+        Our Goldens
+      </h1>
+      <p
+        class="line"
+      />
+    </div>
   </div>
-  <div>
-    <p>
-      We have the privilege to have owned seven beautiful golden retrievers - 
-      <a
-        href="/phoenix"
+  <div
+    class="mainBody"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="row row"
       >
-        Phoenix
-      </a>
-       (RIP),
-      <a
-        href="/kula"
-      >
-         Kula
-      </a>
-       (RIP), 
-      <a
-        href="/shadow"
-      >
-        Shadow
-      </a>
-      , 
-      <a
-        href="/sherry"
-      >
-        Sherry
-      </a>
-      , 
-      <a
-        href="/autumn"
-      >
-        Autumn
-      </a>
-      ,
-      <a
-        href="/tuppence"
-      >
-         Tuppence
-      </a>
-       and 
-      <a
-        href="/siren"
-      >
-        Siren
-      </a>
-      . They are our life and totally part of our family. I have competed in breed showing, obedience and agility, but am not overly driven to succeed in the ring and just do those things in order to have a bit more fun with my dogs.
-    </p>
-    <p>
-      Each of our dogs has its own page with lots of photos, so do visit their pages to get a little insight into their personalities.
-    </p>
-    <hr />
-    <p>
-      Below are a few photos of the girls together and with relatives:
-    </p>
-    <div>
-      <img
-        class="img-fluid"
-        src="images/rob3.jpg"
+        <div
+          class="leftCol col-lg-6"
+        >
+          <h2
+            class="bodyTitle"
+          >
+            Our Goldens
+          </h2>
+          <p>
+            We have the privilege to have owned seven beautiful golden retrievers - 
+            <a
+              href="/phoenix"
+            >
+              Phoenix
+            </a>
+             (RIP),
+            <a
+              href="/kula"
+            >
+               Kula
+            </a>
+             (RIP), 
+            <a
+              href="/shadow"
+            >
+              Shadow
+            </a>
+            , 
+            <a
+              href="/sherry"
+            >
+              Sherry
+            </a>
+            , 
+            <a
+              href="/autumn"
+            >
+              Autumn
+            </a>
+            ,
+            <a
+              href="/tuppence"
+            >
+               Tuppence
+            </a>
+             and 
+            <a
+              href="/siren"
+            >
+              Siren
+            </a>
+            . They are our life and totally part of our family. I have competed in breed showing, obedience and agility, but am not overly driven to succeed in the ring and just do those things in order to have a bit more fun with my dogs.
+          </p>
+          <p>
+            Each of our dogs has its own page with lots of photos, so do visit their pages to get a little insight into their personalities.
+          </p>
+        </div>
+        <div
+          class="col-lg-6"
+        >
+          <div>
+            <img
+              class="litterImage img-fluid"
+              src="images/rob3.jpg"
+            />
+          </div>
+        </div>
+      </div>
+      <hr
+        class="sectionSeparator"
       />
-      <img
-        class="img-fluid"
-        src="images/3dogs.jpg"
-      />
-      <p>
-        Enjoying the bush!
-      </p>
-    </div>
-    <div>
-      <img
-        class="img-fluid"
-        src="images/christmasSitting.jpg"
-      />
-      <img
-        class="img-fluid"
-        src="images/christmasTwoSittingOneLaying.jpg"
-      />
-      <p>
-        Christmas dogs!
-      </p>
-    </div>
-    <div>
-      <img
-        class="img-fluid"
-        src="images/wolfpack.jpg"
-      />
-      <img
-        class="img-fluid"
-        src="images/fishTank.jpg"
-      />
-      <p>
-        Fun with relatives.
-      </p>
+      <div
+        class="row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/christmasSitting.jpg"
+          />
+          <p
+            class="litterText"
+          >
+            Christmas dogs!
+          </p>
+        </div>
+        <div
+          class="col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/christmasTwoSittingOneLaying.jpg"
+          />
+          <p
+            class="litterText"
+          />
+        </div>
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/wolfpack.jpg"
+          />
+          <p
+            class="litterText"
+          />
+        </div>
+        <div
+          class="col-lg-6"
+        >
+          <img
+            class="litterImage img-fluid"
+            src="images/fishTank.jpg"
+          />
+          <p
+            class="litterText"
+          />
+        </div>
+      </div>
     </div>
   </div>
 </div>
