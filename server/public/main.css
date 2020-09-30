@@ -21,6 +21,10 @@ p {
     padding-top: 85px;
 }
 
+img.bottom {
+    margin-bottom: 2vh;
+}
+
 /* OUR GOLDENS JUMBTRON CSS */
 #ourGoldensj {
     background-image: url('images/3dogs.jpg');
