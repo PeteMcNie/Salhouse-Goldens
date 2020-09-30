@@ -1,6 +1,10 @@
 import React from 'react'
 
+import Jumbotron from 'react-bootstrap/Jumbotron'
 import Image from 'react-bootstrap/Image'
+import Container from 'react-bootstrap/Container'
+import Row from 'react-bootstrap/Row'
+import Col from 'react-bootstrap/Col'
 
 import NavbarComp from '../NavbarComp'
 
@@ -8,41 +12,60 @@ function OurGoldens () {
   return (
     <>
       <NavbarComp />
-      <div className='belowNavbar'>
-        <h2>Our Goldens</h2>
-      </div>
-      <div>
-        <p>
-            We have the privilege to have owned seven beautiful golden retrievers - <a href='/phoenix'>Phoenix</a> (RIP),
-          <a href='/kula'> Kula</a> (RIP), <a href='/shadow'>Shadow</a>, <a href='/sherry'>Sherry</a>, <a href='/autumn'>Autumn</a>,
-          <a href='/tuppence'> Tuppence</a> and <a href='/siren'>Siren</a>. They are our life and totally part of our family. I have competed in breed showing, obedience and
-            agility, but am not overly driven to succeed in the ring and just do those things in order to have a bit more fun
-            with my dogs.
-        </p>
-        <p>
-            Each of our dogs has its own page with lots of photos, so do visit their pages to get a little insight into their
-            personalities.
-        </p>
-        <hr />
-        <p>
-            Below are a few photos of the girls together and with relatives:
-        </p>
+      <Jumbotron id='ourGoldensj' fluid>
         <div>
-          <Image src="images/rob3.jpg" fluid />
-          <Image src="images/3dogs.jpg" fluid />
-          <p>Enjoying the bush!</p>
+          <h1 className='jumbotronTitle oourgoldens'>Our Goldens</h1>
+          <p className='line'></p>
         </div>
-        <div>
-          <Image src="images/christmasSitting.jpg" fluid />
-          <Image src="images/christmasTwoSittingOneLaying.jpg" fluid />
-          <p>Christmas dogs!</p>
-        </div>
-        <div>
-          <Image src="images/wolfpack.jpg" fluid />
-          <Image src="images/fishTank.jpg" fluid />
-          <p>Fun with relatives.</p>
-        </div>
+      </Jumbotron>
+      <div className='mainBody'>
+        <Container>
+          <Row className='row'>
+            <Col lg={6} className='leftCol'>
+              <h2 className='bodyTitle'>Our Goldens</h2>
+              <p>
+                We have the privilege to have owned seven beautiful golden retrievers - <a href='/phoenix'>Phoenix</a> (RIP),
+                <a href='/kula'> Kula</a> (RIP), <a href='/shadow'>Shadow</a>, <a href='/sherry'>Sherry</a>, <a href='/autumn'>Autumn</a>,
+                <a href='/tuppence'> Tuppence</a> and <a href='/siren'>Siren</a>. They are our life and totally part of our family. I have competed in breed showing, obedience and
+                agility, but am not overly driven to succeed in the ring and just do those things in order to have a bit more fun
+                with my dogs.
+              </p>
+              <p>
+                Each of our dogs has its own page with lots of photos, so do visit their pages to get a little insight into their
+                personalities.
+              </p>
+            </Col>
+            <Col lg={6}>
+              <div>
+                <Image src="images/rob3.jpg" fluid className='litterImage' />
+              </div>
+              {/* <KulaSplider /> */}
+            </Col>
+          </Row>
 
+          <hr className='sectionSeparator' />
+
+          <Row>
+            <Col lg={6} className='leftCol'>
+              <Image src="images/christmasSitting.jpg" fluid className='litterImage' />
+              <p className='litterText'>Christmas dogs!</p>
+            </Col>
+            <Col lg={6}>
+              <Image src="images/christmasTwoSittingOneLaying.jpg" fluid className='litterImage' />
+              <p className='litterText'></p>
+            </Col>
+          </Row>
+          <Row>
+            <Col lg={6} className='leftCol'>
+              <Image src="images/wolfpack.jpg" fluid className='litterImage' />
+              <p className='litterText'></p>
+            </Col>
+            <Col lg={6}>
+              <Image src="images/fishTank.jpg" fluid className='litterImage'/>
+              <p className='litterText'></p>
+            </Col>
+          </Row>
+        </Container>
       </div>
     </>
   )

@@ -21,50 +21,192 @@ p {
     padding-top: 85px;
 }
 
-/* PHOENIX SPLIDER CSS */
+/* OUR GOLDENS JUMBTRON CSS */
+#ourGoldensj {
+    background-image: url('images/3dogs.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 85px;
+    padding: 350px;
+    margin-bottom: 0px;
+}
+
+/* PHOENIX JUMBOTRON CSS */
 #phoenixj {
     background-image: url('images/phoenix1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 85px;
-    padding: 300px;
+    padding: 350px;
     margin-bottom: 0px;
 }
 
-@media screen and (max-width: 1024px) {
-    #phoenixj {
-        padding: 220px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    #phoenixj {
-        padding: 180px;
-    }
-}
-
-@media screen and (max-width: 425px) {
-    #phoenixj {
-        padding: 120px;
-    }
-}
-
-@media screen and (max-width: 375px) {
-    #phoenixj {
-        padding: 100px;
-    }
-}
-
-
-
-/* KULA SPLIDER CSS */
+/* KULA JUMBOTRON CSS */
 #kulaj {
     background-image: url("images/kula1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 85px;
-    padding: 300px;
+    padding: 350px;
     margin-bottom: 0px;
+}
+
+/* SHADOW JUMBOTRON CSS */
+#shadowj {
+    background-image: url("images/shadow1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 85px;
+    padding: 350px;
+    margin-bottom: 0px;
+}
+
+/* ADD SHERRY JUMBOTRON CSS */
+#sherryj {
+    background-image: url("images/sherry1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 85px;
+    padding: 350px;
+    margin-bottom: 0px;
+}
+
+/* ADD AUTUMN JUMBOTRON CSS */
+#autumnj {
+    background-image: url("images/autumn1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 85px;
+    padding: 350px;
+    margin-bottom: 0px;
+}
+
+/* ADD TUPPENCE JUMBOTRON CSS */
+#tuppencej {
+    background-image: url("images/tuppence1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 85px;
+    padding: 350px;
+    margin-bottom: 0px;
+}
+
+/* ADD SIREN JUMBTRON CSS */
+#sirenj {
+    background-image: url("images/siren1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 85px;
+    padding: 350px;
+    margin-bottom: 0px;
+}
+
+@media screen and (max-width: 1024px) {
+    #ourGoldensj {
+        padding: 220px;
+    }
+    #phoenixj {
+        padding: 220px;
+    }
+    #kulaj {
+        padding: 220px;
+    }
+    #shadowj {
+        padding: 220px;
+    }
+    #sherryj {
+        padding: 220px;
+    }
+    #autumnj {
+        padding: 220px;
+    }
+    #tuppencej {
+        padding: 220px;
+    }
+    #sirenj {
+        padding: 220px; 
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #ourGoldensj {
+        padding: 180px;
+    }
+    #phoenixj {
+        padding: 180px;
+    }
+    #kulaj {
+        padding: 180px;
+    }
+    #shadowj {
+        padding: 180px;
+    }
+    #sherryj {
+        padding: 180px;
+    }
+    #autumnj {
+        padding: 180px;
+    }
+    #tuppencej {
+        padding: 180px;
+    }
+    #sirenj {
+        padding: 180px; 
+    }
+}
+
+@media screen and (max-width: 425px) {
+    #ourGoldensj {
+        padding: 120px;
+    }
+    #phoenixj {
+        padding: 120px;
+    }
+    #kulaj {
+        padding: 120px;
+    }
+    #shadowj {
+        padding: 120px;
+    }
+    #sherryj {
+        padding: 120px;
+    }
+    #autumnj {
+        padding: 120px;
+    }
+    #tuppencej {
+        padding: 120px;
+    }
+    #sirenj {
+        padding: 120px; 
+    }
+}
+
+@media screen and (max-width: 375px) {
+    #ourGoldensj {
+        padding: 100px;
+    }
+    #phoenixj {
+        padding: 100px;
+    }
+    #kulaj {
+        padding: 100px;
+    }
+    #shadowj {
+        padding: 100px;
+    }
+    #sherryj {
+        padding: 100px;
+    }
+    #autumnj {
+        padding: 100px;
+    }
+    #tuppencej {
+        padding: 100px;
+    }
+    #sirenj {
+        padding: 100px; 
+    }
 }
 
 .jumbotronTitle {
@@ -75,12 +217,19 @@ p {
 }
 
 .jumbotronTitle.kula {
-    margin-left: -4vw;
+    margin-left: -9vw;
+}
+
+.jumbotronTitle.shad {
+    margin-left: -9vw;
 }
 
 @media screen and (max-width: 1024px) {
     .jumbotronTitle {
         font-size: 4rem;
+    }
+    .jumbotronTitle.kula {
+        margin-left: -5vw;
     }
 }
 
@@ -90,7 +239,7 @@ p {
     }
 }
 
-@media screen and (max-width: 1440px) {
+/* @media screen and (max-width: 1440px) {
     .line {
         height: 1px;
         border: 1px solid rgb(134, 95, 95);
@@ -109,23 +258,223 @@ p {
     .line {
         visibility: hidden;
     }
-}
+} */
 
 /* TABS CSS */
 nav.nav.nav-tabs {
     font-size: 2rem;
     background-color: rgb(230, 215, 197);
-    border: none;
 }
 
 .nav-item.nav-link {
     font-size: 2rem;
+    text-align: center;
     color: rgb(212, 212, 212);
-    margin: 0px 1.3vw;
-    padding: 1.5vh 20vw;
+    width: 650px;
+    margin: 0px 2vw;
     background-color: rgb(78, 78, 78);
     cursor: pointer;
+    border: none;
 }
+
+
+/* CSS FOR SHADOW NAVBAR */
+#controlled-tab-example-tab-shadowHome {
+    width: 420px;
+}
+
+#controlled-tab-example-tab-shadowLitter {
+    width: 420px;
+}
+
+#controlled-tab-example-tab-breedShowAchievements {
+    width: 420px;
+}
+
+/* CSS FOR SHERRY NAVBAR */
+#controlled-tab-example-tab-sherryHome {
+    width: 295px;
+}
+
+#controlled-tab-example-tab-sherryLitter {
+    width: 295px;
+}
+
+#controlled-tab-example-tab-sherryBreedShowAchievements {
+    width: 295px;
+}
+
+#controlled-tab-example-tab-sherryObedienceShowAchievements {
+    width: 295px;
+}
+
+
+
+@media screen and (max-width: 1024px) {
+    .nav-item.nav-link {
+        width: 470px;
+    }
+    #controlled-tab-example-tab-shadowHome {
+        width: 300px;
+    }
+    
+    #controlled-tab-example-tab-shadowLitter {
+        width: 300px;
+    }
+    
+    #controlled-tab-example-tab-breedShowAchievements {
+        width: 300px;
+        font-size: 1.5rem;
+        padding-top: 1.5vh;
+    }
+    #controlled-tab-example-tab-sherryHome {
+        width: 210px;
+    }
+    
+    #controlled-tab-example-tab-sherryLitter {
+        width: 210px;
+        font-size: 1.9rem;
+    }
+    
+    #controlled-tab-example-tab-sherryBreedShowAchievements {
+        width: 210px;
+        font-size: 1.5rem;
+    }
+    
+    #controlled-tab-example-tab-sherryObedienceShowAchievements {
+        width: 210px;
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .nav-item.nav-link {
+        width: 350px;
+    }
+    #controlled-tab-example-tab-shadowHome {
+        width: 230px;
+    }   
+    #controlled-tab-example-tab-shadowLitter {
+        width: 230px;
+    }  
+    #controlled-tab-example-tab-breedShowAchievements {
+        width: 230px;
+        font-size: 1.5rem;
+        padding: 0vh 0vw;
+    }
+
+    #controlled-tab-example-tab-sherryHome {
+        width: 165px;
+    }
+    #controlled-tab-example-tab-sherryLitter {
+        width: 165px;
+    }
+    #controlled-tab-example-tab-sherryBreedShowAchievements {
+        width: 165px;
+        font-size: 1.5rem;
+    }
+    #controlled-tab-example-tab-sherryObedienceShowAchievements {
+        width: 165px;
+        font-size: 1.5rem;
+    }
+
+    .nav-item.nav-link {
+        margin: 0px 1.5vw;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .nav-item.nav-link {
+        font-size: 1.5rem;
+        width: 190px;
+    }
+
+    #controlled-tab-example-tab-shadowHome {
+        width: 122px;
+        padding-top: 1.8vh
+    } 
+    #controlled-tab-example-tab-shadowLitter.nav-item.nav-link {
+        width: 122px;
+        font-size: 1.2rem;
+    }
+    #controlled-tab-example-tab-breedShowAchievements {
+        width: 122px;
+        font-size: 1.1rem;
+        padding-top: 1.5vh
+    }
+
+    #controlled-tab-example-tab-sherryHome {
+        width: 425px;
+        font-size: 1.5rem;
+    }
+    #controlled-tab-example-tab-sherryLitter {
+        width: 425px;
+        font-size: 1.5rem;
+    }
+    #controlled-tab-example-tab-sherryBreedShowAchievements {
+        width: 425px;
+        font-size: 1.5rem;
+        padding: 8px 16px;
+    }
+    #controlled-tab-example-tab-sherryObedienceShowAchievements {
+        width: 425px;
+        font-size: 1.5rem;
+        padding: 8px 16px;
+    }
+
+    .nav-item.nav-link {
+        margin: 0px 2vw;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .nav-item.nav-link {
+        width: 170px;
+    }
+    #controlled-tab-example-tab-shadowHome {
+        width: 115px;
+    }
+    
+    #controlled-tab-example-tab-shadowLitter.nav-item.nav-link {
+        width: 115px;
+    }
+    
+    #controlled-tab-example-tab-breedShowAchievements {
+        width: 115px;
+    }
+    .nav-item.nav-link {
+        margin: 0px 1.3vw;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .nav-item.nav-link {
+        font-size: 1.3rem;
+        width: 140px;
+    }
+    #controlled-tab-example-tab-shadowHome {
+        width: 310px;
+        /* font-size: initial; */
+        padding-top: 1vh;
+    }
+    
+    #controlled-tab-example-tab-shadowLitter.nav-item.nav-link {
+        width: 310px;
+        /* font-size: 1.3rem;
+        padding-top: 1vh; */
+    }
+    
+    #controlled-tab-example-tab-breedShowAchievements {
+        width: 310px;
+        /* font-size: 1.3rem;
+        padding-top: 1vh;
+        padding-bottom: 1vh; */
+    }
+    .nav-item.nav-link {
+        margin: 0px 1vw;
+    }
+}
+
 
 .nav-item.nav-link.active {
     background-color: burlywood;
@@ -165,7 +514,6 @@ nav.nav.nav-tabs {
 
 @media screen and (max-width: 425px) {
     .splideContainer {
-        border: 1px solid blue;
         margin: 30px 0px;
         margin-left: -15px;
         /* padding-left: 17px; */
@@ -219,7 +567,7 @@ nav.nav.nav-tabs {
 
 
 
-/* TABLE AT BUTTON OF DOGS COMPONENTS */
+/* TABLE AT BOTTOM OF DOGS COMPONENTS */
 .tableDiv {
     /* border: solid 1px yellowgreen; */
     margin-top: 1vh;
@@ -250,6 +598,23 @@ td.grandparents {
     background-color: white;
 }
 
+@media screen and (max-width: 768px) {
+    th.tableHead {
+        padding-left: 10px;
+        font-size: 1.5rem;
+    }
+    td.subHeading {
+        padding-left: 10px;
+        font-size: 1.3rem;
+    }
+    td.parents {
+        font-size: 1rem;
+    }
+    td.grandparents {
+        font-size: 1rem;
+    }
+}
+
 td.greatGrandparents {
     background-color: white;
 }
@@ -263,12 +628,53 @@ td.greatGrandparents {
 }
 
 .litterMainText {
-    font-size: 1.5rem;
+    font-size: 2rem;
+    text-align: center;
 }
 
 .litterMainImage {
     width: 540px;
     height: 410px;
+}
+
+@media screen and (max-width: 1024px) {
+    .litterMainImage {
+        width: 430px;
+        height: 325px;
+    }
+    .litterMainText {
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .litterMainImage {
+        width: 300px;
+        height: 225px;
+    }
+    .litterMainText {
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .litterMainImage {
+        margin-left: 35px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .litterMainImage {
+        margin-left: 12px;
+    }
+}
+
+@media screen and (max-width: 325px) {
+    .litterMainImage {
+        width: 265px;
+        height: 225px;
+        margin-left: 0px;
+    }
 }
 
 .sectionSeparator {
@@ -278,15 +684,63 @@ td.greatGrandparents {
 }
 
 .litterImage {
-    /* border: solid 1px greenyellow; */
     padding-left: 70px;
     width: 500px;
     height: 305px;
-    align-content: center;
-    align-items: center;
 }
 
 .litterText {
     padding-left: 70px;
     margin-bottom: 5vh;
+}
+
+@media screen and (max-width: 1024px) {
+    .litterImage {
+        padding-left: 0px;
+        width: 440px;
+        height: 300px;
+    }
+    .litterText {
+        padding-left: 0px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .litterImage {
+        margin-left: 100px;
+    }
+    .litterText {
+        padding-left: 100px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .litterImage {
+        margin-left: 35px;
+        width: 300px;
+        height: 225px;
+    }
+    .litterText {
+        padding-left: 35px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .litterImage {
+        margin-left: 12px;
+    }
+    .litterText {
+        padding-left: 12px;
+    }
+}
+
+@media screen and (max-width: 325px) {
+    .litterImage {
+        width: 265px;
+        height: 225px;
+        margin-left: 0px;
+    }
+    .litterText {
+        padding-left: 0px;
+    }
 }

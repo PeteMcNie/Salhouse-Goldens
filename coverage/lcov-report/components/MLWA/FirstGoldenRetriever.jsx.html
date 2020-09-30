@@ -1,0 +1,437 @@
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Code coverage report for components/MLWA/FirstGoldenRetriever.jsx</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="../../prettify.css" />
+    <link rel="stylesheet" href="../../base.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="../../favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style type='text/css'>
+        .coverage-summary .sorter {
+            background-image: url(../../sort-arrow-sprite.png);
+        }
+    </style>
+</head>
+    
+<body>
+<div class='wrapper'>
+    <div class='pad1'>
+        <h1><a href="../../index.html">All files</a> / <a href="index.html">components/MLWA</a> FirstGoldenRetriever.jsx</h1>
+        <div class='clearfix'>
+            
+            <div class='fl pad1y space-right2'>
+                <span class="strong">100% </span>
+                <span class="quiet">Statements</span>
+                <span class='fraction'>1/1</span>
+            </div>
+        
+            
+            <div class='fl pad1y space-right2'>
+                <span class="strong">100% </span>
+                <span class="quiet">Branches</span>
+                <span class='fraction'>0/0</span>
+            </div>
+        
+            
+            <div class='fl pad1y space-right2'>
+                <span class="strong">100% </span>
+                <span class="quiet">Functions</span>
+                <span class='fraction'>1/1</span>
+            </div>
+        
+            
+            <div class='fl pad1y space-right2'>
+                <span class="strong">100% </span>
+                <span class="quiet">Lines</span>
+                <span class='fraction'>1/1</span>
+            </div>
+        
+            
+        </div>
+        <p class="quiet">
+            Press <em>n</em> or <em>j</em> to go to the next uncovered block, <em>b</em>, <em>p</em> or <em>k</em> for the previous block.
+        </p>
+    </div>
+    <div class='status-line high'></div>
+    <pre><table class="coverage">
+<tr><td class="line-count quiet"><a name='L1'></a><a href='#L1'>1</a>
+<a name='L2'></a><a href='#L2'>2</a>
+<a name='L3'></a><a href='#L3'>3</a>
+<a name='L4'></a><a href='#L4'>4</a>
+<a name='L5'></a><a href='#L5'>5</a>
+<a name='L6'></a><a href='#L6'>6</a>
+<a name='L7'></a><a href='#L7'>7</a>
+<a name='L8'></a><a href='#L8'>8</a>
+<a name='L9'></a><a href='#L9'>9</a>
+<a name='L10'></a><a href='#L10'>10</a>
+<a name='L11'></a><a href='#L11'>11</a>
+<a name='L12'></a><a href='#L12'>12</a>
+<a name='L13'></a><a href='#L13'>13</a>
+<a name='L14'></a><a href='#L14'>14</a>
+<a name='L15'></a><a href='#L15'>15</a>
+<a name='L16'></a><a href='#L16'>16</a>
+<a name='L17'></a><a href='#L17'>17</a>
+<a name='L18'></a><a href='#L18'>18</a>
+<a name='L19'></a><a href='#L19'>19</a>
+<a name='L20'></a><a href='#L20'>20</a>
+<a name='L21'></a><a href='#L21'>21</a>
+<a name='L22'></a><a href='#L22'>22</a>
+<a name='L23'></a><a href='#L23'>23</a>
+<a name='L24'></a><a href='#L24'>24</a>
+<a name='L25'></a><a href='#L25'>25</a>
+<a name='L26'></a><a href='#L26'>26</a>
+<a name='L27'></a><a href='#L27'>27</a>
+<a name='L28'></a><a href='#L28'>28</a>
+<a name='L29'></a><a href='#L29'>29</a>
+<a name='L30'></a><a href='#L30'>30</a>
+<a name='L31'></a><a href='#L31'>31</a>
+<a name='L32'></a><a href='#L32'>32</a>
+<a name='L33'></a><a href='#L33'>33</a>
+<a name='L34'></a><a href='#L34'>34</a>
+<a name='L35'></a><a href='#L35'>35</a>
+<a name='L36'></a><a href='#L36'>36</a>
+<a name='L37'></a><a href='#L37'>37</a>
+<a name='L38'></a><a href='#L38'>38</a>
+<a name='L39'></a><a href='#L39'>39</a>
+<a name='L40'></a><a href='#L40'>40</a>
+<a name='L41'></a><a href='#L41'>41</a>
+<a name='L42'></a><a href='#L42'>42</a>
+<a name='L43'></a><a href='#L43'>43</a>
+<a name='L44'></a><a href='#L44'>44</a>
+<a name='L45'></a><a href='#L45'>45</a>
+<a name='L46'></a><a href='#L46'>46</a>
+<a name='L47'></a><a href='#L47'>47</a>
+<a name='L48'></a><a href='#L48'>48</a>
+<a name='L49'></a><a href='#L49'>49</a>
+<a name='L50'></a><a href='#L50'>50</a>
+<a name='L51'></a><a href='#L51'>51</a>
+<a name='L52'></a><a href='#L52'>52</a>
+<a name='L53'></a><a href='#L53'>53</a>
+<a name='L54'></a><a href='#L54'>54</a>
+<a name='L55'></a><a href='#L55'>55</a>
+<a name='L56'></a><a href='#L56'>56</a>
+<a name='L57'></a><a href='#L57'>57</a>
+<a name='L58'></a><a href='#L58'>58</a>
+<a name='L59'></a><a href='#L59'>59</a>
+<a name='L60'></a><a href='#L60'>60</a>
+<a name='L61'></a><a href='#L61'>61</a>
+<a name='L62'></a><a href='#L62'>62</a>
+<a name='L63'></a><a href='#L63'>63</a>
+<a name='L64'></a><a href='#L64'>64</a>
+<a name='L65'></a><a href='#L65'>65</a>
+<a name='L66'></a><a href='#L66'>66</a>
+<a name='L67'></a><a href='#L67'>67</a>
+<a name='L68'></a><a href='#L68'>68</a>
+<a name='L69'></a><a href='#L69'>69</a>
+<a name='L70'></a><a href='#L70'>70</a>
+<a name='L71'></a><a href='#L71'>71</a>
+<a name='L72'></a><a href='#L72'>72</a>
+<a name='L73'></a><a href='#L73'>73</a>
+<a name='L74'></a><a href='#L74'>74</a>
+<a name='L75'></a><a href='#L75'>75</a>
+<a name='L76'></a><a href='#L76'>76</a>
+<a name='L77'></a><a href='#L77'>77</a>
+<a name='L78'></a><a href='#L78'>78</a>
+<a name='L79'></a><a href='#L79'>79</a>
+<a name='L80'></a><a href='#L80'>80</a>
+<a name='L81'></a><a href='#L81'>81</a>
+<a name='L82'></a><a href='#L82'>82</a>
+<a name='L83'></a><a href='#L83'>83</a>
+<a name='L84'></a><a href='#L84'>84</a>
+<a name='L85'></a><a href='#L85'>85</a>
+<a name='L86'></a><a href='#L86'>86</a>
+<a name='L87'></a><a href='#L87'>87</a>
+<a name='L88'></a><a href='#L88'>88</a>
+<a name='L89'></a><a href='#L89'>89</a>
+<a name='L90'></a><a href='#L90'>90</a>
+<a name='L91'></a><a href='#L91'>91</a>
+<a name='L92'></a><a href='#L92'>92</a>
+<a name='L93'></a><a href='#L93'>93</a>
+<a name='L94'></a><a href='#L94'>94</a>
+<a name='L95'></a><a href='#L95'>95</a>
+<a name='L96'></a><a href='#L96'>96</a>
+<a name='L97'></a><a href='#L97'>97</a>
+<a name='L98'></a><a href='#L98'>98</a>
+<a name='L99'></a><a href='#L99'>99</a>
+<a name='L100'></a><a href='#L100'>100</a>
+<a name='L101'></a><a href='#L101'>101</a>
+<a name='L102'></a><a href='#L102'>102</a>
+<a name='L103'></a><a href='#L103'>103</a>
+<a name='L104'></a><a href='#L104'>104</a>
+<a name='L105'></a><a href='#L105'>105</a>
+<a name='L106'></a><a href='#L106'>106</a>
+<a name='L107'></a><a href='#L107'>107</a>
+<a name='L108'></a><a href='#L108'>108</a>
+<a name='L109'></a><a href='#L109'>109</a>
+<a name='L110'></a><a href='#L110'>110</a>
+<a name='L111'></a><a href='#L111'>111</a>
+<a name='L112'></a><a href='#L112'>112</a>
+<a name='L113'></a><a href='#L113'>113</a>
+<a name='L114'></a><a href='#L114'>114</a>
+<a name='L115'></a><a href='#L115'>115</a>
+<a name='L116'></a><a href='#L116'>116</a>
+<a name='L117'></a><a href='#L117'>117</a>
+<a name='L118'></a><a href='#L118'>118</a>
+<a name='L119'></a><a href='#L119'>119</a>
+<a name='L120'></a><a href='#L120'>120</a></td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span></td><td class="text"><pre class="prettyprint lang-js">import React from 'react'
+&nbsp;
+import Image from 'react-bootstrap/Image'
+&nbsp;
+function FirstGoldenRetriever () {
+  return (
+    &lt;&gt;
+      &lt;div&gt;
+        &lt;h3&gt;First Golden Retriever - &lt;a href='/phoenix'&gt;Phoenix&lt;/a&gt;&lt;/h3&gt;
+        &lt;p&gt;
+            Over the next couple of weeks Rob and I went for our usual weekend walks, but they weren’t the same. There was no
+            bundle of joy running ahead and in and out of the bushes. No-one to throw sticks in the river for, although we did
+            throw some in after she died as we imagined Pepper’s spirit would be there, swimming after them and bringing them
+            back. Even now I occasionally throw a stick in the river for Pepper. But walking wasn’t such fun now. We decided
+            that we wanted another dog and this time I was determined to try and find a Golden Retriever as that was what I
+            had really wanted all along. I still didn’t know anything about contacting a Golden Retriever Club. I didn’t even
+            know they existed, so relied on scanning the papers. I started to buy Trade and Exchange, which I had never heard
+            of but someone said I might find a dog in there, and almost straight away I saw an advert for Golden Retriever
+            puppies. My heart was racing when I phoned up to ask if there were any left and how much. Yes, there was one bitch
+            left but I would have to go over the hill and select it and pay a deposit as soon as possible.
+        &lt;/p&gt;
+        &lt;p&gt;
+            My second son, Peter, and I went the following day. It was about an hour’s drive from us. There was a litter of ten
+            puppies and they were about 4 weeks old. There were two female puppies to choose from as the other person who had
+            booked one hadn’t arrived yet. So Peter and I cuddled these two little puppies and we decided on the lightest coloured
+            one. She had a band put round her neck with our name on and we went home very happy. We had been discussing names for
+            our puppy and had looked some up somewhere. Pepper had died on 9 January and these puppies were born on 10 January.
+            So Peter and I decided that Phoenix would be a very good name for this puppy as it was a name we liked and also we
+            considered that Phoenix had risen on the 10th out of the ashes of Pepper. (I know Pepper was buried, not cremated,
+            but the idea was there.)
+        &lt;/p&gt;
+        &lt;Image src="images/babyPhoenix.jpg" fluid /&gt;
+        &lt;p&gt;
+            And therein lies the story of how I finally got myself my first purebred Golden Retriever.
+        &lt;/p&gt;
+        &lt;p&gt;
+            This dog was going to be treated differently though. I had learnt a lot from my mistakes with Pepper and I told Rob
+            when I first got this dog that things were going to be different. This one was going to be a house dog, no kennel.
+            She was also going to have access to all of the house, not just a rug on the lounge floor. I was going to make up to
+            Pepper’s memory all the things I felt I did wrong with her.
+        &lt;/p&gt;
+        &lt;p&gt;
+            So we let Phoenix into our lives, and into our hearts. Its fair to say that although I was attached to Pepper, the
+            boys never were really as they would get nipped if they tried to stroke her, and Rob, although he liked her felt
+            that she was just a dog, probably because of his upbringing on the farm. They were all sad when she died, but the
+            connection wasn’t there.
+        &lt;/p&gt;
+        &lt;p&gt;
+            But this puppy was different. She was beautiful and gentle and just so, so cute. I took her outside to go to the
+            toilet and said “do tinkle” as she went and she came to know to go to the toilet on cue. This was one of the things
+            I had never done with Pepper and the reason I kept her outside – because I never knew when she had been and was
+            always afraid she would go in the house.
+        &lt;/p&gt;
+        &lt;p&gt;
+            We had met one of the other owners when we were picking Phoenix up, and we took their phone number as they lived
+            in the same town as us. We got together quite often when the dogs were puppies and had such fun watching them play
+            together. They were brother and sister, Jake and Phoenix, and loved each other.
+        &lt;/p&gt;
+        &lt;p&gt;
+            One day they were round our house and it was warm but had been raining. We sat inside having morning tea while these
+            two ruffians played outside. They got absolutely soaked and filthy, but boy did they have fun.
+        &lt;/p&gt;
+        &lt;Image src="images/phoenixAndJake.jpg" fluid /&gt;
+        &lt;p&gt;
+            Of course, the excitement of getting Phoenix helped me through a difficult time after the loss of Pepper. I had cried
+            every day after Pepper died and wondered whether I would ever feel the same again. Then, when we got Phoenix, I began
+            to recover but still thought of Pepper all the time. But there were good times again with a dog and that was the most
+            important thing. The soul was contented again.
+        &lt;/p&gt;
+        &lt;p&gt;
+            Rob and I took to walking this beautiful creature and loving having her trotting along with us. However, as I am
+            always thinking (and I wish I wasn’t) I used to think when I was out on a walk with Phoenix that I never wanted to
+            feel that empty feeling again after losing a dog. I began to wonder whether it would be a good idea to have two dogs,
+            that way if one died, you would still have the other one to keep you going. Poor Rob had to go through all my ummings
+            and ahhings and he has supported me 100% through just about everything. I think he began to “fall” for Phoenix, as
+            did the kids who had a much more hands on role with her – from Peter giving her the name to just the fact that they
+            could play with her any time they liked because she wasn’t a nipper and just enjoyed people. My three boys are gentle
+            themselves, although they have their moments as brothers do, but they seemed to know how to play with Phoenix gently.
+        &lt;/p&gt;
+        &lt;p&gt;
+            A bond grew between her and the family and we let her into our lives totally. She has the run of the house, although
+            we put her out in the run when we went to work. She was and still is only truly happy when she is with her people.
+            Rob built a special bigger run for Phoenix with a kennel. She had lots of blankets and toys that she could chew when
+            we were out at work. I worked part-time so was not out for the whole day. However, Phoenix seemed to become almost
+            claustrophobic and didn’t seem to want to be in the run. She would tremble when we put her in and only be happy when
+            we got home. One day I got home and there was blood in the run. I found that she had obviously tried to get out and
+            climbed up the chicken-wire netting. Her back claws had obviously got caught and she had ripped several of the nails
+            off leaving the quicks exposed. I had to treat her by bathing her feet and trying to keep the boys&amp;apos; old football socks
+            on them for a few days until the quicks hardened.
+        &lt;/p&gt;
+        &lt;Image src="images/peterandNix1.jpg" fluid /&gt;
+        &lt;p&gt;
+            After that Phoenix was not shut in the run but left in the back garden as we had fenced off the back of our property
+            by then. However, if it rained, Phoenix would still not go into the kennel and ended up getting soaking wet by the
+            time I got home. This would happen no matter what time of the year it was, so if it was winter and cold, she would
+            end up cold and wet.
+        &lt;/p&gt;
+        &lt;Image src="images/phoenixAndShoe.jpg" fluid /&gt;
+        &lt;p&gt;
+            In the meantime, while we were out walking Phoenix and Jake at the river one day, we saw a lady walking on the
+            other side of the river with what looked like three Golden Retrievers. I said to Liz, Jake’s owner, I wonder if she
+            breeds them. Liz said she would call out, so she did. The lady said yes and gave her name to look up in the phone
+            book. I was quite excited about this because I was definitely thinking of purchasing another Golden at this time.
+            In the evening I got up the courage to phone this lady. Once again, when these obviously important times for me happen,
+            my heart was in my mouth and I was very nervous, not knowing what this lady would say. However, I called. Her name was
+            Sandy and I have never regretted making that phone call since. She was one of the nicest people I have ever met and I
+            am still a good friend with her today. She talked to me that day about the importance of owning a Golden for the right
+            reason, for realising the potential for inherited problems and the ability to be able to give your dog the best home
+            and the best care. This was a far cry from the lady who I bought Phoenix off of who seemed to just want to get rid of
+            the puppies as soon as she could. I had brought Phoenix home at five and a half weeks of age. I was led by the breeder
+            who said that the puppies were ready. I now know that 8 weeks is a much better age for puppies to leave their “nest”.
+        &lt;/p&gt;
+        &lt;hr /&gt;
+      &lt;/div&gt;
+    &lt;/&gt;
+  )
+}
+&nbsp;
+export default FirstGoldenRetriever
+&nbsp;</pre></td></tr></table></pre>
+
+                <div class='push'></div><!-- for sticky footer -->
+            </div><!-- /wrapper -->
+            <div class='footer quiet pad2 space-top1 center small'>
+                Code coverage generated by
+                <a href="https://istanbul.js.org/" target="_blank">istanbul</a>
+                at Wed Sep 30 2020 13:24:11 GMT+1300 (New Zealand Daylight Time)
+            </div>
+        </div>
+        <script src="../../prettify.js"></script>
+        <script>
+            window.onload = function () {
+                prettyPrint();
+            };
+        </script>
+        <script src="../../sorter.js"></script>
+        <script src="../../block-navigation.js"></script>
+    </body>
+</html>
+    
