@@ -1,12 +1,28 @@
 import React from 'react'
 
 import Image from 'react-bootstrap/Image'
+import Container from 'react-bootstrap/Container'
+import Row from 'react-bootstrap/Row'
+import Col from 'react-bootstrap/Col'
 
 function TestimonialsAndPhotos () {
   return (
-    <>
+    <> 
+      <div className='mainBody'>
+        <Container>
+          <Row className='row'>
+            <Col className='leftCol'>
+              <h2 className='bodyTitle' >Testimonials and Photos</h2>
+{/* SPLIDER OF GROOMED DOG IMAGES HERE???? */}
+            </Col>
+          </Row>
+          <hr className='sectionSeparator' id='t&p'/>
+        </Container>
+    </div>
+
+
       <div>
-        <h3 id='t&p' className='belowNavbar'>Testimonials and Photos</h3>
+        <h3 className='belowNavbar'></h3>
       </div>
       <div>
         <Image src='images/gyg4.jpg' fluid/>

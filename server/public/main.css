@@ -105,6 +105,15 @@ img.bottom {
     margin-bottom: 0px;
 }
 
+#gygj {
+    background-image: url('images/gyg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 85px;
+    padding: 350px;
+    margin-bottom: 0px;
+}
+
 @media screen and (max-width: 1024px) {
     #ourGoldensj {
         padding: 220px;
