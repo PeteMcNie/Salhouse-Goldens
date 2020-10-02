@@ -12,7 +12,7 @@ function BasicGroomingTips () {
         <Container>
           <Row className='row'>
             <Col lg={6} className='leftCol'>
-              <h2 className='bodyTitle'>Basic Grooming Tips</h2>
+              <h2 className='bodyTitle gygTitle'>Basic Grooming Tips</h2>
               <p>
                 It&apos;s good to learn how to clean their ears out, or at least look in their ears regularly as they can get build
                 up of gluggy wax and ear infections. The inside of the ear flap should be pink but not red and hot. If it is then
