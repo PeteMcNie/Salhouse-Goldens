@@ -757,3 +757,19 @@ td.greatGrandparents {
         padding-left: 0px;
     }
 }
+
+/* GROOMING YOUR GOLDENS CSS */
+.bodyTitle.gygTitle {
+    padding-bottom: 2vh;
+}
+
+.bodyTitle.gygPhotoTitle {
+    padding-bottom: 5vh;
+}
+
+.testimonials {
+    margin-top: 0vh;
+    padding-bottom: 10vh;
+    padding-left: 70px;
+    padding-right: 30px;
+}

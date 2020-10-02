@@ -11,7 +11,7 @@ function GroomingService () {
         <Container>
           <Row className='row'>
             <Col className='leftCol'>
-              <h2 className='bodyTitle' >Grooming Service</h2>
+              <h2 className='bodyTitle gygTitle' >Grooming Service</h2>
               <p>
                 I provide a grooming service for Golden Retrievers. A full groom includes a trim of your Golden&apos;s neck, ears, feet and
                 tail and sometimes the length underneath the body if it&apos;s too long. I also remove some of the undercoat and any loose
