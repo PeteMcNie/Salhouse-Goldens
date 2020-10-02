@@ -128,7 +128,6 @@ exports[`GYG component matches snapshot 1`] = `
     >
       <div
         class="container"
-        id="gyg"
       >
         <div
           class="row row"
@@ -137,7 +136,7 @@ exports[`GYG component matches snapshot 1`] = `
             class="leftCol col-lg-6"
           >
             <h2
-              class="bodyTitle"
+              class="bodyTitle gygTitle"
             >
               Grooming Your Golden
             </h2>
@@ -167,6 +166,7 @@ exports[`GYG component matches snapshot 1`] = `
         </div>
         <hr
           class="sectionSeparator"
+          id="groomingTips"
         />
       </div>
     </div>
@@ -183,7 +183,7 @@ exports[`GYG component matches snapshot 1`] = `
             class="leftCol col-lg-6"
           >
             <h2
-              class="bodyTitle"
+              class="bodyTitle gygTitle"
             >
               Basic Grooming Tips
             </h2>
@@ -243,7 +243,7 @@ exports[`GYG component matches snapshot 1`] = `
             class="leftCol col"
           >
             <h2
-              class="bodyTitle"
+              class="bodyTitle gygTitle"
             >
               Grooming Service
             </h2>
@@ -274,159 +274,299 @@ exports[`GYG component matches snapshot 1`] = `
             class="leftCol col"
           >
             <h2
-              class="bodyTitle"
+              class="bodyTitle gygPhotoTitle"
             >
               Testimonials and Photos
             </h2>
           </div>
         </div>
-        <hr
-          class="sectionSeparator"
-          id="t&p"
-        />
+        <div
+          class="row"
+        >
+          <div
+            class="leftCol col-lg-6"
+          >
+            <img
+              class="litterImage img-fluid"
+              src="images/gyg5.jpg"
+            />
+            <p
+              class="litterText"
+            >
+              Missy before groom
+            </p>
+          </div>
+          <div
+            class="col-lg-6"
+          >
+            <img
+              class="litterImage img-fluid"
+              src="images/gyg4.jpg"
+            />
+            <p
+              class="litterText"
+            >
+              Missy after groom
+            </p>
+          </div>
+        </div>
+        <div
+          class="row"
+        >
+          <div
+            class="col"
+          >
+            <p
+              class="testimonials"
+            >
+              It was so lovely meeting you and thank you so much for grooming her today! She looks so amazing thanks to you! This is probably the best she's ever looked after a groom so I'm really thankful for your great service. I think she really enjoyed it also, and meeting your lovely goldens too! Thank you so much for the photos! It's evident that she really enjoyed being groomed by you. She looks so cute! Definitely having her groomed with you again if you would be happy to have her again sometime next year. I really appreciate your wonderful work. - Celina
+            </p>
+          </div>
+        </div>
+        <div
+          class="row"
+        >
+          <div
+            class="leftCol col-lg-6"
+          >
+            <img
+              class="litterImage img-fluid"
+              src="images/gyg7.jpg"
+            />
+            <p
+              class="litterText"
+            >
+              Baxter before groom
+            </p>
+          </div>
+          <div
+            class="col-lg-6"
+          >
+            <img
+              class="litterImage img-fluid"
+              src="images/gyg8.jpg"
+            />
+            <p
+              class="litterText"
+            >
+              Baxter after groom
+            </p>
+          </div>
+        </div>
+        <div
+          class="row"
+        >
+          <div
+            class="leftCol col-lg-6"
+          >
+            <img
+              class="litterImage img-fluid"
+              src="images/gyg9.png"
+            />
+            <p
+              class="litterText"
+            >
+              Billie before groom
+            </p>
+          </div>
+          <div
+            class="col-lg-6"
+          >
+            <img
+              class="litterImage img-fluid"
+              src="images/gyg10.png"
+            />
+            <p
+              class="litterText"
+            >
+              Billie after groom
+            </p>
+          </div>
+        </div>
+        <div
+          class="row"
+        >
+          <div
+            class="col"
+          >
+            <p
+              class="testimonials"
+            >
+              Thank you for grooming Billie you have done a fantastic job and he looks very handsome. I hope he behaved himself. We will be in contact next time we want a groom. - Debbie
+            </p>
+          </div>
+        </div>
+        <div
+          class="row"
+        >
+          <div
+            class="leftCol col-lg-6"
+          >
+            <img
+              class="litterImage img-fluid"
+              src="images/gyg11.jpg"
+            />
+            <p
+              class="litterText"
+            >
+              Rafa before groom
+            </p>
+          </div>
+          <div
+            class="col-lg-6"
+          >
+            <img
+              class="litterImage img-fluid"
+              src="images/gyg12.jpg"
+            />
+            <p
+              class="litterText"
+            >
+              Rafa after groom
+            </p>
+          </div>
+        </div>
+        <div
+          class="row"
+        >
+          <div
+            class="leftCol col-lg-6"
+          >
+            <img
+              class="litterImage img-fluid"
+              src="images/gyg13.jpg"
+            />
+            <p
+              class="litterText"
+            >
+              Rafa front view
+            </p>
+          </div>
+          <div
+            class="col-lg-6"
+          />
+        </div>
+        <div
+          class="row"
+        >
+          <div
+            class="leftCol col-lg-6"
+          >
+            <img
+              class="litterImage img-fluid"
+              src="images/gyg14.jpg"
+            />
+            <p
+              class="litterText"
+            >
+              Cody before groom
+            </p>
+          </div>
+          <div
+            class="col-lg-6"
+          >
+            <img
+              class="litterImage img-fluid"
+              src="images/gyg15.jpg"
+            />
+            <p
+              class="litterText"
+            >
+              Cody after groom
+            </p>
+          </div>
+        </div>
+        <div
+          class="row"
+        >
+          <div
+            class="leftCol col-lg-6"
+          >
+            <img
+              class="litterImage img-fluid"
+              src="images/gyg16.jpg"
+            />
+            <p
+              class="litterText"
+            >
+              Zach before groom
+            </p>
+          </div>
+          <div
+            class="col-lg-6"
+          >
+            <img
+              class="litterImage img-fluid"
+              src="images/gyg17.jpg"
+            />
+            <p
+              class="litterText"
+            >
+              Zach after groom
+            </p>
+          </div>
+        </div>
+        <div
+          class="row"
+        >
+          <div
+            class="leftCol col-lg-6"
+          >
+            <img
+              class="litterImage img-fluid"
+              src="images/gyg18.jpg"
+            />
+            <p
+              class="litterText"
+            >
+              Jax before groom
+            </p>
+          </div>
+          <div
+            class="col-lg-6"
+          >
+            <img
+              class="litterImage img-fluid"
+              src="images/gyg19.jpg"
+            />
+            <p
+              class="litterText"
+            >
+              Jax after groom
+            </p>
+          </div>
+        </div>
+        <div
+          class="row"
+        >
+          <div
+            class="leftCol col-lg-6"
+          >
+            <img
+              class="litterImage img-fluid"
+              src="images/gyg20.jpg"
+            />
+            <p
+              class="litterText"
+            >
+              Tawnee before groom
+            </p>
+          </div>
+          <div
+            class="col-lg-6"
+          >
+            <img
+              class="litterImage img-fluid"
+              src="images/gyg21.jpg"
+            />
+            <p
+              class="litterText"
+            >
+              Tawnee after groom
+            </p>
+          </div>
+        </div>
       </div>
-    </div>
-    <div>
-      <h3
-        class="belowNavbar"
-      />
-    </div>
-    <div>
-      <img
-        class="img-fluid"
-        src="images/gyg4.jpg"
-      />
-      <p>
-        Missy after groom:
-      </p>
-      <p>
-        It was so lovely meeting you and thank you so much for grooming her today! She looks so amazing thanks to you! This is probably the best she's ever looked after a groom so I'm really thankful for your great service. I think she really enjoyed it also, and meeting your lovely goldens too! Thank you so much for the photos! It's evident that she really enjoyed being groomed by you. She looks so cute! Definitely having her groomed with you again if you would be happy to have her again sometime next year. I really appreciate your wonderful work. - Celina
-      </p>
-    </div>
-    <div>
-      <img
-        class="img-fluid"
-        src="images/gyg5.jpg"
-      />
-      <img
-        class="img-fluid"
-        src="images/gyg6.jpg"
-      />
-      <p>
-        Missy before and after groom
-      </p>
-    </div>
-    <div>
-      <img
-        class="img-fluid"
-        src="images/gyg7.jpg"
-      />
-      <img
-        class="img-fluid"
-        src="images/gyg8.jpg"
-      />
-      <p>
-        Baxter before and after groom
-      </p>
-    </div>
-    <div>
-      <img
-        class="img-fluid"
-        src="images/gyg9.png"
-      />
-      <img
-        class="img-fluid"
-        src="images/gyg10.png"
-      />
-      <p>
-        Billie before and after groom:
-      </p>
-      <p>
-        Thank you for grooming Billie you have done a fantastic job and he looks very handsome. I hope he behaved himself. We will be in contact next time we want a groom. - Debbie
-      </p>
-    </div>
-    <div>
-      <img
-        class="img-fluid"
-        src="images/gyg11.jpg"
-      />
-      <img
-        class="img-fluid"
-        src="images/gyg12.jpg"
-      />
-      <p>
-        Rafa before and after groom
-      </p>
-    </div>
-    <div>
-      <img
-        class="img-fluid"
-        src="images/gyg13.jpg"
-      />
-      <p>
-        Rafa front view
-      </p>
-    </div>
-    <div>
-      <img
-        class="img-fluid"
-        src="images/gyg14.jpg"
-      />
-      <img
-        class="img-fluid"
-        src="images/gyg15.jpg"
-      />
-      <p>
-        Cody before and after groom
-      </p>
-    </div>
-    <div>
-      <img
-        class="img-fluid"
-        src="images/gyg16.jpg"
-      />
-      <img
-        class="img-fluid"
-        src="images/gyg17.jpg"
-      />
-      <p>
-        Zach before and after groom
-      </p>
-    </div>
-    <div>
-      <img
-        class="img-fluid"
-        src="images/gyg18.jpg"
-      />
-      <img
-        class="img-fluid"
-        src="images/gyg19.jpg"
-      />
-      <p>
-        Jax before and after groom
-      </p>
-    </div>
-    <div>
-      <img
-        class="img-fluid"
-        src="images/gyg20.jpg"
-      />
-      <img
-        class="img-fluid"
-        src="images/gyg21.jpg"
-      />
-      <p>
-        Tawnee before and after groom
-      </p>
-    </div>
-    <div>
-      <img
-        class="img-fluid"
-        src="images/gyg22.jpg"
-      />
-      <p>
-        Tawnee front view
-      </p>
     </div>
   </div>
 </div>
