@@ -21,6 +21,10 @@ p {
     padding-top: 85px;
 }
 
+img.bottom {
+    margin-bottom: 2vh;
+}
+
 /* OUR GOLDENS JUMBTRON CSS */
 #ourGoldensj {
     background-image: url('images/3dogs.jpg');
@@ -94,6 +98,15 @@ p {
 /* ADD SIREN JUMBTRON CSS */
 #sirenj {
     background-image: url("images/siren1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 85px;
+    padding: 350px;
+    margin-bottom: 0px;
+}
+
+#gygj {
+    background-image: url('images/gyg1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 85px;
@@ -743,4 +756,20 @@ td.greatGrandparents {
     .litterText {
         padding-left: 0px;
     }
+}
+
+/* GROOMING YOUR GOLDENS CSS */
+.bodyTitle.gygTitle {
+    padding-bottom: 2vh;
+}
+
+.bodyTitle.gygPhotoTitle {
+    padding-bottom: 5vh;
+}
+
+.testimonials {
+    margin-top: 0vh;
+    padding-bottom: 10vh;
+    padding-left: 70px;
+    padding-right: 30px;
 }
