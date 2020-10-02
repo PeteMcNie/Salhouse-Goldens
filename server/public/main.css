@@ -139,6 +139,9 @@ img.bottom {
     #sirenj {
         padding: 220px; 
     }
+    #gygj {
+        padding: 220px;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -165,6 +168,9 @@ img.bottom {
     }
     #sirenj {
         padding: 180px; 
+    }
+    #gygj {
+        padding: 180px;
     }
 }
 
@@ -193,6 +199,9 @@ img.bottom {
     #sirenj {
         padding: 120px; 
     }
+    #gygj {
+        padding: 120px;
+    }
 }
 
 @media screen and (max-width: 375px) {
@@ -219,6 +228,9 @@ img.bottom {
     }
     #sirenj {
         padding: 100px; 
+    }
+    #gygj {
+        padding: 100px;
     }
 }
 
@@ -768,8 +780,14 @@ td.greatGrandparents {
 }
 
 .testimonials {
-    margin-top: 0vh;
     padding-bottom: 10vh;
     padding-left: 70px;
     padding-right: 30px;
+}
+
+@media screen and (max-width: 1024px) {
+    .testimonials {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
 }
