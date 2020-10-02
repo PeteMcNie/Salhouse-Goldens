@@ -9,10 +9,10 @@ function GYGStart () {
   return (
     <>
       <div className='mainBody'>
-        <Container id='gyg'>
+        <Container >
           <Row className='row'>
             <Col lg={6} className='leftCol'>
-              <h2 className='bodyTitle'>Grooming Your Golden</h2>
+              <h2 className='bodyTitle gygTitle'>Grooming Your Golden</h2>
               <p>
                 Contact Carole on 04 566 0561 or email <a href='mailto:cmcnie@xtra.co.nz?subject=Enquiry regarding Golden Retriever grooming'>cmcnie@xtra.co.nz</a> if you are in the Wellington region (I&apos;m
                 actually in Lower Hutt) and would like your Golden groomed.
@@ -31,7 +31,7 @@ function GYGStart () {
               </div>
             </Col>
           </Row>
-          <hr className='sectionSeparator' />
+          <hr className='sectionSeparator' id='groomingTips' />
         </Container>
       </div>
     </>
