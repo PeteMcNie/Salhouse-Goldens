@@ -7,6 +7,7 @@ import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 
 import NavbarComp from '../NavbarComp'
+import OurGoldensSplider from './OurGoldensSplider'
 
 function OurGoldens () {
   return (
@@ -39,30 +40,14 @@ function OurGoldens () {
               <div>
                 <Image src="images/rob3.jpg" fluid className='litterImage' />
               </div>
-              {/* <KulaSplider /> */}
             </Col>
           </Row>
 
           <hr className='sectionSeparator' />
 
-          <Row>
-            <Col lg={6} className='leftCol'>
-              <Image src="images/christmasSitting.jpg" fluid className='litterImage' />
-              <p className='litterText'>Christmas dogs!</p>
-            </Col>
-            <Col lg={6}>
-              <Image src="images/christmasTwoSittingOneLaying.jpg" fluid className='litterImage' />
-              <p className='litterText'></p>
-            </Col>
-          </Row>
-          <Row>
-            <Col lg={6} className='leftCol'>
-              <Image src="images/wolfpack.jpg" fluid className='litterImage' />
-              <p className='litterText'></p>
-            </Col>
-            <Col lg={6}>
-              <Image src="images/fishTank.jpg" fluid className='litterImage'/>
-              <p className='litterText'></p>
+          <Row className='centerRow'>
+            <Col className='centersplider'>
+              <OurGoldensSplider />
             </Col>
           </Row>
         </Container>
