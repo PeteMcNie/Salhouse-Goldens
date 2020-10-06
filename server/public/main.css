@@ -545,6 +545,26 @@ nav.nav.nav-tabs {
     }
 }
 
+/* OUR GOLDENS SPLIDER CSS */
+img.splideImage.OG {
+    width: 500px;
+    height: auto;
+    margin-bottom: 20px;
+    margin-left: 310px;
+}
+
+.slideNavOG {
+    margin-left: 310px;
+}
+
+div#centerSplideTrack-track.splide__track {
+    margin-left: 310px;
+    margin-bottom: 5vh;
+}
+
+
+
+
 .splideImage {
     width: 555px;
     height: auto;

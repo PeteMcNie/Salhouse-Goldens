@@ -61,7 +61,7 @@ class OurGoldensSplider extends React.Component {
           </SplideSlide>
         </Splide>
 
-        <Splide options={ secondaryOptions } ref={ this.secondaryRef } className='splideNav'>
+        <Splide options={ secondaryOptions } ref={ this.secondaryRef } id='centerSplideTrack'>
           <SplideSlide>
             <Image src="images/christmasSitting.jpg"/>
           </SplideSlide>
