@@ -33,7 +33,7 @@ function Lassie () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/lassie.jpg" fluid />
+              <Image src="images/lassie.jpg" fluid className='lassie'/>
             </div>
           </Col>
         </Row>

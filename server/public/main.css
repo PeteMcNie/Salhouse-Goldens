@@ -865,3 +865,26 @@ td.greatGrandparents {
     font-size: 2.5rem;
     padding-bottom: 5vh;
 }
+
+.bottomElement {
+    margin-bottom: 5vh;
+}
+
+img.lassie {
+    /* border: greenyellow 2px solid; */
+    padding: 3vh;
+    margin: 1vh 1vw;
+}
+
+@media screen and (max-width: 768px) {
+    img.lassie {
+        margin: 1vh;
+        padding: 3vh 0vw;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    img.lassie.img-fluid {
+        margin-left: 0px;
+    }
+}
