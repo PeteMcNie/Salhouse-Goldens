@@ -23,22 +23,22 @@ function MrSlattery () {
           </Col>
         </Row>
         <Row>
-          <Col lg={4}>
+          <Col md={4}>
             <div>
-              <Image src="images/mrslattery.jpg" fluid rounded />
-              <p>Mr Slattery taking a bath</p>
+              <Image src="images/mrslattery.jpg" fluid rounded className='mrslattery' />
+              <p className='mrslatterytext'>Mr Slattery taking a bath</p>
             </div>
           </Col>
-          <Col lg={4}>
+          <Col md={4}>
             <div>
-              <Image src="images/mrslatterysun.jpg" fluid rounded/>
-              <p>Mr Slattery loves the sun!</p>
+              <Image src="images/mrslatterysun.jpg" fluid rounded className='mrslattery'/>
+              <p className='mrslatterytext'>Mr Slattery loves the sun!</p>
             </div>
           </Col>
-          <Col lg={4}>
+          <Col md={4}>
             <div>
-              <Image src="images/phoenixandmrslattery.jpg" fluid rounded />
-              <p>Phoenix would like to say &ldquo;Hello&ldquo; to Mr Slattery in person!</p>
+              <Image src="images/phoenixandmrslattery.jpg" fluid rounded className='mrslattery'/>
+              <p className='mrslatterytext'>Phoenix would like to say &ldquo;Hello&ldquo; to Mr Slattery in person!</p>
             </div>
           </Col>
         </Row>

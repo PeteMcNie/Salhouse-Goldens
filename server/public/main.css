@@ -884,15 +884,26 @@ img.maddie {
     margin: 1vh 1vw;
 }
 
+img.mrslattery {
+    width: 300px;
+    height: 300px;
+    /* border: greenyellow solid 2px; */
+}
+
 .MLWAimgtext {
     margin-left: 3vw;
     padding-bottom: 5vh;
 }
 
+
 @media screen and (max-width: 768px) {
     img.lassie {
         margin: 1vh;
         padding: 3vh 0vw;
+    }
+    img.mrslattery {
+        width: 260px;
+        height: 220px;
     }
 }
 
@@ -905,5 +916,25 @@ img.maddie {
     }
     img.maddie.img-fluid {
         margin-left: -10px;
+    }
+    img.mrslattery {
+        width: 260px;
+        height: auto;
+        margin-left: 60px;
+    }
+    .mrslatterytext {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    img.mrslattery {
+        margin-left: 30px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    img.mrslattery {
+        margin-left: 3px;
     }
 }
