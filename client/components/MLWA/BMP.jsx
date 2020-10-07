@@ -44,7 +44,7 @@ function BMP () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/maddie.jpg" fluid />
+              <Image src="images/maddie.jpg" fluid className='maddie'/>
             </div>
           </Col>
         </Row>
@@ -68,8 +68,8 @@ function BMP () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/maddie1.jpg" fluid />
-              <p>
+              <Image src="images/maddie1.jpg" fluid className='lassie'/>
+              <p className='MLWAimgtext'>
                 Maddie lived to be 15 years old and never had anything wrong with her.
               </p>
             </div>
@@ -96,8 +96,8 @@ function BMP () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/pepper.jpg" fluid />
-              <p>
+              <Image src="images/pepper.jpg" fluid className='lassie'/>
+              <p className='MLWAimgtext'>
                 This was my first experience of owning my own dog and I made some mistakes and I did some things that I now regret.
               </p>
             </div>
@@ -126,7 +126,7 @@ function BMP () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/pepperwithboys.jpg" fluid />
+              <Image src="images/pepperwithboys.jpg" fluid className='lassie'/>
             </div>
           </Col>
         </Row>
@@ -146,7 +146,7 @@ function BMP () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/happyPepper.jpg" fluid />
+              <Image src="images/happyPepper.jpg" fluid className='lassie'/>
             </div>
           </Col>
         </Row>

@@ -38,7 +38,7 @@ function HorseGreyhounds () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/topper.jpg" fluid />
+              <Image src="images/topper.jpg" fluid className='lassie'/>
             </div>
           </Col>
         </Row>
@@ -73,8 +73,8 @@ function HorseGreyhounds () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/clountieComment.jpg" fluid />
-              <p>Me with one of the greyhounds, a female whose racing name was Clountie Comment. I can&apos;t recall
+              <Image src="images/clountieComment.jpg" fluid className='lassie'/>
+              <p className='MLWAimgtext'>Me with one of the greyhounds, a female whose racing name was Clountie Comment. I can&apos;t recall
               her kennel name.</p>
             </div>
           </Col>

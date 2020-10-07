@@ -876,6 +876,19 @@ img.lassie {
     margin: 1vh 1vw;
 }
 
+img.maddie {
+    width: 600px;
+    height: auto;
+    /* border: greenyellow solid 2px; */
+    padding: 3vh;
+    margin: 1vh 1vw;
+}
+
+.MLWAimgtext {
+    margin-left: 3vw;
+    padding-bottom: 5vh;
+}
+
 @media screen and (max-width: 768px) {
     img.lassie {
         margin: 1vh;
@@ -886,5 +899,11 @@ img.lassie {
 @media screen and (max-width: 425px) {
     img.lassie.img-fluid {
         margin-left: 0px;
+    }
+    .MLWAimgtext {
+        margin-left: 1vw;
+    }
+    img.maddie.img-fluid {
+        margin-left: -10px;
     }
 }
