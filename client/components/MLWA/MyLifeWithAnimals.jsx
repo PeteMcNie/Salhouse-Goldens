@@ -16,16 +16,18 @@ function MyLifeWithAnimals () {
   return (
     <>
       <NavbarComp />
-      <StartingText />
-      <Lassie />
-      <HorseGreyhounds />
-      <BMP />
-      <MrSlattery />
-      <MunchMo />
-      <WorstNightmare />
-      <FirstGoldenRetriever />
-      <Kula />
-      <Thanks />
+      <div className='mainBodyMLWA'>
+        <StartingText />
+        <Lassie />
+        <HorseGreyhounds />
+        <BMP />
+        <MrSlattery />
+        <MunchMo />
+        <WorstNightmare />
+        <FirstGoldenRetriever />
+        <Kula />
+        <Thanks />
+      </div>
     </>
   )
 }

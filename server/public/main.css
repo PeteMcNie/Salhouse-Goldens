@@ -854,3 +854,87 @@ td.greatGrandparents {
         padding-right: 0px;
     }
 }
+
+/* CSS FOR MLWA */
+.mainBodyMLWA {
+    background-color: burlywood;
+    padding-top: 140px;
+}
+
+.bodyTitleMLWA {
+    font-size: 2.5rem;
+    padding-bottom: 5vh;
+}
+
+.bottomElement {
+    margin-bottom: 5vh;
+}
+
+img.lassie {
+    /* border: greenyellow 2px solid; */
+    padding: 3vh;
+    margin: 1vh 1vw;
+}
+
+img.maddie {
+    width: 600px;
+    height: auto;
+    /* border: greenyellow solid 2px; */
+    padding: 3vh;
+    margin: 1vh 1vw;
+}
+
+img.mrslattery {
+    width: 300px;
+    height: 300px;
+    /* border: greenyellow solid 2px; */
+}
+
+.MLWAimgtext {
+    margin-left: 3vw;
+    padding-bottom: 5vh;
+}
+
+
+@media screen and (max-width: 768px) {
+    img.lassie {
+        margin: 1vh;
+        padding: 3vh 0vw;
+    }
+    img.mrslattery {
+        width: 260px;
+        height: 220px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    img.lassie.img-fluid {
+        margin-left: 0px;
+    }
+    .MLWAimgtext {
+        margin-left: 1vw;
+    }
+    img.maddie.img-fluid {
+        margin-left: -10px;
+    }
+    img.mrslattery {
+        width: 260px;
+        height: auto;
+        margin-left: 60px;
+    }
+    .mrslatterytext {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    img.mrslattery {
+        margin-left: 30px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    img.mrslattery {
+        margin-left: 3px;
+    }
+}
