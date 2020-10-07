@@ -41,8 +41,8 @@ function Kula () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/fourFemalePuppies.jpg" fluid />
-              <p>The four female puppies in the litter - one is Kula!</p>
+              <Image src="images/fourFemalePuppies.jpg" fluid className='maddie' />
+              <p className='MLWAimgtext'>The four female puppies in the litter - one is Kula!</p>
             </div>
           </Col>
         </Row>
@@ -64,7 +64,7 @@ function Kula () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/kula.jpg" fluid />
+              <Image src="images/kula.jpg" fluid className='maddie' />
             </div>
           </Col>
         </Row>
@@ -84,7 +84,7 @@ function Kula () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/lastJumpAgility.jpg" fluid />
+              <Image src="images/lastJumpAgility.jpg" fluid className='maddie'/>
             </div>
           </Col>
         </Row>

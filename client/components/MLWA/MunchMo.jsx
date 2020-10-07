@@ -34,7 +34,7 @@ function MunchMo () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/munch.jpg" fluid />
+              <Image src="images/munch.jpg" fluid className='lassie' />
             </div>
           </Col>
         </Row>
@@ -57,7 +57,7 @@ function MunchMo () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/munchinvestigatesgarden.jpg" fluid />
+              <Image src="images/munchinvestigatesgarden.jpg" fluid className='lassie' />
             </div>
           </Col>
         </Row>
@@ -73,7 +73,7 @@ function MunchMo () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/mo.jpg" fluid />
+              <Image src="images/mo.jpg" fluid className='lassie'/>
             </div>
           </Col>
         </Row>

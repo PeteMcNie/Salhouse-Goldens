@@ -36,7 +36,7 @@ function WorstNightmare () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/peppersplashes.jpg" fluid />
+              <Image src="images/peppersplashes.jpg" fluid className='maddie'/>
             </div>
           </Col>
         </Row>
@@ -57,7 +57,7 @@ function WorstNightmare () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/pepperChristmas.jpg" fluid />
+              <Image src="images/pepperChristmas.jpg" fluid className='maddie'/>
             </div>
           </Col>
         </Row>
@@ -80,8 +80,8 @@ function WorstNightmare () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/pepperBeach.jpg" fluid />
-              <p>Our last beach walk with Pepper - still as keen as ever!</p>
+              <Image src="images/pepperBeach.jpg" fluid className='maddie'/>
+              <p className='MLWAimgtext'>Our last beach walk with Pepper - still as keen as ever!</p>
             </div>
           </Col>
         </Row>
@@ -114,7 +114,7 @@ function WorstNightmare () {
           <Col lg={6}>
             <div>
 
-              <Image src="images/pepper1.jpg" fluid />
+              <Image src="images/pepper1.jpg" fluid className='maddie'/>
             </div>
           </Col>
         </Row>
@@ -135,8 +135,8 @@ function WorstNightmare () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/pepperRiver.jpg" fluid />
-              <p>Pepper loved nothing more than to be playing at the river, soaking wet and happy!</p>
+              <Image src="images/pepperRiver.jpg" fluid className='maddie'/>
+              <p className='MLWAimgtext'>Pepper loved nothing more than to be playing at the river, soaking wet and happy!</p>
             </div>
           </Col>
         </Row>

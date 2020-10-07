@@ -40,7 +40,7 @@ function FirstGoldenRetriever () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/babyPhoenix.jpg" fluid />
+              <Image src="images/babyPhoenix.jpg" fluid className='maddie'/>
             </div>
           </Col>
         </Row>
@@ -76,7 +76,7 @@ function FirstGoldenRetriever () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/phoenixAndJake.jpg" fluid />
+              <Image src="images/phoenixAndJake.jpg" fluid className='maddie'/>
             </div>
           </Col>
         </Row>
@@ -112,7 +112,7 @@ function FirstGoldenRetriever () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/peterandNix1.jpg" fluid />
+              <Image src="images/peterandNix1.jpg" fluid className='maddie'/>
             </div>
           </Col>
         </Row>
@@ -141,7 +141,7 @@ function FirstGoldenRetriever () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/phoenixAndShoe.jpg" fluid />
+              <Image src="images/phoenixAndShoe.jpg" fluid className='maddie'/>
             </div>
           </Col>
         </Row>
