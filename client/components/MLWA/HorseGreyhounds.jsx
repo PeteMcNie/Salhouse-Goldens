@@ -44,7 +44,7 @@ function HorseGreyhounds () {
         </Row>
         <hr className='sectionSeparator' />
         <Row className='row'>
-          <Col>
+          <Col lg={6} className='leftCol'>
             <h2 className='bodyTitle'>Greyhounds</h2>
             <p>
             Once I finished school I started work at a racing greyhound kennel in the Sussex countryside. My Dad got me the job,
@@ -71,7 +71,7 @@ function HorseGreyhounds () {
             before 6am.
             </p>
           </Col>
-          <Col lg={6} className='leftCol'>
+          <Col lg={6}>
             <div>
               <Image src="images/clountieComment.jpg" fluid />
               <p>Me with one of the greyhounds, a female whose racing name was Clountie Comment. I can&apos;t recall
