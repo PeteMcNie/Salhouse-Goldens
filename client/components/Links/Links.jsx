@@ -7,7 +7,9 @@ function Links () {
   return (
     <>
       <Navbar />
-      <LinksBody />
+      <div className='mainBodyMLWA'>
+        <LinksBody />
+      </div>
     </>
   )
 }

@@ -938,3 +938,21 @@ img.mrslattery {
         margin-left: 3px;
     }
 }
+
+/* CSS LINKS AND CONTACTS PAGES */
+img.linksimage {
+        width: 600px;
+        height: auto;
+        /* border: greenyellow solid 2px; */
+        margin: 8vh 1vw;
+}
+
+.linkslastline {
+    min-height: calc(45vh - 50px);
+}
+
+@media screen and (max-width: 768px) {
+    .linkslastline {
+        min-height: 0px;
+    }
+}
