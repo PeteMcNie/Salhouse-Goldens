@@ -29,7 +29,6 @@ function LinksBody () {
           </Col>
         </Row>
       </Container>
-
     </>
   )
 }

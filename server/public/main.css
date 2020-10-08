@@ -943,7 +943,6 @@ img.mrslattery {
 img.linksimage {
         width: 600px;
         height: auto;
-        /* border: greenyellow solid 2px; */
         margin: 8vh 1vw;
 }
 
@@ -954,5 +953,49 @@ img.linksimage {
 @media screen and (max-width: 768px) {
     .linkslastline {
         min-height: 0px;
+    }
+}
+
+.contact {
+    text-align: center;
+}
+
+div.contactInfo {
+    padding: 12vh;
+}
+
+.contactText {
+    font-size: 2rem;
+}
+
+@media screen and (max-width: 1024px) {
+    .contact {
+        text-align: left;
+    }
+    div.contactInfo {
+        padding: 7vh 0vw 18vh 0vw;
+  
+    }
+}
+
+@media screen and (max-width: 768px) {
+    div.contactInfo {
+        padding: 5vh 0vw 0vh 0vw;
+  
+    }
+    .contactText {
+        font-size: 2rem;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .contactText {
+        font-size: 1.5rem;
+    }
+    .imagelastline {
+        min-height: calc(70vh - 50px);
+    }
+    img.linksimage.img-fluid {
+        margin-left: -10px;
     }
 }
