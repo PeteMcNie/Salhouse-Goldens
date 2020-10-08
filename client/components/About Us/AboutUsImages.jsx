@@ -8,7 +8,6 @@ import Col from 'react-bootstrap/Col'
 function AboutUsImages () {
   return (
     <div>
-      <h3>Photos</h3>
       <Container>
         <Row>
           <Col xs={6} md={4}>
