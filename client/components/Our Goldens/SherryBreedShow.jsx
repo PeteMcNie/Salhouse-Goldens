@@ -9,7 +9,7 @@ import Table from 'react-bootstrap/Table'
 function SherryBreedShow () {
   return (
     <>
-     <div className='mainBody'>
+      <div className='mainBody'>
         <Container>
           <Row className='row'>
             <Col>

@@ -987,3 +987,43 @@ div.tableDiv.last {
 p.bottomtext {
     padding-bottom: 5vh;
 }
+
+/* CSS SHERRY OBEDINENCE PAGE */
+.obediencetitle  {
+    font-size: 2rem;
+}
+
+.obedienceimagetop {
+    /* border: greenyellow solid 2px; */
+    width: 400px;
+    height: auto;
+    margin: 0vh 0vw 2vh 0vw;
+}
+
+.obedienceimage {
+    /* border: orangered solid 2px; */
+    width: 550px;
+    height: auto;
+    margin: 0vh 0vw 2vh 0vw;
+}
+
+.obedienceimagevideo {
+    /* border: orangered solid 2px; */
+    width: 550px;
+    height: auto;
+    margin: 0vh 0vw 2vh 0vw;
+}
+
+@media screen and (max-width: 1024px) {
+    .obedienceimagevideo {
+        width: initial;
+        height: initial;
+        margin: 0vh 0vw 2vh 0vw;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .obediencetitle  {
+        display: none;
+    }
+}
