@@ -106,66 +106,100 @@ exports[`Links component matches snapshot 1`] = `
     </div>
   </nav>
   <div
-    class="belowNavbar"
+    class="mainBodyMLWA"
   >
-    <h2>
-      Links
-    </h2>
-    <p>
-      Our favourite links:
-    </p>
-    <p>
-      <a
-        href="https://www.mistymoorgoldens.com/"
+    <div
+      class="container"
+    >
+      <div
+        class="row row"
       >
-        Mistymoor Golden Retrievers
-      </a>
-      (home of NZ CH Santamaria The Patriot, Shadow's Sire)
-    </p>
-    <p>
-      <a
-        href="https://sandlewoodgoldens.com/"
-      >
-        Sandlewood Golden Retrievers
-      </a>
-      (home of CH Sandlewood Gamble With Gold, Sherry's Sire)
-    </p>
-    <p>
-      <a
-        href="https://www.dogsnz.org.nz/breeds/golden-retriever"
-      >
-        New Zealand official breed standard
-      </a>
-      (breed standard for golden retrievers in New Zealand)
-    </p>
-    <p>
-      <a
-        href="https://en.wikipedia.org/wiki/Golden_Retriever"
-      >
-        Wikipedia Golden Retrievers
-      </a>
-    </p>
-    <p>
-      <a
-        href="http://cgrcnz.org/"
-      >
-        Central Golden Retriever Club
-      </a>
-    </p>
-    <p>
-      <a
-        href="https://keridale.com/"
-      >
-        Keridale Golden Retrievers
-      </a>
-      (another good breeder's website in New Zealand)
-    </p>
-  </div>
-  <div>
-    <img
-      class="img-fluid"
-      src="images/link1.jpg"
-    />
+        <div
+          class="leftCol col-lg-6"
+        >
+          <h2
+            class="bodyTitle"
+          >
+            Links
+          </h2>
+          <p>
+            Our favourite links:
+          </p>
+          <ul>
+            <li>
+              <p>
+                <a
+                  href="https://www.mistymoorgoldens.com/"
+                >
+                  Mistymoor Golden Retrievers
+                </a>
+                 (home of NZ CH Santamaria The Patriot, Shadow's Sire)
+              </p>
+            </li>
+            <li>
+              <p>
+                <a
+                  href="https://sandlewoodgoldens.com/"
+                >
+                  Sandlewood Golden Retrievers
+                </a>
+                 (home of CH Sandlewood Gamble With Gold, Sherry's Sire)
+              </p>
+            </li>
+            <li>
+              <p>
+                <a
+                  href="https://www.dogsnz.org.nz/breeds/golden-retriever"
+                >
+                  New Zealand official breed standard
+                </a>
+                 (breed standard for golden retrievers in New Zealand)
+              </p>
+            </li>
+            <li>
+              <p>
+                <a
+                  href="https://en.wikipedia.org/wiki/Golden_Retriever"
+                >
+                  Wikipedia Golden Retrievers
+                </a>
+              </p>
+            </li>
+            <li>
+              <p>
+                <a
+                  href="http://cgrcnz.org/"
+                >
+                  Central Golden Retriever Club
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                class="linkslastline"
+              >
+                <a
+                  href="https://keridale.com/"
+                >
+                  Keridale Golden Retrievers
+                </a>
+                 (another good breeder's website in New Zealand)
+              </p>
+            </li>
+          </ul>
+        </div>
+        <div
+          class="col-lg-6"
+        >
+          <div>
+            <img
+              class="linksimage img-fluid"
+              src="images/link1.jpg"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 `;

@@ -106,31 +106,61 @@ exports[`Contact component to match snapshot 1`] = `
     </div>
   </nav>
   <div
-    class="belowNavbar"
+    class="mainBodyMLWA"
   >
-    <h2>
-      Contact Us
-    </h2>
-    <p>
-      Phone: +64 4 566 0561
-    </p>
-    <p>
-      Email: 
-      <a
-        href="mailto:cmcnie@xtra.co.nz"
+    <div
+      class="container"
+    >
+      <div
+        class="row row"
       >
-        cmcnie@xtra.co.nz
-      </a>
-    </p>
-    <p>
-      Lower Hutt, New Zealand
-    </p>
-  </div>
-  <div>
-    <img
-      class="img-fluid"
-      src="images/contact1.jpg"
-    />
+        <div
+          class="contact col-lg-6"
+        >
+          <h2
+            class="bodyTitle"
+          >
+            Contact
+          </h2>
+          <div
+            class="contactInfo"
+          >
+            <p
+              class="contactText"
+            >
+              Phone: +64 4 566 0561
+            </p>
+            <p
+              class="contactText"
+            >
+              Email: 
+              <a
+                href="mailto:cmcnie@xtra.co.nz"
+              >
+                cmcnie@xtra.co.nz
+              </a>
+            </p>
+            <p
+              class="linkslastline contactText"
+            >
+              Lower Hutt, New Zealand
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-lg-6"
+        >
+          <div
+            class="imagelastline"
+          >
+            <img
+              class="linksimage img-fluid rounded-circle"
+              src="images/contact1.jpg"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 `;

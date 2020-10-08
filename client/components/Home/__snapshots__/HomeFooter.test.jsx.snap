@@ -237,7 +237,7 @@ exports[`HomeFooter component to match snapshot 1`] = `
             Welcome to Salhouse Golden Retrievers
           </h2>
           <p>
-            I am a dog lover who fell in love with this beautiful breed when I was a child in England. If you would like to read the story of the animals in my life please go to the 
+            I am a dog lover who fell in love with this beautiful breed when I was a child in England. If you would like to read the story of the animals in my life please visit the 
             <a
               href="/mylifewithanimals"
             >
@@ -301,6 +301,9 @@ exports[`HomeFooter component to match snapshot 1`] = `
           </p>
         </div>
       </div>
+      <hr
+        class="sectionSeparator"
+      />
     </div>
     <div>
       <div
@@ -312,7 +315,6 @@ exports[`HomeFooter component to match snapshot 1`] = `
           <div
             class="leftCol col"
           >
-            <hr />
             <p>
               Using images from this website:
             </p>

@@ -7,7 +7,9 @@ function Contact () {
   return (
     <>
       <Navbar />
-      <ContactBody />
+      <div className='mainBodyMLWA'>
+        <ContactBody />
+      </div>
     </>
   )
 }

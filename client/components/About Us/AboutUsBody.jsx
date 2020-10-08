@@ -3,7 +3,6 @@ import React from 'react'
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
-// import Image from 'react-bootstrap/Image'
 
 function AboutUsBody () {
   return (
@@ -34,6 +33,7 @@ function AboutUsBody () {
             </p>
           </Col>
         </Row>
+        <hr className='sectionSeparator' />
         <Row className='row'>
           <Col>
             <h2 className='bodyTitle'>Where &apos;Salhouse&apos; comes from</h2>
