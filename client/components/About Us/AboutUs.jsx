@@ -8,8 +8,10 @@ const AboutUs = () => {
   return (
     <>
       <NavbarComp />
-      <AboutUsBody />
-      <AboutUsImages />
+      <div className='mainBodyMLWA'>
+        <AboutUsBody />
+        <AboutUsImages />
+      </div>
     </>
   )
 }
