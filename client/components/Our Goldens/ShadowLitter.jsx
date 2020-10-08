@@ -22,7 +22,7 @@ function ShadowLitter () {
             </Col>
             <Col md={6}>
               <Image src="images/sl2.jpg" fluid className='litterMainImage'/>
-              <p className='litterMainText'>Gambler<a href='https://www.mistymoorgoldens.com/'>(NZ CH Santamaria The Patriot)</a></p>
+              <p className='litterMainText'>Gambler<a href='https://www.mistymoorgoldens.com/'> (NZ CH Santamaria The Patriot)</a></p>
             </Col>
           </Row>
           <Row>

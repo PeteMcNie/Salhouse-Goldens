@@ -10,7 +10,6 @@ function HomeFooter () {
       <Container>
         <Row className='row'>
           <Col className='leftCol'>
-            <hr />
             <p>
               Using images from this website:
             </p>

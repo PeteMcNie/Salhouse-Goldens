@@ -33,6 +33,7 @@ function AboutUsBody () {
             </p>
           </Col>
         </Row>
+        <hr className='sectionSeparator' />
         <Row className='row'>
           <Col>
             <h2 className='bodyTitle'>Where &apos;Salhouse&apos; comes from</h2>

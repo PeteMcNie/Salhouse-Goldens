@@ -13,7 +13,7 @@ function HomeBody () {
             <h2 className='bodyTitle'>Welcome to Salhouse Golden Retrievers</h2>
             <p>
               I am a dog lover who fell in love with this beautiful breed when I was a child in England.
-              If you would like to read the story of the animals in my life please go to the <a href='/mylifewithanimals'>My Life with Animals</a> page.
+              If you would like to read the story of the animals in my life please visit the <a href='/mylifewithanimals'>My Life with Animals</a> page.
             </p>
             <p>
               The golden retrievers in the above photograph are <a href='/tuppence'>Tuppence</a>, <a href='/shadow'>Shadow</a>,
@@ -54,6 +54,7 @@ function HomeBody () {
             </p>
           </Col>
         </Row>
+        <hr className='sectionSeparator' />
       </Container>
     </>
   )

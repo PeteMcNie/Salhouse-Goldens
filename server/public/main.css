@@ -4,8 +4,6 @@
 
 body {
     font-family: 'Forum', cursive;
-    /* background-color: #ea9a96; */
-    /* font-family: 'Quicksand', sans-serif; */
 }
 
 p {
@@ -22,7 +20,7 @@ p {
 }
 
 img.bottom {
-    margin-bottom: 2vh;
+    margin-bottom: 6vh;
 }
 
 /* OUR GOLDENS JUMBTRON CSS */
@@ -264,27 +262,6 @@ img.bottom {
     }
 }
 
-/* @media screen and (max-width: 1440px) {
-    .line {
-        height: 1px;
-        border: 1px solid rgb(134, 95, 95);
-        margin-left: -13vw;
-        margin-right: 44vw;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .line {
-        margin-right: 34vw;
-    }
-}
-
-@media screen and (max-width: 425px) {
-    .line {
-        visibility: hidden;
-    }
-} */
-
 /* TABS CSS */
 nav.nav.nav-tabs {
     font-size: 2rem;
@@ -479,27 +456,20 @@ nav.nav.nav-tabs {
     }
     #controlled-tab-example-tab-shadowHome {
         width: 310px;
-        /* font-size: initial; */
         padding-top: 1vh;
     }
     
     #controlled-tab-example-tab-shadowLitter.nav-item.nav-link {
         width: 310px;
-        /* font-size: 1.3rem;
-        padding-top: 1vh; */
     }
     
     #controlled-tab-example-tab-breedShowAchievements {
         width: 310px;
-        /* font-size: 1.3rem;
-        padding-top: 1vh;
-        padding-bottom: 1vh; */
     }
     .nav-item.nav-link {
         margin: 0px 1vw;
     }
 }
-
 
 .nav-item.nav-link.active {
     background-color: burlywood;
@@ -507,7 +477,8 @@ nav.nav.nav-tabs {
 
 /* MAIN BODY OF DOGS COMPONENTS */
 .bodyTitle {
-    font-size: 2.5rem;
+    font-size: 3.5rem;
+    padding-bottom: 5vh;
 }
 
 .mainBody {
@@ -552,10 +523,6 @@ img.splideImage.OG {
     margin-bottom: 20px;
     margin-left: 310px;
 }
-
-/* .slideNavOG {
-    margin-left: 310px;
-} */
 
 div#centerSplideTrack-track.splide__track {
     margin-left: 310px;
@@ -862,7 +829,7 @@ td.greatGrandparents {
 }
 
 .bodyTitleMLWA {
-    font-size: 2.5rem;
+    font-size: 3.5rem;
     padding-bottom: 5vh;
 }
 
@@ -947,7 +914,7 @@ img.linksimage {
 }
 
 .linkslastline {
-    min-height: calc(45vh - 50px);
+    min-height: calc(50vh - 50px);
 }
 
 @media screen and (max-width: 768px) {
@@ -961,7 +928,7 @@ img.linksimage {
 }
 
 div.contactInfo {
-    padding: 12vh;
+    padding: 6vh;
 }
 
 .contactText {
@@ -973,14 +940,14 @@ div.contactInfo {
         text-align: left;
     }
     div.contactInfo {
-        padding: 7vh 0vw 18vh 0vw;
+        padding: 3vh 0vw 18vh 0vw;
   
     }
 }
 
 @media screen and (max-width: 768px) {
     div.contactInfo {
-        padding: 5vh 0vw 0vh 0vw;
+        padding: 1vh 0vw 0vh 0vw;
   
     }
     .contactText {
@@ -993,7 +960,7 @@ div.contactInfo {
         font-size: 1.5rem;
     }
     .imagelastline {
-        min-height: calc(70vh - 50px);
+        min-height: calc(60vh - 50px);
     }
     img.linksimage.img-fluid {
         margin-left: -10px;
