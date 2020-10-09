@@ -1,0 +1,40 @@
+name: deployToNetlifyOnPush
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install modules
+        run: npm i
+      - name: Run lint
+        run: npm run lint
+      - name: testWithJest
+        run: npm run test
+
+ publishOnMasterRelease:
+    name: Publish release to Netlify
+    needs: [tests]
+    runs-on: ubuntu-latest
+    if: github.event_name == 'release' && github.event.action == 'created'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v1
+
+      - name: Start webpack build
+        uses: npm run build
+      # ... your other build steps to produce a build directory
+      # e.g. `yarn build` for create-react-app
+
+      - name: Deploy production to Netlify
+        uses: South-Paw/action-netlify-deploy@v1.0.4
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          netlify-auth-token: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          netlify-site-id: ${{ secrets.NETLIFY_SITE_ID }}
+          build-dir: './server/public'
