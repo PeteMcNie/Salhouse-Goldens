@@ -120,11 +120,6 @@ exports[`AboutUs component to match snapshot 1`] = `
           <h2
             class="bodyTitle"
           >
-            About Us
-          </h2>
-          <h2
-            class="bodyTitle"
-          >
             What we are about
           </h2>
           <p>
@@ -140,31 +135,36 @@ exports[`AboutUs component to match snapshot 1`] = `
       </div>
       <hr
         class="sectionSeparator"
+        id="salhouse"
       />
       <div
-        class="row row"
+        class="mainBody"
       >
         <div
-          class="col"
+          class="row row"
         >
-          <h2
-            class="bodyTitle"
+          <div
+            class="col"
           >
-            Where 'Salhouse' comes from
-          </h2>
-          <p>
-            When I was a child we used to go for boating holidays on the Norfolk Broads in Norfolk, England. These were happy days and there was one Broad called Salhouse Broad that I can remember we had great fun at. It was a beautiful Broad and we moored there for the night and got up to all sorts of mischief, jumping off the boat into the water, playing on the shore - cricket, football, climbing trees etc. Anyway, when I was wanting to get a name for my kennel I decided I wanted a name that my Dad (who has since passed away) would recognise and something that meant happy times with him to me. I went through a lot of names and in fact could have picked any of them, but in the end I decided on Salhouse which will forever remind me of my Dad and my happy holidays on the Broads.
-          </p>
-          <p>
-            The litter of puppies that Kula had in 2006 all were given pedigree names of cruisers that were on the Norfolk Broads with the word “Sun“ in them. Hence, Salhouse Sunchaser, Sundancer, Sunburst etc.  We have continued on with this tradition with Shadow's litter naming them Golden Light at Salhouse, Prince of Light at Salhouse, etc.
-          </p>
-          <p>
-            <a
-              href="https://www.salhousebroad.org.uk/"
+            <h2
+              class="bodyTitle"
             >
-              https://www.salhousebroad.org.uk/
-            </a>
-          </p>
+              Where 'Salhouse' comes from
+            </h2>
+            <p>
+              When I was a child we used to go for boating holidays on the Norfolk Broads in Norfolk, England. These were happy days and there was one Broad called Salhouse Broad that I can remember we had great fun at. It was a beautiful Broad and we moored there for the night and got up to all sorts of mischief, jumping off the boat into the water, playing on the shore - cricket, football, climbing trees etc. Anyway, when I was wanting to get a name for my kennel I decided I wanted a name that my Dad (who has since passed away) would recognise and something that meant happy times with him to me. I went through a lot of names and in fact could have picked any of them, but in the end I decided on Salhouse which will forever remind me of my Dad and my happy holidays on the Broads.
+            </p>
+            <p>
+              The litter of puppies that Kula had in 2006 all were given pedigree names of cruisers that were on the Norfolk Broads with the word “Sun“ in them. Hence, Salhouse Sunchaser, Sundancer, Sunburst etc.  We have continued on with this tradition with Shadow's litter naming them Golden Light at Salhouse, Prince of Light at Salhouse, etc.
+            </p>
+            <p>
+              <a
+                href="https://www.salhousebroad.org.uk/"
+              >
+                https://www.salhousebroad.org.uk/
+              </a>
+            </p>
+          </div>
         </div>
       </div>
     </div>
