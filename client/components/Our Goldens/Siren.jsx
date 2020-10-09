@@ -14,10 +14,10 @@ function Siren () {
     <>
       <NavbarComp />
       <Jumbotron id='sirenj' fluid>
-        <div>
+        {/* <div>
           <h1 className='jumbotronTitle'>Siren</h1>
           <p className='line siren'></p>
-        </div>
+        </div> */}
       </Jumbotron>
       <div className='mainBody'>
         <Container>

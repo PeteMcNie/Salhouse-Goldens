@@ -16,10 +16,10 @@ function ShadowHome () {
     <>
       <NavbarComp />
       <Jumbotron id='shadowj' fluid>
-        <div>
+        {/* <div>
           <h1 className='jumbotronTitle shad'>Shadow</h1>
           <p className='line shad'></p>
-        </div>
+        </div> */}
       </Jumbotron>
       <Tabs
         id="controlled-tab-example"

@@ -14,10 +14,10 @@ function OurGoldens () {
     <>
       <NavbarComp />
       <Jumbotron id='ourGoldensj' fluid>
-        <div>
+        {/* <div>
           <h1 className='jumbotronTitle oourgoldens'>Our Goldens</h1>
           <p className='line'></p>
-        </div>
+        </div> */}
       </Jumbotron>
       <div className='mainBody'>
         <Container>

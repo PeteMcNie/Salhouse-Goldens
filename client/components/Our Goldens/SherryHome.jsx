@@ -17,10 +17,10 @@ function SherryHome () {
     <>
       <NavbarComp />
       <Jumbotron id='sherryj' fluid>
-        <div>
+        {/* <div>
           <h1 className='jumbotronTitle sherry'>Sherry</h1>
           <p className='line'></p>
-        </div>
+        </div> */}
       </Jumbotron>
       <Tabs
         id="controlled-tab-example"
