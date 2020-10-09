@@ -15,10 +15,10 @@ function AutumnHome () {
     <>
       <NavbarComp />
       <Jumbotron id='autumnj' fluid>
-        <div>
+        {/* <div>
           <h1 className='jumbotronTitle autumn'>Autumn</h1>
           <p className='line'></p>
-        </div>
+        </div> */}
       </Jumbotron>
       <Tabs
         id="controlled-tab-example"

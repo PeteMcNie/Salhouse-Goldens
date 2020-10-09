@@ -14,10 +14,10 @@ function Tuppence () {
     <>
       <NavbarComp />
       <Jumbotron id='tuppencej' fluid>
-        <div>
+        {/* <div>
           <h1 className='jumbotronTitle tuppence'>Tuppence</h1>
           <p className='line'></p>
-        </div>
+        </div> */}
       </Jumbotron>
       <div className='mainBody'>
         <Container>

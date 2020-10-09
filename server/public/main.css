@@ -4,6 +4,11 @@
 
 body {
     font-family: 'Forum', cursive;
+    color: white;
+}
+
+p a {
+    color: rgb(23, 23, 24);
 }
 
 p {
@@ -22,6 +27,22 @@ p {
 img.bottom {
     margin-bottom: 6vh;
 }
+
+/*  NAVBAR CSS */
+a.dropdown-item:hover {
+    background-color:#bf9075;
+    color: white;
+}
+a.dropdown-item:active {
+    background-color: #bf9075;
+    color: white;
+}
+a.dropdown-item.active.dropdown-item:hover {
+    background-color: #bf9075;
+    color: white;
+}
+
+
 
 /* OUR GOLDENS JUMBTRON CSS */
 #ourGoldensj {
@@ -265,16 +286,16 @@ img.bottom {
 /* TABS CSS */
 nav.nav.nav-tabs {
     font-size: 2rem;
-    background-color: rgb(230, 215, 197);
+    background-color: #f8f9fa;
 }
 
 .nav-item.nav-link {
     font-size: 2rem;
     text-align: center;
-    color: rgb(212, 212, 212);
+    color: #000000;
     width: 650px;
-    margin: 0px 2vw;
-    background-color: rgb(78, 78, 78);
+    /* margin: 0px 2vw; */
+    background-color: #f8f9fa;
     cursor: pointer;
     border: none;
 }
@@ -472,7 +493,8 @@ nav.nav.nav-tabs {
 }
 
 .nav-item.nav-link.active {
-    background-color: burlywood;
+    background-color: #a7753d;
+    color: white;
 } 
 
 /* MAIN BODY OF DOGS COMPONENTS */
@@ -482,7 +504,7 @@ nav.nav.nav-tabs {
 }
 
 .mainBody {
-    background-color: burlywood;
+    background-color: #a7753d;
     padding-top: 2rem;
 }
 

@@ -15,10 +15,10 @@ function KulaHome () {
     <>
       <NavbarComp />
       <Jumbotron id='kulaj' fluid>
-        <div>
+        {/* <div>
           <h1 className='jumbotronTitle kula'>Kula</h1>
           <p className='line'></p>
-        </div>
+        </div> */}
       </Jumbotron>
       <Tabs
         id="tabs"
