@@ -1,0 +1,410 @@
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Code coverage report for components/MLWA/WorstNightmare.jsx</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="../../prettify.css" />
+    <link rel="stylesheet" href="../../base.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="../../favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style type='text/css'>
+        .coverage-summary .sorter {
+            background-image: url(../../sort-arrow-sprite.png);
+        }
+    </style>
+</head>
+    
+<body>
+<div class='wrapper'>
+    <div class='pad1'>
+        <h1><a href="../../index.html">All files</a> / <a href="index.html">components/MLWA</a> WorstNightmare.jsx</h1>
+        <div class='clearfix'>
+            
+            <div class='fl pad1y space-right2'>
+                <span class="strong">100% </span>
+                <span class="quiet">Statements</span>
+                <span class='fraction'>1/1</span>
+            </div>
+        
+            
+            <div class='fl pad1y space-right2'>
+                <span class="strong">100% </span>
+                <span class="quiet">Branches</span>
+                <span class='fraction'>0/0</span>
+            </div>
+        
+            
+            <div class='fl pad1y space-right2'>
+                <span class="strong">100% </span>
+                <span class="quiet">Functions</span>
+                <span class='fraction'>1/1</span>
+            </div>
+        
+            
+            <div class='fl pad1y space-right2'>
+                <span class="strong">100% </span>
+                <span class="quiet">Lines</span>
+                <span class='fraction'>1/1</span>
+            </div>
+        
+            
+        </div>
+        <p class="quiet">
+            Press <em>n</em> or <em>j</em> to go to the next uncovered block, <em>b</em>, <em>p</em> or <em>k</em> for the previous block.
+        </p>
+    </div>
+    <div class='status-line high'></div>
+    <pre><table class="coverage">
+<tr><td class="line-count quiet"><a name='L1'></a><a href='#L1'>1</a>
+<a name='L2'></a><a href='#L2'>2</a>
+<a name='L3'></a><a href='#L3'>3</a>
+<a name='L4'></a><a href='#L4'>4</a>
+<a name='L5'></a><a href='#L5'>5</a>
+<a name='L6'></a><a href='#L6'>6</a>
+<a name='L7'></a><a href='#L7'>7</a>
+<a name='L8'></a><a href='#L8'>8</a>
+<a name='L9'></a><a href='#L9'>9</a>
+<a name='L10'></a><a href='#L10'>10</a>
+<a name='L11'></a><a href='#L11'>11</a>
+<a name='L12'></a><a href='#L12'>12</a>
+<a name='L13'></a><a href='#L13'>13</a>
+<a name='L14'></a><a href='#L14'>14</a>
+<a name='L15'></a><a href='#L15'>15</a>
+<a name='L16'></a><a href='#L16'>16</a>
+<a name='L17'></a><a href='#L17'>17</a>
+<a name='L18'></a><a href='#L18'>18</a>
+<a name='L19'></a><a href='#L19'>19</a>
+<a name='L20'></a><a href='#L20'>20</a>
+<a name='L21'></a><a href='#L21'>21</a>
+<a name='L22'></a><a href='#L22'>22</a>
+<a name='L23'></a><a href='#L23'>23</a>
+<a name='L24'></a><a href='#L24'>24</a>
+<a name='L25'></a><a href='#L25'>25</a>
+<a name='L26'></a><a href='#L26'>26</a>
+<a name='L27'></a><a href='#L27'>27</a>
+<a name='L28'></a><a href='#L28'>28</a>
+<a name='L29'></a><a href='#L29'>29</a>
+<a name='L30'></a><a href='#L30'>30</a>
+<a name='L31'></a><a href='#L31'>31</a>
+<a name='L32'></a><a href='#L32'>32</a>
+<a name='L33'></a><a href='#L33'>33</a>
+<a name='L34'></a><a href='#L34'>34</a>
+<a name='L35'></a><a href='#L35'>35</a>
+<a name='L36'></a><a href='#L36'>36</a>
+<a name='L37'></a><a href='#L37'>37</a>
+<a name='L38'></a><a href='#L38'>38</a>
+<a name='L39'></a><a href='#L39'>39</a>
+<a name='L40'></a><a href='#L40'>40</a>
+<a name='L41'></a><a href='#L41'>41</a>
+<a name='L42'></a><a href='#L42'>42</a>
+<a name='L43'></a><a href='#L43'>43</a>
+<a name='L44'></a><a href='#L44'>44</a>
+<a name='L45'></a><a href='#L45'>45</a>
+<a name='L46'></a><a href='#L46'>46</a>
+<a name='L47'></a><a href='#L47'>47</a>
+<a name='L48'></a><a href='#L48'>48</a>
+<a name='L49'></a><a href='#L49'>49</a>
+<a name='L50'></a><a href='#L50'>50</a>
+<a name='L51'></a><a href='#L51'>51</a>
+<a name='L52'></a><a href='#L52'>52</a>
+<a name='L53'></a><a href='#L53'>53</a>
+<a name='L54'></a><a href='#L54'>54</a>
+<a name='L55'></a><a href='#L55'>55</a>
+<a name='L56'></a><a href='#L56'>56</a>
+<a name='L57'></a><a href='#L57'>57</a>
+<a name='L58'></a><a href='#L58'>58</a>
+<a name='L59'></a><a href='#L59'>59</a>
+<a name='L60'></a><a href='#L60'>60</a>
+<a name='L61'></a><a href='#L61'>61</a>
+<a name='L62'></a><a href='#L62'>62</a>
+<a name='L63'></a><a href='#L63'>63</a>
+<a name='L64'></a><a href='#L64'>64</a>
+<a name='L65'></a><a href='#L65'>65</a>
+<a name='L66'></a><a href='#L66'>66</a>
+<a name='L67'></a><a href='#L67'>67</a>
+<a name='L68'></a><a href='#L68'>68</a>
+<a name='L69'></a><a href='#L69'>69</a>
+<a name='L70'></a><a href='#L70'>70</a>
+<a name='L71'></a><a href='#L71'>71</a>
+<a name='L72'></a><a href='#L72'>72</a>
+<a name='L73'></a><a href='#L73'>73</a>
+<a name='L74'></a><a href='#L74'>74</a>
+<a name='L75'></a><a href='#L75'>75</a>
+<a name='L76'></a><a href='#L76'>76</a>
+<a name='L77'></a><a href='#L77'>77</a>
+<a name='L78'></a><a href='#L78'>78</a>
+<a name='L79'></a><a href='#L79'>79</a>
+<a name='L80'></a><a href='#L80'>80</a>
+<a name='L81'></a><a href='#L81'>81</a>
+<a name='L82'></a><a href='#L82'>82</a>
+<a name='L83'></a><a href='#L83'>83</a>
+<a name='L84'></a><a href='#L84'>84</a>
+<a name='L85'></a><a href='#L85'>85</a>
+<a name='L86'></a><a href='#L86'>86</a>
+<a name='L87'></a><a href='#L87'>87</a>
+<a name='L88'></a><a href='#L88'>88</a>
+<a name='L89'></a><a href='#L89'>89</a>
+<a name='L90'></a><a href='#L90'>90</a>
+<a name='L91'></a><a href='#L91'>91</a>
+<a name='L92'></a><a href='#L92'>92</a>
+<a name='L93'></a><a href='#L93'>93</a>
+<a name='L94'></a><a href='#L94'>94</a>
+<a name='L95'></a><a href='#L95'>95</a>
+<a name='L96'></a><a href='#L96'>96</a>
+<a name='L97'></a><a href='#L97'>97</a>
+<a name='L98'></a><a href='#L98'>98</a>
+<a name='L99'></a><a href='#L99'>99</a>
+<a name='L100'></a><a href='#L100'>100</a>
+<a name='L101'></a><a href='#L101'>101</a>
+<a name='L102'></a><a href='#L102'>102</a>
+<a name='L103'></a><a href='#L103'>103</a>
+<a name='L104'></a><a href='#L104'>104</a>
+<a name='L105'></a><a href='#L105'>105</a>
+<a name='L106'></a><a href='#L106'>106</a>
+<a name='L107'></a><a href='#L107'>107</a>
+<a name='L108'></a><a href='#L108'>108</a>
+<a name='L109'></a><a href='#L109'>109</a>
+<a name='L110'></a><a href='#L110'>110</a>
+<a name='L111'></a><a href='#L111'>111</a></td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span></td><td class="text"><pre class="prettyprint lang-js">import React from 'react'
+&nbsp;
+import Image from 'react-bootstrap/Image'
+&nbsp;
+function WorstNightmare () {
+  return (
+    &lt;&gt;
+      &lt;div&gt;
+        &lt;h3&gt;Worst nightmare&lt;/h3&gt;
+        &lt;p&gt;
+            Then in December 2001 Pepper went off her food. She was the sort of dog that ate ravenously. It didn’t matter how
+            much food was in her bowl, it all went within about 10 seconds, and heaven help anyone who got near. I had tried
+            over the years to get her to let me stroke her while she was eating or to move the bowl. I did have some success
+            but would never have trusted her with the kids so guarded her while she ate – which didn’t take much time out of
+            my day due to the speed of this process! I can’t tell you how scary it is to have an animal that you love start to
+            get sick and for there to seem to be nothing you can do about it. For the previous two winters, Pepper had been
+            allowed to sleep inside every night as my conscience had been getting to me and I had started to think that there
+            was a better way to look after this dog at home. I also had her in the lounge during the day when the kids weren’t
+            around and the weather was bad.
+        &lt;/p&gt;
+        &lt;p&gt;
+            None of this prepared me for what was about to happen. I took Pepper to the vet and he did the usual process ...
+            antibiotics first ... when that didn’t work he took blood tests ... when those came back with slight abnormalities
+            he did another blood test. Pepper and I would walk down the vet and she would stop at the door to the vet in the
+            morning and I remember thinking that this beautiful creature has no idea that this place is possibly going to be
+            where she ends her life one day. All the days that these tests were taking, Pepper wasn’t eating. I tried everything
+            that I could think of. She certainly wasn’t eating her dried dog food. For a while she nibbled a bit of wet food. I
+            would offer her some of our tea, I would buy things for her to try, but mostly to no avail. I was watching this
+            lovely, active but slim dog become even slimmer.
+        &lt;/p&gt;
+        &lt;Image src="images/peppersplashes.jpg" fluid /&gt;
+        &lt;p&gt;
+            We went through Christmas that year with a bit of a struggle. We usually bought Pepper some doggie choc drops for
+            Christmas, but this year she opened her present but wasn’t interested in eating. I was worried sick about her. The
+            final blood test that she had showed the possibility of something wrong with the liver. One day the vet talked to
+            me about the fact that if Pepper wasn’t eating, she would probably die and that while she seemed ok she could go on
+            but there could be a time when it would be best to put her to sleep to speed up the inevitable. I talked to him
+            about what else could be done. The fact was that at that time, Pepper was still enjoying walks and seemed quite
+            energetic. I still to this day don’t know how she managed that with the tiny amount of food that she had had for a
+            couple of weeks. The vet said that he could do a biopsy on the liver to see what was wrong with the hope that he
+            would be able to find a cure. We were lucky at this time that we were in a position to try anything to save Pepper.
+            So we agreed that she would go in for the biopsy on Monday.
+        &lt;/p&gt;
+        &lt;Image src="images/pepperChristmas.jpg" fluid /&gt;
+        &lt;p&gt;
+            That weekend Rob and I took Pepper to her favourite walks. We walked down the river and she gambolled along in front
+            of us. Probably not quite as racey as normal, but still enjoying it. We sat down on the grass and played with her
+            and just sat and enjoyed the togetherness.
+        &lt;/p&gt;
+        &lt;div&gt;
+          &lt;Image src="images/pepperBeach.jpg" fluid /&gt;
+          &lt;p&gt;Our last beach walk with Pepper - still as keen as ever!&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;p&gt;
+            But of course the good time had to end and Monday morning came. Once again, Pepper walked happily to the vet and
+            waited at the door to be let in. I said goodbye and left her there for the day. The vet called later to say the
+            biopsy had gone ok and was to be sent off and I could pick her up after 4pm. Well, who knows whether I would have
+            done this if I had known what was going to happen, or whether I would have just let Pepper get to the point where
+            we just put her to sleep without putting her through this operation. We can always have regrets in hindsight and
+            wish for time to be turned back to see if another route would prove to be better. However, I made my choice and this
+            is what happened to my beautiful Pepper....
+        &lt;/p&gt;
+        &lt;p&gt;
+            Having not eaten for quite a while, the anaesthetic hit her pretty hard. She was so groggy all evening and couldn’t
+            really move. I remember coaxing her for a short walk up the road in the evening to see if she wanted to relieve
+            herself, but she didn’t. We literally only staggered two houses up the street and back. I thought she would enjoy
+            being out in the air.
+        &lt;/p&gt;
+        &lt;Image src="images/pepper1.jpg" fluid /&gt;
+        &lt;p&gt;
+            She had a bed right by my side of the bed so I could keep an eye on her. We had visitors staying that night – in the
+            lounge – so my life was a bit of an upheaval at that time. But I checked on Pepper every few moments it felt like.
+            It was the worst night of my life. I went to bed and Pepper, who was laying down would then struggle up and just
+            stand. I would stroke her head and try and get her to lay down again but she just wanted to stand. She must have
+            felt so awful, probably in a lot of pain, but such a quiet, docile animal here. This dog who loved nothing more than
+            to run and run, standing by my bed with her head down. I was awake all night with her, just stroking her head. The
+            longest night of my life. As soon as it was morning I got up to look at her. She was laying down at that stage and
+            I know I knew... you know... that time that you dread, that time that you know you have to be God. She was laying
+            on the blanket and the wound in her tummy was oozing slightly with blood. I had to get her to the vet. They don’t
+            answer the phone until 8am, but I knew that the vet was usually there at 7.30am. I told Rob I needed to take her
+            immediately. We carried her to the car and laid her in the back and I went to the vet. I had never done anything
+            like this before and my mind was in a spin with a huge cloud over it. I was so relieved that the vet was there and
+            he came to the car and looked at her. Her gums were totally yellow and he said that her liver had stopped working.
+            We carried her into the surgery, laid her on the table and there I stroked her beautiful head and talked to her
+            while she slipped from this world to a happier place.
+        &lt;/p&gt;
+        &lt;p&gt;
+            I took her home and once our visitors had gone, we all said goodbye to Pepper and Rob buried her in the garden
+            along with all our other “friends”. That was a hard day. The boys and we all put something special into that grave
+            for Pepper to take with her – treats, ball, stick and a blanket to keep her warm. At least I got to say goodbye to
+            this dog and to tell her I loved her.
+        &lt;/p&gt;
+        &lt;div&gt;
+          &lt;Image src="images/pepperRiver.jpg" fluid /&gt;
+          &lt;p&gt;Pepper loved nothing more than to be playing at the river, soaking wet and happy!&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;p&gt;
+            Pepper gave me something very special. She was my first dog and I made what I consider to be mistakes with her.
+            The main thing I feel I failed on was that I didn’t keep her in the house with us as part of the family. This was
+            on my conscience as time went on and was why for the last couple of years she had spent more time in the house.
+            However, I felt I needed to make amends.
+        &lt;/p&gt;
+      &lt;/div&gt;
+      &lt;hr /&gt;
+&nbsp;
+    &lt;/&gt;
+  )
+}
+&nbsp;
+export default WorstNightmare
+&nbsp;</pre></td></tr></table></pre>
+
+                <div class='push'></div><!-- for sticky footer -->
+            </div><!-- /wrapper -->
+            <div class='footer quiet pad2 space-top1 center small'>
+                Code coverage generated by
+                <a href="https://istanbul.js.org/" target="_blank">istanbul</a>
+                at Wed Sep 30 2020 13:24:11 GMT+1300 (New Zealand Daylight Time)
+            </div>
+        </div>
+        <script src="../../prettify.js"></script>
+        <script>
+            window.onload = function () {
+                prettyPrint();
+            };
+        </script>
+        <script src="../../sorter.js"></script>
+        <script src="../../block-navigation.js"></script>
+    </body>
+</html>
+    

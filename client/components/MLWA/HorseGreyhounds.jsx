@@ -1,13 +1,18 @@
 import React from 'react'
 
+import Container from 'react-bootstrap/Container'
+import Row from 'react-bootstrap/Row'
+import Col from 'react-bootstrap/Col'
 import Image from 'react-bootstrap/Image'
 
 function HorseGreyhounds () {
   return (
     <>
-      <div>
-        <h3>Horses</h3>
-        <p>
+      <Container>
+        <Row className='row'>
+          <Col lg={6} className='leftCol'>
+            <h2 className='bodyTitle'>Horses</h2>
+            <p>
             In the meantime, when I wasn&apos;t walking Lassie, I was always up the local stables riding the horses, mucking out
             and as I got older, teaching other people to ride. I broke my arm while riding on the South Downs one day. We were
             in a field near Cissbury Ring - the furthest away from the stables that this particular 1 hour ride would go, on a
@@ -29,13 +34,19 @@ function HorseGreyhounds () {
             way down the track and bounced very uncomfortably down the track to his house where he called my parents. Apart from
             that one accident, working with horses was great fun and allowed me to be around animals even more which was all I
             wanted.
-        </p>
-        <Image src="images/topper.jpg" fluid />
-        <hr />
-      </div>
-      <div>
-        <h3>Greyhounds</h3>
-        <p>
+            </p>
+          </Col>
+          <Col lg={6}>
+            <div>
+              <Image src="images/topper.jpg" fluid className='lassie'/>
+            </div>
+          </Col>
+        </Row>
+        <hr className='sectionSeparator' />
+        <Row className='row'>
+          <Col lg={6} className='leftCol'>
+            <h2 className='bodyTitle'>Greyhounds</h2>
+            <p>
             Once I finished school I started work at a racing greyhound kennel in the Sussex countryside. My Dad got me the job,
             so although he hadn&apos;t seemed to actively promote my love of animals, he was responsible for helping me start my
             working life with them. This was probably more because he was a betting man and loved to go to horse racing at
@@ -43,8 +54,8 @@ function HorseGreyhounds () {
             because he would have to come and pick me up at the kennels after a race night, so he and Mum used to come to the
             meetings when I was working. Not only that, but he became friendly with the trainer I worked with, George Curtis,
             and George would give him a tip for a bet each night.
-        </p>
-        <p>
+            </p>
+            <p>
             I used to work one or two nights a week. On work days I would start out from home at 6am and walk to the station,
             catch the train to Portslade, wait on the corner of the road for a van to come and pick me up along with all the
             other kennel hands and then drive to the kennels for work at around 8am. On a day when I was working the evening
@@ -58,13 +69,19 @@ function HorseGreyhounds () {
             catch our dog. On days where I worked the evening race meeting, we wouldn&apos;t finish until about 11.30pm and by the
             time we drove home it would be past midnight. Quite hard if I was working again the next day and had to be up
             before 6am.
-        </p>
-        <div>
-          <Image src="images/clountieComment.jpg" fluid />
-          <p>Pictured left is me with one of the greyhounds, a female whose racing name was Clountie Comment. I can&apos;t recall
+            </p>
+          </Col>
+          <Col lg={6}>
+            <div>
+              <Image src="images/clountieComment.jpg" fluid className='lassie'/>
+              <p className='MLWAimgtext'>Me with one of the greyhounds, a female whose racing name was Clountie Comment. I can&apos;t recall
               her kennel name.</p>
-        </div>
-        <p>
+            </div>
+          </Col>
+        </Row>
+        <Row className='row'>
+          <Col>
+            <p>
             Those were good, fun days. I learned to love greyhounds as much as any other dog. They don’t look that cuddly, but
             in fact they can be. I used to sit in the kennels with them sometimes when we were waiting for something to happen.
             They all had their own personalities and most loved contact with people. They make lovely pets. I had a particular
@@ -73,16 +90,18 @@ function HorseGreyhounds () {
             some suggestion that I might like him as a pet. But I couldn’t do that as my Dad wouldn’t let me so he was sent to
             Portsmouth to run there. I don’t know what happened to him in the end. I hope that he finished his racing career and
             found someone to give him a lovely home for the rest of his life.
-        </p>
-        <p>
+            </p>
+            <p>
             I had a couple of stints of working with the greyhounds, but eventually I had to give it up as I got such bad hayfever
             that my doctor warned that I might start to get asthma if I continued working with them. The kennels were in the middle
             of the Sussex countryside and in June and July I could hardly breathe every day. I would sneeze my way through the day
             and twice my Dad had to come and pick me up and take me home because I had collapsed. So I gave up the dogs and started
             the boring and unsatisfying career of working in offices.
-        </p>
-        <hr />
-      </div>
+            </p>
+          </Col>
+        </Row>
+        <hr className='sectionSeparator' />
+      </Container>
     </>
   )
 }

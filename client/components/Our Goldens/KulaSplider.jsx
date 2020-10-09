@@ -48,28 +48,28 @@ class KulaSplider extends React.Component {
       <div className='splideContainer'>
         <Splide options={ primaryOptions } ref={ this.primaryRef }>
           <SplideSlide>
-            <Image src="images/kula2.jpg" className='splideImage'/>
+            <Image src="images/kula2.jpg" className='splideImage' thumbnail />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula3.jpg" className='splideImage'/>
+            <Image src="images/kula3.jpg" className='splideImage' thumbnail/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula4.jpg" className='splideImage'/>
+            <Image src="images/kula4.jpg" className='splideImage' thumbnail/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula5.jpg" className='splideImage'/>
+            <Image src="images/kula5.jpg" className='splideImage' thumbnail/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula6.jpg" className='splideImage'/>
+            <Image src="images/kula6.jpg" className='splideImage' thumbnail/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula7.jpg" className='splideImage'/>
+            <Image src="images/kula7.jpg" className='splideImage' thumbnail/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula8.jpg" className='splideImage'/>
+            <Image src="images/kula8.jpg" className='splideImage' thumbnail/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula9.jpg" className='splideImage'/>
+            <Image src="images/kula9.jpg" className='splideImage' thumbnail/>
           </SplideSlide>
         </Splide>
 

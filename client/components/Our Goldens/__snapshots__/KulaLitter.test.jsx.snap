@@ -25,7 +25,7 @@ exports[`KulasLitter component matches snapshot 1`] = `
         class="row"
       >
         <div
-          class="leftCol col-lg-6"
+          class="leftCol col-md-6"
         >
           <img
             class="litterMainImage img-fluid"
@@ -34,11 +34,11 @@ exports[`KulasLitter component matches snapshot 1`] = `
           <p
             class="litterMainText"
           >
-            On 21 February 2006, Kula had a litter of 7 beautiful puppies, 5 boys and 2 girls.
+            Kula
           </p>
         </div>
         <div
-          class="col-lg-6"
+          class="col-md-6"
         >
           <img
             class="litterMainImage img-fluid"
@@ -47,7 +47,7 @@ exports[`KulasLitter component matches snapshot 1`] = `
           <p
             class="litterMainText"
           >
-            The father of these puppies is Jordan 
+            Jordan 
             <a
               href="https://www.mistymoorgoldens.com/"
             >

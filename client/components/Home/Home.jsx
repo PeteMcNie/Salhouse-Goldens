@@ -10,8 +10,10 @@ const Home = () => {
     <>
       <NavbarComp />
       <Carousel />
-      <HomeBody />
-      <HomeFooter />
+      <div className='mainBody'>
+        <HomeBody />
+        <HomeFooter />
+      </div>
     </>
   )
 }

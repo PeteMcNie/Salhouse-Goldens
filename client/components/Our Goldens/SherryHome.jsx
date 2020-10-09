@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 
+import Jumbotron from 'react-bootstrap/Jumbotron'
 import Tabs from 'react-bootstrap/Tabs'
 import Tab from 'react-bootstrap/Tab'
 
@@ -10,27 +11,32 @@ import SherryBreedShow from './SherryBreedShow'
 import SherryObedience from './SherryObedience'
 
 function SherryHome () {
-  const [key, setKey] = useState('shadowHome')
+  const [key, setKey] = useState('sherryHome')
 
   return (
     <>
       <NavbarComp />
+      <Jumbotron id='sherryj' fluid>
+        {/* <div>
+          <h1 className='jumbotronTitle sherry'>Sherry</h1>
+          <p className='line'></p>
+        </div> */}
+      </Jumbotron>
       <Tabs
         id="controlled-tab-example"
         activeKey={key}
         onSelect={(k) => setKey(k)}
-        className='belowNavbar'
       >
-        <Tab eventKey="shadowHome" title="Sherry">
+        <Tab eventKey="sherryHome" title="Sherry">
           <SherryMain />
         </Tab>
-        <Tab eventKey="ShadowLitter" title="Sherry's Litter" disabled>
+        <Tab eventKey="sherryLitter" title="Sherry's Litter" disabled>
           <SherryLitter />
         </Tab>
-        <Tab eventKey="breedShowAchievements" title="Breed Show Achievements">
+        <Tab eventKey="sherryBreedShowAchievements" title="Breed Show Achievements">
           <SherryBreedShow />
         </Tab>
-        <Tab eventKey="obedienceShowAchievements" title="Obedience Show Achievements">
+        <Tab eventKey="sherryObedienceShowAchievements" title="Obedience Show Achievements">
           <SherryObedience />
         </Tab>
       </Tabs>

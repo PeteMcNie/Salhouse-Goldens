@@ -8,18 +8,17 @@ import Col from 'react-bootstrap/Col'
 function AboutUsImages () {
   return (
     <div>
-      <h3>Photos</h3>
       <Container>
         <Row>
-          <Col xs={6} md={4}>
+          <Col xs={12} md={6} lg={4}>
             <Image src="images/au1.jpg" thumbnail fluid />
             <p>Phoenix poking her tongue out.</p>
           </Col>
-          <Col xs={6} md={4}>
+          <Col xs={12} md={6} lg={4}>
             <Image src="images/au2.jpg" thumbnail fluid />
             <p>Kula putting Shadow&apos;s leg to the taste test!</p>
           </Col>
-          <Col xs={6} md={4}>
+          <Col xs={12} md={6} lg={4}>
             <Image src="images/au3.jpg" thumbnail fluid />
             <p>Shadow in her favourite &ldquo;car crash&ldquo; position!</p>
           </Col>

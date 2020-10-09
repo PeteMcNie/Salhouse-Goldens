@@ -13,10 +13,10 @@ function Phoenix () {
     <>
       <NavbarComp />
       <Jumbotron id='phoenixj' fluid>
-        <div>
+        {/* <div>
           <h1 className='jumbotronTitle'>Phoenix</h1>
-          <p className='line'></p>
-        </div>
+          <p className='line phoenix'></p>
+        </div> */}
       </Jumbotron>
       <div className='mainBody'>
         <Container>
