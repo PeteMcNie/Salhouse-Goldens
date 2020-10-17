@@ -33,7 +33,7 @@ function AboutUsBody () {
           </Col>
         </Row>
         <hr className='sectionSeparator' id='salhouse'/>
-        <div className='mainBody'>
+        <div>
           <Row className='row'>
             <Col>
               <h2 className='bodyTitle'>Where &apos;Salhouse&apos; comes from</h2>

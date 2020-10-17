@@ -760,6 +760,7 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
           >
             First Golden Retriever - 
             <a
+              class="doglink"
               href="/phoenix"
             >
               Phoenix
@@ -887,6 +888,7 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
             class="bodyTitle"
           >
             <a
+              class="doglink"
               href="/kula"
             >
               Kula

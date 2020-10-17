@@ -11,7 +11,7 @@ function FirstGoldenRetriever () {
       <Container>
         <Row className='row'>
           <Col lg={6} className='leftCol'>
-            <h2 className='bodyTitle'>First Golden Retriever - <a href='/phoenix'>Phoenix</a></h2>
+            <h2 className='bodyTitle'>First Golden Retriever - <a href='/phoenix' className='doglink'>Phoenix</a></h2>
             <p>
                 Over the next couple of weeks Rob and I went for our usual weekend walks, but they weren’t the same. There was no
                 bundle of joy running ahead and in and out of the bushes. No-one to throw sticks in the river for, although we did
