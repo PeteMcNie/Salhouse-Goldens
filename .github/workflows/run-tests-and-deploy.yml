@@ -16,7 +16,7 @@ jobs:
         run: npm run lint
       - name: testWithJest
         run: npm run test
-
+        
   publishOnMasterRelease:
     name: Publish release to Netlify
     needs: [tests]
@@ -26,6 +26,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v1
 
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Start webpack build
+        run: npm run build
       # ... your other build steps to produce a build directory
       # e.g. `yarn build` for create-react-app
 
