@@ -31,9 +31,7 @@ exports[`AboutUs component to match snapshot 1`] = `
       class="sectionSeparator"
       id="salhouse"
     />
-    <div
-      class="mainBody"
-    >
+    <div>
       <div
         class="row row"
       >
