@@ -11,7 +11,7 @@ function Kula () {
       <Container>
         <Row className='row'>
           <Col lg={6} className='leftCol'>
-            <h2 className='bodyTitle'><a href='/kula'>Kula</a></h2>
+            <h2 className='bodyTitle'><a href='/kula' className='doglink'>Kula</a></h2>
             <p>
               Sandy wasn’t having any puppies at that time but said she would take my number and contact me in the future. Well,
               time went by and in fact I passed Sandy one day while I was walking Phoenix down the river. I only recognised her

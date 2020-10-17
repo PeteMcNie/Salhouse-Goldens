@@ -4,11 +4,14 @@
 
 body {
     font-family: 'Forum', cursive;
-    color: white;
 }
 
 p a {
-    color: rgb(23, 23, 24);
+    color: rgb(3, 11, 122);
+}
+
+a.doglink {
+    color: rgb(3, 11, 122);
 }
 
 p {
@@ -402,7 +405,7 @@ nav.nav.nav-tabs {
 }
 
 .mainBody {
-    background-color: #a7753d;
+    background-color: #D4AC7A;
     padding-top: 2rem;
 }
 
@@ -743,7 +746,7 @@ td.greatGrandparents {
 
 /* CSS FOR MLWA */
 .mainBodyMLWA {
-    background-color: burlywood;
+    background-color: #D4AC7A;
     padding-top: 140px;
 }
 
