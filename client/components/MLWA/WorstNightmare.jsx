@@ -10,8 +10,12 @@ function WorstNightmare () {
     <>
       <Container>
         <Row className='row'>
-          <Col lg={6} className='leftCol'>
+          <Col>
             <h2 className='bodyTitle'>Worst nightmare</h2>
+          </Col>
+        </Row>
+        <Row className='row'>
+          <Col lg={6} className='leftCol'>
             <p>
               Then in December 2001 Pepper went off her food. She was the sort of dog that ate ravenously. It didn’t matter how
               much food was in her bowl, it all went within about 10 seconds, and heaven help anyone who got near. I had tried
@@ -135,7 +139,7 @@ function WorstNightmare () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/pepperRiver.jpg" fluid className='maddie'/>
+              <Image src="images/pepperRiver.jpg" fluid className='pepperbottom'/>
               <p className='MLWAimgtext'>Pepper loved nothing more than to be playing at the river, soaking wet and happy!</p>
             </div>
           </Col>

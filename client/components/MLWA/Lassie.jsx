@@ -10,8 +10,12 @@ function Lassie () {
     <>
       <Container>
         <Row className='row'>
-          <Col lg={6} className='leftCol'>
+          <Col>
             <h2 className='bodyTitle'>Lassie</h2>
+          </Col>
+        </Row>
+        <Row className='row'>
+          <Col lg={6} className='leftCol'>
             <p>
             What I really wanted was a dog, but my Dad was never going to allow that. I knew that there was an elderly couple
             across the road from us who owned a beautiful dog. I had seen them walking her up the road. She was only young and

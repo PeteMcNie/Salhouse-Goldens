@@ -12,6 +12,10 @@ function BMP () {
         <Row className='row'>
           <Col>
             <h2 className='bodyTitle'>Budgie</h2>
+          </Col>
+        </Row>
+        <Row className='row'>
+          <Col>
             <p>
               Of course, I have had some good office jobs over the years, but in reality, none are as rewarding as working with
               animals. I had been to New Zealand a couple of times and met a man that I was to marry, Rob. We got married in
@@ -25,8 +29,12 @@ function BMP () {
         </Row>
         <hr className='sectionSeparator' />
         <Row className='row'>
-          <Col lg={6} className='leftCol'>
+          <Col>
             <h2 className='bodyTitle'>Maddie</h2>
+          </Col>
+        </Row>
+        <Row className='row'>
+          <Col lg={6} className='leftCol'>
             <p>
               At this stage we had two babies and were looking for a house of our own. We found one and moved in. I was so excited
               to at long last have a house of my own where I could have pets if I wanted that on the day that we moved in, once the
@@ -77,8 +85,12 @@ function BMP () {
         </Row>
         <hr className='sectionSeparator' />
         <Row className='row'>
-          <Col lg={6} className='leftCol'>
+          <Col>
             <h2 className='bodyTitle'>Pepper</h2>
+          </Col>
+        </Row>
+        <Row className='row'>
+          <Col lg={6} className='leftCol'>
             <p>
               We had three boys by this time and when I was at home I decided that it would be good to finally have a dog. I wanted
               a Golden Retriever but was probably very naïve and didn’t know about contacting breeders etc. I thought you just
@@ -146,7 +158,7 @@ function BMP () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/happyPepper.jpg" fluid className='lassie'/>
+              <Image src="images/happyPepper.jpg" fluid className='pepperbottom'/>
             </div>
           </Col>
         </Row>
