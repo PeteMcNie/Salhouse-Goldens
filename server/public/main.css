@@ -402,6 +402,7 @@ nav.nav.nav-tabs {
 .bodyTitle {
     font-size: 3.5rem;
     padding-bottom: 5vh;
+    /* border: solid 2px red; */
 }
 
 .mainBody {
@@ -760,39 +761,51 @@ td.greatGrandparents {
 }
 
 img.lassie {
-    /* border: greenyellow 2px solid; */
-    padding: 3vh;
+    margin: 1vh 1vw;
+}
+
+img.pepperbottom {
+    width: 600px;
+    height: auto;
+    margin: 1vh 1vw;
+}
+
+img.mo {
+
+    padding: 3vh 0vw;
     margin: 1vh 1vw;
 }
 
 img.maddie {
     width: 600px;
     height: auto;
-    /* border: greenyellow solid 2px; */
-    padding: 3vh;
     margin: 1vh 1vw;
 }
 
 img.mrslattery {
     width: 300px;
     height: 300px;
-    /* border: greenyellow solid 2px; */
 }
 
 .MLWAimgtext {
     margin-left: 3vw;
     padding-bottom: 5vh;
+    font-style: italic;
 }
 
 
 @media screen and (max-width: 768px) {
     img.lassie {
         margin: 1vh;
-        padding: 3vh 0vw;
+        padding-top: 3vh;
+        padding-bottom: 1vh;
     }
     img.mrslattery {
         width: 260px;
         height: 220px;
+    }
+    img.maddie {
+        padding: 3vh 0vw;
     }
 }
 

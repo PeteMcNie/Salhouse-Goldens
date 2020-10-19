@@ -138,13 +138,21 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
         class="row row"
       >
         <div
-          class="leftCol col-lg-6"
+          class="col"
         >
           <h2
             class="bodyTitle"
           >
             Lassie
           </h2>
+        </div>
+      </div>
+      <div
+        class="row row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
           <p>
             What I really wanted was a dog, but my Dad was never going to allow that. I knew that there was an elderly couple across the road from us who owned a beautiful dog. I had seen them walking her up the road. She was only young and I was five years old and I decided to ask them if I could take their dog for a walk. My heart was in my mouth as I walked up to their front door and knocked on it, feeling so small and not knowing what they were going to say. I couldn’t believe my luck when they said they were happy for me to take her for a walk. Her name was Lassie, and this was the start of a beautiful friendship and the beginning of my love of Golden Retrievers. Below is the only photo I have of Lassie.
           </p>
@@ -203,13 +211,21 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
         class="row row"
       >
         <div
-          class="leftCol col-lg-6"
+          class="col"
         >
           <h2
             class="bodyTitle"
           >
             Horses
           </h2>
+        </div>
+      </div>
+      <div
+        class="row row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
           <p>
             In the meantime, when I wasn't walking Lassie, I was always up the local stables riding the horses, mucking out and as I got older, teaching other people to ride. I broke my arm while riding on the South Downs one day. We were in a field near Cissbury Ring - the furthest away from the stables that this particular 1 hour ride would go, on a Saturday afternoon. While we were walking through the field some idiots let off a gun to shoot at the pheasants. Well, the whole ride took off at a flat out gallop. I was only 9 years old at the time and I was riding the fastest pony that we had. His name was Dr Zhivago and he was very strong. The horses were all galloping on the very hard ground as it was middle of summer. The Downs are made of chalk and it is not very pleasant to land on. Zhivago was going flat out and I dropped one rein and pulled his head round and even put my fingers through the ring of the bit but I couldn't slow him down. We were coming to a very sharp bend in the track and at the speed we were going I thought he was going to go down and probably fall on top of me and so I made the decision to get off at full speed gallop. Of course, in hindsight I should perhaps have stayed with him, but then worse could have happened if he did fall at the corner. I took my feet out of the stirrups as I didn't want to be caught up in them and then got off - no easy feat when the horse is going so fast. I hit the ground and I remember putting my head up and hearing the thunder of feet, so I put my head down again while another horse galloped on past me (remember that there were probably 20 horses bolting as fast as they could at this stage). Then everything went quiet and I waited. I got up and suddenly realised that my watch on my left arm was in the middle of a very big dip in my wrist. I had broken it. I also had a small stone lodged in the corner of one of my eyes, probably when my head hit the ground. I started to walk back to the stables with one of the other ladies who had stopped her horse and was picked up by a farmer part way down the track and bounced very uncomfortably down the track to his house where he called my parents. Apart from that one accident, working with horses was great fun and allowed me to be around animals even more which was all I wanted.
           </p>
@@ -232,13 +248,21 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
         class="row row"
       >
         <div
-          class="leftCol col-lg-6"
+          class="col"
         >
           <h2
             class="bodyTitle"
           >
             Greyhounds
           </h2>
+        </div>
+      </div>
+      <div
+        class="row row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
           <p>
             Once I finished school I started work at a racing greyhound kennel in the Sussex countryside. My Dad got me the job, so although he hadn't seemed to actively promote my love of animals, he was responsible for helping me start my working life with them. This was probably more because he was a betting man and loved to go to horse racing at Fontwell Park and the greyhound racing at Brighton. This gave him an excuse to go to lots of greyhound meetings because he would have to come and pick me up at the kennels after a race night, so he and Mum used to come to the meetings when I was working. Not only that, but he became friendly with the trainer I worked with, George Curtis, and George would give him a tip for a bet each night.
           </p>
@@ -294,6 +318,14 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
           >
             Budgie
           </h2>
+        </div>
+      </div>
+      <div
+        class="row row"
+      >
+        <div
+          class="col"
+        >
           <p>
             Of course, I have had some good office jobs over the years, but in reality, none are as rewarding as working with animals. I had been to New Zealand a couple of times and met a man that I was to marry, Rob. We got married in England and stayed there for about three years before coming to New Zealand to live. I was pregnant with my first child, Nigel, when we left England. We stayed with my brother briefly before getting ourselves a flat. I wanted to have a pet of my own still, but we were not allowed pets in the flat. However, we did a really naughty thing and purchased a budgie, called Budgie! He was with us for a while but ended up with some kind of problem where he lost all his feathers and died.
           </p>
@@ -306,13 +338,21 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
         class="row row"
       >
         <div
-          class="leftCol col-lg-6"
+          class="col"
         >
           <h2
             class="bodyTitle"
           >
             Maddie
           </h2>
+        </div>
+      </div>
+      <div
+        class="row row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
           <p>
             At this stage we had two babies and were looking for a house of our own. We found one and moved in. I was so excited to at long last have a house of my own where I could have pets if I wanted that on the day that we moved in, once the main move was completed, we made a dash into Wellington to the SPCA to get a kitten. We found a lovely little chocolate-coloured tortoiseshell kitten and took her home with us.
           </p>
@@ -364,13 +404,21 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
         class="row row"
       >
         <div
-          class="leftCol col-lg-6"
+          class="col"
         >
           <h2
             class="bodyTitle"
           >
             Pepper
           </h2>
+        </div>
+      </div>
+      <div
+        class="row row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
           <p>
             We had three boys by this time and when I was at home I decided that it would be good to finally have a dog. I wanted a Golden Retriever but was probably very naïve and didn’t know about contacting breeders etc. I thought you just looked in pet shops for dogs. So I started to look but there were never any Goldens. The dogs were all cross-breeds and one day I went into the pet centre and found a puppy that I thought was quite cute. I took Rob along to have a look and he, being the easy-going fellow that he is, was quite happy to purchase this dog.
           </p>
@@ -436,7 +484,7 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
         >
           <div>
             <img
-              class="lassie img-fluid"
+              class="pepperbottom img-fluid"
               src="images/happyPepper.jpg"
             />
           </div>
@@ -525,13 +573,21 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
         class="row row"
       >
         <div
-          class="leftCol col-lg-6"
+          class="col"
         >
           <h2
             class="bodyTitle"
           >
             Munch
           </h2>
+        </div>
+      </div>
+      <div
+        class="row row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
           <p>
             Munch, the rabbit, lasted for a long time too. She was 10 when she died, which I gather is quite a good age. However, when she was 5 she became ill with blood in her urine. The vet prescribed antibiotics but this didn’t clear it up. So she said that it could possibly be crystals on the bladder. To operate on this would cost about $150 and there was no guarantee that she would survive because rabbits are not very good under anaesthetic and tend to die. In those days that was a lot of money for us. However, I loved that rabbit and didn’t want her to suffer and so we decided to go for the operation and we would find the money somehow.
           </p>
@@ -568,7 +624,7 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
         >
           <div>
             <img
-              class="lassie img-fluid"
+              class="pepperbottom img-fluid"
               src="images/munchinvestigatesgarden.jpg"
             />
           </div>
@@ -597,7 +653,7 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
         >
           <div>
             <img
-              class="lassie img-fluid"
+              class="mo img-fluid"
               src="images/mo.jpg"
             />
           </div>
@@ -614,13 +670,21 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
         class="row row"
       >
         <div
-          class="leftCol col-lg-6"
+          class="col"
         >
           <h2
             class="bodyTitle"
           >
             Worst nightmare
           </h2>
+        </div>
+      </div>
+      <div
+        class="row row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
           <p>
             Then in December 2001 Pepper went off her food. She was the sort of dog that ate ravenously. It didn’t matter how much food was in her bowl, it all went within about 10 seconds, and heaven help anyone who got near. I had tried over the years to get her to let me stroke her while she was eating or to move the bowl. I did have some success but would never have trusted her with the kids so guarded her while she ate – which didn’t take much time out of my day due to the speed of this process! I can’t tell you how scary it is to have an animal that you love start to get sick and for there to seem to be nothing you can do about it. For the previous two winters, Pepper had been allowed to sleep inside every night as my conscience had been getting to me and I had started to think that there was a better way to look after this dog at home. I also had her in the lounge during the day when the kids weren’t around and the weather was bad.
           </p>
@@ -731,7 +795,7 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
         >
           <div>
             <img
-              class="maddie img-fluid"
+              class="pepperbottom img-fluid"
               src="images/pepperRiver.jpg"
             />
             <p
@@ -753,7 +817,7 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
         class="row row"
       >
         <div
-          class="leftCol col-lg-6"
+          class="col"
         >
           <h2
             class="bodyTitle"
@@ -766,6 +830,14 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
               Phoenix
             </a>
           </h2>
+        </div>
+      </div>
+      <div
+        class="row row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
           <p>
             Over the next couple of weeks Rob and I went for our usual weekend walks, but they weren’t the same. There was no bundle of joy running ahead and in and out of the bushes. No-one to throw sticks in the river for, although we did throw some in after she died as we imagined Pepper’s spirit would be there, swimming after them and bringing them back. Even now I occasionally throw a stick in the river for Pepper. But walking wasn’t such fun now. We decided that we wanted another dog and this time I was determined to try and find a Golden Retriever as that was what I had really wanted all along. I still didn’t know anything about contacting a Golden Retriever Club. I didn’t even know they existed, so relied on scanning the papers. I started to buy Trade and Exchange, which I had never heard of but someone said I might find a dog in there, and almost straight away I saw an advert for Golden Retriever puppies. My heart was racing when I phoned up to ask if there were any left and how much. Yes, there was one bitch left but I would have to go over the hill and select it and pay a deposit as soon as possible.
           </p>
@@ -882,7 +954,7 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
         class="row row"
       >
         <div
-          class="leftCol col-lg-6"
+          class="col"
         >
           <h2
             class="bodyTitle"
@@ -894,6 +966,14 @@ exports[`MyLifeWithAnimals component to match snapshot 1`] = `
               Kula
             </a>
           </h2>
+        </div>
+      </div>
+      <div
+        class="row row"
+      >
+        <div
+          class="leftCol col-lg-6"
+        >
           <p>
             Sandy wasn’t having any puppies at that time but said she would take my number and contact me in the future. Well, time went by and in fact I passed Sandy one day while I was walking Phoenix down the river. I only recognised her by the fact she had three Goldens as I had never met her up close. We had a little chat and she remembered talking to me on the phone. One of her dogs was pregnant but was having a few problems. So I kept that in my mind and I can’t remember whether I phoned Sandy or whether she phoned me later on, but anyway, we were in contact about a week after her bitch had had the puppies. She still had a puppy available to a good home as there were ten puppies in the litter and she had thought that I was a suitable owner for one. I was so excited about this. Another puppy to play with Phoenix. Yeah.
           </p>

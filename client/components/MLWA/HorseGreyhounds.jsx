@@ -10,8 +10,12 @@ function HorseGreyhounds () {
     <>
       <Container>
         <Row className='row'>
-          <Col lg={6} className='leftCol'>
+          <Col>
             <h2 className='bodyTitle'>Horses</h2>
+          </Col>
+        </Row>
+        <Row className='row'>
+          <Col lg={6} className='leftCol'>
             <p>
             In the meantime, when I wasn&apos;t walking Lassie, I was always up the local stables riding the horses, mucking out
             and as I got older, teaching other people to ride. I broke my arm while riding on the South Downs one day. We were
@@ -44,8 +48,12 @@ function HorseGreyhounds () {
         </Row>
         <hr className='sectionSeparator' />
         <Row className='row'>
-          <Col lg={6} className='leftCol'>
+          <Col>
             <h2 className='bodyTitle'>Greyhounds</h2>
+          </Col>
+        </Row>
+        <Row className='row'>
+          <Col lg={6} className='leftCol'>
             <p>
             Once I finished school I started work at a racing greyhound kennel in the Sussex countryside. My Dad got me the job,
             so although he hadn&apos;t seemed to actively promote my love of animals, he was responsible for helping me start my
