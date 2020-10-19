@@ -10,8 +10,12 @@ function MunchMo () {
     <>
       <Container>
         <Row className='row'>
-          <Col lg={6} className='leftCol'>
+          <Col>
             <h2 className='bodyTitle'>Munch</h2>
+          </Col>
+        </Row>
+        <Row className='row'>
+          <Col lg={6} className='leftCol'>
             <p>
               Munch, the rabbit, lasted for a long time too. She was 10 when she died, which I gather is quite a good age.
               However, when she was 5 she became ill with blood in her urine. The vet prescribed antibiotics but this didn’t
@@ -57,7 +61,7 @@ function MunchMo () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/munchinvestigatesgarden.jpg" fluid className='lassie' />
+              <Image src="images/munchinvestigatesgarden.jpg" fluid className='pepperbottom' />
             </div>
           </Col>
         </Row>
@@ -73,7 +77,7 @@ function MunchMo () {
           </Col>
           <Col lg={6}>
             <div>
-              <Image src="images/mo.jpg" fluid className='lassie'/>
+              <Image src="images/mo.jpg" fluid className='mo'/>
             </div>
           </Col>
         </Row>
