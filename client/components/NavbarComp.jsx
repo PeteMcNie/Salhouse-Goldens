@@ -34,7 +34,7 @@ function NavbarComp () {
         <Navbar.Brand href="/">
           <img
             alt="Goldens retrievers, phoenix and kula"
-            src="images/logo2.png"
+            src="images/logo1.png"
             className="shlogo d-inline-block align-top"
           />
         </Navbar.Brand>
