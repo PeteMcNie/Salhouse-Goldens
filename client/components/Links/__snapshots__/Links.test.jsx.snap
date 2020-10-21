@@ -12,7 +12,7 @@ exports[`Links component matches snapshot 1`] = `
       <img
         alt="Goldens retrievers, phoenix and kula"
         class="shlogo d-inline-block align-top"
-        src="images/logo2.png"
+        src="images/logo1.png"
       />
     </a>
     <button
