@@ -23,7 +23,7 @@ exports[`Carousel component to match snapshot 1`] = `
       >
         <img
           alt="First slide"
-          class="d-block w-100;"
+          class="d-block w-100"
           src="http://place-puppy.com/1000x600"
         />
         <div

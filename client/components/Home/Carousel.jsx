@@ -13,7 +13,7 @@ function ControlledCarousel () {
     <Carousel className='belowNavbar' activeIndex={index} onSelect={handleSelect}>
       <Carousel.Item>
         <img
-          className="d-block w-100;"
+          className="d-block w-100"
           src="http://place-puppy.com/1000x600"
           alt="First slide"
         />
