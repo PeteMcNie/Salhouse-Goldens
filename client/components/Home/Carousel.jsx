@@ -14,7 +14,7 @@ function ControlledCarousel () {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://place-puppy.com/1000x600"
+          src="images/new1.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -25,7 +25,7 @@ function ControlledCarousel () {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://place-puppy.com/1000x600"
+          src="images/new2.jpg"
           alt="Second slide"
         />
 
@@ -37,7 +37,7 @@ function ControlledCarousel () {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://place-puppy.com/1000x600"
+          src="images/new3.jpg"
           alt="Third slide"
         />
 
@@ -49,7 +49,7 @@ function ControlledCarousel () {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://place-puppy.com/1000x600"
+          src="images/new4.jpg"
           alt="Forth slide"
         />
 
@@ -57,6 +57,20 @@ function ControlledCarousel () {
           <h3>Third slide label, do you want this?</h3>
           <p>Do you want to add further comments below the label?</p>
         </Carousel.Caption> */}
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="images/new5.jpg"
+          alt="Fifth slide"
+        />
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="images/new6.jpg"
+          alt="Sixth slide"
+        />
       </Carousel.Item>
     </Carousel>
   )

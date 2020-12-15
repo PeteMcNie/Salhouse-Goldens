@@ -50,13 +50,42 @@ class SirenSplider extends React.Component {
           <SplideSlide>
             <Image src="images/siren2.jpg" className='splideImage'/>
           </SplideSlide>
+          <SplideSlide>
+            <Image src="images/new1.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/new2.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/new3.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/new5.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/new6.jpg" className='splideImage'/>
+          </SplideSlide>
         </Splide>
 
         <Splide options={ secondaryOptions } ref={ this.secondaryRef } className='splideNav'>
           <SplideSlide>
             <Image src="images/siren2.jpg"/>
           </SplideSlide>
-
+          <SplideSlide>
+            <Image src="images/new1.jpg"/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/new2.jpg"/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/new3.jpg"/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/new5.jpg"/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/new6.jpg"/>
+          </SplideSlide>
         </Splide>
       </div>
     )
