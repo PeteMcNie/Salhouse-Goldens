@@ -48,6 +48,34 @@ class TuppenceSplider extends React.Component {
       <div className='splideContainer'>
         <Splide options={ primaryOptions } ref={ this.primaryRef }>
           <SplideSlide>
+            <Image src="images/tuppence/tN1.jpeg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/tuppence/tN2.jpeg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/tuppence/tN3.jpeg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/tuppence/tN4.jpeg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/tuppence/tN5.jpeg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/tuppence/tN6.jpeg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/tuppence/tN7.jpeg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/tuppence/tN8.jpeg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/tuppence/tN9.jpeg" className='splideImage'/>
+          </SplideSlide>
+          {/* Original photos below */}
+          <SplideSlide>
             <Image src="images/tuppence2.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
@@ -66,8 +94,35 @@ class TuppenceSplider extends React.Component {
             <Image src="images/tuppence9.jpg" className='splideImage'/>
           </SplideSlide>
         </Splide>
-
         <Splide options={ secondaryOptions } ref={ this.secondaryRef } className='splideNav'>
+          <SplideSlide>
+            <Image src="images/tuppence/tN1.jpeg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/tuppence/tN2.jpeg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/tuppence/tN3.jpeg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/tuppence/tN4.jpeg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/tuppence/tN5.jpeg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/tuppence/tN6.jpeg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/tuppence/tN7.jpeg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/tuppence/tN8.jpeg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/tuppence/tN9.jpeg" className='splideImage'/>
+          </SplideSlide>
+          {/* Original photos below */}
           <SplideSlide>
             <Image src="images/tuppence2.jpg"/>
           </SplideSlide>
