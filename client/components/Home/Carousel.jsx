@@ -63,7 +63,7 @@ function ControlledCarousel () {
         />
         {/* <Carousel.Caption>
           <h3>First slide label, do you want this?</h3>
-          <p>Do you want to add further comments below the label?</p> 
+          <p>Do you want to add further comments below the label?</p>
         </Carousel.Caption> */}
       </Carousel.Item>
 

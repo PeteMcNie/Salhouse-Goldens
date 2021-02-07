@@ -21,7 +21,7 @@ function TestimonialsAndPhotos () {
               <p className='litterText'>Missy before groom</p>
             </Col>
             <Col lg={6}>
-              <Image src='images/gyg4.jpg' fluid className='litterImage'/>
+              <Image src='images/gN1.jpeg' fluid className='litterImage'/>
               <p className='litterText'>Missy after groom</p>
             </Col>
           </Row>
@@ -85,12 +85,12 @@ function TestimonialsAndPhotos () {
           </Row>
           <Row>
             <Col lg={6} className='leftCol'>
-              <Image src='images/gyg14.jpg' fluid className='litterImage'/>
-              <p className='litterText'>Cody before groom</p>
+              <Image src='images/gN3.jpeg' fluid className='litterImage'/>
+              <p className='litterText'>Beaudy before groom</p>
             </Col>
             <Col lg={6}>
-              <Image src='images/gyg15.jpg' fluid className='litterImage'/>
-              <p className='litterText'>Cody after groom</p>
+              <Image src='images/gN2.jpeg' fluid className='litterImage'/>
+              <p className='litterText'>Beaudy after groom</p>
             </Col>
           </Row>
           <Row>

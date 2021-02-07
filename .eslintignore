@@ -1,1 +1,2 @@
 server/public/bundle*
+client/webpack/server/public/bundle.js
