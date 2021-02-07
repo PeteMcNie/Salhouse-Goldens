@@ -301,7 +301,7 @@ exports[`GYG component matches snapshot 1`] = `
           >
             <img
               class="litterImage img-fluid"
-              src="images/gyg4.jpg"
+              src="images/gN1.jpeg"
             />
             <p
               class="litterText"
@@ -454,12 +454,12 @@ exports[`GYG component matches snapshot 1`] = `
           >
             <img
               class="litterImage img-fluid"
-              src="images/gyg14.jpg"
+              src="images/gN3.jpeg"
             />
             <p
               class="litterText"
             >
-              Cody before groom
+              Beaudy before groom
             </p>
           </div>
           <div
@@ -467,12 +467,12 @@ exports[`GYG component matches snapshot 1`] = `
           >
             <img
               class="litterImage img-fluid"
-              src="images/gyg15.jpg"
+              src="images/gN2.jpeg"
             />
             <p
               class="litterText"
             >
-              Cody after groom
+              Beaudy after groom
             </p>
           </div>
         </div>
