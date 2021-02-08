@@ -49,6 +49,34 @@ class AutumnSplider extends React.Component {
         <div className='splideContainer'>
           <Splide options={ primaryOptions } ref={ this.primaryRef }>
             <SplideSlide>
+              <Image src="images/autumn/AutumnN1.jpeg" className='splideImage'/>
+            </SplideSlide>
+            <SplideSlide>
+              <Image src="images/autumn/AutumnN2.jpeg" className='splideImage'/>
+            </SplideSlide>
+            <SplideSlide>
+              <Image src="images/autumn/AutumnN3.jpeg" className='splideImage'/>
+            </SplideSlide>
+            <SplideSlide>
+              <Image src="images/autumn/AutumnN4.jpeg" className='splideImage'/>
+            </SplideSlide>
+            <SplideSlide>
+              <Image src="images/autumn/AutumnN5.jpeg" className='splideImage'/>
+            </SplideSlide>
+            <SplideSlide>
+              <Image src="images/autumn/AutumnN6.jpeg" className='splideImage'/>
+            </SplideSlide>
+            <SplideSlide>
+              <Image src="images/autumn/AutumnN7.jpeg" className='splideImage'/>
+            </SplideSlide>
+            <SplideSlide>
+              <Image src="images/autumn/AutumnN8.jpeg" className='splideImage'/>
+            </SplideSlide>
+            <SplideSlide>
+              <Image src="images/autumn/AutumnN9.jpeg" className='splideImage'/>
+            </SplideSlide>
+            {/* Original photos below */}
+            <SplideSlide>
               <Image src="images/autumn3.jpg" className='splideImage'/>
             </SplideSlide>
             <SplideSlide>
@@ -75,6 +103,34 @@ class AutumnSplider extends React.Component {
           </Splide>
 
           <Splide options={ secondaryOptions } ref={ this.secondaryRef } className='splideNav'>
+            <SplideSlide>
+              <Image src="images/autumn/AutumnN1.jpeg" className='splideImage'/>
+            </SplideSlide>
+            <SplideSlide>
+              <Image src="images/autumn/AutumnN2.jpeg" className='splideImage'/>
+            </SplideSlide>
+            <SplideSlide>
+              <Image src="images/autumn/AutumnN3.jpeg" className='splideImage'/>
+            </SplideSlide>
+            <SplideSlide>
+              <Image src="images/autumn/AutumnN4.jpeg" className='splideImage'/>
+            </SplideSlide>
+            <SplideSlide>
+              <Image src="images/autumn/AutumnN5.jpeg" className='splideImage'/>
+            </SplideSlide>
+            <SplideSlide>
+              <Image src="images/autumn/AutumnN6.jpeg" className='splideImage'/>
+            </SplideSlide>
+            <SplideSlide>
+              <Image src="images/autumn/AutumnN7.jpeg" className='splideImage'/>
+            </SplideSlide>
+            <SplideSlide>
+              <Image src="images/autumn/AutumnN8.jpeg" className='splideImage'/>
+            </SplideSlide>
+            <SplideSlide>
+              <Image src="images/autumn/AutumnN9.jpeg" className='splideImage'/>
+            </SplideSlide>
+            {/* Original photos below */}
             <SplideSlide>
               <Image src="images/autumn3.jpg" />
             </SplideSlide>
