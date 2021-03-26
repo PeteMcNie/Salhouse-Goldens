@@ -48,20 +48,12 @@ function TestimonialsAndPhotos () {
           </Row>
           <Row>
             <Col lg={6} className='leftCol'>
-              <Image src='images/gyg9.png' fluid className='litterImage'/>
-              <p className='litterText'>Billie before groom</p>
+              <Image src='images/gyg/gyg24.jpeg' fluid className='litterImage'/>
+              <p className='litterText'>Cody before groom</p>
             </Col>
             <Col lg={6}>
-              <Image src='images/gyg10.png' fluid className='litterImage'/>
-              <p className='litterText'>Billie after groom</p>
-            </Col>
-          </Row>
-          <Row>
-            <Col>
-              <p className='testimonials'>
-                Thank you for grooming Billie you have done a fantastic job and he looks very handsome.
-                I hope he behaved himself. We will be in contact next time we want a groom. - Debbie
-              </p>
+              <Image src='images/gyg/gyg23.jpeg' fluid className='litterImage'/>
+              <p className='litterText'>Cody after groom</p>
             </Col>
           </Row>
           <Row>
@@ -95,12 +87,12 @@ function TestimonialsAndPhotos () {
           </Row>
           <Row>
             <Col lg={6} className='leftCol'>
-              <Image src='images/gyg16.jpg' fluid className='litterImage'/>
-              <p className='litterText'>Zach before groom</p>
+              <Image src='images/gyg/gyg26.jpeg' fluid className='litterImage'/>
+              <p className='litterText'>Maxwell before groom</p>
             </Col>
             <Col lg={6}>
-              <Image src='images/gyg17.jpg' fluid className='litterImage'/>
-              <p className='litterText'>Zach after groom</p>
+              <Image src='images/gyg/gyg25.jpeg' fluid className='litterImage'/>
+              <p className='litterText'>Maxwell after groom</p>
             </Col>
           </Row>
           <Row>
@@ -115,12 +107,22 @@ function TestimonialsAndPhotos () {
           </Row>
           <Row>
             <Col lg={6} className='leftCol'>
-              <Image src='images/gyg20.jpg' fluid className='litterImage'/>
-              <p className='litterText'>Tawnee before groom</p>
+              <Image src='images/gyg/gyg27.jpeg' fluid className='litterImagePort'/>
+              <p className='litterText'>Charlie coat strip</p>
             </Col>
             <Col lg={6}>
-              <Image src='images/gyg21.jpg' fluid className='litterImage'/>
-              <p className='litterText'>Tawnee after groom</p>
+              <Image src='images/gyg/gyg28.jpeg' fluid className='litterImagePort'/>
+              <p className='litterText'>Charlie final</p>
+            </Col>
+          </Row>
+          <Row>
+            <Col lg={6} className='leftCol'>
+              <Image src='images/gyg/gyg29.jpeg' fluid className='litterImage'/>
+              <p className='litterText'>Before feet</p>
+            </Col>
+            <Col lg={6}>
+              <Image src='images/gyg/gyg30.jpeg' fluid className='litterImage'/>
+              <p className='litterText'>After feet</p>
             </Col>
           </Row>
         </Container>

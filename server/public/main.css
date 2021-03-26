@@ -667,6 +667,12 @@ td.greatGrandparents {
     height: 305px;
 }
 
+.litterImagePort {
+    padding-left: 100px;
+    max-width: 450px;
+    height: auto;
+}
+
 .litterText {
     padding-left: 70px;
     margin-bottom: 5vh;
@@ -678,6 +684,11 @@ td.greatGrandparents {
         width: 440px;
         height: 300px;
     }
+    .litterImagePort {
+        padding-left: 40px;
+        width: 400px;
+        height: auto;
+    }
     .litterText {
         padding-left: 0px;
     }
@@ -686,6 +697,11 @@ td.greatGrandparents {
 @media screen and (max-width: 768px) {
     .litterImage {
         margin-left: 100px;
+    }
+    .litterImagePort {
+        padding-left: 200px;
+        width: 500px;
+        height: 480px;
     }
     .litterText {
         padding-left: 100px;
@@ -698,6 +714,11 @@ td.greatGrandparents {
         width: 300px;
         height: 225px;
     }
+    .litterImagePort {
+        padding-left: 90px;
+        width: 250px;
+        height: 320px;
+    }
     .litterText {
         padding-left: 35px;
     }
@@ -706,6 +727,10 @@ td.greatGrandparents {
 @media screen and (max-width: 375px) {
     .litterImage {
         margin-left: 12px;
+    }
+    .litterImagePort {
+        padding-left: 70px;
+        height: auto;
     }
     .litterText {
         padding-left: 12px;
@@ -717,6 +742,11 @@ td.greatGrandparents {
         width: 265px;
         height: 225px;
         margin-left: 0px;
+    }
+    .litterImagePort {
+        padding-left: 60px;
+        width: 200px;
+        height: auto;
     }
     .litterText {
         padding-left: 0px;
