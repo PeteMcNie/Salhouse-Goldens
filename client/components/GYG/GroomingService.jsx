@@ -20,7 +20,7 @@ function GroomingService () {
                 If your dog is shaved, the sun and heat has more access to the body of the dog but you haven&apos;t actually stripped out any
                 of the undercoat. All that has been done is to make the thick coat less long instead of actually thinning out the coat
                 which will work much better.  If shaved, the undercoat will grow back first and not provide the protection that the coarser
-                top coat does. The dog will feel hotter and the undercoat will get wet when swimming and take a long time to dry which can
+                top-coat does. The dog will feel hotter and the undercoat will get wet when swimming and take a long time to dry which can
                 cause skin issues. Most dogs feel the heat in the summer anyway, but with a correct groom there will be the correct
                 protection for your dog without ruining the coat.
               </p>

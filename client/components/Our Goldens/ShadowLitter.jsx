@@ -12,7 +12,7 @@ function ShadowLitter () {
         <Container>
           <Row className='row'>
             <Col>
-              <h2 className='litterTitle'>Shadow&apos;s litter 2010</h2>
+              <h2 id='shadowlitter' className='litterTitle'>Shadow&apos;s litter 2010</h2>
             </Col>
           </Row>
           <Row>

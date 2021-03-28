@@ -27,7 +27,7 @@ function SherryHome () {
         activeKey={key}
         onSelect={(k) => setKey(k)}
       >
-        <Tab eventKey="sherryHome" title="Sherry">
+        <Tab eventKey="sherryHome" title="Sherry" class='sticky-top' style='margin-top:100px'>
           <SherryMain />
         </Tab>
         <Tab eventKey="sherryLitter" title="Sherry's Litter" disabled>
