@@ -13,7 +13,7 @@ function ContactBody () {
           <Col lg={6} className='contact'>
             <h2 className='bodyTitle'>Contact</h2>
             <div className='contactInfo'>
-              <p className='contactText'>Phone: +64 4 566 0561</p>
+              <p className='contactText'>Phone: +64 4 566 0561 or 0274164687</p>
               <p className='contactText'>Email: <a href='mailto:cmcnie@xtra.co.nz'>cmcnie@xtra.co.nz</a></p>
               <p className='linkslastline contactText'>Lower Hutt, New Zealand</p>
             </div>

@@ -12,21 +12,15 @@ function AboutUsBody () {
           <Col>
             <h2 className='bodyTitle'>What we are about</h2>
             <p>
-              I am an animal lover and in particular I love my dogs. I dabbled in agility with Phoenix in the past and I started breed
-              showing a little bit  with mainly Shadow and occasionally Kula. I do compete in breed showing quite a bit now with Sherry
-              and Autumn and sometimes Shadow. I do it mainly  I have found that I have a very loving, friendly type of dog that I can
-              have fun with. I decided that I would like to breed from Kula&apos;s line and hopefully continue with my own dog family. I do
-              enjoy going away to shows and the social life with that and having a very occasional litter if I want a puppy. I have picked
-              dogs that I think have lovely natures and also look very nice. All the goldens are checked for general health, tested for
-              hip, elbow and eyes. These can be the main problems for a large breed dog. Although there can be no guarantees for the health
-              of a puppy, the best endeavour is made to produce lovely healthy family dogs.
+              I am an animal lover and in particular I love my dogs. I dabbled in agility with my first Golden Retriever, Phoenix, when
+              she was young. After I purchased Kula, I decided to breed a litter with her and have had a litter with each of my dogs
+              since then. I compete in breed showing quite a bit now with the dogs I have bred.
             </p>
             <p>
-              There are some pretty good obedience dogs in the background also and therefore anyone wanting to do obedience with their dog
-              would probably do alright. I am thinking of taking this up. My biggest problem is sorting myself out as I have trouble knowing
-              left from right. If I am nervous my brain goes to pot. I have to make sure I have my watch on so that I know which way is left!
-            </p>
-            <p>
+              Golden Retrievers are a very loving, friendly type of dog that it is easy to have fun with. I do enjoy going away to shows
+              and the social life with that and having a very occasional litter if I want a puppy. I have picked dogs that I think have
+              lovely natures and also look very nice. All the goldens are checked for general health, tested for hip, elbow, eyes and DNA
+              tested. Although there can be no guarantees for the health of a puppy, the best endeavour is made to produce healthy family dogs.
               You will see from some of the lovely photos on this website, we spend a lot of time walking our dogs. We like to explore different
               walks near to home or far away and are lucky enough to have access to many walking tracks.
             </p>

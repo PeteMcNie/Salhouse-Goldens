@@ -248,7 +248,7 @@ exports[`GYG component matches snapshot 1`] = `
               Grooming Service
             </h2>
             <p>
-              I provide a grooming service for Golden Retrievers. A full groom includes a trim of your Golden's neck, ears, feet and tail and sometimes the length underneath the body if it's too long. I also remove some of the undercoat and any loose fur and knots. I do not shave Golden Retrievers. They have a double coat for a reason, and partly it's an air conditioning unit. The best way to relieve a Golden that you think is feeling the heat is to get the undercoat removed. If your dog is shaved, the sun and heat has more access to the body of the dog but you haven't actually stripped out any of the undercoat. All that has been done is to make the thick coat less long instead of actually thinning out the coat which will work much better.  If shaved, the undercoat will grow back first and not provide the protection that the coarser top coat does. The dog will feel hotter and the undercoat will get wet when swimming and take a long time to dry which can cause skin issues. Most dogs feel the heat in the summer anyway, but with a correct groom there will be the correct protection for your dog without ruining the coat.
+              I provide a grooming service for Golden Retrievers. A full groom includes a trim of your Golden's neck, ears, feet and tail and sometimes the length underneath the body if it's too long. I also remove some of the undercoat and any loose fur and knots. I do not shave Golden Retrievers. They have a double coat for a reason, and partly it's an air conditioning unit. The best way to relieve a Golden that you think is feeling the heat is to get the undercoat removed. If your dog is shaved, the sun and heat has more access to the body of the dog but you haven't actually stripped out any of the undercoat. All that has been done is to make the thick coat less long instead of actually thinning out the coat which will work much better.  If shaved, the undercoat will grow back first and not provide the protection that the coarser top-coat does. The dog will feel hotter and the undercoat will get wet when swimming and take a long time to dry which can cause skin issues. Most dogs feel the heat in the summer anyway, but with a correct groom there will be the correct protection for your dog without ruining the coat.
             </p>
             <p>
               I am not a professionally trained groomer, but I have had years of grooming Goldens for the show ring and love grooming this breed.
@@ -361,12 +361,12 @@ exports[`GYG component matches snapshot 1`] = `
           >
             <img
               class="litterImage img-fluid"
-              src="images/gyg9.png"
+              src="images/gyg/gyg24.jpeg"
             />
             <p
               class="litterText"
             >
-              Billie before groom
+              Cody before groom
             </p>
           </div>
           <div
@@ -374,25 +374,12 @@ exports[`GYG component matches snapshot 1`] = `
           >
             <img
               class="litterImage img-fluid"
-              src="images/gyg10.png"
+              src="images/gyg/gyg23.jpeg"
             />
             <p
               class="litterText"
             >
-              Billie after groom
-            </p>
-          </div>
-        </div>
-        <div
-          class="row"
-        >
-          <div
-            class="col"
-          >
-            <p
-              class="testimonials"
-            >
-              Thank you for grooming Billie you have done a fantastic job and he looks very handsome. I hope he behaved himself. We will be in contact next time we want a groom. - Debbie
+              Cody after groom
             </p>
           </div>
         </div>
@@ -484,12 +471,12 @@ exports[`GYG component matches snapshot 1`] = `
           >
             <img
               class="litterImage img-fluid"
-              src="images/gyg16.jpg"
+              src="images/gyg/gyg26.jpeg"
             />
             <p
               class="litterText"
             >
-              Zach before groom
+              Maxwell before groom
             </p>
           </div>
           <div
@@ -497,12 +484,12 @@ exports[`GYG component matches snapshot 1`] = `
           >
             <img
               class="litterImage img-fluid"
-              src="images/gyg17.jpg"
+              src="images/gyg/gyg25.jpeg"
             />
             <p
               class="litterText"
             >
-              Zach after groom
+              Maxwell after groom
             </p>
           </div>
         </div>
@@ -543,13 +530,43 @@ exports[`GYG component matches snapshot 1`] = `
             class="leftCol col-lg-6"
           >
             <img
-              class="litterImage img-fluid"
-              src="images/gyg20.jpg"
+              class="litterImagePort img-fluid"
+              src="images/gyg/gyg27.jpeg"
             />
             <p
               class="litterText"
             >
-              Tawnee before groom
+              Charlie coat strip
+            </p>
+          </div>
+          <div
+            class="col-lg-6"
+          >
+            <img
+              class="litterImagePort img-fluid"
+              src="images/gyg/gyg28.jpeg"
+            />
+            <p
+              class="litterText"
+            >
+              Charlie final
+            </p>
+          </div>
+        </div>
+        <div
+          class="row"
+        >
+          <div
+            class="leftCol col-lg-6"
+          >
+            <img
+              class="litterImage img-fluid"
+              src="images/gyg/gyg29.jpeg"
+            />
+            <p
+              class="litterText"
+            >
+              Before feet
             </p>
           </div>
           <div
@@ -557,12 +574,12 @@ exports[`GYG component matches snapshot 1`] = `
           >
             <img
               class="litterImage img-fluid"
-              src="images/gyg21.jpg"
+              src="images/gyg/gyg30.jpeg"
             />
             <p
               class="litterText"
             >
-              Tawnee after groom
+              After feet
             </p>
           </div>
         </div>
