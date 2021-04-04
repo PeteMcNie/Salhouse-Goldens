@@ -21,65 +21,68 @@ function SherryMain () {
               <p>Whelped: 7 April 2010</p>
               <p>Hips: 8:8 Elbows: 1(a):B  Eyes: Clear 27/5/2014</p>
               <p>
-                Sherry is the newest addition to our furry family. She is a very sweet puppy who was chosen for her friendly nature,
-                waggy tail and, hopefully, suitability to be a show dog. She has good bone structure at this stage. She has upset the
-                rest of the dogs in our family temporarily, but that will settle down once she has grown up a bit and especially when
-                she loses her needle-like baby teeth and grows some proper teeth. She is quick to learn and at 10 weeks of age can sit,
-                down, wait, stand, come to command. However, she can&apos;t let go of her mother&apos;s leg when called so there&apos;s still some
-                training to do there.
+                Sherry came into our family on the 7th of April, 2010. You can learn about the puppies in that litter
+                <a href='/shadow'> here.</a> Sherry is a very sweet Golden Retriever puppy who was chosen for her friendly,
+                gentle nature, waggy tail and, hopefully, suitability to be a show dog. As a puppy, she was quick to learn,
+                and at 10 weeks of age could sit, down, wait, stand and come to command. However, she couldn&apos;t let go of her
+                mother&apos;s leg when called so that took a bit more training!
               </p>
               <p>
-                Sherry is now 17 weeks old and enjoying life to the full. She has learnt to swim and loves running around on the beach.
-                She is a real retriever as she always brings us something in her mouth when she comes to see us - either a slipper, sock,
-                toy, anything. Yesterday I dropped a birthday card on the floor and she picked it up and gave it to me! Sherry will be going to her first show on 8 August so it will be interesting to see how she gets on there.
+                At 17 weeks of age, Sherry was enjoying life to the full. She had learnt to swim and loved running around on the beach.
+                She was a real retriever as she always brings us something in her mouth when she comes to see us - either a slipper,
+                sock, toy, anything. One day I even dropped a birthday card on the floor and she picked it up and gave it to me!
+                Sherry achieved some successes as Baby Puppy in Breed and four-and-a-half months old, she went to the Auckland
+                Golden Retriever shows and won Baby Puppy in Show at both shows. Critique for one of the shows was: Good size
+                young lady, sweetest of heads, good pigment, kind eye, well angulated at front and rear, dead level topline,
+                has good overall balance, moved out well for one so young, shows good promise. Sherry then moved on to Puppy
+                class and had one or two successes at the end of 2010. In Hastings in early December she won two Puppy of Breeds.
               </p>
               <p>
-                Sherry has achieved some successes as Baby Puppy in Breed and in the middle of August at 4 and a half months old, she went
-                to the Auckland Golden Retriever shows and won Baby Puppy in Show at both shows. Critique for one of the shows was: Good
-                size young lady sweetest of heads, good pigment, kind eye, well angulated at front and rear, dead level topline, has good
-                overall balance, moved out well for one so young, shows good promise.
+                Sherry also continued her own wonderful personality. One of her most endearing traits is that she always has
+                something in her mouth when she comes to see you. If she is rushing up to greet you and doesn&apos;t have anything
+                in her mouth she stops dead, and you can see the thought processes - nothing in mouth, must get something to
+                bring as a gift! So sweet. That developed over a while to Sherry becoming my slipper fetcher, and whenever I
+                come in from being outside, she races off (without being asked) to find my slippers and bring them to me.
+                That is one of the best things I reckon you can teach a dog to do.
               </p>
               <p>
-                Sherry has now moved on to Puppy class and has had one or two successes at the end of 2010.  In Hastings in early December
-                she won two Puppy of Breeds.  She is developing really nicely. (See 8 month photo below.)
+                She also took up putting her nose in everything, although she denies it of course (see photos below).
+                I took it upon myself to try and learn to compete in obedience competitions with Sherry. I was a total novice,
+                and Sherry was my training companion. We did okay for a team that didn&apos;t really know the first thing about
+                obedience. Sherry got through winning out of the Special Beginners&apos; class, and then won out of Novice class.
+                She was partway through winning out of Test A, but then life got busy and I lost the enthusiasm and I decided
+                to retire her. However, before I retired her, she went for an obedience title called CDX, and she got it, which
+                is why she has those letters behind her registered name now. I am very proud of the obedience that we did do
+                together, and to this day she will practice with me in the garden or out in the street if I decide to have a
+                trip down memory lane.
               </p>
               <p>
-                Sherry has also developed her own wonderful personality and one of her most endearing traits is that she always  has
-                something in her mouth when she comes to see you.  If she is rushing up to greet you and doesn&apos;t have anything in her
-                mouth she stops dead, and you can see the thought processes - nothing in mouth, must get something to bring as a gift!
-                So sweet.  She has also taken up putting her nose in everything, although she denies it of course (see photos below).
+                In March 2014, two weeks after her mum, Shadow, became a breed Champion at Wanganui, we set off for four more
+                shows at Hastings. The weather was lovely, the company was great, and the mood seemed good. On Saturday morning
+                we went into the show ring and Sherry got into the line up. She was running really nicely and the judge looked
+                and looked and all of a sudden pointed to Sherry for the challenge! It took a moment to dawn on me... we have
+                finally made another Champion... yeah! What excitement that was. We were on Cloud 9. We had a lovely boozy shout
+                at lunch time to celebrate our success with friends who have supported us throughout the years we have been
+                showing. It was a really nice time and something I won&apos;t forget. To top the weekend off, on the Sunday Shadow
+                took the challenge in the morning show and Sherry took another challenge in the afternoon show - so what a
+                great effort that was from both the girls. We didn&apos;t get home till after 9pm that day! Sherry now has the CH
+                in front of her registered name to show she is a breed Champion.
               </p>
               <p>
-                Sherry has now got a wonderful trick - when I come in from outside the house she immediately runs off to find my slippers
-                and brings them to me one at a time. You can see her thinking when I come in that she has got to find the slippers, without
-                me even telling her. Sometimes when I come in from downstairs she is already waiting at the top of the stairs with one of
-                them - she just can&apos;t wait to give them to me.
-              </p>
-              <p>
-                September 2013 - Sherry has been competing in obedience competitions for about a year and a half and has just won out of
-                Special Beginners. I&apos;m so proud of her. Photo and news on the news page.
-              </p>
-              <p>
-                March 2014 - Two weeks after her mum, Shadow, became a Champion at Wanganui, we set off for four more shows at Hastings.
-                The weather was lovely, the company was great and the mood seemed good. On Saturday morning we went into the show ring
-                and Sherry got into the line up. She was running really nicely and the judge looked and looked and all of a sudden pointed
-                to Sherry for the challenge! It took a moment to dawn on me... we have finally made another Champion... yeah. What excitement
-                that was. We were on Cloud 9. We had a lovely boozy shout at lunch time to celebrate our success with friends who have
-                supported us throughout the years we have been showing. It was a really nice time and something I won&apos;t forget. To top
-                the weekend off, on the Sunday Shadow took the challenge in the morning show and Sherry took another challenge in the
-                afternoon show - so what a great effort that was from both the girls. We didn&apos;t get home till after 9pm that day!
-              </p>
-              <p>
-                May 2014 - Well, what a year this is becoming for Sherry. She entered her first CD for obedience in Wanganui on 3 May
-                2014 and passed with flying colours gaining her CDX obedience title. We love Wanganui!
-              </p>
-              <p>
-                February 2015 - Sherry and I finally got it together, and after nearly a year in Novice obedience we won one! We only
-                lost .5 out of 100 and heat 39 other dogs! Go my sweet girl!
-              </p>
-              <p>
-                March 2015 - We did it again a couple of weeks later - won another Novice competition and so now Sherry is official a
-                Test A dog having won the two Novice tests to qualify for Test A.
+                Sherry had a litter of puppies in June 2015. However, calling it a litter
+                was a bit of an overstatement! We had two female puppies. There was a third puppy, a boy, but that one unfortunately
+                passed away at birth. The birth was not a pleasant experience for Sherry, and it is a good reminder to us and
+                perhaps anyone wanting a puppy, that when a breeder decides to breed their dogs, it doesn&apos;t always go well and
+                they are putting their loved furry family at risk. We can&apos;t know the outcome of a mating and birth. We just hope
+                that we have got it right and that things will go well. Sherry had trouble having the first puppy. We ended up at
+                the vet and to say that I never want to go through something like that again would be an understatement. The puppy
+                had to come out and Sherry screamed for a long time until we could get the puppy out. It was heart-breaking. I
+                promised Sherry that I would not do that to her again. She had the other two puppies naturally and was a lovely
+                mother, although answering the door was always more important to her than staying in with her puppies. Autumn and
+                Tuppence were born and we couldn’t just give one of them away, so the decision was made to keep both of them.
+                Sherry has been a faithful companion for many years now, and at the time of writing this, she is 10 years old and
+                still wants to please us. She is a happy, smiley Golden and we hope she keeps us company and brings me my slippers
+                for a good many more years.
               </p>
             </Col>
             <Col lg={6}>

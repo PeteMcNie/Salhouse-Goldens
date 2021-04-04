@@ -7,7 +7,14 @@ function AutumnLitter () {
     <>
       <div>
         <h2>Autumn&apos;s Litter 2006</h2>
-        <h3>Coming soon...</h3>
+        <p>
+          On 26 March 2019, Autumn had a litter of seven beautiful puppies. We gave them all names shortly after they were born - Puzzle, Siren,
+          Eros, Tuddly, Star, Crumble and Toffee. We had a lot of fun with this litter, playing with them and watching them grow. Six of them
+          went to lovely families, and one naughty one, Siren (aka Naughty Pants) stayed with us.
+        </p>
+        <p>
+          On this page are just a handful of the hundreds of photos that we took of these lovely puppies in the first eight weeks of their lives.
+        </p>
       </div>
     </>
 

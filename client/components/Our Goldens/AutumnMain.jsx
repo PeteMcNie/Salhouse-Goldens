@@ -21,25 +21,29 @@ function AutumnMain () {
               <p>Whelped: 16 June 2015</p>
               <p>Hips: 6:6  Elbows: 0:0 Clear eye cert: 9 Jan 2019</p>
               <p>
-                At the time of writing this Autumn is just 20 months old. She has already achieved Champion status in the show ring
-                at the age of 14 months. Autumn is a clown and goes by lots of other names including Doofus, Nut Job, Goof Ball and
-                Awesome! She is a full on dog with heaps of enthusiasm and wants to be in on absolutely everything that is going on.
-                She gets very upset when I train her sister, Tuppence, and not her and also if I get the hose out but have shut the
-                dogs indoors. She loves water. She is a very powerful swimmer and swims along the beach and river while I am walking.
-                If she comes out of the water it is with a shower (or more like a downpour) of water flying off her in all directions
-                as she runs as fast as she can to catch up or go ahead. She doesn&apos;t shake herself off until she has run quite a way
-                and comes to a stop. Then it is only a brief stop before racing back into the water again where she seems to be the
-                most happy.
+                Autumn achieved her breed Champion status by 14 months of age. She is a much heavier boned Golden than I have ever bred before,
+                but she runs beautifully in the show ring with a lot of enthusiasm. I have to run fast to keep up with her.
               </p>
               <p>
-                Autumn has become a really good retriever. She loves to retrieve balls from the river or sea, but also races around
-                on land to get the ball. She is full on energy when she is out and about. However, at home, she is laid back and calm,
-                except she is a guard dog when someone comes to the door or is over at the park opposite. She likes to bark and let
-                us know they are there.
+                Autumn is a full-on dog with heaps of enthusiasm and wants to be in on absolutely everything that is going on. She gets very
+                upset when I train her sister, Tuppence, and not her, and also if I get the hose out but have shut the dogs indoors. She loves water.
+                She is a very powerful swimmer and swims along the beach and river while I am walking. If she comes out of the water it is with a
+                shower (or more like a downpour) of water flying off her in all directions as she runs as fast as she can to catch up or go ahead.
+                She doesn&apos;t shake herself off until she has run quite a way and comes to a stop. Then it is only a brief stop before racing back
+                into the water again where she seems to be the most happy.
               </p>
               <p>
-                In March 2019, Autumn had a litter of seven beautiful puppies. Six puppies found themselves lovely homes to go to,
-                and one naughty one stayed with us here at Salhouse. Her name is Siren and she has her own page on this website.
+                Autumn has become a really good retriever. She loves to retrieve balls from the river or sea, but also races around on land to get
+                the ball. She is full on energy when she is out and about. However, at home, she is laid back and calm, except she is a guard dog
+                when someone comes to the door or is over at the park opposite. She likes to bark and let us know they are there.
+              </p>
+              <p>
+                Autumn also has a cuddly streak, and likes nothing more than to push in front of the other dogs when we are giving attention to
+                them.
+              </p>
+              <p>
+                In March 2019, Autumn had a litter of seven beautiful puppies. Six puppies found themselves lovely homes to go to, and one naughty
+                one stayed with us here at Salhouse. <a href='/siren'> Her name is Siren.</a>
               </p>
             </Col>
             <Col lg={6}>
