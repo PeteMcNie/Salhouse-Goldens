@@ -48,31 +48,61 @@ class OurGoldensSplider extends React.Component {
       <div className='splideContainerOG'>
         <Splide options={ primaryOptions } ref={ this.primaryRef }>
           <SplideSlide>
-            <Image src="images/christmasSitting.jpg" className='splideImage OG'/>
+            <Image src="images/our-goldens/field.jpg" className='splideImage OG'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/christmasTwoSittingOneLaying.jpg" className='splideImage OG'/>
+            <Image src="images/our-goldens/forest-dogs.jpg" className='splideImage OG'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/wolfpack.jpg" className='splideImage OG'/>
+            <Image src="images/our-goldens/jumping-for-stick.jpg" className='splideImage OG'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/fishTank.jpg" className='splideImage OG'/>
+            <Image src="images/our-goldens/run.jpg" className='splideImage OG'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/our-goldens/sea.jpg" className='splideImage OG'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/our-goldens/sherry-forest.jpg" className='splideImage OG'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/our-goldens/sun-through-trees.jpg" className='splideImage OG'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/our-goldens/tup-and-aut-forest.jpg" className='splideImage OG'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/our-goldens/water-dog.jpg" className='splideImage OG'/>
           </SplideSlide>
         </Splide>
 
         <Splide options={ secondaryOptions } ref={ this.secondaryRef } id='centerSplideTrack'>
           <SplideSlide>
-            <Image src="images/christmasSitting.jpg"/>
+            <Image src="images/our-goldens/field.jpg"/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/christmasTwoSittingOneLaying.jpg"/>
+            <Image src="images/our-goldens/forest-dogs.jpg"/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/wolfpack.jpg"/>
+            <Image src="images/our-goldens/jumping-for-stick.jpg"/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/fishTank.jpg"/>
+            <Image src="images/our-goldens/run.jpg"/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/our-goldens/sea.jpg"/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/our-goldens/sherry-forest.jpg"/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/our-goldens/sun-through-trees.jpg"/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/our-goldens/tup-and-aut-forest.jpg"/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/our-goldens/water-dog.jpg"/>
           </SplideSlide>
         </Splide>
       </div>
