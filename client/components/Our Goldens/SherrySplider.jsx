@@ -3,7 +3,7 @@ import React from 'react'
 import Image from 'react-bootstrap/Image'
 import { Splide, SplideSlide } from '@splidejs/react-splide'
 
-import '@splidejs/splide/dist/css/themes/splide-skyblue.min.css'
+// import '@splidejs/splide/dist/css/themes/splide-skyblue.min.css'
 
 class SherrySplider extends React.Component {
   constructor (props) {
