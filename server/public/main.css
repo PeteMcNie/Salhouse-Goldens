@@ -69,7 +69,7 @@ a.dropdown-item.active.dropdown-item:hover {
 
 /* KULA JUMBOTRON CSS */
 #kulaj {
-    background-image: url("images/kula1.jpg");
+    background-image: url("images/kula/kula-top.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 85px;

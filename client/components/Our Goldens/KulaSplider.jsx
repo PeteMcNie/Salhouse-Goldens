@@ -48,55 +48,49 @@ class KulaSplider extends React.Component {
       <div className='splideContainer'>
         <Splide options={ primaryOptions } ref={ this.primaryRef }>
           <SplideSlide>
-            <Image src="images/kula2.jpg" className='splideImage' thumbnail />
+            <Image src="images/kula/water-kula.jpg" className='splideImage' thumbnail />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula3.jpg" className='splideImage' thumbnail/>
+            <Image src="images/kula/walking-kula.jpg" className='splideImage' thumbnail/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula4.jpg" className='splideImage' thumbnail/>
+            <Image src="images/kula/flower-kula.jpg" className='splideImage' thumbnail/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula5.jpg" className='splideImage' thumbnail/>
+            <Image src="images/kula/kula-by-fire.jpg" className='splideImage' thumbnail/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula6.jpg" className='splideImage' thumbnail/>
+            <Image src="images/kula/kula-by-fence.jpg" className='splideImage' thumbnail/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula7.jpg" className='splideImage' thumbnail/>
+            <Image src="images/kula/kula-with-puppies.jpg" className='splideImage' thumbnail/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula8.jpg" className='splideImage' thumbnail/>
-          </SplideSlide>
-          <SplideSlide>
-            <Image src="images/kula9.jpg" className='splideImage' thumbnail/>
+            <Image src="images/kula/bean-bag.jpg" className='splideImage' thumbnail/>
           </SplideSlide>
         </Splide>
 
         <Splide options={ secondaryOptions } ref={ this.secondaryRef } className='splideNav'>
           <SplideSlide>
-            <Image src="images/kula2.jpg"/>
+            <Image src="images/kula/water-kula.jpg"/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula3.jpg"/>
+            <Image src="images/kula/walking-kula.jpg"/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula4.jpg"/>
+            <Image src="images/kula/flower-kula.jpg"/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula5.jpg"/>
+            <Image src="images/kula/kula-by-fire.jpg"/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula6.jpg"/>
+            <Image src="images/kula/kula-by-fence.jpg"/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula7.jpg"/>
+            <Image src="images/kula/kula-with-puppies.jpg"/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula8.jpg"/>
-          </SplideSlide>
-          <SplideSlide>
-            <Image src="images/kula9.jpg"/>
+            <Image src="images/kula/bean-bag.jpg"/>
           </SplideSlide>
         </Splide>
       </div>
