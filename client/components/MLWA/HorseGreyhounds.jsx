@@ -32,9 +32,10 @@ function HorseGreyhounds () {
             no easy feat when the horse is going so fast. I hit the ground and I remember putting my head up and hearing the
             thunder of feet, so I put my head down again while another horse galloped on past me (remember that there were
             probably 20 horses bolting as fast as they could at this stage). Then everything went quiet and I waited. I got up
-            and suddenly realised that my watch on my left arm was in the middle of a very big dip in my wrist. I had broken it.
+            and suddenly realised that my watch on my left arm was in the middle of a very big dip in my wrist. I had broken it, the
+            wirst I mean!
             I also had a small stone lodged in the corner of one of my eyes, probably when my head hit the ground. I started to
-            walk back to the stables with one of the other ladies who had stopped her horse and was picked up by a farmer part
+            walk back to the stables with one of the other ladies who had stopped her horse, and was picked up by a farmer part
             way down the track and bounced very uncomfortably down the track to his house where he called my parents. Apart from
             that one accident, working with horses was great fun and allowed me to be around animals even more which was all I
             wanted.
