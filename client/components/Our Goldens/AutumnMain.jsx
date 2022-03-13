@@ -18,8 +18,7 @@ function AutumnMain () {
               <h3>CH Autumn Light at Salhouse (Autumn)</h3>
               <p>Sire: CH Sandlewood Bowl-Me-Over</p>
               <p>Dam: CH Golden Light at Salhouse CDX</p>
-              <p>Whelped: 16 June 2015</p>
-              <p>Hips: 6:6  Elbows: 0:0 Clear eye cert: 9 Jan 2019</p>
+              <p>16 June 2015 - present</p>
               <p>
                 Autumn achieved her breed Champion status by 14 months of age. She is a much heavier boned Golden than I have ever bred before,
                 but she runs beautifully in the show ring with a lot of enthusiasm. I have to run fast to keep up with her.
@@ -43,7 +42,7 @@ function AutumnMain () {
               </p>
               <p>
                 In March 2019, Autumn had a litter of seven beautiful puppies. Six puppies found themselves lovely homes to go to, and one naughty
-                one stayed with us here at Salhouse. <a href='/siren'> Her name is Siren.</a>
+                one stayed with us here at Salhouse. <a href='/siren'>Siren.</a>
               </p>
             </Col>
             <Col lg={6}>

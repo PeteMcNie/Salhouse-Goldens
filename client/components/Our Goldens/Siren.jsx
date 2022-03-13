@@ -13,12 +13,7 @@ function Siren () {
   return (
     <>
       <NavbarComp />
-      <Jumbotron id='sirenj' fluid>
-        {/* <div>
-          <h1 className='jumbotronTitle'>Siren</h1>
-          <p className='line siren'></p>
-        </div> */}
-      </Jumbotron>
+      <Jumbotron id='sirenj' fluid />
       <div className='mainBody'>
         <Container>
           <Row className='row'>
@@ -27,7 +22,7 @@ function Siren () {
               <h3>Salhouse Siren of Hearts (Siren)</h3>
               <p>Sire: CH Speyside Bon Chance CGC B</p>
               <p>Dam: CH Autumn Light at Salhouse</p>
-              <p>Whelped: 26 March 2019</p>
+              <p>26 March 2019 - present</p>
               <p>
                 Meet the beautiful Siren, who also has the nickname Naughty Pants. She came into our lives in March 2019 being the
                 second puppy born to Autumn. Right from the start I did not want this puppy. She screamed for the first two days of
@@ -55,6 +50,7 @@ function Siren () {
                 other dogs and pester her mother as much as she can. She&apos;s also been very persistent with aunty Tuppence who doesn&apos;t
                 like puppies, and after about a year-and-a-half, Tuppence has finally been seen playing with Siren like a puppy!
               </p>
+              <p>In March 2021, Siren has a lovely litter of seven puppies. It&apos;s the first time we&apos;ve managed to keep all the puppies</p>
             </Col>
             <Col lg={6}>
               <SirenSplider />
