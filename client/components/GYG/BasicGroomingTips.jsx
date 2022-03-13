@@ -26,9 +26,9 @@ function BasicGroomingTips () {
               </p>
               <p>
                 If you find that your Golden&apos;s coat gets too thick with lots of undercoat that you can&apos;t get out and he/she seems
-                to be moulting all the time, it can be useful to learn how to strip their coat out yourself. You can use a dog rake as below.
+                to be moulting all the time, it can be useful to learn how to strip their coat out yourself. You can use a dog rake (pictured).
                 The rake is an easy implement to use.  Make sure you comb the rake through the neck and the feathers of the front and back
-                legs as well as the body of your Golden. You can also use a slicker brush (pictured below) which will get undercoat out and
+                legs as well as the body of your Golden. You can also use a slicker brush (pictured) which will get undercoat out and
                 can be easier to brush through the feathers of the legs, especially if there are some small knots. Make sure if you are
                 pulling on a knot, hold the fur with your other hand halfway down the length to the skin to prevent it from pulling. If
                 knots are too big, cut them out gently, being careful to make sure your Golden is still and not likely to move at this time.

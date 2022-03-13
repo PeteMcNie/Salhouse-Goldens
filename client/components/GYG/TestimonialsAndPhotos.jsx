@@ -48,12 +48,20 @@ function TestimonialsAndPhotos () {
           </Row>
           <Row>
             <Col lg={6} className='leftCol'>
-              <Image src='images/gyg/gyg24.jpeg' fluid className='litterImage'/>
-              <p className='litterText'>Cody before groom</p>
+              <Image src='images/gyg/rocket-after-wash-but-before-groom.jpg' fluid className='litterImage'/>
+              <p className='litterText'>Rocket after wash prior to groom</p>
             </Col>
             <Col lg={6}>
-              <Image src='images/gyg/gyg23.jpeg' fluid className='litterImage'/>
-              <p className='litterText'>Cody after groom</p>
+              <Image src='images/gyg/rocket-after-groom.jpg' fluid className='litterImage'/>
+              <p className='litterText'>Rocket after groom</p>
+            </Col>
+          </Row>
+          <Row>
+            <Col>
+              <p className='testimonials'>
+                Rocket came to me at 10 months old when he was blowing his puppy coat. Most of the puppy coat was taken out in the 
+                groom and you can see the adult coat coming through.
+              </p>
             </Col>
           </Row>
           <Row>
@@ -87,22 +95,22 @@ function TestimonialsAndPhotos () {
           </Row>
           <Row>
             <Col lg={6} className='leftCol'>
-              <Image src='images/gyg/gyg26.jpeg' fluid className='litterImage'/>
-              <p className='litterText'>Maxwell before groom</p>
+              <Image src='images/gyg/saffie-before-groom.jpg' fluid className='litterImage'/>
+              <p className='litterText'>Saffie before groom</p>
             </Col>
             <Col lg={6}>
-              <Image src='images/gyg/gyg25.jpeg' fluid className='litterImage'/>
-              <p className='litterText'>Maxwell after groom</p>
+              <Image src='images/gyg/saffie-after-groom.jpg' fluid className='litterImage'/>
+              <p className='litterText'>Saffie after groom</p>
             </Col>
           </Row>
           <Row>
             <Col lg={6} className='leftCol'>
-              <Image src='images/gyg18.jpg' fluid className='litterImage'/>
-              <p className='litterText'>Jax before groom</p>
+              <Image src='images/gyg/georgie-before-groom.jpg' fluid className='litterImage'/>
+              <p className='litterText'>Georgie before groom</p>
             </Col>
             <Col lg={6}>
-              <Image src='images/gyg19.jpg' fluid className='litterImage'/>
-              <p className='litterText'>Jax after groom</p>
+              <Image src='images/gyg/georgie-after-groom.jpg' fluid className='litterImage'/>
+              <p className='litterText'>Georgie after groom</p>
             </Col>
           </Row>
           <Row>
