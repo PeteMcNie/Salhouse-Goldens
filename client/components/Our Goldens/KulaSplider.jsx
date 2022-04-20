@@ -3,7 +3,7 @@ import React from 'react'
 import Image from 'react-bootstrap/Image'
 import { Splide, SplideSlide } from '@splidejs/react-splide'
 
-// import '@splidejs/splide/dist/css/themes/splide-skyblue.min.css'
+import '@splidejs/splide/dist/css/themes/splide-skyblue.min.css'
 
 class KulaSplider extends React.Component {
   constructor (props) {
@@ -48,25 +48,25 @@ class KulaSplider extends React.Component {
       <div className='splideContainer'>
         <Splide options={ primaryOptions } ref={ this.primaryRef }>
           <SplideSlide>
-            <Image src="images/kula/water-kula.jpg" className='splideImage' thumbnail />
+            <Image src="images/kula/water-kula.jpg" className='splideImage' />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula/walking-kula.jpg" className='splideImage' thumbnail/>
+            <Image src="images/kula/walking-kula.jpg" className='splideImage' />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula/flower-kula.jpg" className='splideImage' thumbnail/>
+            <Image src="images/kula/flower-kula.jpg" className='splideImage' />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula/kula-by-fire.jpg" className='splideImage' thumbnail/>
+            <Image src="images/kula/kula-by-fire.jpg" className='splideImage' />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula/kula-by-fence.jpg" className='splideImage' thumbnail/>
+            <Image src="images/kula/kula-by-fence.jpg" className='splideImage' />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula/kula-with-puppies.jpg" className='splideImage' thumbnail/>
+            <Image src="images/kula/kula-with-puppies.jpg" className='splideImage' />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/kula/bean-bag.jpg" className='splideImage' thumbnail/>
+            <Image src="images/kula/bean-bag.jpg" className='splideImage' />
           </SplideSlide>
         </Splide>
 
