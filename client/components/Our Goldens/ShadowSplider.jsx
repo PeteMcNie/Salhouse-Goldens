@@ -84,6 +84,24 @@ class KulaSplider extends React.Component {
             <Image src="images/shadow/with-present.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
+            <Image src="images/shadow/upside_down.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/laying.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/wet.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/sandy.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/scenic.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/pretty.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
             <Image src="images/shadow/with-ribbon.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
@@ -127,6 +145,24 @@ class KulaSplider extends React.Component {
           </SplideSlide>
           <SplideSlide>
             <Image src="images/shadow/with-present.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/upside_down.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/laying.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/wet.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/sandy.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/scenic.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/pretty.jpg" />
           </SplideSlide>
           <SplideSlide>
             <Image src="images/shadow/with-ribbon.jpg" />
