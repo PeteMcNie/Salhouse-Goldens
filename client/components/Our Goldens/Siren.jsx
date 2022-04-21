@@ -50,7 +50,7 @@ function Siren () {
                 other dogs and pester her mother as much as she can. She&apos;s also been very persistent with aunty Tuppence who doesn&apos;t
                 like puppies, and after about a year-and-a-half, Tuppence has finally been seen playing with Siren like a puppy!
               </p>
-              <p>In March 2021, Siren has a lovely litter of seven puppies. It&apos;s the first time we&apos;ve managed to keep all the puppies</p>
+              <p>In March 2021, Siren has a lovely litter of seven puppies.</p>
             </Col>
             <Col lg={6}>
               <SirenSplider />

@@ -51,19 +51,7 @@ class SirenSplider extends React.Component {
             <Image src="images/siren/siren2.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/siren/new1.jpg" className='splideImage'/>
-          </SplideSlide>
-          <SplideSlide>
             <Image src="images/siren/new2.jpg" className='splideImage'/>
-          </SplideSlide>
-          <SplideSlide>
-            <Image src="images/siren/new3.jpg" className='splideImage'/>
-          </SplideSlide>
-          <SplideSlide>
-            <Image src="images/siren/new5.jpg" className='splideImage'/>
-          </SplideSlide>
-          <SplideSlide>
-            <Image src="images/siren/new6.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
             <Image src="images/siren/at_beach.jpg" className='splideImage'/>
@@ -96,19 +84,7 @@ class SirenSplider extends React.Component {
             <Image src="images/siren/siren2.jpg"/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/siren/new1.jpg"/>
-          </SplideSlide>
-          <SplideSlide>
             <Image src="images/siren/new2.jpg"/>
-          </SplideSlide>
-          <SplideSlide>
-            <Image src="images/siren/new3.jpg"/>
-          </SplideSlide>
-          <SplideSlide>
-            <Image src="images/siren/new5.jpg"/>
-          </SplideSlide>
-          <SplideSlide>
-            <Image src="images/siren/new6.jpg"/>
           </SplideSlide>
           <SplideSlide>
             <Image src="images/siren/at_beach.jpg" />
