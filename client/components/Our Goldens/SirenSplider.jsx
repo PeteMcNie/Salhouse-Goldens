@@ -48,43 +48,91 @@ class SirenSplider extends React.Component {
       <div className='splideContainer'>
         <Splide options={ primaryOptions } ref={ this.primaryRef }>
           <SplideSlide>
-            <Image src="images/siren2.jpg" className='splideImage'/>
+            <Image src="images/siren/siren2.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/new1.jpg" className='splideImage'/>
+            <Image src="images/siren/new1.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/new2.jpg" className='splideImage'/>
+            <Image src="images/siren/new2.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/new3.jpg" className='splideImage'/>
+            <Image src="images/siren/new3.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/new5.jpg" className='splideImage'/>
+            <Image src="images/siren/new5.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/new6.jpg" className='splideImage'/>
+            <Image src="images/siren/new6.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/siren/at_beach.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/siren/beach_fun.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/siren/beach.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/siren/laying_down.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/siren/sitting.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/siren/show_siren.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/siren/young.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/siren/sleeping_with_puppies.jpg" className='splideImage'/>
           </SplideSlide>
         </Splide>
 
         <Splide options={ secondaryOptions } ref={ this.secondaryRef } className='splideNav'>
           <SplideSlide>
-            <Image src="images/siren2.jpg"/>
+            <Image src="images/siren/siren2.jpg"/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/new1.jpg"/>
+            <Image src="images/siren/new1.jpg"/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/new2.jpg"/>
+            <Image src="images/siren/new2.jpg"/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/new3.jpg"/>
+            <Image src="images/siren/new3.jpg"/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/new5.jpg"/>
+            <Image src="images/siren/new5.jpg"/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/new6.jpg"/>
+            <Image src="images/siren/new6.jpg"/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/siren/at_beach.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/siren/beach_fun.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/siren/beach.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/siren/laying_down.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/siren/sitting.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/siren/show_siren.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/siren/young.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/siren/sleeping_with_puppies.jpg" />
           </SplideSlide>
         </Splide>
       </div>
