@@ -22,16 +22,7 @@ function Lassie () {
             I was five years old and I decided to ask them if I could take their dog for a walk. My heart was in my mouth as I
             walked up to their front door and knocked on it, feeling so small and not knowing what they were going to say. I
             couldn’t believe my luck when they said they were happy for me to take her for a walk. Her name was Lassie, and this
-            was the start of a beautiful friendship and the beginning of my love of Golden Retrievers. Below is the only photo I
-            have of Lassie.
-            </p>
-            <p>
-            What I really wanted was a dog, but my Dad was never going to allow that. I knew that there was an elderly couple
-            across the road from us who owned a beautiful dog. I had seen them walking her up the road. She was only young and
-            I was five years old and I decided to ask them if I could take their dog for a walk. My heart was in my mouth as I
-            walked up to their front door and knocked on it, feeling so small and not knowing what they were going to say. I
-            couldn’t believe my luck when they said they were happy for me to take her for a walk. Her name was Lassie, and this
-            was the start of a beautiful friendship and the beginning of my love of Golden Retrievers. Below is the only photo I
+            was the start of a beautiful friendship and the beginning of my love of Golden Retrievers. Pictured is the only photo I
             have of Lassie.
             </p>
           </Col>
@@ -46,7 +37,7 @@ function Lassie () {
             <p>
             Lassie was not actually a purebred Golden Retriever, but a Saluki/Golden Retriever cross. She had the build of a Golden
             and the beautiful golden colouring, but her feathers were very long, more like a Saluki. I have to give thanks to Claude
-            and Dorothy (Lassie’s owners) for allowing me the chance to walk their dog – I know that if a 5-year old child came to
+            and Dorothy (Lassie’s owners) for allowing me the chance to walk their dog – I know that if a 5-year-old child came to
             me to ask if they could walk one of my dogs I would say no.
             </p>
             <p>

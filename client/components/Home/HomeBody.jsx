@@ -27,9 +27,9 @@ function HomeBody () {
             </p>
             <p>
               Shadow is a real character and is such fun to be with. She is so enthusiastic about her people and has the loveliest nature. Shadow
-              had a litter of 7 puppies in April 2010 and we have kept one of those, Sherry. We added an item to the News page each day from the
+              had a litter of seven puppies in April 2010 and we have kept one of those, Sherry. We added an item to the News page each day from the
               day the puppies were born to the time they left us. There are loads of photos and videos of these puppies and some stories of them
-              growing up. Go to the News page to see these stories and more.
+              growing up.
             </p>
             <p>
               Sherry is a very soft Golden, only wanting to please and be with us. She is a beautiful natured member of our family and dabbled in

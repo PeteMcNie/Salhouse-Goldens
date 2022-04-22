@@ -17,11 +17,10 @@ function ShadowMain () {
             <h3>CH Salhouse Sunchaser (Shadow)</h3>
             <p>Sire: NZ CH Santamaria The Patriot</p>
             <p>Dam: Sanastasia Sth&apos;n Star Chara</p>
-            <p>Whelped: 21 February 2006</p>
-            <p>Hips: 11:10  Elbows: B:1a  Eyes: Clear Eye Certificate 9/5/10</p>
+            <p>21 February 2006 - 22 October 2021</p>
             <p>
               When Shadow was a puppy, along with the six other littermates, we used to visit the puppies outside in the
-              garden, but then come in through either the conservatory door or through the gate at the side. Invariably
+              garden but then come in through either the conservatory door or through the gate at the side. Invariably
               one puppy used to slip through onto our side of the door/gate once we had closed it and we began to realise
               that it was always the same one. This same puppy used to follow my husband around as well and consequently
               she became the beautiful puppy that joined our family. She was named “Shadow“ because my husband considered
@@ -37,16 +36,15 @@ function ShadowMain () {
               whichever human is on the floor.
             </p>
             <p>
-              Shadow whelped a litter of seven puppies on 7 April 2010. For some of the drama involved in this whelping,
-              see the News page. There is also a link above called Shadow&apos;s litter where there are photos of this lovely
-              litter of four male and three female puppies. One of the female puppies from this litter joined our family
-              and we have named her Sherry. You can find out more about her on her own page.
+              Shadow whelped a litter of seven puppies on 7 April 2010. There is a link above called Shadow&apos;s litter
+              where there are photos of this lovely litter of four male and three female puppies. One of the female puppies
+              from this litter joined our family and we have named her Sherry. You can find out more about her on her own page.
             </p>
             <p>
               Shadow is our first show dog, competing in breed shows. I had to learn how to do the show thing and took
               her to training in Porirua every week. They have a ribbon parade once a month, and I was very chuffed when
               she won Best On Parade one time. She was seriously shown in championship shows and won her first Challenge
-              Certificate at Hastings on 11 December 2010 (see News item dated 12 December 2010, Shadow&apos;s first CC).
+              Certificate at Hastings on 11 December 2010.
             </p>
             <p>
               Who would have thought that a visit to Whanganui would be a really amazingly exciting event! Whanganui will

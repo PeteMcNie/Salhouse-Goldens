@@ -17,11 +17,6 @@ exports[`Carousel component to match snapshot 1`] = `
       <li />
       <li />
       <li />
-      <li />
-      <li />
-      <li />
-      <li />
-      <li />
     </ol>
     <div
       class="carousel-inner"
@@ -30,146 +25,61 @@ exports[`Carousel component to match snapshot 1`] = `
         class="active carousel-item"
       >
         <img
-          alt="First slide"
+          alt="Dogs on log"
           class="d-block w-100"
-          src="images/homepage/hpN1.jpeg"
+          src="images/homepage/dogs-on-log.jpg"
         />
       </div>
       <div
         class="carousel-item"
       >
         <img
-          alt="second slide"
+          alt="Evening dogs on log"
           class="d-block w-100"
-          src="images/homepage/hpN4.jpeg"
+          src="images/homepage/evening-log.jpg"
         />
       </div>
       <div
         class="carousel-item"
       >
         <img
-          alt="third slide"
+          alt="Dogs on hill with habour behind"
           class="d-block w-100"
-          src="images/homepage/hpN5.jpeg"
-        />
-        <div
-          class="carousel-caption"
-        >
-          <h3>
-            First slide label, do you want this?
-          </h3>
-          <p>
-            Do you want to add further comments below the label?
-          </p>
-        </div>
-      </div>
-      <div
-        class="carousel-item"
-      >
-        <img
-          alt="Forth slide"
-          class="d-block w-100"
-          src="images/homepage/hpN9.jpeg"
+          src="images/homepage/habour-dogs.jpg"
         />
       </div>
       <div
         class="carousel-item"
       >
         <img
-          alt="Fifth slide"
+          alt="Dog laying on side while puppies feed"
           class="d-block w-100"
-          src="images/homepage/hpN11.jpeg"
+          src="images/homepage/puppy-feeding.jpg"
         />
       </div>
       <div
         class="carousel-item"
       >
         <img
-          alt="First slide"
+          alt="Dogs on beach with reflections of dogs"
           class="d-block w-100"
-          src="images/new1.jpg"
-        />
-        <div
-          class="carousel-caption"
-        >
-          <h3>
-            First slide label, do you want this?
-          </h3>
-          <p>
-            Do you want to add further comments below the label?
-          </p>
-        </div>
-      </div>
-      <div
-        class="carousel-item"
-      >
-        <img
-          alt="Second slide"
-          class="d-block w-100"
-          src="images/new2.jpg"
-        />
-        <div
-          class="carousel-caption"
-        >
-          <h3>
-            Second slide label, do you want this?
-          </h3>
-          <p>
-            Do you want to add further comments below the label?
-          </p>
-        </div>
-      </div>
-      <div
-        class="carousel-item"
-      >
-        <img
-          alt="Third slide"
-          class="d-block w-100"
-          src="images/new3.jpg"
-        />
-        <div
-          class="carousel-caption"
-        >
-          <h3>
-            Third slide label, do you want this?
-          </h3>
-          <p>
-            Do you want to add further comments below the label?
-          </p>
-        </div>
-      </div>
-      <div
-        class="carousel-item"
-      >
-        <img
-          alt="Forth slide"
-          class="d-block w-100"
-          src="images/new4.jpg"
+          src="images/homepage/reflection.jpeg"
         />
       </div>
       <div
         class="carousel-item"
       >
         <img
-          alt="Fifth slide"
+          alt="Dogs at show"
           class="d-block w-100"
-          src="images/new5.jpg"
+          src="images/homepage/show-dogs.jpg"
         />
       </div>
       <div
         class="carousel-item"
       >
         <img
-          alt="Sixth slide"
-          class="d-block w-100"
-          src="images/new6.jpg"
-        />
-      </div>
-      <div
-        class="carousel-item"
-      >
-        <img
-          alt="Sixth slide"
+          alt="Dog at full run with mouth open and tongue out"
           class="d-block w-100"
           src="images/hoverdog.jpeg"
         />

@@ -13,12 +13,7 @@ function Tuppence () {
   return (
     <>
       <NavbarComp />
-      <Jumbotron id='tuppencej' fluid>
-        {/* <div>
-          <h1 className='jumbotronTitle tuppence'>Tuppence</h1>
-          <p className='line'></p>
-        </div> */}
-      </Jumbotron>
+      <Jumbotron id='tuppencej' fluid />
       <div className='mainBody'>
         <Container>
           <Row className='row'>
@@ -27,7 +22,7 @@ function Tuppence () {
               <h3>Tuppenny Nudger at Salhouse (Tuppence)</h3>
               <p>Sire: Sandlewood Bowl-Me-Over</p>
               <p>Dam: CH Golden Light at Salhouse CDX</p>
-              <p>Whelped: 16 June 2015</p>
+              <p>16 June 2015 - present</p>
               <p>
                 Tuppence is the smaller of the two sisters. She is a beautiful, happy family dog. She has been an avid supporter
                 at shows to her sister, mum and grandma whenever they show.

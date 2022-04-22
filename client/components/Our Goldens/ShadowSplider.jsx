@@ -48,91 +48,127 @@ class KulaSplider extends React.Component {
       <div className='splideContainer'>
         <Splide options={ primaryOptions } ref={ this.primaryRef }>
           <SplideSlide>
-            <Image src="images/shadow3.jpg" className='splideImage'/>
+            <Image src="images/shadow/puppy.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow4.jpg" className='splideImage'/>
+            <Image src="images/shadow/puppy2.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow5.jpg" className='splideImage'/>
+            <Image src="images/shadow/haig-shadow.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow6.jpg" className='splideImage'/>
+            <Image src="images/shadow/with-toy.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow7.jpg" className='splideImage'/>
+            <Image src="images/shadow/water.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow8.jpg" className='splideImage'/>
+            <Image src="images/shadow/with-present.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow9.jpg" className='splideImage'/>
+            <Image src="images/shadow/bean-bag.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow10.jpg" className='splideImage'/>
+            <Image src="images/shadow/at-show.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow11.jpg" className='splideImage'/>
+            <Image src="images/shadow/looking.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow12.jpg" className='splideImage'/>
+            <Image src="images/shadow/on-stairs.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow13.jpg" className='splideImage'/>
+            <Image src="images/shadow/with-toy.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow15.jpg" className='splideImage'/>
+            <Image src="images/shadow/with-present.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow16.jpg" className='splideImage'/>
+            <Image src="images/shadow/upside_down.jpg" className='splideImage'/>
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow17.jpg" className='splideImage'/>
+            <Image src="images/shadow/laying.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/wet.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/sandy.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/scenic.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/pretty.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/with-ribbon.jpg" className='splideImage'/>
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/stacked.jpg" className='splideImage'/>
           </SplideSlide>
         </Splide>
 
         <Splide options={ secondaryOptions } ref={ this.secondaryRef } className='splideNav'>
           <SplideSlide>
-            <Image src="images/shadow3.jpg" />
+            <Image src="images/shadow/puppy.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow4.jpg" />
+            <Image src="images/shadow/puppy2.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow5.jpg" />
+            <Image src="images/shadow/haig-shadow.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow6.jpg" />
+            <Image src="images/shadow/with-toy.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow7.jpg" />
+            <Image src="images/shadow/water.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow8.jpg" />
+            <Image src="images/shadow/with-present.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow9.jpg" />
+            <Image src="images/shadow/bean-bag.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow10.jpg" />
+            <Image src="images/shadow/at-show.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow11.jpg" />
+            <Image src="images/shadow/looking.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow12.jpg" />
+            <Image src="images/shadow/on-stairs.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow13.jpg" />
+            <Image src="images/shadow/with-toy.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow15.jpg" />
+            <Image src="images/shadow/with-present.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow16.jpg" />
+            <Image src="images/shadow/upside_down.jpg" />
           </SplideSlide>
           <SplideSlide>
-            <Image src="images/shadow17.jpg" />
+            <Image src="images/shadow/laying.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/wet.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/sandy.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/scenic.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/pretty.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/with-ribbon.jpg" />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/shadow/stacked.jpg" />
           </SplideSlide>
         </Splide>
       </div>
