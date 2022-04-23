@@ -18,8 +18,7 @@ function SherryMain () {
               <h3>CH Golden Light at Salhouse CDX (Sherry)</h3>
               <p>Sire: CH Sandlewood Gamble-with-Gold</p>
               <p>Dam: CH Salhouse Sunchaser</p>
-              <p>Whelped: 7 April 2010</p>
-              <p>Hips: 8:8 Elbows: 1(a):B  Eyes: Clear 27/5/2014</p>
+              <p>7 April 2010 - present</p>
               <p>
                 Sherry came into our family on the 7th of April, 2010. You can learn about the puppies in that litter
                 <a href='/shadow'> here.</a> Sherry is a very sweet Golden Retriever puppy who was chosen for her friendly,
@@ -31,7 +30,7 @@ function SherryMain () {
                 At 17 weeks of age, Sherry was enjoying life to the full. She had learnt to swim and loved running around on the beach.
                 She was a real retriever as she always brings us something in her mouth when she comes to see us - either a slipper,
                 sock, toy, anything. One day I even dropped a birthday card on the floor and she picked it up and gave it to me!
-                Sherry achieved some successes as Baby Puppy in Breed and four-and-a-half months old, she went to the Auckland
+                Sherry achieved some successes as Baby Puppy in Breed at four-and-a-half months old, she went to the Auckland
                 Golden Retriever shows and won Baby Puppy in Show at both shows. Critique for one of the shows was: Good size
                 young lady, sweetest of heads, good pigment, kind eye, well angulated at front and rear, dead level topline,
                 has good overall balance, moved out well for one so young, shows good promise. Sherry then moved on to Puppy

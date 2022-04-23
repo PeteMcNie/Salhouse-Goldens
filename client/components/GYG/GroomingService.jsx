@@ -13,9 +13,9 @@ function GroomingService () {
             <Col className='leftCol'>
               <h2 className='bodyTitle gygTitle' >Grooming Service</h2>
               <p>
-                I provide a grooming service for Golden Retrievers. A full groom includes a trim of your Golden&apos;s neck, ears, feet and
-                tail and sometimes the length underneath the body if it&apos;s too long. I also remove some of the undercoat and any loose
-                fur and knots. I do not shave Golden Retrievers. They have a double coat for a reason, and partly it&apos;s an air
+                I provide a grooming service for Golden Retrievers. The groom includes two shampoo washesand a conditioning wash,
+                blow dry, and then trimming of feet, tail, ears, neck, underside if needed and stripping out coat if there is a lot
+                of undercoat. I do not shave Golden Retrievers. They have a double coat for a reason, and partly it&apos;s an air
                 conditioning unit. The best way to relieve a Golden that you think is feeling the heat is to get the undercoat removed.
                 If your dog is shaved, the sun and heat has more access to the body of the dog but you haven&apos;t actually stripped out any
                 of the undercoat. All that has been done is to make the thick coat less long instead of actually thinning out the coat
@@ -27,6 +27,10 @@ function GroomingService () {
               <p>
                 I am not a professionally trained groomer, but I have had years of grooming Goldens for the show ring and love grooming
                 this breed.
+              </p>
+              <p>
+                Contact Carole on 04 566 0561 or email <a href='mailto:cmcnie@xtra.co.nz?subject=Enquiry regarding Golden Retriever grooming'>cmcnie@xtra.co.nz</a> if you are in the Wellington region (I&apos;m
+                actually in Lower Hutt) and would like your Golden groomed.
               </p>
             </Col>
           </Row>

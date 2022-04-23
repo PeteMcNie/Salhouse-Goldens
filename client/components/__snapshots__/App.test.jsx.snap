@@ -120,11 +120,6 @@ exports[`App component displays correct components 1`] = `
       <li />
       <li />
       <li />
-      <li />
-      <li />
-      <li />
-      <li />
-      <li />
     </ol>
     <div
       class="carousel-inner"
@@ -133,146 +128,61 @@ exports[`App component displays correct components 1`] = `
         class="active carousel-item"
       >
         <img
-          alt="First slide"
+          alt="Dogs on log"
           class="d-block w-100"
-          src="images/homepage/hpN1.jpeg"
+          src="images/homepage/dogs-on-log.jpg"
         />
       </div>
       <div
         class="carousel-item"
       >
         <img
-          alt="second slide"
+          alt="Evening dogs on log"
           class="d-block w-100"
-          src="images/homepage/hpN4.jpeg"
+          src="images/homepage/evening-log.jpg"
         />
       </div>
       <div
         class="carousel-item"
       >
         <img
-          alt="third slide"
+          alt="Dogs on hill with habour behind"
           class="d-block w-100"
-          src="images/homepage/hpN5.jpeg"
-        />
-        <div
-          class="carousel-caption"
-        >
-          <h3>
-            First slide label, do you want this?
-          </h3>
-          <p>
-            Do you want to add further comments below the label?
-          </p>
-        </div>
-      </div>
-      <div
-        class="carousel-item"
-      >
-        <img
-          alt="Forth slide"
-          class="d-block w-100"
-          src="images/homepage/hpN9.jpeg"
+          src="images/homepage/habour-dogs.jpg"
         />
       </div>
       <div
         class="carousel-item"
       >
         <img
-          alt="Fifth slide"
+          alt="Dog laying on side while puppies feed"
           class="d-block w-100"
-          src="images/homepage/hpN11.jpeg"
+          src="images/homepage/puppy-feeding.jpg"
         />
       </div>
       <div
         class="carousel-item"
       >
         <img
-          alt="First slide"
+          alt="Dogs on beach with reflections of dogs"
           class="d-block w-100"
-          src="images/new1.jpg"
-        />
-        <div
-          class="carousel-caption"
-        >
-          <h3>
-            First slide label, do you want this?
-          </h3>
-          <p>
-            Do you want to add further comments below the label?
-          </p>
-        </div>
-      </div>
-      <div
-        class="carousel-item"
-      >
-        <img
-          alt="Second slide"
-          class="d-block w-100"
-          src="images/new2.jpg"
-        />
-        <div
-          class="carousel-caption"
-        >
-          <h3>
-            Second slide label, do you want this?
-          </h3>
-          <p>
-            Do you want to add further comments below the label?
-          </p>
-        </div>
-      </div>
-      <div
-        class="carousel-item"
-      >
-        <img
-          alt="Third slide"
-          class="d-block w-100"
-          src="images/new3.jpg"
-        />
-        <div
-          class="carousel-caption"
-        >
-          <h3>
-            Third slide label, do you want this?
-          </h3>
-          <p>
-            Do you want to add further comments below the label?
-          </p>
-        </div>
-      </div>
-      <div
-        class="carousel-item"
-      >
-        <img
-          alt="Forth slide"
-          class="d-block w-100"
-          src="images/new4.jpg"
+          src="images/homepage/reflection.jpeg"
         />
       </div>
       <div
         class="carousel-item"
       >
         <img
-          alt="Fifth slide"
+          alt="Dogs at show"
           class="d-block w-100"
-          src="images/new5.jpg"
+          src="images/homepage/show-dogs.jpg"
         />
       </div>
       <div
         class="carousel-item"
       >
         <img
-          alt="Sixth slide"
-          class="d-block w-100"
-          src="images/new6.jpg"
-        />
-      </div>
-      <div
-        class="carousel-item"
-      >
-        <img
-          alt="Sixth slide"
+          alt="Dog at full run with mouth open and tongue out"
           class="d-block w-100"
           src="images/hoverdog.jpeg"
         />
@@ -342,7 +252,7 @@ exports[`App component displays correct components 1`] = `
             Kula was born in 2003 and was a really loving gentle dog. She was a great retriever, loving nothing more than to swim in the river or sea fetching as many sticks as we can throw for her. In 2007, Kula had a beautiful litter of puppies and we kept one female who we named Shadow.
           </p>
           <p>
-            Shadow is a real character and is such fun to be with. She is so enthusiastic about her people and has the loveliest nature. Shadow had a litter of 7 puppies in April 2010 and we have kept one of those, Sherry. We added an item to the News page each day from the day the puppies were born to the time they left us. There are loads of photos and videos of these puppies and some stories of them growing up. Go to the News page to see these stories and more.
+            Shadow is a real character and is such fun to be with. She is so enthusiastic about her people and has the loveliest nature. Shadow had a litter of seven puppies in April 2010 and we have kept one of those, Sherry. We added an item to the News page each day from the day the puppies were born to the time they left us. There are loads of photos and videos of these puppies and some stories of them growing up.
           </p>
           <p>
             Sherry is a very soft Golden, only wanting to please and be with us. She is a beautiful natured member of our family and dabbled in obedience for a while and did quite well. Sherry had a litter of two female puppies on 16 June 2015 - Autumn and Tuppence. Only having two in the litter made it impossible for us to part with one, so, although we had only wanted to keep one, we found ourselves with the two naughties!

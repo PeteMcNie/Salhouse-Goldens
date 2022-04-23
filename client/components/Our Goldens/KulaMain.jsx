@@ -18,8 +18,7 @@ function KulaMain () {
               <h3>Sanastasia Sth&apos;n Star Chara (Kula)</h3>
               <p>Sire: CH Seacove Southern Cross</p>
               <p>Dam: Sanastasia Treasured Teah</p>
-              <p>5 June 2003 to 21 October 2019</p>
-              <p>Hips: 7:8  Elbows: B:B  Eyes: Clear Eye Certificate 20/5/12</p>
+              <p>5 June 2003 - 21 October 2019</p>
               <p>
                 Kula came into our lives when Phoenix was 18 months old. I consider this to be the perfect time to get a buddy for
                 a solo dog because the older dog has got over the ‘naughty’ stage and can help with training the new puppy.

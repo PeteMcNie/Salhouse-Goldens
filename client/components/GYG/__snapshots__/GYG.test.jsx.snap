@@ -141,15 +141,6 @@ exports[`GYG component matches snapshot 1`] = `
               Grooming Your Golden
             </h2>
             <p>
-              Contact Carole on 04 566 0561 or email 
-              <a
-                href="mailto:cmcnie@xtra.co.nz?subject=Enquiry regarding Golden Retriever grooming"
-              >
-                cmcnie@xtra.co.nz
-              </a>
-               if you are in the Wellington region (I'm actually in Lower Hutt) and would like your Golden groomed.
-            </p>
-            <p>
               Your Golden Retriever is a beautiful creature at any time of the day or night, but when kept groomed properly they can be an even lovelier sight and will feel great. They definitely need some attention to their coats. A brush once or twice a week, taking specific care and attention around neck right by the ears, the long coat of the chest and the feathers of the back legs and tail. These areas are all particularly prone to getting dirt and little twigs etc in and then form knots that can be hard to get out if they are left a long time to embed themselves.
             </p>
           </div>
@@ -191,7 +182,7 @@ exports[`GYG component matches snapshot 1`] = `
               It's good to learn how to clean their ears out, or at least look in their ears regularly as they can get build up of gluggy wax and ear infections. The inside of the ear flap should be pink but not red and hot. If it is then it's possible your Golden has a little yeast infection deeper in the ear and this needs veterinary attention. Sometimes they may shake their heads a lot and/or scratch their ear. This again could be the result of an uncomfy feeling in the ear that needs attention. Always good to look for these things. If you are confident then you can get ear wipes from the pet shop and clean the ears out yourself. Put your finger with the wipe on into the ear and clean around the beginning of the ear canal. If it comes up with a lot of brown or black wax, use a clean part of the wipe and keep going until you've got it cleaned out. Sometimes they can get a lot of ear wax but not actually have an infection. It's just good to keep them clean in these instances.
             </p>
             <p>
-              If you find that your Golden's coat gets too thick with lots of undercoat that you can't get out and he/she seems to be moulting all the time, it can be useful to learn how to strip their coat out yourself. You can use a dog rake as below. The rake is an easy implement to use.  Make sure you comb the rake through the neck and the feathers of the front and back legs as well as the body of your Golden. You can also use a slicker brush (pictured below) which will get undercoat out and can be easier to brush through the feathers of the legs, especially if there are some small knots. Make sure if you are pulling on a knot, hold the fur with your other hand halfway down the length to the skin to prevent it from pulling. If knots are too big, cut them out gently, being careful to make sure your Golden is still and not likely to move at this time.
+              If you find that your Golden's coat gets too thick with lots of undercoat that you can't get out and he/she seems to be moulting all the time, it can be useful to learn how to strip their coat out yourself. You can use a dog rake (pictured). The rake is an easy implement to use.  Make sure you comb the rake through the neck and the feathers of the front and back legs as well as the body of your Golden. You can also use a slicker brush (pictured) which will get undercoat out and can be easier to brush through the feathers of the legs, especially if there are some small knots. Make sure if you are pulling on a knot, hold the fur with your other hand halfway down the length to the skin to prevent it from pulling. If knots are too big, cut them out gently, being careful to make sure your Golden is still and not likely to move at this time.
             </p>
             <p>
               Nails are another thing that need attention. Walking on pavements doesn't provide enough trimming for most Goldens' nails. Over time they grow longer and longer until they start to touch the ground and turn the toes slightly to one side. You can imagine that if you have your toe slightly pushed to the side all the time there will be an ache that gradually becomes more uncomfortable and then there is a reluctance to continue to walk much. If the nails are kept trimmed then the bones of the toe can just sit in their normal position and your Golden won't even notice them.
@@ -248,10 +239,19 @@ exports[`GYG component matches snapshot 1`] = `
               Grooming Service
             </h2>
             <p>
-              I provide a grooming service for Golden Retrievers. A full groom includes a trim of your Golden's neck, ears, feet and tail and sometimes the length underneath the body if it's too long. I also remove some of the undercoat and any loose fur and knots. I do not shave Golden Retrievers. They have a double coat for a reason, and partly it's an air conditioning unit. The best way to relieve a Golden that you think is feeling the heat is to get the undercoat removed. If your dog is shaved, the sun and heat has more access to the body of the dog but you haven't actually stripped out any of the undercoat. All that has been done is to make the thick coat less long instead of actually thinning out the coat which will work much better.  If shaved, the undercoat will grow back first and not provide the protection that the coarser top-coat does. The dog will feel hotter and the undercoat will get wet when swimming and take a long time to dry which can cause skin issues. Most dogs feel the heat in the summer anyway, but with a correct groom there will be the correct protection for your dog without ruining the coat.
+              I provide a grooming service for Golden Retrievers. The groom includes two shampoo washesand a conditioning wash, blow dry, and then trimming of feet, tail, ears, neck, underside if needed and stripping out coat if there is a lot of undercoat. I do not shave Golden Retrievers. They have a double coat for a reason, and partly it's an air conditioning unit. The best way to relieve a Golden that you think is feeling the heat is to get the undercoat removed. If your dog is shaved, the sun and heat has more access to the body of the dog but you haven't actually stripped out any of the undercoat. All that has been done is to make the thick coat less long instead of actually thinning out the coat which will work much better.  If shaved, the undercoat will grow back first and not provide the protection that the coarser top-coat does. The dog will feel hotter and the undercoat will get wet when swimming and take a long time to dry which can cause skin issues. Most dogs feel the heat in the summer anyway, but with a correct groom there will be the correct protection for your dog without ruining the coat.
             </p>
             <p>
               I am not a professionally trained groomer, but I have had years of grooming Goldens for the show ring and love grooming this breed.
+            </p>
+            <p>
+              Contact Carole on 04 566 0561 or email 
+              <a
+                href="mailto:cmcnie@xtra.co.nz?subject=Enquiry regarding Golden Retriever grooming"
+              >
+                cmcnie@xtra.co.nz
+              </a>
+               if you are in the Wellington region (I'm actually in Lower Hutt) and would like your Golden groomed.
             </p>
           </div>
         </div>
@@ -361,12 +361,12 @@ exports[`GYG component matches snapshot 1`] = `
           >
             <img
               class="litterImage img-fluid"
-              src="images/gyg/gyg24.jpeg"
+              src="images/gyg/rocket-after-wash-but-before-groom.jpg"
             />
             <p
               class="litterText"
             >
-              Cody before groom
+              Rocket after wash prior to groom
             </p>
           </div>
           <div
@@ -374,12 +374,25 @@ exports[`GYG component matches snapshot 1`] = `
           >
             <img
               class="litterImage img-fluid"
-              src="images/gyg/gyg23.jpeg"
+              src="images/gyg/rocket-after-groom.jpg"
             />
             <p
               class="litterText"
             >
-              Cody after groom
+              Rocket after groom
+            </p>
+          </div>
+        </div>
+        <div
+          class="row"
+        >
+          <div
+            class="col"
+          >
+            <p
+              class="testimonials"
+            >
+              Rocket came to me at 10 months old when he was blowing his puppy coat. Most of the puppy coat was taken out in the groom and you can see the adult coat coming through.
             </p>
           </div>
         </div>
@@ -471,12 +484,12 @@ exports[`GYG component matches snapshot 1`] = `
           >
             <img
               class="litterImage img-fluid"
-              src="images/gyg/gyg26.jpeg"
+              src="images/gyg/saffie-before-groom.jpg"
             />
             <p
               class="litterText"
             >
-              Maxwell before groom
+              Saffie before groom
             </p>
           </div>
           <div
@@ -484,12 +497,12 @@ exports[`GYG component matches snapshot 1`] = `
           >
             <img
               class="litterImage img-fluid"
-              src="images/gyg/gyg25.jpeg"
+              src="images/gyg/saffie-after-groom.jpg"
             />
             <p
               class="litterText"
             >
-              Maxwell after groom
+              Saffie after groom
             </p>
           </div>
         </div>
@@ -501,12 +514,12 @@ exports[`GYG component matches snapshot 1`] = `
           >
             <img
               class="litterImage img-fluid"
-              src="images/gyg18.jpg"
+              src="images/gyg/georgie-before-groom.jpg"
             />
             <p
               class="litterText"
             >
-              Jax before groom
+              Georgie before groom
             </p>
           </div>
           <div
@@ -514,12 +527,12 @@ exports[`GYG component matches snapshot 1`] = `
           >
             <img
               class="litterImage img-fluid"
-              src="images/gyg19.jpg"
+              src="images/gyg/georgie-after-groom.jpg"
             />
             <p
               class="litterText"
             >
-              Jax after groom
+              Georgie after groom
             </p>
           </div>
         </div>
