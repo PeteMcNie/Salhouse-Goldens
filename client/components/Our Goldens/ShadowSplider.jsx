@@ -26,7 +26,7 @@ class KulaSplider extends React.Component {
       perMove: 1,
       gap: '1rem',
       pagination: false,
-      arrows: false
+      arrows: true
     }
 
     const secondaryOptions = {
@@ -41,7 +41,7 @@ class KulaSplider extends React.Component {
       focus: 'center',
       isNavigation: true,
       updateOnMove: true,
-      arrows: false
+      arrows: true
     }
 
     return (
