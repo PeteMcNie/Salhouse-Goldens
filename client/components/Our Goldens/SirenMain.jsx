@@ -1,19 +1,15 @@
 import React from 'react'
 
-import Jumbotron from 'react-bootstrap/Jumbotron'
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import Table from 'react-bootstrap/Table'
 
 import SirenSplider from './SirenSplider'
-import NavbarComp from '../NavbarComp'
 
-function Siren () {
+function SirenMain () {
   return (
     <>
-      <NavbarComp />
-      <Jumbotron id='sirenj' fluid />
       <div className='mainBody'>
         <Container>
           <Row className='row'>
@@ -112,4 +108,4 @@ function Siren () {
   )
 }
 
-export default Siren
+export default SirenMain
