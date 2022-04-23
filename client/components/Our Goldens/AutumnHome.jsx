@@ -14,12 +14,7 @@ function AutumnHome () {
   return (
     <>
       <NavbarComp />
-      <Jumbotron id='autumnj' fluid>
-        {/* <div>
-          <h1 className='jumbotronTitle autumn'>Autumn</h1>
-          <p className='line'></p>
-        </div> */}
-      </Jumbotron>
+      <Jumbotron id='autumnj' fluid></Jumbotron>
       <Tabs
         id="controlled-tab-example"
         activeKey={key}
