@@ -59,7 +59,7 @@ function TestimonialsAndPhotos () {
           <Row>
             <Col>
               <p className='testimonials'>
-                Rocket came to me at 10 months old when he was blowing his puppy coat. Most of the puppy coat was taken out in the 
+                Rocket came to me at 10 months old when he was blowing his puppy coat. Most of the puppy coat was taken out in the
                 groom and you can see the adult coat coming through.
               </p>
             </Col>
