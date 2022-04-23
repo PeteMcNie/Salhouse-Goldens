@@ -11,7 +11,7 @@ import ShadowHome from './Our Goldens/ShadowHome'
 import SherryHome from './Our Goldens/SherryHome'
 import AutumnHome from './Our Goldens/AutumnHome'
 import Tuppence from './Our Goldens/Tuppence'
-import Siren from './Our Goldens/Siren'
+import SirenHome from './Our Goldens/SirenHome'
 import GYG from './GYG/GYG'
 import Links from './Links/Links'
 import Contact from './Contact/Contact'
@@ -29,7 +29,7 @@ const App = () => {
       <Route path='/sherry' component={SherryHome} />
       <Route path='/autumn' component={AutumnHome} />
       <Route path='/tuppence' component={Tuppence} />
-      <Route path='/siren' component={Siren} />
+      <Route path='/siren' component={SirenHome} />
       <Route exact path='/gyg' component={GYG} />
       <Route path='/links' component={Links} />
       <Route path='/contact' component={Contact} />
