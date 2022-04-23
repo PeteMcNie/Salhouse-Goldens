@@ -46,30 +46,6 @@ class KulaSplider extends React.Component {
 
     return (
       <div className='splideContainer'>
-        <Splide options={ primaryOptions } ref={ this.primaryRef }>
-          <SplideSlide>
-            <Image src="images/kula/water-kula.jpg" className='splideImage' />
-          </SplideSlide>
-          <SplideSlide>
-            <Image src="images/kula/walking-kula.jpg" className='splideImage' />
-          </SplideSlide>
-          <SplideSlide>
-            <Image src="images/kula/flower-kula.jpg" className='splideImage' />
-          </SplideSlide>
-          <SplideSlide>
-            <Image src="images/kula/kula-by-fire.jpg" className='splideImage' />
-          </SplideSlide>
-          <SplideSlide>
-            <Image src="images/kula/kula-by-fence.jpg" className='splideImage' />
-          </SplideSlide>
-          <SplideSlide>
-            <Image src="images/kula/kula-with-puppies.jpg" className='splideImage' />
-          </SplideSlide>
-          <SplideSlide>
-            <Image src="images/kula/bean-bag.jpg" className='splideImage' />
-          </SplideSlide>
-        </Splide>
-
         <Splide options={ secondaryOptions } ref={ this.secondaryRef } className='splideNav'>
           <SplideSlide>
             <Image src="images/kula/water-kula.jpg"/>
@@ -91,6 +67,30 @@ class KulaSplider extends React.Component {
           </SplideSlide>
           <SplideSlide>
             <Image src="images/kula/bean-bag.jpg"/>
+          </SplideSlide>
+        </Splide>
+
+        <Splide options={ primaryOptions } ref={ this.primaryRef }>
+          <SplideSlide>
+            <Image src="images/kula/water-kula.jpg" className='splideImage' />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/kula/walking-kula.jpg" className='splideImage' />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/kula/flower-kula.jpg" className='splideImage' />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/kula/kula-by-fire.jpg" className='splideImage' />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/kula/kula-by-fence.jpg" className='splideImage' />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/kula/kula-with-puppies.jpg" className='splideImage' />
+          </SplideSlide>
+          <SplideSlide>
+            <Image src="images/kula/bean-bag.jpg" className='splideImage' />
           </SplideSlide>
         </Splide>
       </div>
